@@ -1,0 +1,131 @@
+我对 06_comparative_analysis/gnostic_atlas/index.html 中的 Apocryphon of John 主视图（id: "aj", long recension · NHC II / IV） 进行了全面核查，对照了 Waldstein & Wisse (1995) 四抄本 Synopsis、Frederik Wisse 的 NHC II,1 长本英译（01_sources/gnostic_readings/downloads/AJ-W.txt）以及 John D. Turner (2001) 的塞特派宇宙论研究，并结合该 HTML 的前端渲染代码（function graph() 与 function links()）逐层验证了它的连线与层级高低。
+一、总体评价
+这张图在大分区框架（本源 $\to$ Pleroma · 神圣展开 $\to$ Cosmos · 下层形成 $\to$ 人的构成与救赎）和长本特有条目收录（如保留长本 Pentad 的 Truth、365 造人天使附录、长本末尾的 Pronoia / Five Seals）上是认真的。
+但在**连线关系（Parentage）和层级高低（Tier 排布）上，由于该图采用了“每个节点只能填一个 parent（单亲树）＋ 按整数 tier 排成水平行 ＋ 仅当 子节点.top > 父节点.bottom 时才画 SVG 箭头”**的简化设计，导致图面出现了 3 处前端渲染断线/错位 Bug 和 6 处原典神学连线与层级高低偏差。
+二、前端渲染与代码层面的连线硬伤（勾选“展开名单”时显现）
+在 index.html 第 25 行 function links() 中，绘制连线有一条判断：
+const a = parent.getBoundingClientRect(), b = el.getBoundingClientRect(),
+      x1 = a.x + a.width/2 - r.x, y1 = a.bottom - r.y,
+      x2 = b.x + b.width/2 - r.x, y2 = b.top - r.y;
+if (y2 <= y1) continue;
+也就是说：只有当子节点的顶部严格低于父节点的底部时，SVG 才会画出连线。但数据里有多处把父节点和子节点设成了同一个 tier，直接引发以下问题：
+Tier 3（Autogenes–Christ $\to$ Nous, Will, Word）连线完全消失：
+aj-autogenes 的 tier 是 3，而它的三个子节点 Nous、Will、Word（勾选“展开名单”后显示）的 tier 也是 3。
+展开后这 4 张卡片排在同一行，b.top < a.bottom（y2 <= y1），触发 continue，导致 Autogenes–Christ 到 Nous、Will、Word 在图面上没有任何连线。
+Tier 9（Twelve Authorities）与 Tier 10（Seven Powers）总括卡与成员卡同层混排、半截断线：
+在 Tier 4（Four Luminaries）与 Tier 5（12 随侍 Aeons）中，作者正确地把上级放在 tier 4、下属 12 项放在 tier 5。
+但在 Twelve Authorities（tier 9）和 Seven Powers（tier 10）中，作者却把总括卡片（aj-twelve / aj-seven）和各自下属的 12 个 / 7 个具体成员卡片全部设成了同一个 tier（同为 9 或同为 10）。
+结果勾选“展开名单”后，总括卡片和具体成员混排在同一个 Flex 容器里：排在第一行的成员因为 y2 <= y1 完全没有连线；而因为宽度不够自动换行折到第二行、第三行的成员，因为 b.top > a.bottom，又突然从第一行卡片底部拉出连线。
+默认状态下 Tier 5 整层隐藏，导致图面层号跳变：
+未勾选“展开名单”时，tier 5 的 12 个随侍 Aeons 全部隐藏，图面显示 01～14 共 14 层；勾选后变成 01～15 共 15 层，tier 5 以下的所有层号都会动态改变。
+三、原典连线关系与层级高低的 6 处核心偏差
+1. Tier 2（四属性 Aeons）与 Tier 3（Autogenes–Christ）的层级高低颠倒与单亲化
+图中画法：
+Foreknowledge、Incorruptibility、Eternal Life、Truth 放在 tier 2，单线连向 Barbelo（tier 1），与 Invisible Spirit（tier 0）无连线。
+Autogenes–Christ 放在 tier 3（排在四属性下面一层），且只连向 Barbelo。
+原典核对（NHC II,1 4,26–7,30）：
+四属性的生成与并列性：四者均是 Barbelo 向 Invisible Spirit 祈求（requested）、经 Invisible Spirit 应允（consented）后由 Invisible Spirit 显现，侍立在 Invisible Spirit 与 Barbelo 面前，与 Barbelo 共同构成 “父的五联体（the pentad of the aeons of the Father）”（II 5,35–6,10），并非 Barbelo 独自向下一级生出的下属。
+Autogenes–Christ 的神圣三一地位：Autogenes–Christ 是 Invisible Spirit（Father）以纯光注视 Barbelo（Mother–Father）使其受孕所生的独生子（Only-Begotten Son，II 6,10–18），与 Father、Mother 共同构成最高神圣三一（Father–Mother–Son，见 II 2,13–14; 9,9–10）。在本体论高度上，作为第三位格核心的 Autogenes–Christ 绝不低于 Barbelo 的四个随侍属性；图谱把他画在 tier 3（四属性之下），且漏掉了来自 Invisible Spirit 的父系连线，压低了 Autogenes–Christ 的位阶。
+2. Tier 5 的 Wisdom 与 Tier 7 的 Sophia 被拆成两个节点，且 Tier 6 与 Tier 7 出现严重层级倒挂
+图中画法：
+tier 5（展开可见）：在第四光耀 Eleleth 下挂了第 12 个随侍 Aeon Wisdom（aj-eleleth2）。
+tier 6：放置了被安置在四大光耀领域的四类存在/灵魂群体：Pigera-Adamas、Seth、Seed of Seth、Repentant Souls（最后才悔悟的灵魂）。
+tier 7：又单独画了一个 Sophia（aj-sophia），连线跨过 tier 5 和 tier 6 直接连向 tier 4 的 Eleleth。
+原典核对（NHC II,1 8,18–20 & 9,25；Waldstein & Wisse Synopsis p. 51, 59）：
+Wisdom 与 Sophia 在科普特原典中是同一个词（ⲧⲥⲟⲫⲓⲁ）：NHC II,1 8,20 列出的 Eleleth 第三随侍 Aeon（十二 Aeons 之末）在科普特原文中直接就是希腊借词 ⲧⲥⲟⲫⲓⲁ（Sophia），只是 Wisse 英译本在 8,20 意译为 "wisdom"，到了 9,25 叙事时音译为 "the Sophia of the Epinoia, being an aeon"。图谱在 Valentinian 视图的 val-sophia 注释中明确写了“与上方完整名单中的 Sophia 是同一位”，但在 AJ 主视图中却拆成了相隔两层的 Wisdom 和 Sophia。
+本体论层级倒挂（Sophia 被画在 Repentant Souls 之下）：
+在《约翰秘传》中，Sophia 本身是 tier 5 的正式神圣 Aeon；而 tier 6 是后来被安置在四个光耀领域的神圣人祖与灵魂群体，特别是第四领域的 Repentant Souls（原文明言是起初不认识 Pleroma、徘徊许久后才悔悟的灵魂，II 9,17–24）。
+图谱仅仅因为文本叙述顺序先交代完四领域的安置（8,28–9,24）、接着写 Sophia 的失衡故事（9,25ff.），就把 Sophia 放在了 tier 7（Repentant Souls 之下）。这在视觉上造成了**“Pleroma 的神圣 Aeon Sophia 比迟悔的灵魂还要低一级”**的严重层级误导。
+此外，Sophia 在失衡并悔悟后，被提升至 “她的儿子之上、第九层（in the ninth，即 Yaldabaoth 的八重天之上、直至她修正自身缺陷）”（II 13,32–14,9），图谱也未区分其“原本位阶（Tier 5 第十二 Aeon）”与“悔悟后暂居位阶（Pleroma 边缘 / 第九层）”。
+3. Tier 6（Pigera-Adamas、Seth、Seed of Seth）只画了居所归属，漏掉父子/后裔谱系连线
+图中画法：Pigera-Adamas 连 Harmozel，Seth 连 Oroiael，Seed of Seth 连 Daveithe，三者横向并排但彼此无连线。
+原典核对（NHC II,1 8,28–9,17）：四大光耀是他们被安置的居所领域（Aeon-realms），而在神圣人祖的生成关系上，Seth 是 Pigera-Adamas 之子，Seed of Seth 是 Seth 的后裔。单亲树结构导致图谱选了“居所归属”就丢了“父子生成线”。
+4. Tier 9（Twelve Authorities）与 Tier 10（Seven Powers）被画成上下两层不同群体
+图中画法：Yaldabaoth（tier 8）一条线连 tier 9 的 Twelve Authorities，另一条线跨层连 tier 10 的 Seven Powers，使 Seven Powers 看起来比 Twelve Authorities 低一级。
+原典核对（NHC II,1 10,26–12,25）：
+Yaldabaoth 生出十二位 Authorities，将其中 七位立为七重天的王（seven kings over the seven heavens），五位立于深渊（five over the depth of the abyss）（II 11,4–7）。紧接着描述的 Seven Powers（羊面 Athoth、驴面 Eloaiou、鬣狗面 Astaphaios、七头蛇面 Yao、龙面 Sabaoth、猴面 Adonin、火面 Sabbede，以及与 Goodness/Foreknowledge 等七项借用神圣名号的配对），正是统治七重天的那七位核心执政官（Hebdomad）的动物面相与权能展开（如第 1 位 Athoth、第 5 位 Sabaoth/Adonaiou 直接对应），而不是位于 Twelve Authorities 下一层的低级群体。
+5. Tier 12 的 Adam 严重缺失上界神性来源连线（只连了 Body-Making Angels）
+图中画法：Adam（tier 12）的 parent 只连向 Body-Making Angels（tier 11）；同层的 Luminous Epinoia 从 Barbelo（tier 1）跨 11 层连下来，但与 Adam 无连线。
+原典核对（NHC II,1 14,13–20,29）：
+原典中下界 Adam 的形成有三条关键来源线：
+神圣形象（Image）：来自上界显现于水面的 First Man 形象；
+魂体/物质身体（Psychic / Material Body）：由 Yaldabaoth、Seven Powers 与 365 Body-Making Angels 塑造，造完后完全静止不动（completely inactive and motionless）；
+母亲的力量 / 神性火花（Power of the Mother / Divine Spark）：Mother–Father 派遣五光耀（Five Lights）诱导 Yaldabaoth 向 Adam 脸上吹气，使 Sophia 此前被 Yaldabaoth 夺走的光明力量（Power of the Mother）从 Yaldabaoth 转移进入 Adam 体内（II 19,15–33），Adam 这才活过来并拥有超越造物主的智识。
+图谱中 Adam 只连了 Body-Making Angels，完全漏掉了 Sophia $\to$ Yaldabaoth $\to$ Adam 的神性力量（Divine Spark）传递链条，从图面看仿佛人类纯粹是低层造物天使的产物。
+6. Tier 13 出现最严重的因果与阵营颠倒：将敌对枷锁与上界圣灵全部画成 Adam 的子节点
+图中画法：
+tier 13 有 5 个节点：Eve、Earthly Seth、Spirit of Life、Counterfeit Spirit、Heimarmene。在 JSON 数据中，这 5 个节点的 parent 竟然全部设为了 aj-adam（Adam）！ 图面上从 Adam 引出 5 个向下箭头指向这 5 项。
+原典核对：
+这 5 个节点的真实来源横跨三个截然不同的阵营，把它们全画成 Adam 的子节点严重违背原典：
+Heimarmene（苦涩的命运，II 28,11–32）：原文明确写明是由 Yaldabaoth（Chief Archon）与他的 Authorities 合谋生出的最后枷锁，用来捆绑受造界并使人盲目。它的父节点是 Yaldabaoth / Authorities，绝不是受害者 Adam 生出来的！
+Counterfeit Spirit（伪灵，II 21,6–10; 29,23–30,11）：原文明确写明是由 Yaldabaoth 及其 Archons / Angels 制造出来污染、误导人类灵魂的仿冒之灵。它的父节点同样是 Yaldabaoth / Archons，绝不能画在 Adam 名下！
+Spirit of Life（生命之灵，II 25,16–27,30）：是从上界神圣领域（Holy Aeons / Mother–Father）降下拯救人类灵魂的神圣力量，怎么能颠倒画成由下界泥土所造的 Adam 向下派生出的子节点？
+Eve（夏娃，II 22,28–23,26）：是由 Yaldabaoth 试图从 Adam 身上夺走 Luminous Epinoia 未果、抽出 Adam 的一部分力量，并照着 Luminous Epinoia 的显现形象所造的女性形体（同时 Luminous Epinoia 显现于她之中唤醒 Adam）。
+Earthly Seth（地上塞特，II 24,34–25,7）：5 项中唯有他是 Adam 认识自身上界形象后所生的儿子（且有上界 Mother 降下的 Spirit 临格）。
+附：Tier 14（Awakening / Five Seals）：
+图中连在 Luminous Epinoia（tier 12）之下；但长本结尾（II 30,11–31,25）三次降临冥府牢狱并施以五印（Five Seals）的第一人称叙述者明确自称 "I, therefore, the perfect Pronoia of the all... I am the thinking of the virginal Spirit"，即 Barbelo / Pronoia（tier 1）本人。
+四、Apocryphon of John 主视图 15 层（Tier 0 ~ 14）速查判定表
+层级 (tier)
+图中节点
+连线 (parent)
+考证判定
+tier 0
+Invisible Spirit
+—
+准确
+tier 1
+Barbelo
+Invisible Spirit
+准确
+tier 2
+Foreknowledge, Incorruptibility, Eternal Life, Truth
+Barbelo
+有偏差：四者经 Invisible Spirit 应允生成，与 Barbelo 共组 Father 的 Pentad，不应压在 Autogenes–Christ 之上
+tier 3
+Autogenes–Christ（展开含 Nous, Will, Word）
+Barbelo（后三项连 Autogenes）
+有偏差 + 渲染 Bug：1. Autogenes 系 Invisible Spirit 与 Barbelo 共生之 Son，位阶不应低于 tier 2；2. 展开后 Nous/Will/Word 与父节点同层，SVG 连线被吞
+tier 4
+Harmozel, Oroiael, Daveithe, Eleleth
+Autogenes–Christ
+准确
+tier 5
+12 随侍 Aeons（含 Eleleth 下第 3 项 Wisdom）
+分别连 4 个 Luminaries
+与 tier 7 割裂：此处的 Wisdom 在科普特原文中即是 ⲧⲥⲟⲫⲓⲁ（Sophia）
+tier 6
+Pigera-Adamas, Seth, Seed of Seth, Repentant Souls
+分别连 4 个 Luminaries
+居所准确，但缺谱系线且与 tier 7 倒挂：漏了 Adamas -> Seth -> Seed 生成线；且排在 Sophia 之上导致层级倒挂
+tier 7
+Sophia
+Eleleth
+层级倒挂：Sophia 本属 tier 5 第十二 Aeon，图谱按叙事顺序把她放在 tier 6（含 Repentant Souls）之下，造成本体论高低颠倒
+tier 8
+Yaldabaoth
+Sophia
+准确
+tier 9
+Twelve Authorities（展开含 12 成员）
+Yaldabaoth（成员连 Twelve Authorities）
+渲染 Bug：总括卡与 12 成员同为 tier 9，展开后混排，首行成员断线
+tier 10
+Seven Powers（展开含 7 成员）
+Yaldabaoth（成员连 Seven Powers）
+有偏差 + 渲染 Bug：1. 实为 Twelve Authorities 中七天之王的兽面与权能配对，非下一代低级群体；2. 同层混排断线 Bug
+tier 11
+Body-Making Angels
+Yaldabaoth
+基本准确（由 Seven Powers 派生 365 天使共同造形）
+tier 12
+Adam、Luminous Epinoia
+Adam $\leftarrow$ Body-Making Angels<br>Epinoia $\leftarrow$ Barbelo
+严重漏线：Adam 漏掉了来自 Sophia（经 Yaldabaoth 吹气）的母之力量（Divine Spark）转移线与上界 First Man 形象线
+tier 13
+Eve, Earthly Seth, Spirit of Life, Counterfeit Spirit, Heimarmene
+全部连向 Adam
+严重错误：将上界的 Spirit of Life 与来自 Yaldabaoth / Archons 的 Counterfeit Spirit、Heimarmene 全部画成 Adam 的子节点
+tier 14
+Awakening / Five Seals
+Luminous Epinoia
+轻微偏差：长本末尾三次降临自述者为 Pronoia（Barbelo）

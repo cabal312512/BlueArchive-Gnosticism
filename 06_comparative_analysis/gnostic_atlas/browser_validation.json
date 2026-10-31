@@ -1,0 +1,137 @@
+{
+  "errors": [],
+  "edgeCheck": {
+    "expected": 89,
+    "drawn": 89,
+    "missing": [],
+    "sameRowEdges": [
+      {
+        "id": "aj-edge-2",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-13",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-14",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-38",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-39",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-44",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-45",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-46",
+        "drawn": true
+      },
+      {
+        "id": "aj-edge-75",
+        "drawn": true
+      }
+    ]
+  },
+  "filterPower": 5,
+  "views": [
+    {
+      "id": "aj",
+      "cards": 64
+    },
+    {
+      "id": "ajshort",
+      "cards": 26
+    },
+    {
+      "id": "val",
+      "cards": 43
+    },
+    {
+      "id": "ha",
+      "cards": 15
+    },
+    {
+      "id": "ow",
+      "cards": 22
+    },
+    {
+      "id": "tt",
+      "cards": 15
+    },
+    {
+      "id": "allogenes",
+      "cards": 8
+    },
+    {
+      "id": "zostrianos",
+      "cards": 15
+    },
+    {
+      "id": "eug",
+      "cards": 17
+    },
+    {
+      "id": "tp",
+      "cards": 9
+    },
+    {
+      "id": "eg",
+      "cards": 33
+    },
+    {
+      "id": "ps",
+      "cards": 21
+    },
+    {
+      "id": "basil",
+      "cards": 10
+    },
+    {
+      "id": "basilhip",
+      "cards": 10
+    },
+    {
+      "id": "irbarb",
+      "cards": 10
+    },
+    {
+      "id": "ophite",
+      "cards": 14
+    },
+    {
+      "id": "valvar",
+      "cards": 8
+    },
+    {
+      "id": "gt",
+      "cards": 5
+    },
+    {
+      "id": "mars",
+      "cards": 10
+    },
+    {
+      "id": "norea",
+      "cards": 7
+    },
+    {
+      "id": "adamapoc",
+      "cards": 8
+    }
+  ],
+  "mobileOverflow": false,
+  "semanticLabelsStable": true,
+  "wisdomSearch": 3,
+  "sourceCards": 24
+}

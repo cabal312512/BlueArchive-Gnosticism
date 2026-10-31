@@ -1,0 +1,501 @@
+﻿system,id,name,aliases,kind,tier,parent,function,source,locator,notes
+aj,aj-monad,Invisible Spirit,Monad / Father of All / Virgin Spirit,本源,0,,自足、不可命名的最高本源；其他存在的来源,AJ,"NHC II,1 2,26–4,19",
+aj,aj-barbelo,Barbelo,Pronoia / First Thought / Mother–Father / Ennoia,神圣存在／领域,1,aj-monad,本源的First Thought、形象及万有之胎；Mother–Father,AJ,"4,19–6,10",
+aj,aj-foreknow,Foreknowledge,,属性／Aeon,2,aj-barbelo,与Barbelo同立的神圣属性,AJ,"4,26–6,10; Synopsis 9–13",
+aj,aj-incorrupt,Incorruptibility,,属性／Aeon,2,aj-barbelo,不朽性,AJ,"4,26–6,10; Synopsis 9–13",
+aj,aj-life,Eternal Life,,属性／Aeon,2,aj-barbelo,永恒生命,AJ,"4,26–6,10; Synopsis 9–13",
+aj,aj-truth,Truth,,属性／Aeon,2,aj-barbelo,长本中完成Pentad的第四项,AJ,"4,26–6,10; Synopsis 9–13",
+aj,aj-autogenes,Autogenes–Christ,Self-Generated / Christ / Only-Begotten,神圣存在,1,aj-barbelo,Barbelo与Invisible Spirit所显现的独生之光，组织神圣领域,AJ,"6,10–7,30",Father–Mother–Son结构中的Son；本图将其与四个属性的展开分组，不把排版先后当作精确本体位阶。Invisible Spirit与Barbelo共同参与其显现。
+aj,aj-nous,Nous,,同工／属性,3,aj-autogenes,与Christ同工的Mind,AJ,"6,20–7,30",
+aj,aj-will,Will,,同工／属性,3,aj-autogenes,神圣意志,AJ,"6,20–7,30",
+aj,aj-word,Word,,同工／属性,3,aj-autogenes,与Will、Mind共同作用,AJ,"6,20–7,30",
+aj,aj-harmozel,Harmozel,Armozel,Luminary／Aeon,4,aj-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"7,30–9,24; Synopsis 19–23",
+aj,aj-harmozel0,Grace,,随侍Aeon,5,aj-harmozel,Harmozel所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-harmozel1,Truth,,随侍Aeon,5,aj-harmozel,Harmozel所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-harmozel2,Form,,随侍Aeon,5,aj-harmozel,Harmozel所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-oroiael,Oroiael,Oriel / Oriael,Luminary／Aeon,4,aj-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"7,30–9,24; Synopsis 19–23",
+aj,aj-oroiael0,Conception,,随侍Aeon,5,aj-oroiael,Oroiael所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-oroiael1,Perception,,随侍Aeon,5,aj-oroiael,Oroiael所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-oroiael2,Memory,,随侍Aeon,5,aj-oroiael,Oroiael所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-daveithe,Daveithe,Daveithai / Daveithae,Luminary／Aeon,4,aj-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"7,30–9,24; Synopsis 19–23",
+aj,aj-daveithe0,Understanding,,随侍Aeon,5,aj-daveithe,Daveithe所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-daveithe1,Love,,随侍Aeon,5,aj-daveithe,Daveithe所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-daveithe2,Idea,,随侍Aeon,5,aj-daveithe,Daveithe所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-eleleth,Eleleth,,Luminary／Aeon,4,aj-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"7,30–9,24; Synopsis 19–23",
+aj,aj-eleleth0,Perfection,,随侍Aeon,5,aj-eleleth,Eleleth所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-eleleth1,Peace,,随侍Aeon,5,aj-eleleth,Eleleth所随侍三项之一；四组共十二项,AJ,"7,30–8,28",
+aj,aj-adamas,Pigera-Adamas,,神圣存在,6,aj-harmozel,Perfect Man；上界人之原型，不是下界泥土身体,AJ,"8,28–9,11",
+aj,aj-seth,Seth,,神圣人祖,6,aj-oroiael,Adamas之子，安置在第二Luminary领域,AJ,"9,11–14",
+aj,aj-seed,Seed of Seth,Immovable Race,群体,6,aj-daveithe,在第三Luminary领域；与saints关联,AJ,"9,14–17",
+aj,aj-repentant,Repentant Souls,,群体,6,aj-eleleth,先不认识Pleroma、后来悔悟的灵魂，归第四Luminary领域,AJ,"9,17–24",
+aj,aj-sophia,Sophia / Wisdom,Wisdom / Sophia of the Epinoia,Aeon,5,aj-eleleth,独自行动导致不如预期的生育，继而悔悟补救,AJ,"II 8,18–20; 9,25–10,19; 13,32–14,13; van den Broek 2013 p.172",按标准解释，与Eleleth随侍名单中的Wisdom作同一位处理，不重复计数。科普特文本同用Sophia，且van den Broek 2013 p.172明确按Eleleth的随侍者解释。失衡后的Ninth为另一叙事状态，不是原有神圣身份的降格排名。
+aj,aj-yald,Yaldabaoth,Yaltabaoth / Ialdabaoth / Saklas / Samael / Chief Begetter,Chief Archon／Demiurge,8,aj-sophia,携母之力量而生，误认自己为唯一神，建立下层秩序,AJ,"10,1–13,13",
+aj,aj-twelve,Twelve Authorities,,下层群体,9,aj-yald,十二权能；七位配置于天，五位配置于深渊,AJ,"10,26–11,22",十二Authorities名列；七位被配置于七天、五位于深渊。与后续七重powers描述关系复杂，保留原文区分。
+aj,aj-authority0,Athoth,,Authority,10,aj-twelve,十二权能名单第1项,AJ,"10,26–11,22",
+aj,aj-authority1,Harmas,,Authority,10,aj-twelve,十二权能名单第2项,AJ,"10,26–11,22",
+aj,aj-authority2,Kalila-Oumbri,,Authority,10,aj-twelve,十二权能名单第3项,AJ,"10,26–11,22",
+aj,aj-authority3,Yabel,,Authority,10,aj-twelve,十二权能名单第4项,AJ,"10,26–11,22",
+aj,aj-authority4,Adonaiou,Sabaoth,Authority,10,aj-twelve,十二权能名单第5项,AJ,"10,26–11,22",
+aj,aj-authority5,Cain,,Authority,10,aj-twelve,十二权能名单第6项,AJ,"10,26–11,22",
+aj,aj-authority6,Abel,,Authority,10,aj-twelve,十二权能名单第7项,AJ,"10,26–11,22",
+aj,aj-authority7,Abrisene,,Authority,10,aj-twelve,十二权能名单第8项,AJ,"10,26–11,22",
+aj,aj-authority8,Yobel,,Authority,10,aj-twelve,十二权能名单第9项,AJ,"10,26–11,22",
+aj,aj-authority9,Armoupieel,,Authority,10,aj-twelve,十二权能名单第10项,AJ,"10,26–11,22",
+aj,aj-authority10,Melceir-Adonein,,Authority,10,aj-twelve,十二权能名单第11项,AJ,"10,26–11,22",
+aj,aj-authority11,Belias,,Authority,10,aj-twelve,十二权能名单第12项,AJ,"10,26–11,22",
+aj,aj-seven,Seven Powers,,下层群体,9,aj-yald,原文七重powers及兽面名列的相关展开；与十二Authorities并列检视，不画成确定的较低一级。,AJ,"11,23–12,25",原文先说Archons产生powers，又将七重powers与Authorities结合。不能仅凭重名就逐项断言此名单等于十二名单中的前七位；也不将不同名列推成两套完全无关的统治者。Pleše对七rulers、powers及十二Authorities作进一步区分。
+aj,aj-power0,Athoth,,Power,10,aj-seven,羊面；Goodness,AJ,"11,23–12,25",
+aj,aj-power1,Eloaiou,,Power,10,aj-seven,驴面；Foreknowledge,AJ,"11,23–12,25",
+aj,aj-power2,Astaphaios,,Power,10,aj-seven,鬣狗面；Divinity,AJ,"11,23–12,25",
+aj,aj-power3,Yao,,Power,10,aj-seven,七头蛇面；Lordship,AJ,"11,23–12,25",
+aj,aj-power4,Sabaoth,,Power,10,aj-seven,龙／蛇面；Kingdom,AJ,"11,23–12,25",
+aj,aj-power5,Adonin,,Power,10,aj-seven,猴面；Envy,AJ,"11,23–12,25",
+aj,aj-power6,Sabbede,,Power,10,aj-seven,火焰面；Understanding,AJ,"11,23–12,25",
+aj,aj-body,Body-Making Angels,,群体,11,aj-seven,分工制作人的身体与感官；详见名号表附录,AJ,"14,13–19,14",365是文本给出的总数，不代表正文逐一列出365个名字。
+aj,aj-adam,Adam,,下界人,12,aj-body,Archons造形，母之力量被吹入后获得生命与更高认知,AJ,"19,15–20,8",与上界Pigera-Adamas分开。
+aj,aj-epinoia,Luminous Epinoia,Epinoia of Light / Life,帮助者／内在启示,12,aj-barbelo,由上界派出，帮助Adam、修正母亲缺陷；隐藏于人之中,AJ,"II 20,9–29; 22,28–23,26",受上界派遣并隐藏于Adam，帮助、唤醒并修正母亲缺陷；与Adam的援助／内在关系单独连线。
+aj,aj-eve,Eve,,下界女性／启示承载,13,aj-yald,Chief Archon从Adam取其部分力量、依Epinoia显现形象塑成女性；Epinoia显现并唤醒认识。,AJ,"II 22,28–23,26",
+aj,aj-earthseth,Earthly Seth,,人／力量／机制,13,aj-adam,Adam在认识上界形象后所生；与上界原型关联,AJ,"20,29–28,32",
+aj,aj-spirit,Spirit of Life,,上界生命援助,13,aj-monad,上界援助与认识的力量,AJ,"II 25,16–27,30",从上界来临、使灵魂获得生命与力量；图线表达神圣来向，不补写其直接生育者。
+aj,aj-counterfeit,Counterfeit Spirit,,下层控制力量,13,aj-yald,下层控制的仿冒Spirit，与欲望、遗忘相连,AJ,"II 21,6–10; 29,23–30,11",
+aj,aj-fate,Heimarmene,,下层命运枷锁,13,aj-yald,由下层权能施行的命运束缚,AJ,"II 28,11–32",Chief Archon与Authorities的计划及末后束缚；原段另有与Sophia发生关系的晦涩叙事。不是Adam产生的对象。
+aj,aj-return,Awakening / Five Seals,,救赎过程,14,aj-barbelo,Pronoia进入黑暗、唤醒受束缚者，施以Five Seals；回归神圣来源,AJ,"II 30,11–31,25","II 30,11–31,25自述者为Pronoia；按该篇Barbelo／Pronoia关系连接，不归为Epinoia单独施行。"
+ajshort,ajshort-monad,Invisible Spirit,Monad / Father of All / Virgin Spirit,本源,0,,自足、不可命名的最高本源；其他存在的来源,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-barbelo,Barbelo,Pronoia / First Thought / Mother–Father / Ennoia,神圣存在／领域,1,ajshort-monad,本源的First Thought、形象及万有之胎；Mother–Father,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-foreknow,Foreknowledge,,属性／Aeon,2,ajshort-barbelo,与Barbelo同立的神圣属性,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-incorrupt,Incorruptibility,,属性／Aeon,2,ajshort-barbelo,不朽性,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-life,Eternal Life,,属性／Aeon,2,ajshort-barbelo,永恒生命,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-autogenes,Autogenes–Christ,Self-Generated / Christ / Only-Begotten,神圣存在,1,ajshort-barbelo,Barbelo与Invisible Spirit所显现的独生之光，组织神圣领域,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",Father–Mother–Son结构中的Son；本图将其与四个属性的展开分组，不把排版先后当作精确本体位阶。Invisible Spirit与Barbelo共同参与其显现。
+ajshort,ajshort-harmozel,Harmozel,Armozel,Luminary／Aeon,4,ajshort-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-oroiael,Oroiael,Oriel / Oriael,Luminary／Aeon,4,ajshort-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-daveithe,Daveithe,Daveithai / Daveithae,Luminary／Aeon,4,ajshort-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-eleleth,Eleleth,,Luminary／Aeon,4,ajshort-autogenes,Four Luminaries之一；神圣群体的居所与组织者,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-adamas,Pigera-Adamas,,神圣存在,6,ajshort-harmozel,Perfect Man；上界人之原型，不是下界泥土身体,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-seth,Seth,,神圣人祖,6,ajshort-oroiael,Adamas之子，安置在第二Luminary领域,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-seed,Seed of Seth,Immovable Race,群体,6,ajshort-daveithe,在第三Luminary领域；与saints关联,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-repentant,Repentant Souls,,群体,6,ajshort-eleleth,先不认识Pleroma、后来悔悟的灵魂，归第四Luminary领域,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-sophia,Sophia / Wisdom,Wisdom / Sophia of the Epinoia,Aeon,5,ajshort-eleleth,独自行动导致不如预期的生育，继而悔悟补救,AJ,III / BG对应四灯与Sophia段；Synopsis 20–25,按标准解释，与Eleleth随侍名单中的Wisdom作同一位处理，不重复计数。科普特文本同用Sophia，且van den Broek 2013 p.172明确按Eleleth的随侍者解释。失衡后的Ninth为另一叙事状态，不是原有神圣身份的降格排名。
+ajshort,ajshort-yald,Yaldabaoth,Yaltabaoth / Ialdabaoth / Saklas / Samael / Chief Begetter,Chief Archon／Demiurge,8,ajshort-sophia,携母之力量而生，误认自己为唯一神，建立下层秩序,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-twelve,Twelve Authorities,,下层群体,9,ajshort-yald,十二权能；七位配置于天，五位配置于深渊,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-seven,Seven Powers,,下层群体,9,ajshort-yald,原文七重powers及兽面名列的相关展开；与十二Authorities并列检视，不画成确定的较低一级。,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",原文先说Archons产生powers，又将七重powers与Authorities结合。不能仅凭重名就逐项断言此名单等于十二名单中的前七位；也不将不同名列推成两套完全无关的统治者。Pleše对七rulers、powers及十二Authorities作进一步区分。
+ajshort,ajshort-adam,Adam,,下界人,12,ajshort-yald,Archons造形，母之力量被吹入后获得生命与更高认知,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",与上界Pigera-Adamas分开。
+ajshort,ajshort-epinoia,Luminous Epinoia,Epinoia of Light / Life,帮助者／内在启示,12,ajshort-barbelo,由上界派出，帮助Adam、修正母亲缺陷；隐藏于人之中,AJ,"II 20,9–29; 22,28–23,26",受上界派遣并隐藏于Adam，帮助、唤醒并修正母亲缺陷；与Adam的援助／内在关系单独连线。
+ajshort,ajshort-eve,Eve,,下界女性／启示承载,13,ajshort-yald,Chief Archon从Adam取其部分力量、依Epinoia显现形象塑成女性；Epinoia显现并唤醒认识。,AJ,"II 22,28–23,26",
+ajshort,ajshort-earthseth,Earthly Seth,,人／力量／机制,13,ajshort-adam,Adam在认识上界形象后所生；与上界原型关联,AJ,"NHC III,1 / BG 8502,2; Synopsis对应栏",
+ajshort,ajshort-spirit,Spirit of Life,,上界生命援助,13,ajshort-monad,上界援助与认识的力量,AJ,"II 25,16–27,30",从上界来临、使灵魂获得生命与力量；图线表达神圣来向，不补写其直接生育者。
+ajshort,ajshort-counterfeit,Counterfeit Spirit,,下层控制力量,13,ajshort-yald,下层控制的仿冒Spirit，与欲望、遗忘相连,AJ,"II 21,6–10; 29,23–30,11",
+ajshort,ajshort-fate,Heimarmene,,下层命运枷锁,13,ajshort-yald,由下层权能施行的命运束缚,AJ,"II 28,11–32",Chief Archon与Authorities的计划及末后束缚；原段另有与Sophia发生关系的晦涩叙事。不是Adam产生的对象。
+ajshort,ajshort-return,Revelation / Return,,救赎过程,14,ajshort-epinoia,由Spirit与认识帮助归返；不添加长本末尾完整颂歌,AJ,短本末段，Synopsis 77–85,
+val,val-bythos,Bythos,Proarche / Propator,Ogdoad · Aeon,0,,最高深渊／Father,IR,I.1.1,
+val,val-sige,Sige,Ennoia / Charis,Ogdoad · Aeon,0,,与Bythos同在的Silence,IR,I.1.1,
+val,val-nous,Nous,Monogenes,Ogdoad · Aeon,1,val-bythos,理解Father的Monogenes,IR,I.1.1,
+val,val-aletheia,Aletheia,,Ogdoad · Aeon,1,val-bythos,Truth，与Nous配对,IR,I.1.1,
+val,val-logos,Logos,,Ogdoad · Aeon,2,val-nous,Word，与Zoe配对,IR,I.1.1,
+val,val-zoe,Zoe,,Ogdoad · Aeon,2,val-nous,Life，与Logos配对,IR,I.1.1,
+val,val-anthropos,Anthropos,,Ogdoad · Aeon,3,val-logos,上界Man，与Ecclesia配对,IR,I.1.1,
+val,val-ecclesia,Ecclesia,,Ogdoad · Aeon,3,val-logos,上界Assembly，与Anthropos配对,IR,I.1.1,
+val,val-decad0,Bythius,,Decad · Aeon,4,val-logos,配对：Mixis；Decad第1项,IR,I.1.2–3,
+val,val-decad1,Mixis,,Decad · Aeon,4,val-logos,配对：Bythius；Decad第2项,IR,I.1.2–3,
+val,val-decad2,Ageratos,,Decad · Aeon,4,val-logos,配对：Henosis；Decad第3项,IR,I.1.2–3,
+val,val-decad3,Henosis,,Decad · Aeon,4,val-logos,配对：Ageratos；Decad第4项,IR,I.1.2–3,
+val,val-decad4,Autophyes,,Decad · Aeon,4,val-logos,配对：Hedone；Decad第5项,IR,I.1.2–3,
+val,val-decad5,Hedone,,Decad · Aeon,4,val-logos,配对：Autophyes；Decad第6项,IR,I.1.2–3,
+val,val-decad6,Acinetos,,Decad · Aeon,4,val-logos,配对：Syncrasis；Decad第7项,IR,I.1.2–3,
+val,val-decad7,Syncrasis,,Decad · Aeon,4,val-logos,配对：Acinetos；Decad第8项,IR,I.1.2–3,
+val,val-decad8,Monogenes,,Decad · Aeon,4,val-logos,配对：Macaria；Decad第9项,IR,I.1.2–3,
+val,val-decad9,Macaria,,Decad · Aeon,4,val-logos,配对：Monogenes；Decad第10项,IR,I.1.2–3,
+val,val-duodecad0,Paracletus,,Duodecad · Aeon,5,val-anthropos,配对：Pistis；Duodecad第1项,IR,I.1.2–3,
+val,val-duodecad1,Pistis,,Duodecad · Aeon,5,val-anthropos,配对：Paracletus；Duodecad第2项,IR,I.1.2–3,
+val,val-duodecad2,Patricos,,Duodecad · Aeon,5,val-anthropos,配对：Elpis；Duodecad第3项,IR,I.1.2–3,
+val,val-duodecad3,Elpis,,Duodecad · Aeon,5,val-anthropos,配对：Patricos；Duodecad第4项,IR,I.1.2–3,
+val,val-duodecad4,Metricos,,Duodecad · Aeon,5,val-anthropos,配对：Agape；Duodecad第5项,IR,I.1.2–3,
+val,val-duodecad5,Agape,,Duodecad · Aeon,5,val-anthropos,配对：Metricos；Duodecad第6项,IR,I.1.2–3,
+val,val-duodecad6,Ainos,,Duodecad · Aeon,5,val-anthropos,配对：Synesis；Duodecad第7项,IR,I.1.2–3,
+val,val-duodecad7,Synesis,,Duodecad · Aeon,5,val-anthropos,配对：Ainos；Duodecad第8项,IR,I.1.2–3,
+val,val-duodecad8,Ecclesiasticus,,Duodecad · Aeon,5,val-anthropos,配对：Macariotes；Duodecad第9项,IR,I.1.2–3,
+val,val-duodecad9,Macariotes,,Duodecad · Aeon,5,val-anthropos,配对：Ecclesiasticus；Duodecad第10项,IR,I.1.2–3,
+val,val-duodecad10,Theletos,,Duodecad · Aeon,5,val-anthropos,配对：Sophia；Duodecad第11项,IR,I.1.2–3,
+val,val-duodecad11,Sophia,,Duodecad · Aeon,5,val-anthropos,配对：Theletos；Duodecad第12项,IR,I.1.2–3,
+val,val-sophia,Sophia,,Pleroma内Aeon,6,val-anthropos,Duodecad最末、与Theletos配对；失衡后由Horos恢复,IR,I.2.2–4,与上方完整名单中的Sophia是同一位，此卡为叙事展开，不另计入三十。
+val,val-horos,Horos,,神圣存在,6,val-nous,限定、维持并分离；也称Stauros等,IR,I.2.4–6,
+val,val-christ,Christ,,神圣存在,6,val-nous,与Holy Spirit共同使Pleroma稳定,IR,I.2.4–6,
+val,val-holyspirit,Holy Spirit,,神圣存在,6,val-nous,教导感谢、平等与安息,IR,I.2.4–6,
+val,val-soter,Soter / Jesus,Common Fruit / Paraclete,Pleroma共同成果,7,val-christ,全体Aeons共同贡献所成，参与Achamoth完善与最终结合,IR,I.2.6; I.4; I.7,
+val,val-achamoth,Achamoth,Lower Sophia / Enthymesis,Pleroma外Sophia相关存在,8,val-sophia,被排出的Enthymesis及passion；居中间处，孕育Demiurge及seed,IR,I.4–5,不是Pleroma内Sophia整个人被永久驱逐的简单版本。
+val,val-demiurge,Demiurge,Metropator / Apator / Hebdomas,psychic造物者,9,val-achamoth,不知上界而受Achamoth间接推动，建七天与世界,IR,I.5.1–4,
+val,val-heavens,Seven Heavens,,领域／统治者,10,val-demiurge,下界宇宙组织,IR,I.5.2–4,
+val,val-cosmocrator,Cosmocrator / Devil,,领域／统治者,10,val-demiurge,与Demiurge区别的邪恶统治者,IR,I.5.2–4,
+val,val-pneumatic,Pneumatic Seed,,人的构成／类型,11,val-achamoth,来自Achamoth的spiritual成分，借下界生长,IR,I.5–6,
+val,val-psychic,Psychic,,人的构成／类型,11,val-achamoth,介于spirit与matter的soul成分／类型,IR,I.5–6,
+val,val-hylic,Hylic / Material,,人的构成／类型,11,val-achamoth,由passion而来的物质成分,IR,I.5–6,
+val,val-restoration,Restoration,,最终归返,12,val-soter,pneumatic seed与天使配偶进入Pleroma；psychic居中间处，matter消除,IR,I.7.1,
+ha,ha-incorrupt,Incorruptibility,,本源／上界,0,,高于混沌权能的神圣领域／力量,HA,"86,20–87,20; 93,8–94,2",
+ha,ha-spirit,Invisible Spirit,,本源／上界,0,,Four Luminaries所侍立的本源,HA,"86,20–87,20; 93,8–94,2",
+ha,ha-sophia,Pistis Sophia,,神圣存在,1,ha-incorrupt,下层生成与秩序纠正的上界参与者,HA,"94,4–95,13",
+ha,ha-zoe,Zoe,,Sophia之女,2,ha-sophia,揭斥并制约Yaldabaoth，教导被提升的Sabaoth,HA,"95,1–96,3",
+ha,ha-yald,Yaldabaoth,Samael / Sakla,Chief Ruler,3,ha-sophia,无知统治者，被更高力量揭穿,HA,"94,4–95,13",
+ha,ha-archons,Archons,,群体,4,ha-yald,造下界人的形体并试图支配,HA,"87,23–93,7",
+ha,ha-sabaoth,Sabaoth,,悔悟的下层后裔,4,ha-yald,谴责父亲与matter，获提升至第七天并受Zoe教导,HA,"95,13–96,3",
+ha,ha-death,Death,,毁坏力量,5,ha-yald,Yaldabaoth嫉妒后出现，与其后裔作用于下界,HA,"96,3–17",
+ha,ha-adam,Adam,,人／神圣女性,6,ha-archons,下界人，接受来自上界的生命与启示,HA,"87,23–93,7",
+ha,ha-eve,Eve / Spiritual Woman,,人／神圣女性,6,ha-archons,唤醒Adam；与被统治者追逐的形体有别,HA,"87,23–93,7",
+ha,ha-seth,Seth,,人／神圣女性,6,ha-archons,人类神圣谱系的相关祖先,HA,"87,23–93,7",
+ha,ha-norea,Norea,,人／神圣女性,6,ha-archons,不受Archons支配，呼求上界揭示其root,HA,"87,23–93,7",
+ha,ha-noah,Noah,,人／神圣女性,6,ha-archons,洪水叙事中的人物,HA,"87,23–93,7",
+ha,ha-eleleth,Eleleth,,Luminary／帮助者,7,ha-spirit,救援Norea，解释其不朽来源与下层生成,HA,"93,8–94,2",
+ha,ha-return,True Man / Spirit of Truth,,终局揭示,8,ha-incorrupt,末期显明真理、解除Archons的统治,HA,"96,17–97,23",
+ow,ow-light,Immortal Realm,,上界,0,,先于Chaos的神圣来源,OW,"97,24–99,20",
+ow,ow-pistis,Pistis Sophia,,上界,0,,意志、显现与纠正下界的关键存在,OW,"97,24–99,20",
+ow,ow-shadow,Shadow / Matter / Chaos,,生成阶段,1,ow-light,低层的shadow凝成matter与Chaos；不是最高原点,OW,"98,11–100,13",
+ow,ow-yald,Yaldabaoth,Samael,Prime Parent,2,ow-shadow,七位低层权能之首，组织各天与其众多从属,OW,"100,1–102,25",
+ow,ow-seven0,Yaldabaoth,,Seven Forces,3,ow-yald,相应女性名号：Pronoia / Sambathas,OW,"101,24–102,25",
+ow,ow-seven1,Yao,,Seven Forces,3,ow-yald,相应女性名号：Lordship,OW,"101,24–102,25",
+ow,ow-seven2,Sabaoth,,Seven Forces,3,ow-yald,相应女性名号：Deity,OW,"101,24–102,25",
+ow,ow-seven3,Adonaios,,Seven Forces,3,ow-yald,相应女性名号：Kingship,OW,"101,24–102,25",
+ow,ow-seven4,Elaios,,Seven Forces,3,ow-yald,相应女性名号：Jealousy,OW,"101,24–102,25",
+ow,ow-seven5,Oraios,,Seven Forces,3,ow-yald,相应女性名号：Wealth,OW,"101,24–102,25",
+ow,ow-seven6,Astaphaios,,Seven Forces,3,ow-yald,相应女性名号：Sophia,OW,"101,24–102,25",
+ow,ow-sabaoth,Sabaoth,,悔悟与提升,4,ow-pistis,受Pistis提升并受Zoe教导，居高于Chaos诸神的位置,OW,"103,32–106,19",
+ow,ow-zoe,Zoe,,教导者,4,ow-pistis,Pistis之女，教导Sabaoth高界事物,OW,"104,26–105,16",
+ow,ow-israel,Israel,,神圣存在,5,ow-sabaoth,Sabaoth所造firstborn，名义为见神之人,OW,"105,16–106,19",
+ow,ow-jesusimage,Jesus Christ · image,,神圣存在,5,ow-sabaoth,模仿更高Savior的形象，不可直接并为最高者,OW,"105,16–106,19",
+ow,ow-church,Assembly of Angels,,神圣存在,5,ow-sabaoth,数以万计的从属、cherubim、seraphim及诸语言的管理者,OW,"105,16–106,19",
+ow,ow-death,Death,,作用力,6,ow-yald,由嫉妒等作用产生的破坏力量,OW,106–109,
+ow,ow-eros,Eros,,作用力,6,ow-yald,与欲望、美和自然界生成相连,OW,106–109,
+ow,ow-adamlight,Adam of Light,,人之形态,7,ow-light,高界形象，影响低层造人,OW,107–118,
+ow,ow-adamearth,Earthly Adam,,人之形态,7,ow-light,下层造形与生命参与的对象,OW,107–118,
+ow,ow-eve,Eve,,人之形态,7,ow-light,显明与生命的参与者,OW,107–118,
+ow,ow-end,Consummation,,终局,8,ow-light,下层旧秩序、Chaos及其力量不能永久维持,OW,125–127,
+tt,tt-father,Father,,神圣存在,0,,不可把握的神圣整体之根,TT,I.1–5,
+tt,tt-son,Son,,神圣存在,0,,Father自我启示，与Father不可分,TT,I.1–5,
+tt,tt-church,Church / Totalities,,神圣存在,0,,神圣Aeons的共同整体,TT,I.1–5,
+tt,tt-aeons,Aeons,,开放群体,1,tt-father,神圣展开，文本不封闭列为三十或十二个个体,TT,I.5,
+tt,tt-logos,Logos,,Aeon,2,tt-aeons,偏离共同秩序后转向，成为下界的组织与修正者,TT,I.6–9,
+tt,tt-savior,Savior,,帮助者,3,tt-son,回应祈求，使Logos得以认识并重新组织,TT,I.8–9,
+tt,tt-right,Right / Psychic,,秩序／构成,4,tt-logos,由较好转向与thought所形成的秩序,TT,I.9–12,
+tt,tt-left,Left / Hylic,,秩序／构成,4,tt-logos,由arrogant thought及likeness而来的不足秩序,TT,I.9–12,
+tt,tt-spiritual,Spiritual Seed,,秩序／构成,4,tt-logos,救赎安排中的更高成分,TT,I.9–12,
+tt,tt-demiurge,Demiurge,Father / King / Judge / Law,造物安排者,5,tt-right,被Logos用作手与口，组织并说出下界事物,TT,I.11–12,
+tt,tt-man,Mankind,,人类构成／类型,6,tt-logos,spiritual、psychic、material三种构成／类型的讨论对象,TT,II–III; sections 13–14,
+tt,tt-pneumatic,Pneumatic,,人类构成／类型,6,tt-logos,如light from light，立即回应Savior,TT,II–III; sections 13–14,
+tt,tt-psychic,Psychic,,人类构成／类型,6,tt-logos,通过教导、faith与hope回应,TT,II–III; sections 13–14,
+tt,tt-hylic,Hylic,,人类构成／类型,6,tt-logos,排斥揭示，走向消解,TT,II–III; sections 13–14,
+tt,tt-return,Restoration / Union,,归返,7,tt-savior,由Savior使整体复归与结合,TT,III.15–16,
+eug,eug-forefather,Unbegotten Forefather,He-Who-Is / Father of the Universe,本源,0,,无名、不可量、无始的来源,EUG,EUG beginning,
+eug,eug-selffather,Self-Father,Self-Begetter,自我显现,1,eug-forefather,本源之自我观看与第一显现,EUG,EUG first principles,
+eug,eug-immortal,Immortal Man,Perfect Mind / First Man,神圣Man,2,eug-selffather,神圣力量、divinity及kingdom的原型,EUG,EUG Immortal Man section,
+eug,eug-sophia1,All-wise Begettress Sophia,,配偶／女性相,2,eug-immortal,与Immortal Man相应的女性名号,EUG,EUG Immortal Man section,
+eug,eug-sonman,Son of Man,First Begetter,神圣后继,3,eug-immortal,与Sophia配偶共同显出Savior之光,EUG,EUG Son of Man section,
+eug,eug-savior,Savior,Begetter of All,神圣光／后继,4,eug-sonman,与Pistis Sophia共同展开六对spiritual beings,EUG,EUG six androgynous beings,
+eug,eug-pistis,Pistis Sophia,Sophia All-Begettress,配偶／女性相,4,eug-savior,Savior相应的女性名号,EUG,EUG six androgynous beings,
+eug,eug-pair0,Unbegotten / All-wise Sophia,,Androgynous Pair,5,eug-savior,六对之第1对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-pair1,Self-begotten / All-Mother Sophia,,Androgynous Pair,5,eug-savior,六对之第2对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-pair2,Begetter / All-Begettress Sophia,,Androgynous Pair,5,eug-savior,六对之第3对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-pair3,First Begetter / First Begettress Sophia,,Androgynous Pair,5,eug-savior,六对之第4对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-pair4,All-begetter / Love Sophia,,Androgynous Pair,5,eug-savior,六对之第5对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-pair5,Arch-begetter / Pistis Sophia,,Androgynous Pair,5,eug-savior,六对之第6对；十二名号不是宇宙全部神圣者,EUG,EUG six androgynous beings,
+eug,eug-72,Seventy-two Powers,,群体,6,eug-savior,十二powers的进一步展开,EUG,EUG numerical expansion,
+eug,eug-360,Three Hundred Sixty Powers,,群体,6,eug-savior,七十二各五项，形成时间模型,EUG,EUG numerical expansion,
+eug,eug-innumerable,Innumerable Angels,,群体,6,eug-savior,与hours、moments对应，非封闭人数,EUG,EUG numerical expansion,
+eug,eug-sjc,Savior as Revealer,,SJC启示角色,7,eug-savior,向门徒解释来源、生成与归返,SJC,SJC dialogue as a whole,SJC包含Sophia及其drop、低层领域的叙述；不同于EUG单纯谱系信函。
+tp,tp-father,Invisible Spirit,,本源,0,,Protennoia所显现的来源,TP,"XIII,1 35–39",
+tp,tp-protennoia,Protennoia,Barbelo / Thought of the Father,神圣Thought,1,tp-father,以三重形式行动，遍在其成员之中,TP,35–50,
+tp,tp-voice,Thought / Voice,,显现方式,2,tp-protennoia,第一种启示表达,TP,35–50,
+tp,tp-speech,Speech,,显现方式,2,tp-protennoia,第二种启示表达,TP,35–50,
+tp,tp-word,Word / Logos,,显现方式,2,tp-protennoia,第三种启示表达,TP,35–50,
+tp,tp-yald,Yaldabaoth,Saklas / Samael,下层统治者,3,tp-protennoia,夺取力量并生成仿制秩序,TP,39–42,
+tp,tp-epinoia,Epinoia of Light,,神圣力量,3,tp-protennoia,与Sophia、被夺取的力量及秩序修正相连,TP,39–41,
+tp,tp-members,Members / Sons of Light,,群体,4,tp-protennoia,下降启示所唤醒的对象,TP,35–50,
+tp,tp-seals,Five Seals,,救赎仪式,5,tp-members,赋予knowledge并归于Light,TP,48–50,
+eg,eg-spirit,Great Invisible Spirit,,本源,0,,不可言说、无标记的光之来源,EG,"III,2 40–42",
+eg,eg-father,Father,,神圣存在,1,eg-spirit,三重神圣展开之一,EG,40–44,
+eg,eg-mother,Mother / Barbelon,,神圣存在,1,eg-spirit,神圣Mother、virginal Barbelon,EG,40–44,
+eg,eg-son,Son,,神圣存在,1,eg-spirit,三重神圣展开之一,EG,40–44,
+eg,eg-doxomedon,Domedon Doxomedon,,神圣存在,1,eg-spirit,Aeon of aeons及诸powers之光,EG,40–44,
+eg,eg-autogenes,Autogenes,,神圣存在,2,eg-son,自生的神圣存在,EG,44–50,
+eg,eg-triple,Thrice-Male Child,,神圣存在,2,eg-son,神圣三重child名号,EG,44–50,
+eg,eg-youel,Youel,,神圣存在,2,eg-son,神圣揭示与child相关存在,EG,44–50,
+eg,eg-esephech,Esephech,,神圣存在,2,eg-son,持有荣耀、child of child,EG,44–50,
+eg,eg-adamas,Adamas,,神圣Man,3,eg-autogenes,来自Light的上界人祖,EG,49–50,
+eg,eg-seth,Great Seth,,神圣人祖／救援者,4,eg-adamas,为seed寻求居所并参与其救援,EG,50–65,
+eg,eg-lights,Four Luminaries,,领域／群体,5,eg-autogenes,神圣居所与seed所处秩序,EG,51–56,
+eg,eg-seed,Seed of Great Seth,,领域／群体,5,eg-autogenes,救援及仪式所关涉的群体,EG,51–56,
+eg,eg-sophia,Sophia,,神圣生成参与者,6,eg-lights,与低层出现的过程相关,EG,56–58,
+eg,eg-sakla,Sakla,,下层生成者,7,eg-sophia,下层大天使，与Nebruel共同生成,EG,57–58,
+eg,eg-nebruel,Nebruel,,下层生成者,7,eg-sophia,与Sakla协作的great demon,EG,57–58,
+eg,eg-twelve,Twelve Angels / Aeons,,下层群体,8,eg-sakla,各自统辖其world；名单不同于AJ其他版本,EG,58–59,
+eg,eg-ruler0,Athoth,,Angel,8,eg-twelve,十二名列第1项,EG,58–59,
+eg,eg-ruler1,Harmas,,Angel,8,eg-twelve,十二名列第2项,EG,58–59,
+eg,eg-ruler2,Galila,,Angel,8,eg-twelve,十二名列第3项,EG,58–59,
+eg,eg-ruler3,Yobel,,Angel,8,eg-twelve,十二名列第4项,EG,58–59,
+eg,eg-ruler4,Adonaios / Sabaoth,,Angel,8,eg-twelve,十二名列第5项,EG,58–59,
+eg,eg-ruler5,Cain,,Angel,8,eg-twelve,十二名列第6项,EG,58–59,
+eg,eg-ruler6,Abel,,Angel,8,eg-twelve,十二名列第7项,EG,58–59,
+eg,eg-ruler7,Akiressina,,Angel,8,eg-twelve,十二名列第8项,EG,58–59,
+eg,eg-ruler8,Yubel,,Angel,8,eg-twelve,十二名列第9项,EG,58–59,
+eg,eg-ruler9,Harmupiael,,Angel,8,eg-twelve,十二名列第10项,EG,58–59,
+eg,eg-ruler10,Archir-Adonin,,Angel,8,eg-twelve,十二名列第11项,EG,58–59,
+eg,eg-ruler11,Belias,,Angel,8,eg-twelve,十二名列第12项,EG,58–59,
+eg,eg-jesseus,Yesseus Mazareus Yessedekeus,,仪式角色／过程,9,eg-seed,living water及baptism相关,EG,64–67,
+eg,eg-ministers,Gamaliel / Gabriel / Samblo / Abrasax,,仪式角色／过程,9,eg-seed,Four Luminaries的ministers,EG,64–67,
+eg,eg-waters,Micheus / Michar / Mnesinous,,仪式角色／过程,9,eg-seed,truth之泉与水的服务者,EG,64–67,
+eg,eg-seals,Five Seals,,仪式角色／过程,9,eg-seed,保护与启示的baptism仪式,EG,64–67,
+ps,ps-ineffable,Ineffable,,最高本源,0,,超越Light-world诸层,PS,Mead intro pp. l–li; books I–II,
+ps,ps-first,First Mystery,,最高Mystery,1,ps-ineffable,与最高spaces及Jesus启示身份相关,PS,ch. 1–2; 84–96,
+ps,ps-treasury,Treasury of Light,,领域,2,ps-first,Light-world的重要领域,PS,intro pp. l–li; ch. 7–8; 84–96,
+ps,ps-right,Region of the Right,,领域,2,ps-first,较高Light-world区域,PS,intro pp. l–li; ch. 7–8; 84–96,
+ps,ps-midst,Region of the Midst,,领域,2,ps-first,与Right、Treasury区别的区域,PS,intro pp. l–li; ch. 7–8; 84–96,
+ps,ps-jeu,Jeu,,Light-world角色,3,ps-treasury,组织与管理Light、baptism相关的神圣角色,PS,books I–IV,
+ps,ps-melch,Melchizedek,,Light-world角色,3,ps-treasury,light的接收与净化相关角色,PS,books I–IV,
+ps,ps-virgin,Virgin of Light,,Light-world角色,3,ps-treasury,与灵魂判定、净化及安排有关,PS,books I–IV,
+ps,ps-sabaothgood,Sabaoth the Good,,Light-world角色,3,ps-treasury,较高来源的名号，不与所有Sabaoth混同,PS,books I–IV,
+ps,ps-thirteenth,Thirteenth Aeon,,混合宇宙领域,4,ps-midst,Pistis Sophia原先所在，低于其所追求的Light,PS,ch. 29–31,
+ps,ps-greatinvisible,Great Invisible,,领域内存在／群体,5,ps-thirteenth,第十三Aeon的相关源头名号,PS,ch. 30–31,
+ps,ps-24,Twenty-four Invisibles,,领域内存在／群体,5,ps-thirteenth,Pistis Sophia的相关同伴／emanations,PS,ch. 30–31,
+ps,ps-sophia,Pistis Sophia,,领域内存在／群体,5,ps-thirteenth,渴望更高Light、受压迫并求援,PS,ch. 30–31,
+ps,ps-authades,Authades / Self-Willed,,领域内存在／群体,5,ps-thirteenth,压迫Sophia的Triple-Powered角色,PS,ch. 30–31,
+ps,ps-lion,Lion-faced Power,,压迫力量,6,ps-authades,Authades的emanation，以假light诱引并夺取力量,PS,ch. 30–31,
+ps,ps-twelve,Twelve Aeons,,领域／机制,7,ps-thirteenth,低层宇宙领域及其Archons,PS,intro pp. l–li; books I–IV,
+ps,ps-fate,Heimarmene / Sphere,,领域／机制,7,ps-thirteenth,灵魂受其安排的命运及星体领域,PS,intro pp. l–li; books I–IV,
+ps,ps-chaos,Chaos,,领域／机制,7,ps-thirteenth,Sophia受困、悔悟并获援之处,PS,intro pp. l–li; books I–IV,
+ps,ps-dark,Outer Darkness,,领域／机制,7,ps-thirteenth,惩罚及下层限制的区域,PS,intro pp. l–li; books I–IV,
+ps,ps-jesus,Jesus / Savior,Aberamentho,救援与启示者,8,ps-first,援救Sophia并向门徒传授mysteries,PS,ch. 1–2; 30–82; 136ff,
+ps,ps-mysteries,Mysteries / Ascent,,人的归途,9,ps-jesus,通过mysteries、净化及认识脱离下层束缚,PS,books II–IV,
+basil,basil-father,Unborn Father,,存在／领域,0,,最高来源,IR,I.24.3–7,
+basil,basil-nous,Nous,,存在／领域,1,basil-father,Father首生，Christ相关,IR,I.24.3–7,
+basil,basil-logos,Logos,,存在／领域,2,basil-nous,从Nous而生,IR,I.24.3–7,
+basil,basil-phronesis,Phronesis,,存在／领域,3,basil-logos,从Logos而生,IR,I.24.3–7,
+basil,basil-sophia,Sophia / Dynamis,,存在／领域,4,basil-phronesis,wisdom与power，生成下级powers,IR,I.24.3–7,
+basil,basil-angels,Powers / Angels,,存在／领域,5,basil-sophia,逐层产生heavens,IR,I.24.3–7,
+basil,basil-365,365 Heavens,,存在／领域,6,basil-angels,层层生成的宇宙,IR,I.24.3–7,
+basil,basil-abraxas,Abraxas,,存在／领域,7,basil-365,365数值相关的chief名号,IR,I.24.3–7,
+basil,basil-world,Visible World,,存在／领域,8,basil-365,最低天的angels所组织,IR,I.24.3–7,
+basil,basil-christ,Christ / Nous,,存在／领域,9,basil-father,由Father派出，传授解脱性knowledge,IR,I.24.3–7,
+basilhip,basilhip-god,Non-Existent God,,本源／根源,0,,超越可称谓存在的最高来源,HI,New Advent VII.8–10,
+basilhip,basilhip-seed,World Seed / Panspermia,,本源／根源,0,,宇宙诸成分潜在的种子,HI,New Advent VII.8–10,
+basilhip,basilhip-son1,First Sonship,,Sonship,1,basilhip-seed,轻而立即上升,HI,VII.10,
+basilhip,basilhip-son2,Second Sonship,,Sonship,1,basilhip-seed,借Holy Spirit上升,HI,VII.10,
+basilhip,basilhip-son3,Third Sonship,,Sonship,1,basilhip-seed,留于seed，等待净化与回归,HI,VII.10,
+basilhip,basilhip-great,Great Archon / Ogdoad,,统治者／中介,2,basilhip-seed,上层宇宙的统治者,HI,VII.10–14,
+basilhip,basilhip-second,Second Archon / Hebdomad,,统治者／中介,2,basilhip-seed,七天秩序的统治者,HI,VII.10–14,
+basilhip,basilhip-spirit,Holy Spirit / Limitary Spirit,,统治者／中介,2,basilhip-seed,连接并限定较高与宇宙层次,HI,VII.10–14,
+basilhip,basilhip-sons,Sons of the Archons,,教导者,3,basilhip-great,比各自父亲更明智，传递更高启示,HI,VII.11–14,
+basilhip,basilhip-gospel,Gospel / Restoration,,救赎过程,4,basilhip-son3,知识向下传递，各成分归其本性,HI,VII.13–15,
+irbarb,irbarb-father,Unnameable Father,,神圣存在,0,,最高来源,IR,I.29.1,
+irbarb,irbarb-barbelo,Barbelos / Ennoia,,神圣存在,0,,Father自我揭示的对象,IR,I.29.1,
+irbarb,irbarb-powers,Prognosis / Aphtharsia / Zoe Aionios,,神圣存在,1,irbarb-barbelo,神圣属性,IR,I.29.1,
+irbarb,irbarb-christ,Christ,,神圣存在,1,irbarb-barbelo,受Father膏立之light,IR,I.29.1,
+irbarb,irbarb-nous,Nous / Logos,,神圣存在,1,irbarb-barbelo,同工及配对相关,IR,I.29.1,
+irbarb,irbarb-auto,Autogenes / Aletheia,,配对,2,irbarb-barbelo,由Ennoia与Logos发出，与Aletheia配对,IR,I.29.2,
+irbarb,irbarb-lights,Armogenes / Raguel / David / Eleleth,,神圣存在,3,irbarb-auto,四个Luminaries及相应powers,IR,I.29.2–3,
+irbarb,irbarb-adamas,Adamas / Gnosis,,神圣存在,3,irbarb-auto,上界人祖及认识的配对,IR,I.29.2–3,
+irbarb,irbarb-sophia,Sophia / Prunicus,,神圣存在,4,irbarb-auto,寻找配偶、向下行动后生Chief Ruler,IR,I.29.4,
+irbarb,irbarb-chief,Chief Ruler,,下界造物者,5,irbarb-sophia,造下界并与Arrogance相合产生诸passions,IR,I.29.4,
+ophite,ophite-first,First Man,,神圣存在,0,,Father of All及第一light,IR,I.30.1–2,
+ophite,ophite-son,Son of Man,,神圣存在,0,,第二Man,IR,I.30.1–2,
+ophite,ophite-woman,First Woman / Holy Spirit,,神圣存在,0,,高界女性，参与Christ生成,IR,I.30.1–2,
+ophite,ophite-christ,Christ,,神圣存在,0,,上界第三male之light,IR,I.30.1–2,
+ophite,ophite-sophia,Sophia / Prunicus,,下行神圣power,1,ophite-woman,First Woman相关之light向下，生Yaldabaoth并援助人,IR,I.30.3–4,
+ophite,ophite-r0,Yaldabaoth,,七代统治者,2,ophite-sophia,依次生成的第1位,IR,I.30.4–5,
+ophite,ophite-r1,Iao,,七代统治者,3,ophite-r0,依次生成的第2位,IR,I.30.4–5,
+ophite,ophite-r2,Sabaoth,,七代统治者,4,ophite-r1,依次生成的第3位,IR,I.30.4–5,
+ophite,ophite-r3,Adoneus,,七代统治者,5,ophite-r2,依次生成的第4位,IR,I.30.4–5,
+ophite,ophite-r4,Eloeus,,七代统治者,6,ophite-r3,依次生成的第5位,IR,I.30.4–5,
+ophite,ophite-r5,Oreus,,七代统治者,7,ophite-r4,依次生成的第6位,IR,I.30.4–5,
+ophite,ophite-r6,Astaphaeus,,七代统治者,8,ophite-r5,依次生成的第7位,IR,I.30.4–5,
+ophite,ophite-human,Adam / Eve / Seth / Norea,,人类／终局,9,ophite-sophia,light与认识所保护的人类谱系,IR,I.30.6–14,
+ophite,ophite-return,Gathering of Light,,人类／终局,9,ophite-sophia,神性light最终聚合归返,IR,I.30.6–14,
+valvar,valvar-valentinus,Valentinus · Arrhetus / Sige,,变体结构,0,,不可言说与Silence的最初Dyad,IR,I.11.1–2,
+valvar,valvar-pater,Pater / Aletheia,,变体结构,0,,Valentinus报告中的第二Dyad,IR,I.11.1–2,
+valvar,valvar-secundus,Secundus · Light / Darkness,,变体结构,0,,初始Ogdoad的right／left tetrads,IR,I.11.1–2,
+valvar,valvar-horoi,Two Horoi,,边界powers,1,valvar-valentinus,一者分Father与Aeons，一者分mother与Pleroma,IR,I.11.1,
+valvar,valvar-limit,Horos / Limit,,VE中的边界power,2,,分离、巩固、赋形及赋实体四作用,VE,"XI,2 25–28",
+valvar,valvar-perfect,Perfect God,,Flora中的最高神,3,,善且不生的Father,FL,Panarion 33.7,
+valvar,valvar-demiurge,Demiurge,,Flora中的中间者,4,valvar-perfect,生成、较低、公正的造物者，与Devil区别,FL,33.7,
+valvar,valvar-devil,Devil / Adversary,,Flora中的邪恶对立者,5,valvar-demiurge,低于Demiurge的毁坏与不义,FL,33.7,
+gt,gt-father,Father,,本源／显现,0,,万有来源及安息之所,GT,"NHC I,3 16–18; 38–40",
+gt,gt-name,Name / Son,,本源／显现,0,,Father之名与Son的启示关系,GT,"NHC I,3 16–18; 38–40",
+gt,gt-error,Error,,不足的作用,1,gt-father,不认识Father而来的混乱与塑形,GT,17–19,
+gt,gt-jesus,Jesus / Savior,,启示者,2,gt-father,以认识揭示Father，召唤属于他的名字,GT,18–24,
+gt,gt-rest,Knowledge / Rest,,归返,3,gt-jesus,不再受deficiency支配，安息于Father,GT,24–43,
+allogenes,allogenes-spirit,Invisible Spirit,,超越本源,0,,超越存在与知识对象,ALL,"XI,3 61–67",
+allogenes,allogenes-triple,Triple-Powered One,,超越力量,1,allogenes-spirit,与Existence、Vitality、Mentality／Blessedness的三重展开有关,ALL,"XI,3 49–51; 58–61",不同文本可视为最高原则之力量、其展开或通向Barbelo的中介；不是跨文本固定的一位次级神。
+allogenes,allogenes-barbelo,Barbelo Aeon,,神圣整体／领域,2,allogenes-triple,真实存在领域的三重结构,TUR,pp. 531–556,
+allogenes,allogenes-kalyptos,Kalyptos,,Barbelo三重相,3,allogenes-barbelo,隐藏、统一的最高相,ALL,"XI,3 45–57; ZOS VIII,1 24–25",
+allogenes,allogenes-protophanes,Protophanes,,Barbelo三重相,3,allogenes-barbelo,首次显现、noetic展开,ALL,"XI,3 45–57; ZOS VIII,1 24–25",
+allogenes,allogenes-autogenes,Autogenes,,Barbelo三重相,3,allogenes-barbelo,自生及较具体的神圣个体展开,ALL,"XI,3 45–57; ZOS VIII,1 24–25",
+allogenes,allogenes-youel,Youel,,启示者／上升者,6,allogenes-barbelo,Allogenes的启示、教导者,ALL,"ALL XI,3; ZOS VIII,1",
+allogenes,allogenes-allogenes,Allogenes,,启示者／上升者,6,allogenes-barbelo,接受启示与静观上升的人,ALL,"ALL XI,3; ZOS VIII,1",
+zostrianos,zostrianos-spirit,Invisible Spirit,,超越本源,0,,超越存在与知识对象,ZOS,"XI,3 61–67",
+zostrianos,zostrianos-triple,Triple-Powered One,,超越力量,1,zostrianos-spirit,与Existence、Vitality、Mentality／Blessedness的三重展开有关,ZOS,"XI,3 49–51; 58–61",不同文本可视为最高原则之力量、其展开或通向Barbelo的中介；不是跨文本固定的一位次级神。
+zostrianos,zostrianos-barbelo,Barbelo Aeon,,神圣整体／领域,2,zostrianos-triple,真实存在领域的三重结构,TUR,pp. 531–556,
+zostrianos,zostrianos-kalyptos,Kalyptos,,Barbelo三重相,3,zostrianos-barbelo,隐藏、统一的最高相,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",
+zostrianos,zostrianos-protophanes,Protophanes,,Barbelo三重相,3,zostrianos-barbelo,首次显现、noetic展开,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",
+zostrianos,zostrianos-autogenes,Autogenes,,Barbelo三重相,3,zostrianos-barbelo,自生及较具体的神圣个体展开,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",
+zostrianos,zostrianos-lights,Four Luminaries,,神圣群体,4,zostrianos-autogenes,Autogenes领域的神圣光与秩序,ZOS,"VIII,1 24–25; 61–63",
+zostrianos,zostrianos-perfect,Perfect Individuals,,神圣群体,4,zostrianos-autogenes,神圣个体，不是统一固定人数,ZOS,"VIII,1 24–25; 61–63",
+zostrianos,zostrianos-repent,Repentance,,中介领域,5,zostrianos-autogenes,Zostrianos较低的上升中介,ZOS,"VIII,1 8–25",
+zostrianos,zostrianos-sojourn,Sojourn,,中介领域,5,zostrianos-autogenes,中介居留领域,ZOS,"VIII,1 8–25",
+zostrianos,zostrianos-copies,Aeonic Copies,,中介领域,5,zostrianos-autogenes,真实领域的较低对应,ZOS,"VIII,1 8–25",
+zostrianos,zostrianos-atmosphere,Atmospheric Realm,,中介领域,5,zostrianos-autogenes,较低宇宙与更高领域间的位置,ZOS,"VIII,1 8–25",
+zostrianos,zostrianos-zostrianos,Zostrianos,,启示者／上升者,6,zostrianos-barbelo,经baptisms与教导上升的人,ZOS,"ALL XI,3; ZOS VIII,1",
+zostrianos,zostrianos-aphredon,Aphredon,,启示者／上升者,6,zostrianos-barbelo,Zostrianos中的启示者,ZOS,"ALL XI,3; ZOS VIII,1",
+zostrianos,zostrianos-authrounios,Authrounios,,启示者／上升者,6,zostrianos-barbelo,Zostrianos中的启示者,ZOS,"ALL XI,3; ZOS VIII,1",
+mars,mars-highest,Unknowable Highest Principle,,本源相关名号,0,,文本涉及高于一般可知对象的来源,MARS,"X,1 2–5; Turner pp. 557–588",
+mars,mars-silent,Silent One,,本源相关名号,0,,超越神圣展开的相关名号,MARS,"X,1 2–5; Turner pp. 557–588",
+mars,mars-invisible,Invisible Spirit,,本源相关名号,0,,与Silent One及其展开相连的层次,MARS,"X,1 2–5; Turner pp. 557–588",
+mars,mars-triple,Triple-Powered One,,神圣存在,1,mars-invisible,神圣力量的三重关系,MARS,"X,1 4–10",
+mars,mars-barbelo,Barbelo Aeon,,神圣存在,1,mars-invisible,神圣认知领域,MARS,"X,1 4–10",
+mars,mars-autogenes,Autogenes,,神圣存在,1,mars-invisible,自生的神圣展开,MARS,"X,1 4–10",
+mars,mars-seals,Thirteen Seals,,结构／对象,2,mars-barbelo,从物质到超越的认知标记,MARS,"X,1 2–4; 25–42",
+mars,mars-soul,Soul,,结构／对象,2,mars-barbelo,被讨论及转换的对象,MARS,"X,1 2–4; 25–42",
+mars,mars-letters,Letters / Sounds / Powers,,结构／对象,2,mars-barbelo,语言、声音及宇宙关系的符号性讨论,MARS,"X,1 2–4; 25–42",
+mars,mars-rest,Knowledge / Rest,,归返,3,mars-seals,达到确信、稳定与安息,MARS,"X,1 2–4",
+norea,norea-father,Father of All / Adamas,,祈求名号,0,,本篇向其呼求、其内含Norea之Thought的最高相关名号,NOREA,"IX,2 27,11–28,28",
+norea,norea-ennoia,Ennoia of Light,,祈求名号,0,,神圣Thought,NOREA,"IX,2 27,11–28,28",
+norea,norea-nous,Nous / Logos / Voice of Truth,,祈求名号,0,,呼求中的神圣认知与启示称号,NOREA,"IX,2 27,11–28,28",
+norea,norea-norea,Norea,,接受启示者,1,norea-father,被接纳、认识并承受神圣Thought,NOREA,"27,11–28,28",
+norea,norea-autogenes,Autogenes,,援助／归属,2,norea-norea,她得以安息的神圣存在,NOREA,"27,11–28,28",
+norea,norea-helpers,Four Holy Helpers,,援助／归属,2,norea-norea,代其向Father祈求,NOREA,"27,11–28,28",
+norea,norea-imperishable,Imperishable Ones / Pleroma,,援助／归属,2,norea-norea,她所参与并认识的神圣整体,NOREA,"27,11–28,28",
+adamapoc,adamapoc-eternal,Eternal God,,来源／统治者,0,,与造物者区别的神圣来源,AA,"V,5 64–67",
+adamapoc,adamapoc-creator,Creator / Ruler,,来源／统治者,0,,使人受下界局限的权能,AA,"V,5 64–67",
+adamapoc,adamapoc-adam,Adam / Eve,,人祖／启示者,1,adamapoc-eternal,原有glory与knowledge、随后受局限,AA,64–85,
+adamapoc,adamapoc-seth,Seth / Seed,,人祖／启示者,1,adamapoc-eternal,启示保存与传递的群体来源,AA,64–85,
+adamapoc,adamapoc-illuminator,Illuminator,,人祖／启示者,1,adamapoc-eternal,末期启示并引发诸国不同说明,AA,64–85,
+adamapoc,adamapoc-kingdoms,Thirteen Kingdoms,,群体／救赎,2,adamapoc-illuminator,对启示者来历的不同说法,AA,77–85,
+adamapoc,adamapoc-kingless,Kingless Generation,,群体／救赎,2,adamapoc-illuminator,有别于诸国、掌握不同认识的群体,AA,77–85,
+adamapoc,adamapoc-waters,Living Water / Holy Name,,群体／救赎,2,adamapoc-illuminator,结尾保存与启示的语言,AA,77–85,
+aj,aj-kings,Seven Heavenly Kings,,十二Authorities的天域分配,9,aj-twelve,七位配置在七天，另五位配置于深渊；不强配每个兽面名号的一一身份。,AJ,"II 11,4–7",这是配置／分组条目，不另增加七位新神。
+aj,aj-ninth,Sophia · in the Ninth,,失衡后的暂居状态,7,aj-sophia,Sophia被安置在其子之上、第九处，直到修正缺陷；与其原本神圣身份分开呈现。,AJ,"II 13,32–14,13",叙事状态卡，不是另一位Sophia，也不表示原典在此已绘出完整的九级家谱。
+aj,aj-five-lights,Five Lights,,取回母之力量的援助,11,aj-barbelo,Mother–Father派遣，劝Yaldabaoth向Adam吹气，使母之力量转入人。,AJ,"II 19,15–33",保留原文five；不在这里擅自认定其五个成员的名字。
+aj,anatomy-0,Eteraphaope-Abron,,body-maker,subordinate,Body-Making Angels,头,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-1,Meniggesstroeth,,body-maker,subordinate,Body-Making Angels,脑,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-2,Asterechme,,body-maker,subordinate,Body-Making Angels,右眼,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-3,Thaspomocha,,body-maker,subordinate,Body-Making Angels,左眼,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-4,Yeronumos,,body-maker,subordinate,Body-Making Angels,右耳,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-5,Bissoum,,body-maker,subordinate,Body-Making Angels,左耳,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-6,Akioreim,,body-maker,subordinate,Body-Making Angels,鼻,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-7,Banen-Ephroum,,body-maker,subordinate,Body-Making Angels,唇,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-8,Amen,,body-maker,subordinate,Body-Making Angels,牙齿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-9,Ibikan,,body-maker,subordinate,Body-Making Angels,臼齿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-10,Basiliademe,,body-maker,subordinate,Body-Making Angels,扁桃体,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-11,Achcha,,body-maker,subordinate,Body-Making Angels,悬雍垂,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-12,Adaban,,body-maker,subordinate,Body-Making Angels,颈,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-13,Chaaman,,body-maker,subordinate,Body-Making Angels,椎骨,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-14,Dearcho,,body-maker,subordinate,Body-Making Angels,咽喉,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-15,Tebar,,body-maker,subordinate,Body-Making Angels,右肩,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-16,Mniarcon,,body-maker,subordinate,Body-Making Angels,右肘,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-17,Abitrion,,body-maker,subordinate,Body-Making Angels,右腋下,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-18,Evanthen,,body-maker,subordinate,Body-Making Angels,左腋下,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-19,Krys,,body-maker,subordinate,Body-Making Angels,右手,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-20,Beluai,,body-maker,subordinate,Body-Making Angels,左手,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-21,Treneu,,body-maker,subordinate,Body-Making Angels,右手手指,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-22,Balbel,,body-maker,subordinate,Body-Making Angels,左手手指,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-23,Kriman,,body-maker,subordinate,Body-Making Angels,手指甲,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-24,Astrops,,body-maker,subordinate,Body-Making Angels,右乳部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-25,Barroph,,body-maker,subordinate,Body-Making Angels,左乳部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-26,Baoum,,body-maker,subordinate,Body-Making Angels,右肩关节,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-27,Ararim,,body-maker,subordinate,Body-Making Angels,左肩关节,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-28,Areche,,body-maker,subordinate,Body-Making Angels,腹部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-29,Phthave,,body-maker,subordinate,Body-Making Angels,脐,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-30,Senaphim,,body-maker,subordinate,Body-Making Angels,腹部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-31,Arachethopi,,body-maker,subordinate,Body-Making Angels,右肋部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-32,Zabedo,,body-maker,subordinate,Body-Making Angels,左肋部,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-33,Barias,,body-maker,subordinate,Body-Making Angels,右髋,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-34,Phnouth,,body-maker,subordinate,Body-Making Angels,左髋,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-35,Abenlenarchei,,body-maker,subordinate,Body-Making Angels,骨髓,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-36,Chnoumeninorin,,body-maker,subordinate,Body-Making Angels,骨骼,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-37,Gesole,,body-maker,subordinate,Body-Making Angels,胃,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-38,Agromauna,,body-maker,subordinate,Body-Making Angels,心脏,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-39,Bano,,body-maker,subordinate,Body-Making Angels,肺,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-40,Sostrapal,,body-maker,subordinate,Body-Making Angels,肝,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-41,Anesimalar,,body-maker,subordinate,Body-Making Angels,脾,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-42,Thopithro,,body-maker,subordinate,Body-Making Angels,肠,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-43,Biblo,,body-maker,subordinate,Body-Making Angels,肾,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-44,Roeror,,body-maker,subordinate,Body-Making Angels,筋腱,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-45,Taphreo,,body-maker,subordinate,Body-Making Angels,脊柱,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-46,Ipouspoboba,,body-maker,subordinate,Body-Making Angels,静脉,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-47,Bineborin,,body-maker,subordinate,Body-Making Angels,动脉,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-48,Atoimenpsephei,,body-maker,subordinate,Body-Making Angels,四肢中的气息,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-49,Entholleia,,body-maker,subordinate,Body-Making Angels,全身肉体,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-50,Bedouk,,body-maker,subordinate,Body-Making Angels,右臀部（原译存疑）,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-51,Arabeei,,body-maker,subordinate,Body-Making Angels,左阴茎,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-52,Eilo,,body-maker,subordinate,Body-Making Angels,睾丸,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-53,Sorma,,body-maker,subordinate,Body-Making Angels,生殖器,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-54,Gorma-Kaiochlabar,,body-maker,subordinate,Body-Making Angels,右大腿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-55,Nebrith,,body-maker,subordinate,Body-Making Angels,左大腿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-56,Pserem,,body-maker,subordinate,Body-Making Angels,右腿之肾（保留原译异常）,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-57,Asaklas,,body-maker,subordinate,Body-Making Angels,左肾,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-58,Ormaoth,,body-maker,subordinate,Body-Making Angels,右腿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-59,Emenun,,body-maker,subordinate,Body-Making Angels,左腿,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-60,Knyx,,body-maker,subordinate,Body-Making Angels,右胫骨,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-61,Tupelon,,body-maker,subordinate,Body-Making Angels,左胫骨,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-62,Achiel,,body-maker,subordinate,Body-Making Angels,右膝,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-63,Phnene,,body-maker,subordinate,Body-Making Angels,左膝,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-64,Phiouthrom,,body-maker,subordinate,Body-Making Angels,右脚,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-65,Boabel,,body-maker,subordinate,Body-Making Angels,脚趾,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-66,Trachoun,,body-maker,subordinate,Body-Making Angels,左脚,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-67,Phikna,,body-maker,subordinate,Body-Making Angels,脚趾,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-68,Miamai,,body-maker,subordinate,Body-Making Angels,脚趾甲,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-69,Labernioum,,body-maker,subordinate,Body-Making Angels,职司文字残缺，未补全,AJW,"NHC II,1 15–18; body-making catalogue",下界body-maker；不是Pleroma内Aeon
+aj,anatomy-70,Zathoth,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-71,Armas,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-72,Kalila,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-73,Jabel,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-74,Sabaoth,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-75,Cain,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-76,Abel,,body-maker,subordinate,Body-Making Angels,造形诸灵之统辖者,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-77,Diolimodraza,,body-maker,subordinate,Body-Making Angels,头部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-78,Yammeax,,body-maker,subordinate,Body-Making Angels,颈部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-79,Yakouib,,body-maker,subordinate,Body-Making Angels,右肩的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-80,Verton,,body-maker,subordinate,Body-Making Angels,左肩的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-81,Oudidi,,body-maker,subordinate,Body-Making Angels,右手的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-82,Arbao,,body-maker,subordinate,Body-Making Angels,左手的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-83,Lampno,,body-maker,subordinate,Body-Making Angels,右手手指的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-84,Leekaphar,,body-maker,subordinate,Body-Making Angels,左手手指的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-85,Barbar,,body-maker,subordinate,Body-Making Angels,右乳部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-86,Imae,,body-maker,subordinate,Body-Making Angels,左乳部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-87,Pisandriaptes,,body-maker,subordinate,Body-Making Angels,胸部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-88,Koade,,body-maker,subordinate,Body-Making Angels,右肩关节的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-89,Odeor,,body-maker,subordinate,Body-Making Angels,左肩关节的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-90,Asphixix,,body-maker,subordinate,Body-Making Angels,右肋部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-91,Synogchouta,,body-maker,subordinate,Body-Making Angels,左肋部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-92,Arouph,,body-maker,subordinate,Body-Making Angels,腹部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-93,Sabalo,,body-maker,subordinate,Body-Making Angels,子宫的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-94,Charcharb,,body-maker,subordinate,Body-Making Angels,右大腿的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-95,Chthaon,,body-maker,subordinate,Body-Making Angels,左大腿的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-96,Bathinoth,,body-maker,subordinate,Body-Making Angels,生殖器的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-97,Choux,,body-maker,subordinate,Body-Making Angels,右腿的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-98,Charcha,,body-maker,subordinate,Body-Making Angels,左腿的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-99,Aroer,,body-maker,subordinate,Body-Making Angels,右胫骨部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-100,Toechtha,,body-maker,subordinate,Body-Making Angels,左胫骨部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-101,Aol,,body-maker,subordinate,Body-Making Angels,右膝部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-102,Charaner,,body-maker,subordinate,Body-Making Angels,左膝部的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-103,Bastan,,body-maker,subordinate,Body-Making Angels,右脚的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-104,Archentechtha,,body-maker,subordinate,Body-Making Angels,右脚脚趾的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-105,Marephnounth,,body-maker,subordinate,Body-Making Angels,左脚的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-106,Abrana,,body-maker,subordinate,Body-Making Angels,左脚脚趾的活动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-107,Michael,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-108,Ouriel,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-109,Asmenedas,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-110,Saphasatoel,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-111,Aarmouriam,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-112,Richram,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-113,Amiorps,,body-maker,subordinate,Body-Making Angels,统辖身体诸活动的七者之一,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-114,Archendekta,,body-maker,subordinate,Body-Making Angels,感官,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-115,Deitharbathas,,body-maker,subordinate,Body-Making Angels,接收／感受,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-116,Oummaa,,body-maker,subordinate,Body-Making Angels,想象,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-117,Aachiaram,,body-maker,subordinate,Body-Making Angels,组合,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-118,Riaramnacho,,body-maker,subordinate,Body-Making Angels,整体冲动,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-119,Phloxopha,,body-maker,subordinate,Body-Making Angels,热,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-120,Oroorrothos,,body-maker,subordinate,Body-Making Angels,冷,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-121,Erimacho,,body-maker,subordinate,Body-Making Angels,干,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-122,Athuro,,body-maker,subordinate,Body-Making Angels,湿,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-123,Onorthochrasaei,,body-maker,subordinate,Body-Making Angels,诸身体作用之母，matter,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-124,Ephememphi,,body-maker,subordinate,Body-Making Angels,快乐相关的chief demon,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-125,Yoko,,body-maker,subordinate,Body-Making Angels,欲望相关的chief demon,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-126,Nenentophni,,body-maker,subordinate,Body-Making Angels,悲伤相关的chief demon,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-127,Blaomen,,body-maker,subordinate,Body-Making Angels,恐惧相关的chief demon,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-128,Aesthesis-Ouch-Epi-Ptoe,,body-maker,subordinate,Body-Making Angels,四种情绪chief demons之母,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon
+aj,anatomy-129,Anaro,,body-maker,subordinate,Body-Making Angels,material soul之首及对其真实性质的认识,AJW,"NHC II,1 17–19; lower powers catalogue",下界身体／感官／passions，不是Pleroma内Aeon

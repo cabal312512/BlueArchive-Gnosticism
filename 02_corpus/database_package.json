@@ -1,0 +1,8 @@
+{
+  "database_sha256": "9734ba17e1bce55985440e6cca26e48e7e9335bbb8289c7f897a3f56880f59da",
+  "database_bytes": 155041792,
+  "package_sha256": "5b02ed62d3bf1dc735dc5580221dd327ee32b1e308bd76a691c4256e819c393b",
+  "package_bytes": 36109138,
+  "raw_source_commit": "3428d2a0943bdfe7d6453adfcb06676509972b02",
+  "restore_command": "python 03_tools/restore_corpus.py"
+}

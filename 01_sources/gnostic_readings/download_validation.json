@@ -1,0 +1,15 @@
+{
+  "successful_files": 36,
+  "bytes": 80822276,
+  "sha256_verified": true,
+  "excluded_from_cosmology": [
+    "EG-GREEK: different work",
+    "NARBONNE-STUDIES: not Turner 2001; contextual secondary text",
+    "PS-HTML: landing page, not complete primary text"
+  ],
+  "existing_reference_scans": [
+    "scratch/sources/waldstein_wisse_1995.pdf",
+    "scratch/sources/nag_hammadi_library_english.pdf"
+  ],
+  "failed_attempts_preserved": true
+}

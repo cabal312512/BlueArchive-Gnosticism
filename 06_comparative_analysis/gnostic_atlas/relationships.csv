@@ -1,0 +1,376 @@
+﻿id,system,from_id,to_id,type,label,source,locator,interpretive,notes
+aj-edge-0,aj,aj-monad,aj-barbelo,emanation,First Thought显现,AJ,"II 4,19–26",False,
+aj-edge-1,aj,aj-monad,aj-autogenes,generation,以纯光参与Only-Begotten生成,AJ,"II 6,10–18",False,
+aj-edge-2,aj,aj-barbelo,aj-autogenes,generation,Mother–Father孕育Only-Begotten,AJ,"II 6,10–18",False,
+aj-edge-3,aj,aj-monad,aj-foreknow,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+aj-edge-4,aj,aj-barbelo,aj-foreknow,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+aj-edge-5,aj,aj-monad,aj-incorrupt,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+aj-edge-6,aj,aj-barbelo,aj-incorrupt,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+aj-edge-7,aj,aj-monad,aj-life,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+aj-edge-8,aj,aj-barbelo,aj-life,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+aj-edge-9,aj,aj-monad,aj-truth,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+aj-edge-10,aj,aj-barbelo,aj-truth,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+aj-edge-11,aj,aj-autogenes,aj-nous,request,请求同工Mind,AJ,"II 6,20–7,3",False,
+aj-edge-12,aj,aj-monad,aj-nous,emanation,应允后Mind显现,AJ,"II 6,20–7,3",False,
+aj-edge-13,aj,aj-nous,aj-word,cooperation,通过Word行动,AJ,"II 7,3–15",False,
+aj-edge-14,aj,aj-will,aj-word,cooperation,Word随Will行动,AJ,"II 7,3–15",False,
+aj-edge-15,aj,aj-word,aj-autogenes,cooperation,Autogenes通过Word建立万有,AJ,"II 7,3–15",False,
+aj-edge-16,aj,aj-autogenes,aj-harmozel,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+aj-edge-17,aj,aj-harmozel,aj-harmozel0,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-18,aj,aj-harmozel,aj-harmozel1,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-19,aj,aj-harmozel,aj-harmozel2,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-20,aj,aj-autogenes,aj-oroiael,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+aj-edge-21,aj,aj-oroiael,aj-oroiael0,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-22,aj,aj-oroiael,aj-oroiael1,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-23,aj,aj-oroiael,aj-oroiael2,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-24,aj,aj-autogenes,aj-daveithe,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+aj-edge-25,aj,aj-daveithe,aj-daveithe0,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-26,aj,aj-daveithe,aj-daveithe1,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-27,aj,aj-daveithe,aj-daveithe2,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-28,aj,aj-autogenes,aj-eleleth,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+aj-edge-29,aj,aj-eleleth,aj-eleleth0,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-30,aj,aj-eleleth,aj-eleleth1,membership,随侍Aeon,AJ,"II 7,30–8,28",False,
+aj-edge-31,aj,aj-eleleth,aj-sophia,membership,随侍Aeon,AJ,"II 7,30–8,28",True,Sophia与Wisdom按标准解释合一，另见van den Broek 2013 p.172。
+aj-edge-32,aj,aj-harmozel,aj-adamas,location,安置／居所,AJ,"II 8,28–9,24",False,
+aj-edge-33,aj,aj-oroiael,aj-seth,location,安置／居所,AJ,"II 8,28–9,24",False,
+aj-edge-34,aj,aj-daveithe,aj-seed,location,安置／居所,AJ,"II 8,28–9,24",False,
+aj-edge-35,aj,aj-eleleth,aj-repentant,location,安置／居所,AJ,"II 8,28–9,24",False,
+aj-edge-36,aj,aj-monad,aj-adamas,emanation,与Autogenes之Will共同显现Perfect Man,AJ,"II 8,28–9,11",False,
+aj-edge-37,aj,aj-autogenes,aj-adamas,emanation,参与Perfect Man显现,AJ,"II 8,28–9,11",False,
+aj-edge-38,aj,aj-adamas,aj-seth,generation,其子,AJ,"II 9,11–14",False,
+aj-edge-39,aj,aj-seth,aj-seed,descent,seed／后裔,AJ,"II 9,14–17",False,
+aj-edge-40,aj,aj-sophia,aj-yald,generation,独自生育,AJ,"II 9,25–10,19",False,
+aj-edge-41,aj,aj-sophia,aj-yald,power,母之力量进入其子,AJ,"II 10,19–22",False,
+aj-edge-42,aj,aj-sophia,aj-ninth,state,悔悟后被安置于第九处,AJ,"II 13,32–14,13",False,
+aj-edge-43,aj,aj-yald,aj-twelve,generation,产生Authorities,AJ,"II 10,26–11,22",False,
+aj-edge-44,aj,aj-twelve,aj-kings,assignment,七位配于天、五位配于深渊,AJ,"II 11,4–7",False,
+aj-edge-45,aj,aj-twelve,aj-seven,textual,统治者的七重展开；具体认同不强并,AJ,"II 11,23–12,25",True,保留文本称Archons产生powers的关系；不把十二名列和兽面名列无说明合为同七个人。
+aj-edge-46,aj,aj-kings,aj-seven,textual,七天统治与七重展开的关联,AJ,"II 11,4–12,25",True,
+aj-edge-47,aj,aj-twelve,aj-authority0,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-48,aj,aj-twelve,aj-authority1,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-49,aj,aj-twelve,aj-authority2,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-50,aj,aj-twelve,aj-authority3,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-51,aj,aj-twelve,aj-authority4,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-52,aj,aj-twelve,aj-authority5,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-53,aj,aj-twelve,aj-authority6,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-54,aj,aj-twelve,aj-authority7,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-55,aj,aj-twelve,aj-authority8,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-56,aj,aj-twelve,aj-authority9,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-57,aj,aj-twelve,aj-authority10,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-58,aj,aj-twelve,aj-authority11,membership,十二名列成员,AJ,"10,26–11,22",False,
+aj-edge-59,aj,aj-seven,aj-power0,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-60,aj,aj-seven,aj-power1,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-61,aj,aj-seven,aj-power2,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-62,aj,aj-seven,aj-power3,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-63,aj,aj-seven,aj-power4,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-64,aj,aj-seven,aj-power5,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-65,aj,aj-seven,aj-power6,membership,兽面／七重配对名列,AJ,"11,23–12,25",False,
+aj-edge-66,aj,aj-seven,aj-body,generation,powers与造形天使的分工,AJ,"II 11,23–26; 14,13–19,14",False,
+aj-edge-67,aj,aj-body,aj-adam,formation,制作魂体／身体,AJ,"II 14,13–19,14",False,
+aj-edge-68,aj,aj-yald,aj-adam,formation,参与造形,AJ,"II 14,13–19,14",False,
+aj-edge-69,aj,aj-adamas,aj-adam,image,上界Man的形象／范型,AJ,"II 14,13–15,13",False,
+aj-edge-70,aj,aj-yald,aj-adam,power,吹气；母之力量转入Adam,AJ,"II 19,15–33",False,
+aj-edge-71,aj,aj-sophia,aj-barbelo,request,请求取回母之力量,AJ,"II 19,15–23",False,
+aj-edge-72,aj,aj-barbelo,aj-five-lights,assistance,派遣取回力量的帮助者,AJ,"II 19,15–33",False,
+aj-edge-73,aj,aj-five-lights,aj-yald,assistance,劝告向Adam吹气,AJ,"II 19,15–33",False,
+aj-edge-74,aj,aj-barbelo,aj-epinoia,assistance,Mother–Father派出帮助者,AJ,"II 20,9–29",False,
+aj-edge-75,aj,aj-epinoia,aj-adam,assistance,隐藏其中、帮助并唤醒,AJ,"II 20,9–29",False,
+aj-edge-76,aj,aj-monad,aj-spirit,source,上界Spirit的来向,AJ,"II 25,16–27,30",False,来向线，不指定其直接生育者。
+aj-edge-77,aj,aj-spirit,aj-adam,assistance,给予生命与力量,AJ,"II 25,16–27,30",False,
+aj-edge-78,aj,aj-yald,aj-counterfeit,control,与诸powers制造／施行仿冒Spirit,AJ,"II 21,6–10; 29,23–30,11",False,
+aj-edge-79,aj,aj-counterfeit,aj-adam,control,误导、遗忘与限制人的代表节点,AJ,"II 25,16–30,11",False,Adam在此代表受影响的人类；不将后来全部事件硬当Adam个人的一次经历。
+aj-edge-80,aj,aj-yald,aj-fate,control,与Authorities合谋形成命运束缚,AJ,"II 28,11–32",False,
+aj-edge-81,aj,aj-twelve,aj-fate,control,Chief Archon的Authorities共同参与,AJ,"II 28,11–32",False,
+aj-edge-82,aj,aj-fate,aj-adam,control,束缚受造界及人类,AJ,"II 28,11–32",False,
+aj-edge-83,aj,aj-yald,aj-eve,formation,取Adam部分力量塑成女性,AJ,"II 22,28–23,26",False,
+aj-edge-84,aj,aj-adam,aj-eve,material,取其部分力量／形体材料,AJ,"II 22,28–23,26",False,
+aj-edge-85,aj,aj-epinoia,aj-eve,image,形象与显现,AJ,"II 22,28–23,26",False,
+aj-edge-86,aj,aj-adam,aj-earthseth,generation,认识上界形象后生子,AJ,"II 24,34–25,7",False,
+aj-edge-87,aj,aj-barbelo,aj-earthseth,assistance,上界Mother降下Spirit,AJ,"II 25,1–7",False,
+aj-edge-88,aj,aj-barbelo,aj-return,action,Pronoia自述下降、唤醒与Five Seals,AJ,"II 30,11–31,25",False,
+ajshort-edge-89,ajshort,ajshort-monad,ajshort-barbelo,emanation,First Thought显现,AJ,"II 4,19–26",False,
+ajshort-edge-90,ajshort,ajshort-monad,ajshort-autogenes,generation,以纯光参与Only-Begotten生成,AJ,"II 6,10–18",False,
+ajshort-edge-91,ajshort,ajshort-barbelo,ajshort-autogenes,generation,Mother–Father孕育Only-Begotten,AJ,"II 6,10–18",False,
+ajshort-edge-92,ajshort,ajshort-monad,ajshort-foreknow,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+ajshort-edge-93,ajshort,ajshort-barbelo,ajshort-foreknow,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+ajshort-edge-94,ajshort,ajshort-monad,ajshort-incorrupt,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+ajshort-edge-95,ajshort,ajshort-barbelo,ajshort-incorrupt,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+ajshort-edge-96,ajshort,ajshort-monad,ajshort-life,emanation,应允后显现,AJ,"II 4,26–6,10",False,
+ajshort-edge-97,ajshort,ajshort-barbelo,ajshort-life,request,请求；与之同立、同属Pentad,AJ,"II 4,26–6,10",False,
+ajshort-edge-98,ajshort,ajshort-autogenes,ajshort-harmozel,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+ajshort-edge-99,ajshort,ajshort-autogenes,ajshort-oroiael,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+ajshort-edge-100,ajshort,ajshort-autogenes,ajshort-daveithe,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+ajshort-edge-101,ajshort,ajshort-autogenes,ajshort-eleleth,emanation,Four Luminaries展开,AJ,"II 7,30–8,28",False,
+ajshort-edge-102,ajshort,ajshort-eleleth,ajshort-sophia,membership,随侍Aeon,AJ,"II 7,30–8,28",True,Sophia与Wisdom按标准解释合一，另见van den Broek 2013 p.172。
+ajshort-edge-103,ajshort,ajshort-harmozel,ajshort-adamas,location,安置／居所,AJ,"II 8,28–9,24",False,
+ajshort-edge-104,ajshort,ajshort-oroiael,ajshort-seth,location,安置／居所,AJ,"II 8,28–9,24",False,
+ajshort-edge-105,ajshort,ajshort-daveithe,ajshort-seed,location,安置／居所,AJ,"II 8,28–9,24",False,
+ajshort-edge-106,ajshort,ajshort-eleleth,ajshort-repentant,location,安置／居所,AJ,"II 8,28–9,24",False,
+ajshort-edge-107,ajshort,ajshort-monad,ajshort-adamas,emanation,与Autogenes之Will共同显现Perfect Man,AJ,"II 8,28–9,11",False,
+ajshort-edge-108,ajshort,ajshort-autogenes,ajshort-adamas,emanation,参与Perfect Man显现,AJ,"II 8,28–9,11",False,
+ajshort-edge-109,ajshort,ajshort-adamas,ajshort-seth,generation,其子,AJ,"II 9,11–14",False,
+ajshort-edge-110,ajshort,ajshort-seth,ajshort-seed,descent,seed／后裔,AJ,"II 9,14–17",False,
+ajshort-edge-111,ajshort,ajshort-sophia,ajshort-yald,generation,独自生育,AJ,"II 9,25–10,19",False,
+ajshort-edge-112,ajshort,ajshort-sophia,ajshort-yald,power,母之力量进入其子,AJ,"II 10,19–22",False,
+ajshort-edge-113,ajshort,ajshort-yald,ajshort-twelve,generation,产生Authorities,AJ,"II 10,26–11,22",False,
+ajshort-edge-114,ajshort,ajshort-twelve,ajshort-seven,textual,统治者的七重展开；具体认同不强并,AJ,"II 11,23–12,25",True,保留文本称Archons产生powers的关系；不把十二名列和兽面名列无说明合为同七个人。
+ajshort-edge-115,ajshort,ajshort-yald,ajshort-adam,formation,参与造形,AJ,"II 14,13–19,14",False,
+ajshort-edge-116,ajshort,ajshort-adamas,ajshort-adam,image,上界Man的形象／范型,AJ,"II 14,13–15,13",False,
+ajshort-edge-117,ajshort,ajshort-yald,ajshort-adam,power,吹气；母之力量转入Adam,AJ,"II 19,15–33",False,
+ajshort-edge-118,ajshort,ajshort-sophia,ajshort-barbelo,request,请求取回母之力量,AJ,"II 19,15–23",False,
+ajshort-edge-119,ajshort,ajshort-barbelo,ajshort-epinoia,assistance,Mother–Father派出帮助者,AJ,"II 20,9–29",False,
+ajshort-edge-120,ajshort,ajshort-epinoia,ajshort-adam,assistance,隐藏其中、帮助并唤醒,AJ,"II 20,9–29",False,
+ajshort-edge-121,ajshort,ajshort-monad,ajshort-spirit,source,上界Spirit的来向,AJ,"II 25,16–27,30",False,来向线，不指定其直接生育者。
+ajshort-edge-122,ajshort,ajshort-spirit,ajshort-adam,assistance,给予生命与力量,AJ,"II 25,16–27,30",False,
+ajshort-edge-123,ajshort,ajshort-yald,ajshort-counterfeit,control,与诸powers制造／施行仿冒Spirit,AJ,"II 21,6–10; 29,23–30,11",False,
+ajshort-edge-124,ajshort,ajshort-counterfeit,ajshort-adam,control,误导、遗忘与限制人的代表节点,AJ,"II 25,16–30,11",False,Adam在此代表受影响的人类；不将后来全部事件硬当Adam个人的一次经历。
+ajshort-edge-125,ajshort,ajshort-yald,ajshort-fate,control,与Authorities合谋形成命运束缚,AJ,"II 28,11–32",False,
+ajshort-edge-126,ajshort,ajshort-twelve,ajshort-fate,control,Chief Archon的Authorities共同参与,AJ,"II 28,11–32",False,
+ajshort-edge-127,ajshort,ajshort-fate,ajshort-adam,control,束缚受造界及人类,AJ,"II 28,11–32",False,
+ajshort-edge-128,ajshort,ajshort-yald,ajshort-eve,formation,取Adam部分力量塑成女性,AJ,"II 22,28–23,26",False,
+ajshort-edge-129,ajshort,ajshort-adam,ajshort-eve,material,取其部分力量／形体材料,AJ,"II 22,28–23,26",False,
+ajshort-edge-130,ajshort,ajshort-epinoia,ajshort-eve,image,形象与显现,AJ,"II 22,28–23,26",False,
+ajshort-edge-131,ajshort,ajshort-adam,ajshort-earthseth,generation,认识上界形象后生子,AJ,"II 24,34–25,7",False,
+ajshort-edge-132,ajshort,ajshort-barbelo,ajshort-earthseth,assistance,上界Mother降下Spirit,AJ,"II 25,1–7",False,
+ajshort-edge-133,ajshort,ajshort-epinoia,ajshort-return,assistance,短本中的认识与归返,AJ,III / BG对应救赎段；不添长本颂歌,False,
+legacy-edge-val-nous,val,val-bythos,val-nous,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-aletheia,val,val-bythos,val-aletheia,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-logos,val,val-nous,val-logos,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-zoe,val,val-nous,val-zoe,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-anthropos,val,val-logos,val-anthropos,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-ecclesia,val,val-logos,val-ecclesia,related,关联／所属,IR,I.1.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad0,val,val-logos,val-decad0,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad1,val,val-logos,val-decad1,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad2,val,val-logos,val-decad2,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad3,val,val-logos,val-decad3,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad4,val,val-logos,val-decad4,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad5,val,val-logos,val-decad5,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad6,val,val-logos,val-decad6,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad7,val,val-logos,val-decad7,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad8,val,val-logos,val-decad8,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-decad9,val,val-logos,val-decad9,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad0,val,val-anthropos,val-duodecad0,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad1,val,val-anthropos,val-duodecad1,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad2,val,val-anthropos,val-duodecad2,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad3,val,val-anthropos,val-duodecad3,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad4,val,val-anthropos,val-duodecad4,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad5,val,val-anthropos,val-duodecad5,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad6,val,val-anthropos,val-duodecad6,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad7,val,val-anthropos,val-duodecad7,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad8,val,val-anthropos,val-duodecad8,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad9,val,val-anthropos,val-duodecad9,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad10,val,val-anthropos,val-duodecad10,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-duodecad11,val,val-anthropos,val-duodecad11,related,名单归属,IR,I.1.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-sophia,val,val-anthropos,val-sophia,related,关联／所属,IR,I.2.2–4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-horos,val,val-nous,val-horos,related,关联／所属,IR,I.2.4–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-christ,val,val-nous,val-christ,related,关联／所属,IR,I.2.4–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-holyspirit,val,val-nous,val-holyspirit,related,关联／所属,IR,I.2.4–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-soter,val,val-christ,val-soter,related,派遣／援助关系,IR,I.2.6; I.4; I.7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-achamoth,val,val-sophia,val-achamoth,related,关联／所属,IR,I.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-demiurge,val,val-achamoth,val-demiurge,related,关联／所属,IR,I.5.1–4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-heavens,val,val-demiurge,val-heavens,related,关联／所属,IR,I.5.2–4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-cosmocrator,val,val-demiurge,val-cosmocrator,related,关联／所属,IR,I.5.2–4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-pneumatic,val,val-achamoth,val-pneumatic,related,关联／所属,IR,I.5–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-psychic,val,val-achamoth,val-psychic,related,关联／所属,IR,I.5–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-hylic,val,val-achamoth,val-hylic,related,关联／所属,IR,I.5–6,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-val-restoration,val,val-soter,val-restoration,related,关联／所属,IR,I.7.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-sophia,ha,ha-incorrupt,ha-sophia,related,关联／所属,HA,"94,4–95,13",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-zoe,ha,ha-sophia,ha-zoe,related,关联／所属,HA,"95,1–96,3",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-yald,ha,ha-sophia,ha-yald,related,关联／所属,HA,"94,4–95,13",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-archons,ha,ha-yald,ha-archons,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-sabaoth,ha,ha-yald,ha-sabaoth,related,关联／所属,HA,"95,13–96,3",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-death,ha,ha-yald,ha-death,related,关联／所属,HA,"96,3–17",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-adam,ha,ha-archons,ha-adam,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-eve,ha,ha-archons,ha-eve,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-seth,ha,ha-archons,ha-seth,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-norea,ha,ha-archons,ha-norea,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-noah,ha,ha-archons,ha-noah,related,关联／所属,HA,"87,23–93,7",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-eleleth,ha,ha-spirit,ha-eleleth,related,关联／所属,HA,"93,8–94,2",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ha-return,ha,ha-incorrupt,ha-return,related,关联／所属,HA,"96,17–97,23",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-shadow,ow,ow-light,ow-shadow,related,关联／所属,OW,"98,11–100,13",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-yald,ow,ow-shadow,ow-yald,related,关联／所属,OW,"100,1–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven0,ow,ow-yald,ow-seven0,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven1,ow,ow-yald,ow-seven1,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven2,ow,ow-yald,ow-seven2,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven3,ow,ow-yald,ow-seven3,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven4,ow,ow-yald,ow-seven4,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven5,ow,ow-yald,ow-seven5,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-seven6,ow,ow-yald,ow-seven6,related,名单归属,OW,"101,24–102,25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-sabaoth,ow,ow-pistis,ow-sabaoth,related,关联／所属,OW,"103,32–106,19",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-zoe,ow,ow-pistis,ow-zoe,related,关联／所属,OW,"104,26–105,16",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-israel,ow,ow-sabaoth,ow-israel,related,关联／所属,OW,"105,16–106,19",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-jesusimage,ow,ow-sabaoth,ow-jesusimage,related,关联／所属,OW,"105,16–106,19",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-church,ow,ow-sabaoth,ow-church,related,关联／所属,OW,"105,16–106,19",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-death,ow,ow-yald,ow-death,related,关联／所属,OW,106–109,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-eros,ow,ow-yald,ow-eros,related,关联／所属,OW,106–109,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-adamlight,ow,ow-light,ow-adamlight,related,关联／所属,OW,107–118,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-adamearth,ow,ow-light,ow-adamearth,related,关联／所属,OW,107–118,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-eve,ow,ow-light,ow-eve,related,关联／所属,OW,107–118,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ow-end,ow,ow-light,ow-end,related,关联／所属,OW,125–127,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-aeons,tt,tt-father,tt-aeons,related,关联／所属,TT,I.5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-logos,tt,tt-aeons,tt-logos,related,关联／所属,TT,I.6–9,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-savior,tt,tt-son,tt-savior,related,关联／所属,TT,I.8–9,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-right,tt,tt-logos,tt-right,related,关联／所属,TT,I.9–12,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-left,tt,tt-logos,tt-left,related,关联／所属,TT,I.9–12,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-spiritual,tt,tt-logos,tt-spiritual,related,关联／所属,TT,I.9–12,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-demiurge,tt,tt-right,tt-demiurge,related,关联／所属,TT,I.11–12,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-man,tt,tt-logos,tt-man,related,关联／所属,TT,II–III; sections 13–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-pneumatic,tt,tt-logos,tt-pneumatic,related,关联／所属,TT,II–III; sections 13–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-psychic,tt,tt-logos,tt-psychic,related,关联／所属,TT,II–III; sections 13–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-hylic,tt,tt-logos,tt-hylic,related,关联／所属,TT,II–III; sections 13–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tt-return,tt,tt-savior,tt-return,related,关联／所属,TT,III.15–16,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-selffather,eug,eug-forefather,eug-selffather,related,关联／所属,EUG,EUG first principles,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-immortal,eug,eug-selffather,eug-immortal,related,关联／所属,EUG,EUG Immortal Man section,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-sophia1,eug,eug-immortal,eug-sophia1,related,关联／所属,EUG,EUG Immortal Man section,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-sonman,eug,eug-immortal,eug-sonman,related,关联／所属,EUG,EUG Son of Man section,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-savior,eug,eug-sonman,eug-savior,related,关联／所属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pistis,eug,eug-savior,eug-pistis,related,关联／所属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair0,eug,eug-savior,eug-pair0,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair1,eug,eug-savior,eug-pair1,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair2,eug,eug-savior,eug-pair2,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair3,eug,eug-savior,eug-pair3,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair4,eug,eug-savior,eug-pair4,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-pair5,eug,eug-savior,eug-pair5,related,名单归属,EUG,EUG six androgynous beings,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-72,eug,eug-savior,eug-72,related,关联／所属,EUG,EUG numerical expansion,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-360,eug,eug-savior,eug-360,related,关联／所属,EUG,EUG numerical expansion,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-innumerable,eug,eug-savior,eug-innumerable,related,关联／所属,EUG,EUG numerical expansion,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eug-sjc,eug,eug-savior,eug-sjc,related,关联／所属,SJC,SJC dialogue as a whole,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-protennoia,tp,tp-father,tp-protennoia,related,关联／所属,TP,35–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-voice,tp,tp-protennoia,tp-voice,related,关联／所属,TP,35–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-speech,tp,tp-protennoia,tp-speech,related,关联／所属,TP,35–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-word,tp,tp-protennoia,tp-word,related,关联／所属,TP,35–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-yald,tp,tp-protennoia,tp-yald,related,关联／所属,TP,39–42,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-epinoia,tp,tp-protennoia,tp-epinoia,related,派遣／援助关系,TP,39–41,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-members,tp,tp-protennoia,tp-members,related,关联／所属,TP,35–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-tp-seals,tp,tp-members,tp-seals,related,关联／所属,TP,48–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-father,eg,eg-spirit,eg-father,related,关联／所属,EG,40–44,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-mother,eg,eg-spirit,eg-mother,related,关联／所属,EG,40–44,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-son,eg,eg-spirit,eg-son,related,关联／所属,EG,40–44,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-doxomedon,eg,eg-spirit,eg-doxomedon,related,关联／所属,EG,40–44,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-autogenes,eg,eg-son,eg-autogenes,related,关联／所属,EG,44–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-triple,eg,eg-son,eg-triple,related,关联／所属,EG,44–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-youel,eg,eg-son,eg-youel,related,关联／所属,EG,44–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-esephech,eg,eg-son,eg-esephech,related,关联／所属,EG,44–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-adamas,eg,eg-autogenes,eg-adamas,related,关联／所属,EG,49–50,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-seth,eg,eg-adamas,eg-seth,related,关联／所属,EG,50–65,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-lights,eg,eg-autogenes,eg-lights,related,关联／所属,EG,51–56,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-seed,eg,eg-autogenes,eg-seed,related,关联／所属,EG,51–56,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-sophia,eg,eg-lights,eg-sophia,related,关联／所属,EG,56–58,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-sakla,eg,eg-sophia,eg-sakla,related,关联／所属,EG,57–58,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-nebruel,eg,eg-sophia,eg-nebruel,related,关联／所属,EG,57–58,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-twelve,eg,eg-sakla,eg-twelve,related,关联／所属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler0,eg,eg-twelve,eg-ruler0,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler1,eg,eg-twelve,eg-ruler1,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler2,eg,eg-twelve,eg-ruler2,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler3,eg,eg-twelve,eg-ruler3,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler4,eg,eg-twelve,eg-ruler4,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler5,eg,eg-twelve,eg-ruler5,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler6,eg,eg-twelve,eg-ruler6,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler7,eg,eg-twelve,eg-ruler7,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler8,eg,eg-twelve,eg-ruler8,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler9,eg,eg-twelve,eg-ruler9,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler10,eg,eg-twelve,eg-ruler10,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ruler11,eg,eg-twelve,eg-ruler11,related,名单归属,EG,58–59,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-jesseus,eg,eg-seed,eg-jesseus,related,关联／所属,EG,64–67,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-ministers,eg,eg-seed,eg-ministers,related,关联／所属,EG,64–67,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-waters,eg,eg-seed,eg-waters,related,关联／所属,EG,64–67,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-eg-seals,eg,eg-seed,eg-seals,related,关联／所属,EG,64–67,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-first,ps,ps-ineffable,ps-first,related,关联／所属,PS,ch. 1–2; 84–96,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-treasury,ps,ps-first,ps-treasury,related,关联／所属,PS,intro pp. l–li; ch. 7–8; 84–96,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-right,ps,ps-first,ps-right,related,关联／所属,PS,intro pp. l–li; ch. 7–8; 84–96,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-midst,ps,ps-first,ps-midst,related,关联／所属,PS,intro pp. l–li; ch. 7–8; 84–96,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-jeu,ps,ps-treasury,ps-jeu,related,名单归属,PS,books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-melch,ps,ps-treasury,ps-melch,related,名单归属,PS,books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-virgin,ps,ps-treasury,ps-virgin,related,名单归属,PS,books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-sabaothgood,ps,ps-treasury,ps-sabaothgood,related,名单归属,PS,books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-thirteenth,ps,ps-midst,ps-thirteenth,related,关联／所属,PS,ch. 29–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-greatinvisible,ps,ps-thirteenth,ps-greatinvisible,related,关联／所属,PS,ch. 30–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-24,ps,ps-thirteenth,ps-24,related,关联／所属,PS,ch. 30–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-sophia,ps,ps-thirteenth,ps-sophia,related,关联／所属,PS,ch. 30–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-authades,ps,ps-thirteenth,ps-authades,related,关联／所属,PS,ch. 30–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-lion,ps,ps-authades,ps-lion,related,关联／所属,PS,ch. 30–31,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-twelve,ps,ps-thirteenth,ps-twelve,related,关联／所属,PS,intro pp. l–li; books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-fate,ps,ps-thirteenth,ps-fate,related,关联／所属,PS,intro pp. l–li; books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-chaos,ps,ps-thirteenth,ps-chaos,related,关联／所属,PS,intro pp. l–li; books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-dark,ps,ps-thirteenth,ps-dark,related,关联／所属,PS,intro pp. l–li; books I–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-jesus,ps,ps-first,ps-jesus,related,派遣／援助关系,PS,ch. 1–2; 30–82; 136ff,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ps-mysteries,ps,ps-jesus,ps-mysteries,related,关联／所属,PS,books II–IV,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-nous,basil,basil-father,basil-nous,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-logos,basil,basil-nous,basil-logos,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-phronesis,basil,basil-logos,basil-phronesis,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-sophia,basil,basil-phronesis,basil-sophia,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-angels,basil,basil-sophia,basil-angels,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-365,basil,basil-angels,basil-365,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-abraxas,basil,basil-365,basil-abraxas,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-world,basil,basil-365,basil-world,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basil-christ,basil,basil-father,basil-christ,related,关联／所属,IR,I.24.3–7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-son1,basilhip,basilhip-seed,basilhip-son1,related,关联／所属,HI,VII.10,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-son2,basilhip,basilhip-seed,basilhip-son2,related,关联／所属,HI,VII.10,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-son3,basilhip,basilhip-seed,basilhip-son3,related,关联／所属,HI,VII.10,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-great,basilhip,basilhip-seed,basilhip-great,related,关联／所属,HI,VII.10–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-second,basilhip,basilhip-seed,basilhip-second,related,关联／所属,HI,VII.10–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-spirit,basilhip,basilhip-seed,basilhip-spirit,related,关联／所属,HI,VII.10–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-sons,basilhip,basilhip-great,basilhip-sons,related,关联／所属,HI,VII.11–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-basilhip-gospel,basilhip,basilhip-son3,basilhip-gospel,related,关联／所属,HI,VII.13–15,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-powers,irbarb,irbarb-barbelo,irbarb-powers,related,关联／所属,IR,I.29.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-christ,irbarb,irbarb-barbelo,irbarb-christ,related,关联／所属,IR,I.29.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-nous,irbarb,irbarb-barbelo,irbarb-nous,related,关联／所属,IR,I.29.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-auto,irbarb,irbarb-barbelo,irbarb-auto,related,关联／所属,IR,I.29.2,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-lights,irbarb,irbarb-auto,irbarb-lights,related,关联／所属,IR,I.29.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-adamas,irbarb,irbarb-auto,irbarb-adamas,related,关联／所属,IR,I.29.2–3,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-sophia,irbarb,irbarb-auto,irbarb-sophia,related,关联／所属,IR,I.29.4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-irbarb-chief,irbarb,irbarb-sophia,irbarb-chief,related,关联／所属,IR,I.29.4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-sophia,ophite,ophite-woman,ophite-sophia,related,关联／所属,IR,I.30.3–4,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r0,ophite,ophite-sophia,ophite-r0,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r1,ophite,ophite-r0,ophite-r1,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r2,ophite,ophite-r1,ophite-r2,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r3,ophite,ophite-r2,ophite-r3,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r4,ophite,ophite-r3,ophite-r4,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r5,ophite,ophite-r4,ophite-r5,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-r6,ophite,ophite-r5,ophite-r6,related,关联／所属,IR,I.30.4–5,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-human,ophite,ophite-sophia,ophite-human,related,关联／所属,IR,I.30.6–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-ophite-return,ophite,ophite-sophia,ophite-return,related,关联／所属,IR,I.30.6–14,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-valvar-horoi,valvar,valvar-valentinus,valvar-horoi,related,关联／所属,IR,I.11.1,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-valvar-demiurge,valvar,valvar-perfect,valvar-demiurge,related,关联／所属,FL,33.7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-valvar-devil,valvar,valvar-demiurge,valvar-devil,related,关联／所属,FL,33.7,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-gt-error,gt,gt-father,gt-error,related,关联／所属,GT,17–19,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-gt-jesus,gt,gt-father,gt-jesus,related,派遣／援助关系,GT,18–24,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-gt-rest,gt,gt-jesus,gt-rest,related,关联／所属,GT,24–43,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-triple,allogenes,allogenes-spirit,allogenes-triple,related,关联／所属,ALL,"XI,3 49–51; 58–61",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-barbelo,allogenes,allogenes-triple,allogenes-barbelo,related,关联／所属,TUR,pp. 531–556,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-kalyptos,allogenes,allogenes-barbelo,allogenes-kalyptos,related,关联／所属,ALL,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-protophanes,allogenes,allogenes-barbelo,allogenes-protophanes,related,关联／所属,ALL,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-autogenes,allogenes,allogenes-barbelo,allogenes-autogenes,related,关联／所属,ALL,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-youel,allogenes,allogenes-barbelo,allogenes-youel,related,名单归属,ALL,"ALL XI,3; ZOS VIII,1",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-allogenes-allogenes,allogenes,allogenes-barbelo,allogenes-allogenes,related,名单归属,ALL,"ALL XI,3; ZOS VIII,1",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-triple,zostrianos,zostrianos-spirit,zostrianos-triple,related,关联／所属,ZOS,"XI,3 49–51; 58–61",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-barbelo,zostrianos,zostrianos-triple,zostrianos-barbelo,related,关联／所属,TUR,pp. 531–556,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-kalyptos,zostrianos,zostrianos-barbelo,zostrianos-kalyptos,related,关联／所属,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-protophanes,zostrianos,zostrianos-barbelo,zostrianos-protophanes,related,关联／所属,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-autogenes,zostrianos,zostrianos-barbelo,zostrianos-autogenes,related,关联／所属,ZOS,"XI,3 45–57; ZOS VIII,1 24–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-lights,zostrianos,zostrianos-autogenes,zostrianos-lights,related,关联／所属,ZOS,"VIII,1 24–25; 61–63",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-perfect,zostrianos,zostrianos-autogenes,zostrianos-perfect,related,关联／所属,ZOS,"VIII,1 24–25; 61–63",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-repent,zostrianos,zostrianos-autogenes,zostrianos-repent,related,关联／所属,ZOS,"VIII,1 8–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-sojourn,zostrianos,zostrianos-autogenes,zostrianos-sojourn,related,关联／所属,ZOS,"VIII,1 8–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-copies,zostrianos,zostrianos-autogenes,zostrianos-copies,related,关联／所属,ZOS,"VIII,1 8–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-atmosphere,zostrianos,zostrianos-autogenes,zostrianos-atmosphere,related,关联／所属,ZOS,"VIII,1 8–25",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-zostrianos,zostrianos,zostrianos-barbelo,zostrianos-zostrianos,related,名单归属,ZOS,"ALL XI,3; ZOS VIII,1",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-aphredon,zostrianos,zostrianos-barbelo,zostrianos-aphredon,related,名单归属,ZOS,"ALL XI,3; ZOS VIII,1",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-zostrianos-authrounios,zostrianos,zostrianos-barbelo,zostrianos-authrounios,related,名单归属,ZOS,"ALL XI,3; ZOS VIII,1",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-triple,mars,mars-invisible,mars-triple,related,关联／所属,MARS,"X,1 4–10",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-barbelo,mars,mars-invisible,mars-barbelo,related,关联／所属,MARS,"X,1 4–10",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-autogenes,mars,mars-invisible,mars-autogenes,related,关联／所属,MARS,"X,1 4–10",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-seals,mars,mars-barbelo,mars-seals,related,关联／所属,MARS,"X,1 2–4; 25–42",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-soul,mars,mars-barbelo,mars-soul,related,关联／所属,MARS,"X,1 2–4; 25–42",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-letters,mars,mars-barbelo,mars-letters,related,关联／所属,MARS,"X,1 2–4; 25–42",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-mars-rest,mars,mars-seals,mars-rest,related,关联／所属,MARS,"X,1 2–4",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-norea-norea,norea,norea-father,norea-norea,related,关联／所属,NOREA,"27,11–28,28",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-norea-autogenes,norea,norea-norea,norea-autogenes,related,关联／所属,NOREA,"27,11–28,28",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-norea-helpers,norea,norea-norea,norea-helpers,related,关联／所属,NOREA,"27,11–28,28",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-norea-imperishable,norea,norea-norea,norea-imperishable,related,关联／所属,NOREA,"27,11–28,28",False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-adam,adamapoc,adamapoc-eternal,adamapoc-adam,related,关联／所属,AA,64–85,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-seth,adamapoc,adamapoc-eternal,adamapoc-seth,related,关联／所属,AA,64–85,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-illuminator,adamapoc,adamapoc-eternal,adamapoc-illuminator,related,关联／所属,AA,64–85,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-kingdoms,adamapoc,adamapoc-illuminator,adamapoc-kingdoms,related,关联／所属,AA,77–85,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-kingless,adamapoc,adamapoc-illuminator,adamapoc-kingless,related,关联／所属,AA,77–85,False,旧条目的主关联；不默认等同父子生育。
+legacy-edge-adamapoc-waters,adamapoc,adamapoc-illuminator,adamapoc-waters,related,关联／所属,AA,77–85,False,旧条目的主关联；不默认等同父子生育。

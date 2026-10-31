@@ -1,0 +1,31 @@
+[
+  {
+    "cache_file": "scratch\\sources\\waldstein_wisse_1995.pdf",
+    "url": "https://rexresearch1.com/DeadSeaScrolls/ApocryphonJohnSynopsisWaldstein.pdf",
+    "sha256": "4de0a4b0f98f8f79b5e62bdbc333ba96b8c3ce55e40cd9222985877b7d5c5782",
+    "pdf_pages_checked": [
+      36,
+      37,
+      38,
+      49,
+      64,
+      65,
+      66
+    ],
+    "method": "English edition extraction and selected rendered-page inspection; not independent Coptic translation"
+  },
+  {
+    "cache_file": "scratch\\sources\\nag_hammadi_library_english.pdf",
+    "url": "https://rexresearch1.com/DeadSeaScrolls/NagHammadilibraryEnglish.pdf",
+    "sha256": "8da844b38f9f03f619fdbcdf1a0ed6eabf80b708479d031a097d26bc999b9c31",
+    "pdf_pages_checked": [
+      9,
+      10,
+      64,
+      71,
+      190,
+      194
+    ],
+    "method": "English edition extraction and selected rendered-page inspection; not independent Coptic translation"
+  }
+]

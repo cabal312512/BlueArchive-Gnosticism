@@ -1,0 +1,573 @@
+[
+  {
+    "id": "AJ-L",
+    "title": "Apocryphon of John — long recension",
+    "url": "https://www.gnosis.org/naghamm/apocjn-long.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "AJ-S",
+    "title": "Apocryphon of John — short recension",
+    "url": "https://www.gnosis.org/naghamm/apocjn-short.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "AJ-M",
+    "title": "Apocryphon of John — Meyer translation",
+    "url": "https://www.gnosis.org/naghamm/apocjn-meyer.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "AJ-D",
+    "title": "Apocryphon of John — Davies translation",
+    "url": "https://www.gnosis.org/naghamm/apocjn-davies.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "HA",
+    "title": "Hypostasis of the Archons",
+    "url": "https://www.gnosis.org/naghamm/hypostas.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "OW",
+    "title": "On the Origin of the World",
+    "url": "https://www.gnosis.org/naghamm/origin.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "TT",
+    "title": "Tripartite Tractate",
+    "url": "https://www.gnosis.org/naghamm/tripart.htm",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "VE",
+    "title": "A Valentinian Exposition",
+    "url": "https://www.gnosis.org/naghamm/valex.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "GT",
+    "title": "Gospel of Truth",
+    "url": "https://www.gnosis.org/naghamm/gostruth.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "EUG",
+    "title": "Eugnostos the Blessed",
+    "url": "https://www.gnosis.org/naghamm/eugn.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "SJC",
+    "title": "Sophia of Jesus Christ",
+    "url": "https://www.gnosis.org/naghamm/sjc.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "TP",
+    "title": "Trimorphic Protennoia",
+    "url": "https://www.gnosis.org/naghamm/trimorph.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "EG",
+    "title": "Holy Book of the Great Invisible Spirit",
+    "url": "https://www.gnosis.org/naghamm/goseqypt.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "ALL",
+    "title": "Allogenes — Turner annotated translation",
+    "url": "https://gnosis.org/naghamm/allogenes-jdt-ln.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "ZOS",
+    "title": "Zostrianos — Turner indexed translation",
+    "url": "https://www.gnosis.org/naghamm/zostr-jdt-indexed.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "FLORA",
+    "title": "Ptolemy: Letter to Flora",
+    "url": "https://www.gnosis.org/library/flora.htm",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "PS-30",
+    "title": "Pistis Sophia, chapter 30",
+    "url": "https://www.gnosis.org/library/pistis-sophia/ps034.htm",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "PS-INTRO",
+    "title": "Pistis Sophia, Mead introduction",
+    "url": "https://gnosis.org/library/pistis-sophia/ps003.htm",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "IR-1",
+    "title": "Irenaeus: Against Heresies I.1",
+    "url": "https://www.newadvent.org/fathers/0103101.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103101.htm",
+    "bytes": 12719,
+    "sha256": "769e4eea060b19db382e2ae7c870ebaba1261aa024046d2e35a2231e72aab66f",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-1.html",
+    "downloaded_utc": "2026-10-31T07:04:15.978474+00:00"
+  },
+  {
+    "id": "IR-2",
+    "title": "Irenaeus: Against Heresies I.2",
+    "url": "https://www.newadvent.org/fathers/0103102.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103102.htm",
+    "bytes": 17199,
+    "sha256": "5e26a9beac2505aa8470d991399b588b1c2ec9099ca6347c62d6fae8495ae221",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-2.html",
+    "downloaded_utc": "2026-10-31T07:04:15.972996+00:00"
+  },
+  {
+    "id": "IR-3",
+    "title": "Irenaeus: Against Heresies I.3",
+    "url": "https://www.newadvent.org/fathers/0103103.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103103.htm",
+    "bytes": 18505,
+    "sha256": "4c8c2ef9ce6ddacdc6f5ce32694905b220cc6f1dd9b79607331b4f6668aae1fc",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-3.html",
+    "downloaded_utc": "2026-10-31T07:04:16.045494+00:00"
+  },
+  {
+    "id": "IR-4",
+    "title": "Irenaeus: Against Heresies I.4",
+    "url": "https://www.newadvent.org/fathers/0103104.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103104.htm",
+    "bytes": 17021,
+    "sha256": "4db5cf33671c438fdd4d2661895d8ec4a81e7ce4344375903f71819ec80872cd",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-4.html",
+    "downloaded_utc": "2026-10-31T07:04:15.994164+00:00"
+  },
+  {
+    "id": "IR-5",
+    "title": "Irenaeus: Against Heresies I.5",
+    "url": "https://www.newadvent.org/fathers/0103105.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103105.htm",
+    "bytes": 18311,
+    "sha256": "669b1ba183e4a856d81208df59a6680e09e8b073a037098c72a48c88c2206f79",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-5.html",
+    "downloaded_utc": "2026-10-31T07:04:16.044724+00:00"
+  },
+  {
+    "id": "IR-6",
+    "title": "Irenaeus: Against Heresies I.6",
+    "url": "https://www.newadvent.org/fathers/0103106.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103106.htm",
+    "bytes": 16032,
+    "sha256": "344eedca30e595e54e9d86a5ed9f8de42b76b6332576dc018722ddb2ed8079d1",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-6.html",
+    "downloaded_utc": "2026-10-31T07:04:16.234934+00:00"
+  },
+  {
+    "id": "IR-7",
+    "title": "Irenaeus: Against Heresies I.7",
+    "url": "https://www.newadvent.org/fathers/0103107.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103107.htm",
+    "bytes": 16075,
+    "sha256": "d4582bf5cdba6dfc613aef4d2f39cb1b3c8899637669e692fc771449361c4e9c",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-7.html",
+    "downloaded_utc": "2026-10-31T07:04:16.241144+00:00"
+  },
+  {
+    "id": "IR-11",
+    "title": "Irenaeus: Against Heresies I.11",
+    "url": "https://www.newadvent.org/fathers/0103111.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103111.htm",
+    "bytes": 15695,
+    "sha256": "350343463bfa38fadb5391e9939a7c1548bd6fbea8dd22529b6bb3d3ee54da99",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-11.html",
+    "downloaded_utc": "2026-10-31T07:04:16.250329+00:00"
+  },
+  {
+    "id": "IR-12",
+    "title": "Irenaeus: Against Heresies I.12",
+    "url": "https://www.newadvent.org/fathers/0103112.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103112.htm",
+    "bytes": 12483,
+    "sha256": "82d756b08ec54df5d79ce18f90a006ed3393dff61f7f1f9a289c1966d045b65d",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-12.html",
+    "downloaded_utc": "2026-10-31T07:04:16.664323+00:00"
+  },
+  {
+    "id": "IR-24",
+    "title": "Irenaeus: Against Heresies I.24",
+    "url": "https://www.newadvent.org/fathers/0103124.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103124.htm",
+    "bytes": 18134,
+    "sha256": "bcb4ba0d548bd48eb67d4fbf7a4cd154ff6eda09d40254aa5fbdb896267ba34e",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-24.html",
+    "downloaded_utc": "2026-10-31T07:04:16.514186+00:00"
+  },
+  {
+    "id": "IR-29",
+    "title": "Irenaeus: Against Heresies I.29",
+    "url": "https://www.newadvent.org/fathers/0103129.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103129.htm",
+    "bytes": 13723,
+    "sha256": "6d8a82c5616a5b3bffe7a94bf7ef7d368d9e1df594eb634e8ac5e6ba9c341f20",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-29.html",
+    "downloaded_utc": "2026-10-31T07:04:16.727294+00:00"
+  },
+  {
+    "id": "IR-30",
+    "title": "Irenaeus: Against Heresies I.30",
+    "url": "https://www.newadvent.org/fathers/0103130.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/0103130.htm",
+    "bytes": 30257,
+    "sha256": "fc34f1a7aaef3af040c975290505c1bcf0561de7853b4005cd97573ac5062f3f",
+    "file": "01_sources\\gnostic_readings\\downloads\\IR-30.html",
+    "downloaded_utc": "2026-10-31T07:04:16.723519+00:00"
+  },
+  {
+    "id": "HIPP-VI",
+    "title": "Hippolytus: Refutation, book VI",
+    "url": "https://www.newadvent.org/fathers/050106.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/050106.htm",
+    "bytes": 151165,
+    "sha256": "4c7bb08aefd2233ff3b0e8a2a6c242221ed23531fbe12bce06e3f52f682411d1",
+    "file": "01_sources\\gnostic_readings\\downloads\\HIPP-VI.html",
+    "downloaded_utc": "2026-10-31T07:04:16.887518+00:00"
+  },
+  {
+    "id": "HIPP-VII",
+    "title": "Hippolytus: Refutation, book VII",
+    "url": "https://www.newadvent.org/fathers/050107.htm",
+    "status": "downloaded",
+    "final_url": "https://www.newadvent.org/fathers/050107.htm",
+    "bytes": 107165,
+    "sha256": "1c1a2323169e3c7e0e472c4979c6167f8639bffd580775614da23f4c4b18d5e3",
+    "file": "01_sources\\gnostic_readings\\downloads\\HIPP-VII.html",
+    "downloaded_utc": "2026-10-31T07:04:17.014269+00:00"
+  },
+  {
+    "id": "NARBONNE-STUDIES",
+    "title": "Salut gnostique et metaphysique plotinienne: Cinq etudes",
+    "url": "https://www.pulaval.com/libreacces/9782763759319.pdf",
+    "status": "downloaded",
+    "final_url": "https://www.pulaval.com/libreacces/9782763759319.pdf",
+    "bytes": 4568717,
+    "sha256": "f77927697bec1a1f298a5d9259a15c9276c0d6a98244b7d6f8a0b2a299c2e5e1",
+    "file": "01_sources/gnostic_readings/downloads/NARBONNE-STUDIES.pdf",
+    "downloaded_utc": "2026-10-31T07:04:19.458478+00:00",
+    "verification_note": "Title page checked; NOT Turner 2001, despite initial search attribution. Contextual secondary research, not an ancient primary text."
+  },
+  {
+    "id": "THOMASSEN-CH",
+    "title": "The Valentinian reception of Gnostic protology — open-access chapter",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110705829-009/pdf?licenseType=free",
+    "status": "failed",
+    "final_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110705829-009/pdf?licenseType=free",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "file": "01_sources\\gnostic_readings\\downloads\\THOMASSEN-CH.html",
+    "downloaded_utc": "2026-10-31T07:04:16.613818+00:00",
+    "error": "Empty response; not a verified PDF"
+  },
+  {
+    "id": "AJ-W",
+    "title": "Apocryphon of John — Wisse composite translation",
+    "url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+    "bytes": 80286,
+    "sha256": "2fb9e2839e6e5863db4e028ee9d9b8d342e85b30964c79d8acbd48bdb9fc5430",
+    "file": "01_sources\\gnostic_readings\\downloads\\AJ-W.html",
+    "downloaded_utc": "2026-10-31T07:05:36.147260+00:00"
+  },
+  {
+    "id": "HA-E",
+    "title": "Hypostasis of the Archons",
+    "url": "https://www.earlychristianwritings.com/text/archons.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/archons.html",
+    "bytes": 49076,
+    "sha256": "46dd906dc6d6ac3ac362b2eb50cf65e6313cb15fd382d42f8a82794a99d8e66f",
+    "file": "01_sources\\gnostic_readings\\downloads\\HA-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.151671+00:00"
+  },
+  {
+    "id": "OW-E",
+    "title": "On the Origin of the World",
+    "url": "https://www.earlychristianwritings.com/text/originworld.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/originworld.html",
+    "bytes": 78861,
+    "sha256": "91b39df2bf3bfeefb2068fe7037d86a9db8ad5e26cd0136aa82bfe2dd3812f35",
+    "file": "01_sources\\gnostic_readings\\downloads\\OW-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.096355+00:00"
+  },
+  {
+    "id": "TT-E",
+    "title": "Tripartite Tractate",
+    "url": "https://www.earlychristianwritings.com/text/tripartite.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/tripartite.html",
+    "bytes": 147642,
+    "sha256": "78e6b8ed3b2b8057efc72f4579d220f73c4170f2b72fc3cd5a3c4d92fa707c44",
+    "file": "01_sources\\gnostic_readings\\downloads\\TT-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.260537+00:00"
+  },
+  {
+    "id": "VE-E",
+    "title": "A Valentinian Exposition",
+    "url": "https://www.earlychristianwritings.com/text/valentinianexposition.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "GT-E",
+    "title": "Gospel of Truth",
+    "url": "https://www.earlychristianwritings.com/text/gospeltruth.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/gospeltruth.html",
+    "bytes": 62087,
+    "sha256": "28d61a9d1a57522586ef46dfdc3a52afc2b6da0ee95a9c2f663693eb7fdfc062",
+    "file": "01_sources\\gnostic_readings\\downloads\\GT-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.092817+00:00"
+  },
+  {
+    "id": "EUG-E",
+    "title": "Eugnostos the Blessed",
+    "url": "https://www.earlychristianwritings.com/text/eugnostos.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/eugnostos.html",
+    "bytes": 44912,
+    "sha256": "3735063bcf96ca86fe5c91fd722ad45c165d60a829a9a792a8332edce9865011",
+    "file": "01_sources\\gnostic_readings\\downloads\\EUG-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.054130+00:00"
+  },
+  {
+    "id": "SJC-E",
+    "title": "Sophia of Jesus Christ",
+    "url": "https://www.earlychristianwritings.com/text/sophia.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/sophia.html",
+    "bytes": 50955,
+    "sha256": "228c9961d4103f8802e4e1b5e4e58fbefee87fc486fae19bbd666d76f57ab3b7",
+    "file": "01_sources\\gnostic_readings\\downloads\\SJC-E.html",
+    "downloaded_utc": "2026-10-31T07:05:36.866101+00:00"
+  },
+  {
+    "id": "TP-E",
+    "title": "Trimorphic Protennoia",
+    "url": "https://www.earlychristianwritings.com/text/trimorphic.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/trimorphic.html",
+    "bytes": 53976,
+    "sha256": "179f1b67b75e043f6eaeefc870cb9f2ad1a15237db3ade0814948faef2573c79",
+    "file": "01_sources\\gnostic_readings\\downloads\\TP-E.html",
+    "downloaded_utc": "2026-10-31T07:05:37.156472+00:00"
+  },
+  {
+    "id": "EG-GREEK",
+    "title": "Greek Gospel of the Egyptians — fragments",
+    "url": "https://www.earlychristianwritings.com/text/egyptians.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/egyptians.html",
+    "bytes": 34514,
+    "sha256": "7900b84d9bd89ac50edf06b7e9b5301585e3828f92d193b3c2e441843b701a11",
+    "file": "01_sources\\gnostic_readings\\downloads\\EG-E.html",
+    "downloaded_utc": "2026-10-31T07:05:37.133774+00:00",
+    "verification_note": "Different work from Coptic Holy Book of the Great Invisible Spirit; excluded from Coptic hierarchy."
+  },
+  {
+    "id": "ALL-E",
+    "title": "Allogenes",
+    "url": "https://www.earlychristianwritings.com/text/allogenes.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/allogenes.html",
+    "bytes": 54048,
+    "sha256": "a23652ba8e39df211aa129bfbf1f1e1a91c63d7e8e857d8e9698254b14f353d6",
+    "file": "01_sources\\gnostic_readings\\downloads\\ALL-E.html",
+    "downloaded_utc": "2026-10-31T07:05:37.312343+00:00"
+  },
+  {
+    "id": "ZOS-E",
+    "title": "Zostrianos",
+    "url": "https://www.earlychristianwritings.com/text/zostrianos.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/zostrianos.html",
+    "bytes": 113171,
+    "sha256": "023790e17c4990d081d36bcb85657adea6c3f03fd97691b9db5c5cec30f6e14b",
+    "file": "01_sources\\gnostic_readings\\downloads\\ZOS-E.html",
+    "downloaded_utc": "2026-10-31T07:05:37.383607+00:00"
+  },
+  {
+    "id": "FLORA-E",
+    "title": "Letter to Flora",
+    "url": "https://www.earlychristianwritings.com/text/flora.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/flora.html",
+    "bytes": 45567,
+    "sha256": "06d16ab867fe4c4bc925c011afb41f0d02e41f930cde1e1ed9858f12b7d4b59b",
+    "file": "01_sources\\gnostic_readings\\downloads\\FLORA-E.html",
+    "downloaded_utc": "2026-10-31T07:05:37.364763+00:00"
+  },
+  {
+    "id": "PS-30-E",
+    "title": "Pistis Sophia chapter 30 — Mead translation",
+    "url": "https://sacred-texts.com/gno/ps/ps034.htm",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "EG-COPTIC",
+    "title": "Holy Book of the Great Invisible Spirit",
+    "url": "https://www.earlychristianwritings.com/text/greatspirit.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/greatspirit.html",
+    "bytes": 59081,
+    "sha256": "8a091aa89f53d2ca31d0b87a732c33297b3558c11f8c56c25d943e24cda89e5e",
+    "file": "01_sources\\gnostic_readings\\downloads\\EG-COPTIC.html",
+    "downloaded_utc": "2026-10-31T07:06:53.854460+00:00"
+  },
+  {
+    "id": "PS-MEAD",
+    "title": "Pistis Sophia — Mead 1921 revised edition",
+    "url": "https://iapsop.com/ssoc/1921__mead___pistis_sophia.pdf",
+    "status": "downloaded",
+    "final_url": "https://iapsop.com/ssoc/1921__mead___pistis_sophia.pdf",
+    "bytes": 27269381,
+    "sha256": "1eebe4cd841fd9d47546700a27cca5074cc0c4ebb8abf29ca83f78fbe4d13d5f",
+    "file": "01_sources\\gnostic_readings\\downloads\\PS-MEAD.pdf",
+    "downloaded_utc": "2026-10-31T07:06:56.855697+00:00"
+  },
+  {
+    "id": "PS-HTML",
+    "title": "Pistis Sophia — Mead text",
+    "url": "https://www.sophiascriptura.com/fathers/pistis-sophia/",
+    "status": "downloaded",
+    "final_url": "https://www.sophiascriptura.com/fathers/pistis-sophia/",
+    "bytes": 39427,
+    "sha256": "5f5ae97c5078082a8e0f79cead394b1c2065dcfc6ea798da4f002fabea83d05f",
+    "file": "01_sources\\gnostic_readings\\downloads\\PS-HTML.html",
+    "downloaded_utc": "2026-10-31T07:06:53.392324+00:00"
+  },
+  {
+    "id": "VE-ALT",
+    "title": "A Valentinian Exposition",
+    "url": "https://www.earlychristianwritings.com/text/valentinian.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/valentinian.html",
+    "bytes": 42961,
+    "sha256": "3244b2a5236bf25617bfeec5cde59f78ae39f231af203e5cf6438a9ea0a497fc",
+    "file": "01_sources\\gnostic_readings\\downloads\\VE-ALT.html",
+    "downloaded_utc": "2026-10-31T07:06:53.880754+00:00"
+  },
+  {
+    "id": "TURNER-2001-VERIFIED",
+    "title": "Turner, Sethian Gnosticism and the Platonic Tradition (2001)",
+    "url": "https://christgnostic.com/wp-content/uploads/2023/02/Turner-J.D.-Sethian-Gnosticism-and-the-Platonic-Tradition.pdf",
+    "status": "downloaded",
+    "final_url": "https://christgnostic.com/wp-content/uploads/2023/02/Turner-J.D.-Sethian-Gnosticism-and-the-Platonic-Tradition.pdf",
+    "bytes": 47386241,
+    "sha256": "fa4bb64e9c81ef011eb557a67664c40383ef2f01a1db7da963e97a8b596184e1",
+    "file": "01_sources\\gnostic_readings\\downloads\\TURNER-2001-VERIFIED.pdf",
+    "downloaded_utc": "2026-10-31T07:07:23.321863+00:00"
+  },
+  {
+    "id": "STEL",
+    "title": "Three Steles of Seth",
+    "url": "https://www.earlychristianwritings.com/text/threesteles.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "MARS",
+    "title": "Marsanes",
+    "url": "https://www.earlychristianwritings.com/text/marsanes.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/marsanes.html",
+    "bytes": 53535,
+    "sha256": "1595cc5a0101dc34733e89e90361606e6a8256c5ea8fb963befbc496fb08dcab",
+    "file": "01_sources\\gnostic_readings\\downloads\\MARS.html",
+    "downloaded_utc": "2026-10-31T07:22:42.381161+00:00"
+  },
+  {
+    "id": "AA",
+    "title": "Apocalypse of Adam",
+    "url": "https://www.earlychristianwritings.com/text/apocalypseadam.html",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "NOREA",
+    "title": "Thought of Norea",
+    "url": "https://www.earlychristianwritings.com/text/norea.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/norea.html",
+    "bytes": 31690,
+    "sha256": "c3b9735f83610adc14d348e62422941d4809f9fa5598a38e00d053ebb08b15c0",
+    "file": "01_sources\\gnostic_readings\\downloads\\NOREA.html",
+    "downloaded_utc": "2026-10-31T07:22:42.152879+00:00"
+  },
+  {
+    "id": "MELCH",
+    "title": "Melchizedek",
+    "url": "https://www.earlychristianwritings.com/text/melchizedek.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/melchizedek.html",
+    "bytes": 44300,
+    "sha256": "86eae2df107ab47fc7ee10a507b501b836f790b518d086a017da5de53a3181a8",
+    "file": "01_sources\\gnostic_readings\\downloads\\MELCH.html",
+    "downloaded_utc": "2026-10-31T07:22:42.327683+00:00"
+  },
+  {
+    "id": "STEL-CORRECT",
+    "title": "Three Steles of Seth",
+    "url": "https://www.earlychristianwritings.com/text/steles.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1147)>"
+  },
+  {
+    "id": "AA-CORRECT",
+    "title": "Apocalypse of Adam",
+    "url": "https://www.earlychristianwritings.com/text/adam.html",
+    "status": "downloaded",
+    "final_url": "https://www.earlychristianwritings.com/text/adam.html",
+    "bytes": 47364,
+    "sha256": "d6bc3b3cf55fb5835878adae1e29510401fc53e90d8fbdb6d47a035083ea8cd2",
+    "file": "01_sources\\gnostic_readings\\downloads\\AA-CORRECT.html",
+    "downloaded_utc": "2026-10-31T07:23:27.867614+00:00"
+  }
+]

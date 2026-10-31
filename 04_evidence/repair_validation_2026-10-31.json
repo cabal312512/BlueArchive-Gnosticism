@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-31",
+  "model_label": "GPT 6.1 Sol",
+  "schema_version": 2,
+  "raw_text_records_verified": 237386,
+  "sources": [
+    {
+      "file": "ScenarioScriptExcelTable1.json",
+      "nonempty_records_verified": 160798,
+      "sha256_verified": true
+    },
+    {
+      "file": "ScenarioScriptExcelTable2.json",
+      "nonempty_records_verified": 76588,
+      "sha256_verified": true
+    }
+  ],
+  "all_primary_markdown_paths_exist": true,
+  "research_quotation_blocks_verified": 209,
+  "bilingual_scene_records": 154,
+  "regression_tests_passed": 18,
+  "legacy_database_preserved": true,
+  "limitations": [
+    "Checks prove extraction and quotation consistency for the selected shards, not completeness of all released stories.",
+    "Chinese translations are working translations; metaphysical interpretations remain separately graded.",
+    "Unresolved speaker aliases and unmatched legacy text variants remain documented."
+  ]
+}

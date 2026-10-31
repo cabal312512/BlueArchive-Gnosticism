@@ -1,0 +1,22 @@
+{
+  "stable_ids_and_source_text": 237386,
+  "game_cards_verified": 70,
+  "legacy_retrievable": 395866,
+  "legacy_preserved_variants": 151,
+  "difference_blocks": 122,
+  "normalized_difference_groups": 79,
+  "text_kinds": {
+    "choice_text": 22495,
+    "control_or_display_text": 98,
+    "ending": 105,
+    "hidden_label_text": 1,
+    "named_dialogue": 196501,
+    "next_episode": 564,
+    "place": 1357,
+    "quiz_question_and_choices": 9,
+    "screen_text": 5941,
+    "title": 2722,
+    "unnamed_text": 7593
+  },
+  "regression_tests_passed": 23
+}

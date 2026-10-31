@@ -1,0 +1,1056 @@
+[
+  {
+    "card_id": "BA-6",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 6,
+    "group_id": 11000,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 37,
+    "text_jp": "私の選択、そしてそれによって招かれたこの全ての状況。",
+    "translation_zh": "我的选择，以及由此招致的这一切状况。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "？？？",
+    "speaker_key_raw": "???"
+  },
+  {
+    "card_id": "BA-20",
+    "topics": [
+      "H1",
+      "H7"
+    ],
+    "dialogue_id": 20,
+    "group_id": 11000,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 77,
+    "text_jp": "私が信じられる大人である、あなたになら、",
+    "translation_zh": "如果是我所信赖的大人——你，",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "？？？",
+    "speaker_key_raw": "???"
+  },
+  {
+    "card_id": "BA-21",
+    "topics": [
+      "H1",
+      "H7"
+    ],
+    "dialogue_id": 21,
+    "group_id": 11000,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 78,
+    "text_jp": "この[ruby=ね]捻[/ruby]じれて歪んだ先の終着点とは、また別の結果を……。",
+    "translation_zh": "面对这个扭曲歪斜的前方终点，或许能得到另一个不同的结果……。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "？？？",
+    "speaker_key_raw": "???"
+  },
+  {
+    "card_id": "BA-22",
+    "topics": [
+      "H1",
+      "H7"
+    ],
+    "dialogue_id": 22,
+    "group_id": 11000,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 79,
+    "text_jp": "そこへ繋がる選択肢は……きっと見つかるはずです。",
+    "translation_zh": "通往那里的选项……一定能够找到。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "？？？",
+    "speaker_key_raw": "???"
+  },
+  {
+    "card_id": "BA-3692",
+    "topics": [
+      "H7"
+    ],
+    "dialogue_id": 3692,
+    "group_id": 12160,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 4867,
+    "text_jp": "[s] \"それが、大人のやるべきことだから。\"",
+    "translation_zh": "“因为那是大人应该做的事。”",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "",
+    "speaker_key_raw": ""
+  },
+  {
+    "card_id": "BA-9957",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 9957,
+    "group_id": 32175,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 13880,
+    "text_jp": "でもヘイローを破壊しろとは言ってないよ。私は人殺しじゃない。",
+    "translation_zh": "但我没说要破坏光环啊。我又不是杀人犯。",
+    "boundary_zh": "A：米卡把破坏光环与杀人联系；需保留这是角色辩解。",
+    "speaker_jp": "ミカ",
+    "speaker_key_raw": "미카"
+  },
+  {
+    "card_id": "BA-10191",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 10191,
+    "group_id": 33010,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 14254,
+    "text_jp": "「ヘイローを壊す」……つまり誰かが、私の死を願っている。",
+    "translation_zh": "“破坏光环”……也就是说，有人希望我死。",
+    "boundary_zh": "A：圣亚明确解释用语。支持光环与生命的联系；不直接定义其物质构成。",
+    "speaker_jp": "セイア",
+    "speaker_key_raw": "세이아"
+  },
+  {
+    "card_id": "BA-17434",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 17434,
+    "group_id": 34245,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 26777,
+    "text_jp": "その爆弾が実際にヘイローを破壊できるかどうかを一度も確認できませんでした。私の計画は断じてそうではなかったのですが……#nまぁ、ですから、それは廃棄する予定です。",
+    "translation_zh": "我一次都没能确认过，那枚炸弹究竟能不能真的破坏光环。我的计划本来绝不是这样……总之，打算把它废弃。",
+    "boundary_zh": "A：制造者声明未实际验证，不能把所有“破环炸弹”说法当作已验证实验。",
+    "speaker_jp": "ゴルコンダ",
+    "speaker_key_raw": "골콩트"
+  },
+  {
+    "card_id": "BA-18971",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 18971,
+    "group_id": 22090,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 30047,
+    "text_jp": "ああでも……貴方のソレは本当にヘイローなのかしら？",
+    "translation_zh": "不过……你那东西真的算光环吗？",
+    "boundary_zh": "A：莉音对爱丽丝的光环提出疑问，不能略掉该疑问后强定本质。",
+    "speaker_jp": "リオ",
+    "speaker_key_raw": "리오"
+  },
+  {
+    "card_id": "BA-18972",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 18972,
+    "group_id": 22090,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 30048,
+    "text_jp": "生徒ではない貴方が、どうしてヘイローを持っているのか……#n理由は分からないけれど――",
+    "translation_zh": "不是学生的你，为什么会有光环……理由虽然不清楚——",
+    "boundary_zh": "A：文本提出非普通学生／机械个体的光环问题，不等于给出生成机制。",
+    "speaker_jp": "リオ",
+    "speaker_key_raw": "리오"
+  },
+  {
+    "card_id": "BA-20833",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 20833,
+    "group_id": 101020,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 33757,
+    "text_jp": "そうだな……彼らは端的に言うなら、キヴォトス以前に存在していた[ruby= ・    ・    ・    ・    ・    ・ ]この世界の主[/ruby]のことだ。",
+    "translation_zh": "是啊……简而言之，他们就是在基沃托斯之前便已存在的这个世界的主人。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "マエストロ",
+    "speaker_key_raw": "마에스트로"
+  },
+  {
+    "card_id": "BA-20836",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 20836,
+    "group_id": 101020,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 33761,
+    "text_jp": "「名もなき神」――それは大地、海原、天災といった……所謂、太古の昔より存在する「神秘」や「恐怖」――とでも申しましょうか。#n彼らは自然を[ruby=かたど]模[/ruby]った形で顕現するとされております。",
+    "translation_zh": "“无名之神”——大地、海洋、天灾之类……可以说是自太古就存在的“神秘”或“恐怖”吧。据说他们以仿照自然的形态显现。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복"
+  },
+  {
+    "card_id": "BA-22125",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 22125,
+    "group_id": 101130,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 35938,
+    "text_jp": "「クラフトチェンバー」は、連邦生徒会長が残した、物質生成器。#n本来、シッテムの箱の管理者だけが接続できるのですが……",
+    "translation_zh": "“Craft Chamber”是联邦学生会长留下的物质生成器。本来只有什亭之箱的管理者能够连接……。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "アロナ",
+    "speaker_key_raw": "아로나"
+  },
+  {
+    "card_id": "BA-22360",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 22360,
+    "group_id": 101150,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 36357,
+    "text_jp": "命あるすべてを常世へと導く、[ruby=アヌビス]死の神[/ruby]……",
+    "translation_zh": "将一切生灵引向常世的死之神——阿努比斯……。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복"
+  },
+  {
+    "card_id": "BA-24212",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 24212,
+    "group_id": 103040,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 40104,
+    "text_jp": "その正体は――この大地に埋葬されし、#n古のキヴォトスの民「名もなき神」の遺産。",
+    "translation_zh": "其真实身份——是埋葬在这片大地之下的，古老基沃托斯之民“无名之神”的遗产。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복 부상"
+  },
+  {
+    "card_id": "BA-24213",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 24213,
+    "group_id": 103040,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 40105,
+    "text_jp": "そうですね……所謂、古代文明によって生み出された物――と捉えていただけたらと。",
+    "translation_zh": "是的……可以将其理解为，所谓由古代文明制造出来的东西。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복 부상"
+  },
+  {
+    "card_id": "BA-24214",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 24214,
+    "group_id": 103040,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 40106,
+    "text_jp": "あなた方が発見したAL-1Sや、デカグラマトンにハッキングされる以前の預言者などが、そういった存在の一つでした。",
+    "translation_zh": "你们发现的AL-1S，以及被十神名入侵之前的预言者等，都是这一类存在。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복 부상"
+  },
+  {
+    "card_id": "BA-25093",
+    "topics": [
+      "H7"
+    ],
+    "dialogue_id": 25093,
+    "group_id": 103100,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 41953,
+    "text_jp": "何故、既に定められた運命を変えられると考えるのですか？#n何故、破滅を迎える未来にあえて突き進むのでしょうか？",
+    "translation_zh": "为什么您会认为能改变早已注定的命运？为什么偏偏要向着毁灭的未来前进呢？",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "黒服",
+    "speaker_key_raw": "검은 양복 부상"
+  },
+  {
+    "card_id": "BA-25179",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 25179,
+    "group_id": 103110,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 42233,
+    "text_jp": "……私のミスでした。",
+    "translation_zh": "……是我的失误。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "連邦生徒会長",
+    "speaker_key_raw": "총학생회장"
+  },
+  {
+    "card_id": "BA-26826",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 26826,
+    "group_id": 104120,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 45784,
+    "text_jp": "演算完了。仮説を確認。",
+    "translation_zh": "运算完毕。确认假说。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "プラナ",
+    "speaker_key_raw": "프라나"
+  },
+  {
+    "card_id": "BA-26827",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 26827,
+    "group_id": 104120,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 45785,
+    "text_jp": "「Q.E.D.」――証明完了。",
+    "translation_zh": "“Q.E.D.”—证明完毕。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "プラナ",
+    "speaker_key_raw": "프라나"
+  },
+  {
+    "card_id": "BA-26829",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 26829,
+    "group_id": 104120,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 45788,
+    "text_jp": "シッテムの箱のOS、A.R.O.N.Aである私と、アロナ先輩……#nなぜ二人が似て非なる存在であるのか……理解しました。",
+    "translation_zh": "作为什亭之箱OS、A.R.O.N.A的我，与阿罗娜前辈……为什么两人是相似而不同的存在……我理解了。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "プラナ",
+    "speaker_key_raw": "프라나"
+  },
+  {
+    "card_id": "BA-26830",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 26830,
+    "group_id": 104120,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 45791,
+    "text_jp": "ここに居たのですね……だからこそ、誰にも見つけられなかった。#nそうでしょう？",
+    "translation_zh": "原来在这里啊……因此才没有任何人能够找到。对吧？",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "プラナ",
+    "speaker_key_raw": "프라나"
+  },
+  {
+    "card_id": "BA-26831",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 26831,
+    "group_id": 104120,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 45795,
+    "text_jp": "――――連邦生徒会長。",
+    "translation_zh": "——联邦学生会长。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "プラナ",
+    "speaker_key_raw": "프라나"
+  },
+  {
+    "card_id": "BA-37619",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 37619,
+    "group_id": 13330,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 69030,
+    "text_jp": "神聖の頂点に立ち、最も古く、最も偉大な神々の原点――「ホルス」よ。",
+    "translation_zh": "立于神圣的顶点，最古老、最伟大的众神之原点——荷鲁斯啊。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "地下生活者",
+    "speaker_key_raw": "지하생활자"
+  },
+  {
+    "card_id": "BA-38164",
+    "topics": [
+      "H7"
+    ],
+    "dialogue_id": 38164,
+    "group_id": 13390,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 70196,
+    "text_jp": "大人のカードッ……！？",
+    "translation_zh": "大人的卡片……！？",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "地下生活者",
+    "speaker_key_raw": "지하생활자"
+  },
+  {
+    "card_id": "BA-38166",
+    "topics": [
+      "H7"
+    ],
+    "dialogue_id": 38166,
+    "group_id": 13390,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 70198,
+    "text_jp": "ルールは？コデックスは？#nそんな力に敵うわけがないだろう！？",
+    "translation_zh": "规则呢？法典呢？那种力量怎么可能对抗得了啊！？",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "地下生活者",
+    "speaker_key_raw": "지하생활자"
+  },
+  {
+    "card_id": "BA-47557",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 47557,
+    "group_id": 200002,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 88488,
+    "text_jp": "そういえば……連邦生徒会長は写真を撮るのがお好きでしたね。#n思い出を残すには写真が一番だと。",
+    "translation_zh": "说起来……联邦学生会长很喜欢拍照呢。她说，要留下回忆，照片是最好的方式。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "リン",
+    "speaker_key_raw": "린"
+  },
+  {
+    "card_id": "BA-47571",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 47571,
+    "group_id": 200002,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 88511,
+    "text_jp": "ただ、封筒に書かれた「リンちゃんへ」の筆跡が、連邦生徒会長のものと似ているというだけで……。",
+    "translation_zh": "只是信封上写着的“致小凛”的笔迹，与联邦学生会长的笔迹相似而已……。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "リン",
+    "speaker_key_raw": "린"
+  },
+  {
+    "card_id": "BA-47577",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 47577,
+    "group_id": 200002,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 88521,
+    "text_jp": "これは……2年前かしら。#n連邦生徒会長が就任した頃の写真ね。",
+    "translation_zh": "这是……两年前吧。是联邦学生会长就任时的照片呢。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "アオイ",
+    "speaker_key_raw": "아오이"
+  },
+  {
+    "card_id": "BA-47578",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 47578,
+    "group_id": 200002,
+    "source_file": "ScenarioScriptExcelTable1.json",
+    "source_row": 88522,
+    "text_jp": "史上最年少での就任、と当時話題になりましたよね。",
+    "translation_zh": "当时曾因史上最年轻就任而成为话题呢。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "アユム",
+    "speaker_key_raw": "아유무"
+  },
+  {
+    "card_id": "BA-165646",
+    "topics": [
+      "H5"
+    ],
+    "dialogue_id": 165646,
+    "group_id": 10021016,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 8992,
+    "text_jp": "名が無いために呼ばれず、呼ぶことができないが故に存在しない「名もなき神」のように、お前たちも同じ結末へと向かうだろう。",
+    "translation_zh": "就像因没有名字而不被呼唤、又因无法被呼唤而不存在的“无名之神”一样，你们也会走向同样的结局。",
+    "boundary_zh": "A：祭司的无名—呼唤—存在链条。身份、指称与物理存在的机制仍需解释。",
+    "speaker_jp": "無名の司祭E",
+    "speaker_key_raw": "무명사제 E"
+  },
+  {
+    "card_id": "BA-165648",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 165648,
+    "group_id": 10021016,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 8995,
+    "text_jp": "司祭は神を崇めるがゆえ、「崇高」を所有できる。",
+    "translation_zh": "祭司正因崇拜神，才得以占有“崇高”。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭A",
+    "speaker_key_raw": "무명사제 A"
+  },
+  {
+    "card_id": "BA-165834",
+    "topics": [
+      "H5"
+    ],
+    "dialogue_id": 165834,
+    "group_id": 10021022,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 9406,
+    "text_jp": "お前に「[ruby=プレナパテス]偽りの先生[/ruby]」の名を、与える。",
+    "translation_zh": "赐予你“虚伪的老师［普雷纳帕特斯］”之名。",
+    "boundary_zh": "A：祭司实施命名。是否命名本身造成控制，与随后宣布控制必须区分。",
+    "speaker_jp": "無名の司祭E",
+    "speaker_key_raw": "무명사제 E"
+  },
+  {
+    "card_id": "BA-165835",
+    "topics": [
+      "H5"
+    ],
+    "dialogue_id": 165835,
+    "group_id": 10021022,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 9407,
+    "text_jp": "「色彩の嚮導者」は我々無名の司祭の意志を代弁するのみ。#n己の意志を持てると思うな。",
+    "translation_zh": "“色彩的向导”只代言我们无名祭司的意志。不要以为你能够拥有自己的意志。",
+    "boundary_zh": "A：角色宣称剥夺意志。后续人物行动须核对，不能将宣称当成控制永久有效。",
+    "speaker_jp": "無名の司祭F",
+    "speaker_key_raw": "무명사제 F"
+  },
+  {
+    "card_id": "BA-175586",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 175586,
+    "group_id": 90000025,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 25364,
+    "text_jp": "私のヘイローこそが私を証明する……刮目せよ、私はついに私を証明してみせる。",
+    "translation_zh": "我的光环正是我的证明……睁大眼睛吧，我终于要证明我自己。",
+    "boundary_zh": "A：十神名自称的存在证明；角色自述不能直接当作客观神格确认。",
+    "speaker_jp": "デカグラマトン",
+    "speaker_key_raw": "데카그라마톤"
+  },
+  {
+    "card_id": "BA-176585",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 176585,
+    "group_id": 90001020,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 27087,
+    "text_jp": "そもそも、不完全な「名もなき神」の力は道具にすぎないのです。#nむしろ、完全な私たちが使う方が有効活用できるというもの。",
+    "translation_zh": "说到底，不完全的“无名之神”的力量只是工具。反而由完整的我们使用，才能更有效地利用。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-176587",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 176587,
+    "group_id": 90001020,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 27090,
+    "text_jp": "そう。私たちは忘れられた神々の力を自在に使うことで、それを証明した。",
+    "translation_zh": "没错。我们通过自由使用被遗忘诸神的力量，证明了这一点。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "ソフ",
+    "speaker_key_raw": "소프"
+  },
+  {
+    "card_id": "BA-176589",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 176589,
+    "group_id": 90001020,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 27092,
+    "text_jp": "というか「名もなき神」って仰々しい名前だけど、ただの人工遺物じゃん？人間が使っている化石燃料と同じだよ。",
+    "translation_zh": "说起来，“无名之神”这个名字虽然很夸张，但不就是人工遗物吗？和人类使用的化石燃料一样。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "ソフ",
+    "speaker_key_raw": "소프"
+  },
+  {
+    "card_id": "BA-176590",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 176590,
+    "group_id": 90001020,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 27093,
+    "text_jp": "過去のものから動力を得てるわけだから、あながち間違ってないと思うんだけど……。",
+    "translation_zh": "毕竟是从过去的东西获取动力，我觉得也不完全错……。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "ソフ",
+    "speaker_key_raw": "소프"
+  },
+  {
+    "card_id": "BA-176593",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 176593,
+    "group_id": 90001020,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 27104,
+    "text_jp": "アインが気にすることではありません。またソフが人間が好む例えを使っているだけです。",
+    "translation_zh": "这不是艾因需要在意的事。只是索夫又用了人类喜欢的比喻而已。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-184632",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 184632,
+    "group_id": 90002130,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 41707,
+    "text_jp": "私たちにはヘイローがありません。",
+    "translation_zh": "我们没有光环。",
+    "boundary_zh": "A：奥尔说明己方没有光环；范围限于所指群体。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-184633",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 184633,
+    "group_id": 90002130,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 41708,
+    "text_jp": "つまり神秘や崇高、奇跡、秘密……それらは最初から与えられていないのです。",
+    "translation_zh": "也就是说，神秘、崇高、奇迹、秘密……那些从一开始就没有被赋予我们。",
+    "boundary_zh": "A：角色将光环缺失与神秘等联系；这里仅作光环证据，不展开崇高理论。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-184634",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 184634,
+    "group_id": 90002130,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 41709,
+    "text_jp": "そのくせ、感じることも、考えることも……己で判断することもできるんですから。",
+    "translation_zh": "可即便如此，我们仍能够感受、思考……也能自己作出判断。",
+    "boundary_zh": "A：无光环者仍有感受、思考和判断，限制光环＝一切心灵／人格的强等式。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-184641",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 184641,
+    "group_id": 90002130,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 41720,
+    "text_jp": "私たちには無くても……お姉様は、ヘイローを持っていたので……。",
+    "translation_zh": "即使我们没有……姐姐也有光环……。",
+    "boundary_zh": "A：同一关系群体中有无光环并非一致，需解释个体差异。",
+    "speaker_jp": "アイン",
+    "speaker_key_raw": "아인"
+  },
+  {
+    "card_id": "BA-185003",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 185003,
+    "group_id": 90002150,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 42355,
+    "text_jp": "とはいえ、先生もヘイローが与えられていないんですけどね。",
+    "translation_zh": "虽说老师也没有被赋予光环就是了。",
+    "boundary_zh": "A：对老师的描述；不能由无光环直接否定其伦理或帮助者功能。",
+    "speaker_jp": "オウル",
+    "speaker_key_raw": "오르"
+  },
+  {
+    "card_id": "BA-186046",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186046,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44328,
+    "text_jp": "名もなき神々の力とは本来、「可能性の力」を意味しているのですから。",
+    "translation_zh": "无名众神的力量，本来意味着“可能性之力”。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186060",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186060,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44345,
+    "text_jp": "憂うことはありません。皆から彼方に関する記憶だけを消してしまえばいいのです。",
+    "translation_zh": "不必担忧。只要从大家那里抹去关于你的记忆就可以了。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186118",
+    "topics": [
+      "H3",
+      "H5"
+    ],
+    "dialogue_id": 186118,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44433,
+    "text_jp": "忘却は、彼方たちが[ruby=ここ]キヴォトス[/ruby]に留まるための、最も重要な条件ですから。",
+    "translation_zh": "因为遗忘，是你们留在此处——基沃托斯——最重要的条件。",
+    "boundary_zh": "A：遗忘条件原文；受话范围和全部学生前史另作解释。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186125",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186125,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44440,
+    "text_jp": "アリスはそれを不完全だとは思いません。",
+    "translation_zh": "爱丽丝并不认为那是不完美。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "アリス",
+    "speaker_key_raw": "아리스 결전 비무장"
+  },
+  {
+    "card_id": "BA-186131",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186131,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44446,
+    "text_jp": "そんなものより、お互いを信じて前へ進める一歩が、大切なんです。",
+    "translation_zh": "比起那些，彼此信任、向前迈出的一步，才是重要的。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "アリス",
+    "speaker_key_raw": "아리스 결전 비무장"
+  },
+  {
+    "card_id": "BA-186135",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186135,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44453,
+    "text_jp": "……分かりました。やりたいようにやってごらんなさい。#nそして、私にも見せてください。",
+    "translation_zh": "……我明白了。按你想做的去试试吧。也让我看一看。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186150",
+    "topics": [
+      "H5"
+    ],
+    "dialogue_id": 186150,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44470,
+    "text_jp": "ありがとうございました、名も知れぬ方！",
+    "translation_zh": "谢谢您，不知名的那位！",
+    "boundary_zh": "A：没有被告知名字仍可发生交谈；限制“无名”必须等于绝对无法交互的字面化理解。",
+    "speaker_jp": "アリス",
+    "speaker_key_raw": "아리스 결전 비무장"
+  },
+  {
+    "card_id": "BA-186155",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186155,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44475,
+    "text_jp": "さようなら、アリス。彼方の旅路に、幸運があらんことを。",
+    "translation_zh": "再见，爱丽丝。愿你的旅途常伴幸运。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186157",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186157,
+    "group_id": 10052195,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 44481,
+    "text_jp": "そして……私の正体に気づいているケイも。",
+    "translation_zh": "还有……察觉到我真实身份的Key，也一样。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "柔らかい声",
+    "speaker_key_raw": "부드러운 목소리"
+  },
+  {
+    "card_id": "BA-186587",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186587,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45358,
+    "text_jp": "無から構築された人工の神聖が、太古の秘儀に接触できるかを試みた。#nだが、結局は無意味だった。",
+    "translation_zh": "我们尝试从无构筑的人工神圣能否接触太古秘仪。但到头来毫无意义。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭C",
+    "speaker_key_raw": "무명사제 C"
+  },
+  {
+    "card_id": "BA-186588",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186588,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45359,
+    "text_jp": "当然の帰結だ。神聖は習得されるものではなく、呼び覚ますものである。",
+    "translation_zh": "理所当然的结果。神圣并非习得，而是唤醒的。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭A",
+    "speaker_key_raw": "무명사제 A"
+  },
+  {
+    "card_id": "BA-186589",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186589,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45360,
+    "text_jp": "王女が裏切った。",
+    "translation_zh": "王女背叛了。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭B",
+    "speaker_key_raw": "무명사제 B"
+  },
+  {
+    "card_id": "BA-186590",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186590,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45361,
+    "text_jp": "鍵は消えた。",
+    "translation_zh": "钥匙消失了。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭C",
+    "speaker_key_raw": "무명사제 C"
+  },
+  {
+    "card_id": "BA-186591",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186591,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45362,
+    "text_jp": "自らの神聖を否定した者たちが迎える結末は、ただひとつ。",
+    "translation_zh": "否定自身神圣之辈将迎来的结局，唯有一个。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭A",
+    "speaker_key_raw": "무명사제 A"
+  },
+  {
+    "card_id": "BA-186592",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186592,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45363,
+    "text_jp": "すべての次元、すべての世界、すべての可能性から――#n「忘れられた神々」を追放する。",
+    "translation_zh": "从所有维度、所有世界、所有可能性中——将“被遗忘的诸神”放逐出去。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭B",
+    "speaker_key_raw": "무명사제 B"
+  },
+  {
+    "card_id": "BA-186594",
+    "topics": [
+      "H5"
+    ],
+    "dialogue_id": 186594,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45365,
+    "text_jp": "彼らに我々と同じ運命を授けよう。名が無いために呼ばれず、呼ぶことができないが故に存在しない「名もなき神」のように。",
+    "translation_zh": "让他们迎接与我们相同的命运吧。如同因没有名字而不被呼唤、因无法被呼唤而不存在的“无名之神”那样。",
+    "boundary_zh": "A：同一主题的第二处文本，可与最终篇活动互证但不是独立神学来源证明。",
+    "speaker_jp": "無名の司祭A",
+    "speaker_key_raw": "무명사제 A"
+  },
+  {
+    "card_id": "BA-186595",
+    "topics": [
+      "H2"
+    ],
+    "dialogue_id": 186595,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45366,
+    "text_jp": "この世界は偽りである。繰り返し下した結論だ。その結論に揺らぎはない。",
+    "translation_zh": "这个世界是虚假的。这是反复作出的结论。这个结论不会动摇。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭B",
+    "speaker_key_raw": "무명사제 B"
+  },
+  {
+    "card_id": "BA-186599",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186599,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45370,
+    "text_jp": "今や穢れてしまった言葉でしか表せない、忘れられた神々の産物に終焉を。",
+    "translation_zh": "向如今只能以被玷污的语词表述的、被遗忘诸神的产物，宣告终结。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭C",
+    "speaker_key_raw": "무명사제 C"
+  },
+  {
+    "card_id": "BA-186600",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186600,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45371,
+    "text_jp": "シッテムの箱。",
+    "translation_zh": "什亭之箱。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭A",
+    "speaker_key_raw": "무명사제 A"
+  },
+  {
+    "card_id": "BA-186601",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186601,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45372,
+    "text_jp": "シャーケードの杖。",
+    "translation_zh": "杏仁之杖。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭B",
+    "speaker_key_raw": "무명사제 B"
+  },
+  {
+    "card_id": "BA-186602",
+    "topics": [
+      "H3"
+    ],
+    "dialogue_id": 186602,
+    "group_id": 90002230,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 45373,
+    "text_jp": "サンクトゥムタワー。",
+    "translation_zh": "圣所之塔。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "無名の司祭C",
+    "speaker_key_raw": "무명사제 C"
+  },
+  {
+    "card_id": "BA-195786",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 195786,
+    "group_id": 10029010,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 62374,
+    "text_jp": "それに、ヘイローが浮かんでいるのは……美琴さんも、でしょう？",
+    "translation_zh": "而且，头上浮着光环的……美琴小姐不也一样吗？",
+    "boundary_zh": "A：联动角色在本场景有光环，不直接证明技术制造过程。",
+    "speaker_jp": "ヒマリ",
+    "speaker_key_raw": "히마리"
+  },
+  {
+    "card_id": "BA-195788",
+    "topics": [
+      "H4"
+    ],
+    "dialogue_id": 195788,
+    "group_id": 10029010,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 62376,
+    "text_jp": "え、ええっ！？ほ、本当だ……！？#nこれ、いつから！？",
+    "translation_zh": "咦、咦咦！？真、真的……！？这是从什么时候开始的！？",
+    "boundary_zh": "A：美琴对出现光环惊讶；其起源在这两句中没有被解释。",
+    "speaker_jp": "御坂美琴",
+    "speaker_key_raw": "미사카 비무장"
+  },
+  {
+    "card_id": "BA-236957",
+    "topics": [
+      "H1"
+    ],
+    "dialogue_id": 236957,
+    "group_id": 500,
+    "source_file": "ScenarioScriptExcelTable2.json",
+    "source_row": 139750,
+    "text_jp": "ざっくり言いますと、「シッテムの箱」の管理者だけが接続・操作できる、ありとあらゆる物質を生成する機械です。",
+    "translation_zh": "简单来说，就是只有什亭之箱的管理者能够连接、操作，能生成各种物质的机器。",
+    "boundary_zh": "A：所引陈述已定位；人物映射或宇宙模型须另论证。",
+    "speaker_jp": "リン",
+    "speaker_key_raw": "린"
+  }
+]

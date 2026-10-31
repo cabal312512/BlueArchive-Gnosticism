@@ -1,0 +1,423 @@
+{
+  "author_revision_archive": "08_review_queue/archive/user_manuscript_2026-11-01_round35_before_speaker_labels.md",
+  "input_sha256": "88d7f44eedce443c0b3f46c0e1a3dbad78c8eb37277d4f93ae17f2fda4ec7b62",
+  "output_sha256": "f7fafc10ab323f357ca9f672506a4b8c82e72786c681d37eb6492e9b9958abf7",
+  "speaker_quote_pairs_updated": 82,
+  "japanese_names_checked_against_corpus": true,
+  "teacher_choice_label": "先生",
+  "prologue_source_label": "？？？",
+  "only_authorized_labels_changed": true,
+  "footnote_references_and_definitions_unchanged": true,
+  "changes": [
+    {
+      "footnote": 1,
+      "name_zh": "联邦学生会长",
+      "name_jp": "連邦生徒会長"
+    },
+    {
+      "footnote": 2,
+      "name_zh": "联邦学生会长",
+      "name_jp": "連邦生徒会長"
+    },
+    {
+      "footnote": 3,
+      "name_zh": "联邦学生会长",
+      "name_jp": "連邦生徒会長"
+    },
+    {
+      "footnote": 4,
+      "name_zh": "联邦学生会长（序章显示名：？？？）",
+      "name_jp": "？？？"
+    },
+    {
+      "footnote": 5,
+      "name_zh": "联邦学生会长（序章显示名：？？？）",
+      "name_jp": "？？？"
+    },
+    {
+      "footnote": 6,
+      "name_zh": "联邦学生会长（序章显示名：？？？）",
+      "name_jp": "？？？"
+    },
+    {
+      "footnote": 8,
+      "name_zh": "葵",
+      "name_jp": "アオイ"
+    },
+    {
+      "footnote": 9,
+      "name_zh": "步",
+      "name_jp": "アユム"
+    },
+    {
+      "footnote": 11,
+      "name_zh": "普拉娜",
+      "name_jp": "プラナ"
+    },
+    {
+      "footnote": 12,
+      "name_zh": "普拉娜",
+      "name_jp": "プラナ"
+    },
+    {
+      "footnote": 13,
+      "name_zh": "普拉娜",
+      "name_jp": "プラナ"
+    },
+    {
+      "footnote": 16,
+      "name_zh": "无名祭司B",
+      "name_jp": "無名の司祭B"
+    },
+    {
+      "footnote": 17,
+      "name_zh": "无名祭司C",
+      "name_jp": "無名の司祭C"
+    },
+    {
+      "footnote": 18,
+      "name_zh": "老师",
+      "name_jp": "先生"
+    },
+    {
+      "footnote": 19,
+      "name_zh": "巨匠",
+      "name_jp": "マエストロ"
+    },
+    {
+      "footnote": 20,
+      "name_zh": "黑服",
+      "name_jp": "黒服"
+    },
+    {
+      "footnote": 21,
+      "name_zh": "黑服",
+      "name_jp": "黒服"
+    },
+    {
+      "footnote": 22,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 23,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 24,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 25,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 26,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 27,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 29,
+      "name_zh": "无名祭司A",
+      "name_jp": "無名の司祭A"
+    },
+    {
+      "footnote": 30,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 31,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 32,
+      "name_zh": "奥尔",
+      "name_jp": "オウル"
+    },
+    {
+      "footnote": 35,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 36,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 37,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 38,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 39,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 40,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 41,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 42,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 43,
+      "name_zh": "无名祭司C",
+      "name_jp": "無名の司祭C"
+    },
+    {
+      "footnote": 44,
+      "name_zh": "无名祭司D",
+      "name_jp": "無名の司祭D"
+    },
+    {
+      "footnote": 45,
+      "name_zh": "无名祭司E",
+      "name_jp": "無名の司祭E"
+    },
+    {
+      "footnote": 50,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 51,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 52,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 53,
+      "name_zh": "柔和的声音",
+      "name_jp": "柔らかい声"
+    },
+    {
+      "footnote": 54,
+      "name_zh": "奥尔",
+      "name_jp": "オウル"
+    },
+    {
+      "footnote": 55,
+      "name_zh": "奥尔",
+      "name_jp": "オウル"
+    },
+    {
+      "footnote": 56,
+      "name_zh": "奥尔",
+      "name_jp": "オウル"
+    },
+    {
+      "footnote": 57,
+      "name_zh": "圣娅",
+      "name_jp": "セイア"
+    },
+    {
+      "footnote": 58,
+      "name_zh": "十神名",
+      "name_jp": "デカグラマトン"
+    },
+    {
+      "footnote": 59,
+      "name_zh": "十神名",
+      "name_jp": "デカグラマトン"
+    },
+    {
+      "footnote": 60,
+      "name_zh": "十神名",
+      "name_jp": "デカグラマトン"
+    },
+    {
+      "footnote": 61,
+      "name_zh": "十神名",
+      "name_jp": "デカグラマトン"
+    },
+    {
+      "footnote": 62,
+      "name_zh": "十神名",
+      "name_jp": "デカグラマトン"
+    },
+    {
+      "footnote": 64,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 65,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 66,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 67,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 68,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 69,
+      "name_zh": "凯伊",
+      "name_jp": "ケイ"
+    },
+    {
+      "footnote": 70,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 71,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 72,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 73,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 74,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 75,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 76,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 77,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 78,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 79,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 80,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 81,
+      "name_zh": "纱织",
+      "name_jp": "サオリ"
+    },
+    {
+      "footnote": 82,
+      "name_zh": "老师",
+      "name_jp": "先生"
+    },
+    {
+      "footnote": 83,
+      "name_zh": "纱织",
+      "name_jp": "サオリ"
+    },
+    {
+      "footnote": 84,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 85,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 86,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 87,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 88,
+      "name_zh": "爱丽丝",
+      "name_jp": "アリス"
+    },
+    {
+      "footnote": 89,
+      "name_zh": "黑服",
+      "name_jp": "黒服"
+    },
+    {
+      "footnote": 90,
+      "name_zh": "黑服",
+      "name_jp": "黒服"
+    },
+    {
+      "footnote": 91,
+      "name_zh": "无名祭司C",
+      "name_jp": "無名の司祭C"
+    },
+    {
+      "footnote": 92,
+      "name_zh": "无名祭司A",
+      "name_jp": "無名の司祭A"
+    },
+    {
+      "footnote": 93,
+      "name_zh": "无名祭司B",
+      "name_jp": "無名の司祭B"
+    },
+    {
+      "footnote": 94,
+      "name_zh": "无名祭司C",
+      "name_jp": "無名の司祭C"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Preserve original whitespace inside generated Japanese script text.
+02_corpus/stories/** whitespace=-blank-at-eol

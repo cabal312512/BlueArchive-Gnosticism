@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-31",
+  "raw_git_commit": "3428d2a0943bdfe7d6453adfcb06676509972b02",
+  "raw_tables": [
+    {
+      "file": "ScenarioScriptExcelTable.json",
+      "raw_rows": 281668,
+      "nonempty_japanese_rows": 158480
+    },
+    {
+      "file": "ScenarioScriptExcelTable1.json",
+      "raw_rows": 283643,
+      "nonempty_japanese_rows": 160798
+    },
+    {
+      "file": "ScenarioScriptExcelTable2.json",
+      "raw_rows": 140343,
+      "nonempty_japanese_rows": 76588
+    }
+  ],
+  "database_rows": 395866,
+  "markdown_files": 709,
+  "distinct_text_script_signatures": 239511,
+  "repeated_signature_excess": 156355,
+  "speaker_candidate_mismatches": 21492,
+  "signature_fields": [
+    "GroupId",
+    "SelectionGroup",
+    "trimmed TextJp",
+    "ScriptKr"
+  ],
+  "limitations": [
+    "Signature counts are not counts of unique story dialogue: identical lines may recur legitimately.",
+    "Last text-bearing command is a diagnostic candidate, not a validated full script parser.",
+    "Eight existing self-tests check retrieval presence, not corpus completeness or speaker accuracy."
+  ]
+}

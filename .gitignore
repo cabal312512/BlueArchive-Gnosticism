@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Databases
+*.db
+*.sqlite3
+
+# External raw game data stays local; source and pinned revision are documented.
+02_corpus/ba-data-jp/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary outputs
+*.tmp
+scratch/
+temp/
+
+# Preserved local pre-repair copies; current readable corpus is published.
+02_corpus/backups/
+
+# Local reference downloads; catalog and source fingerprints remain tracked
+01_sources/gnostic_readings/downloads/

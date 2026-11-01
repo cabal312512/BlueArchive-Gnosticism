@@ -1,0 +1,31 @@
+{
+  "chinese_unchanged": true,
+  "chinese_sha256": "e3b6211362cefa77edabc5a43a14efc98d184db1491fa28161a6ef80afb6992e",
+  "glossaries_unchanged": {
+    "GNOSTIC_GLOSSARY.md": "cefb7f66511ec5738d032bb5688b4814badf096e219206aad494f01d3680dadd",
+    "GNOSTIC_GLOSSARY_en.md": "1708c4b13ef1379a57e3c00476ff688f7bf40a683ee6df5c6fbcade86edf540a",
+    "GNOSTIC_GLOSSARY_ja.md": "de3fd0954f3e0e7d8b66f955bcfe7764dce45e21633618fca4e5f6e32b073cc8",
+    "GNOSTIC_GLOSSARY_ko.md": "3c75310a65411b7f195a5e7de5f214ecd89f4bea901d61fad19584275198c331"
+  },
+  "languages": {
+    "en": {
+      "changed_blocks": 48,
+      "footnotes": 93,
+      "game_original_records_unchanged": 82,
+      "sha256": "fe58a974792f74f116cae3e55f49127893316dbfc212b678f45ab013d429923d"
+    },
+    "ja": {
+      "changed_blocks": 11,
+      "footnotes": 93,
+      "game_original_records_unchanged": 82,
+      "sha256": "80a3092c259201e1868ca3dd04a7b5a65c9335ba31dd2980ed3ed7989e44c508"
+    },
+    "ko": {
+      "changed_blocks": 8,
+      "footnotes": 93,
+      "game_original_records_unchanged": 82,
+      "sha256": "1c9cc5d25b1c1b734d7b655bf2e33ad867afb35be04d488b8b21b6126f6250dc"
+    }
+  },
+  "quoted_database_records_rechecked": 82
+}

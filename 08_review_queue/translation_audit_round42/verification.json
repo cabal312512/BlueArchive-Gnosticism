@@ -1,0 +1,32 @@
+{
+  "chinese_unchanged": false,
+  "chinese_only_authorized_change": "第4.2节第184行：也完全印证了这一点 → 也印证了这一点；其余字节不变。",
+  "chinese_before_sha256": "fc2b08615d017f1b150087d6c662adeb6ca1e8657f7dc772e5ce34b0f49da2d0",
+  "chinese_sha256": "e3b6211362cefa77edabc5a43a14efc98d184db1491fa28161a6ef80afb6992e",
+  "languages": {
+    "en": {
+      "changed_blocks": 182,
+      "deleted_added_paragraphs": 1,
+      "game_quotation_records_checked": 82,
+      "footnote_definitions": 93,
+      "headings": 40,
+      "sha256": "e8acf81c687d9ffae75da72fad8618c9962789f710e026688e1e07eb2dc98752"
+    },
+    "ja": {
+      "changed_blocks": 104,
+      "deleted_added_paragraphs": 1,
+      "game_quotation_records_checked": 82,
+      "footnote_definitions": 93,
+      "headings": 40,
+      "sha256": "57a9d4a67336b6597510aed9be84a5179ac6b6a0dcf0b269515dd1cba869c24d"
+    },
+    "ko": {
+      "changed_blocks": 183,
+      "deleted_added_paragraphs": 1,
+      "game_quotation_records_checked": 82,
+      "footnote_definitions": 93,
+      "headings": 40,
+      "sha256": "c90a8f513bf7cd9cc264e8aa2988526d256d1fb2c3ae788e0f73a7b424ac7816"
+    }
+  }
+}

@@ -1,11 +1,10 @@
-# 作中術語の解説
+# 本文の用語解説
 
 [論文に戻る](gnostic_correspondence_ja.md)
 
-
 ## 混同しやすい3つの言葉
 
-**Gnosticism**：古代の一連の宗教思想および伝統に対する総称。本文と最も深く関わる観念は、「現実世界の創造主の上位にさらに高次の神聖な源泉が存在し、人間の内面にもそこから由来する神聖な要素が宿っており、自身の根源を認識することが束縛からの解放および救済へと繋がる」という点である。
+**Gnosticism**：古代の宗教思想や伝統の一群をまとめた呼び方。本文に最も関係するのは、現実世界の創造者の上にさらに高い神聖な源があり、人の内にもそこから来た神聖な成分が残されていて、自らの源を知ることが束縛からの解放や救済に関わる、という考え方である。
 
 **Gnosis**：原義は「認識」あるいは「知識」であり、ここでは通常「霊知」と訳される。
 
@@ -15,75 +14,70 @@
 
 **Father**：原義は「父」。関連テキストにおいて最高次の源泉について論じる際、至高の神聖者に対する呼称として用いられる。
 
-**Pleroma**：原義は「円満」あるいは「充実」。神聖なる存在およびその完全なる生命によって構成される全体領域として理解される。論文では、より高次の神聖な源泉および回帰の方向性を説明するために用いられる。
+**Pleroma**：本来の意味は「満ちていること」や「充満」。ひとまず、神聖な存在とその完全な生命からなる全体と理解できる。論文では、より高い神聖な源と帰還の方向を説明するために用いている。
 
-**Aeon / Aeons**：単数形と複数形。関連する神話体系において、神聖な源泉から展開した永遠の存在を指し、それらが属する領域を指すこともある。その数や相互関係は文献によって異なる。
+**Aeon / Aeons**：単数形と複数形。関連する神話では、神聖な源から展開する永遠の存在を指すことが多く、それらがいる領域を指す場合もある。数や関係は文献によって異なる。
 
-**Sophia**：その名は「知恵」を意味する。『ヨハネの秘教』（Apocryphon of John）において、彼女は単独で行動し欠陥ある後代を生み出してしまった後、深く悔悟し、事態の補救に関与する。論文ではこの存在を連邦生徒会長との比較に用いている。
+**Sophia**：名は「知恵」を意味する。Apocryphon of Johnでは、単独で行動して欠陥のある子を生み、その後悔悟し、修復に関わることが語られる。論文ではこれを連邦生徒会長と比較する。
 
-**The Ninth**：『ヨハネの秘教』において、悔悟したSophiaが自身の生み出した後代の上位にとどまり、暫定的に身を置いた第九の領域。論文では彼女が表舞台から退き、背後で見守るあり方を論じる際にこの呼称が用いられる。
+**The Ninth**：Apocryphon of Johnで、悔悟したSophiaが一時的にとどまる場所。彼女が生んだ子の上に位置する。論文では、彼女が表舞台から退くことを論じる際にこの名を用いる。
 
 **Demiurge**：原義は「職人」あるいは「工匠」。ここでは現実世界を形作った創造主を指す役割上の呼称である。
 
-**Yaldabaoth**：『ヨハネの秘教』におけるDemiurgeであり、Sophiaから生まれた。母由来の力を宿しているものの、より高次の源泉を知らず、自らを唯一の神と詐称した。
+**Yaldabaoth**：Apocryphon of JohnのDemiurgeで、Sophiaから生まれた。母から受け継いだ力を持つが、より高い源を知らず、自らを唯一の神と考える。
 
-**Archon / Archons**：単数形と複数形。原義は「支配者」「執政官」。論文では主にYaldabaothが打ち立てた下層の支配勢力を指し、彼らは世界の形成に関与し、人間の肉体を造り、束縛を課した。
+**Archon / Archons**：単数形と複数形で、意味は「支配者」。論文では主にYaldabaothが築いた下層の支配勢力を指す。世界の形成、人の身体の製造、束縛を課すことに関わる。
 
-**Adam**：神話における原初の人類。『ヨハネの秘教』では、肉体の形成とその肉体への神聖な力の流入がそれぞれ分けて語られている。
+**Adam**：神話における始祖。Apocryphon of Johnでは、その身体の形成と、神聖な力が身体に入ることが別々に語られる。
 
-**Luminous Epinoia / Epinoia**：前者は「光の洞見（光のエピノイア）」と理解される。『ヨハネの秘教』において、彼女はAdamを助ける存在であり、その内に人知れず宿り、彼が自身の根源と回帰の道を認識できるよう導く。[上記各存在および関係の詳細は『ヨハネの秘教』英訳を参照](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
+**Luminous Epinoia / Epinoia**：前者は「光明の洞察」と理解できる。Apocryphon of Johnでは、Adamを助ける存在であり、ひそかに彼の内に宿って、源と帰還の道を知る手助けをする。[以上の存在と関係はApocryphon of John英訳を参照](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
 
 ## 人間の内面と救済
 
-**Divine Spark**：人間の内面に宿る神聖な要素を総括するために論文が用いている「神性火花」という概念。個体がたとえ現実世界に生きていようとも、より高次の源泉と常に繋がっていることを説明する。
+**Divine Spark**：論文で人の内なる神聖な成分をまとめて呼ぶ「神性の火花」。個体が現実世界で生きていても、より高い源とつながっていることを説明する助けとなる。
 
-**Power / Dynamis**：原義は「力」あるいは「能力」。具体的に何を指すかは文脈に依存するが、論文ではSophiaに由来し、Adamの内に注ぎ込まれた力を指して用いられる。
+**Power / Dynamis**：意味は「力」や「能力」。具体的に何を指すかは文脈による。論文が注目するのは、Sophiaに由来してAdamに入る力である。
 
-**Pneuma**：通常は「霊」と訳され、関連する議論において人間の精神性や神聖な起源を指す。
+**Pneuma**：通常は「霊」と訳される。関連する議論では、人の精神性や神聖な源を指すことが多い。
 
-**Psyche**：通常は「魂」と訳され、生命や知性・感情の働きに関わる。一部の体系においてPneumaと明確に区別される。
+**Psyche**：通常は「魂」や「霊魂」と訳され、生命や心の働きにも関わる。一部の体系ではPneumaと区別される。
 
-**Psychic / Pneumatic**：それぞれPsycheおよびPneumaに関する形容詞であり、通常「魂に属する／霊に属する」と訳される。ウァレンティノス派（Valentinian）の資料において、これらは人間の性質や類型を区分する用語としても用いられる。Pneumaticが属性や類型を表す用語であるのに対し、Divine Sparkは内なる神聖成分そのものを総称する名称である。[人間の内面および関連区分](https://iep.utm.edu/gnostic/)
+**Psychic / Pneumatic**：それぞれPsycheとPneumaに関する形容詞で、一般に「魂に属する／霊に属する」と訳される。一部のValentinianの資料では、人の類型を分けるためにも用いられる。Pneumaticは属性や類型を表す語であり、Divine Sparkは内なる神聖な成分をまとめた呼び名である。[人の内面と関連する区別](https://iep.utm.edu/gnostic/)
 
 **Light Fragments**：文字通りには「光の断片・破片」。個体の中に分散し留まっている神聖な光の象徴的イメージとして論文で用いられる。
 
-**Heimarmene**：原義は「運命」。『ヨハネの秘教』において、下層の支配者たちが神や人間、その他の存在を束縛するために用いたもの。論文では司祭が押し付ける使命や宿命的配置を比較する際に援用される。[該当箇所](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
+**Heimarmene**：意味は「運命」。Apocryphon of Johnでは、下層の支配者が神、人、その他の存在を縛るために用いる。論文はこれを、司祭が押し付ける使命や取り決めと比較する。[該当箇所](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
 
-**Valentinian**：ウァレンティノス（Valentinus）およびその追随者たちによって形成された思想伝統。論文におけるSophiaの「最年少」という補足は、この伝統の資料に由来する。
+**Valentinian**：Valentinusとその追随者が形成した思想の伝統。論文でSophiaが「最年少」であると補足する際に用いたのは、この伝統の資料である。
 
-**Duodecad**：12の存在からなる一組。エイレナイオス（Irenaeus）が記録した体系において、Sophiaはこの組の最末尾に置かれている。ここでの12とは階層的な組の数を指す。[Against Heresies I.2](https://www.newadvent.org/fathers/0103102.htm)
+**Duodecad**：十二者からなる一つの組。Irenaeusが記述した体系では、Sophiaはこの組の最後に置かれる。ここで十二とは、一つのグループに含まれる存在の数を指す。[Against Heresies I.2](https://www.newadvent.org/fathers/0103102.htm)
 
-
-
-## 作中に登場するその他の宗教的背景
+## 本文に登場するその他の宗教的背景
 
 **Kabbalah**：ユダヤ神秘主義の伝統であり、神がどのように顕現し、世界がどのように展開するかといった問いを扱う。
 
 **Sefirah / Sefirot**：単数形と複数形。Kabbalahにおける10の神聖な顕現あるいは流溢であり、神と世界との連関を説明する。
 
-**Tree of Life**：Sefirotおよびその相互関係を体系化した一般的な図式（生命の樹）。通常10のノードとそれらを結ぶ小径（パス）として描かれる。[Sefirotの解説](https://www.myjewishlearning.com/article/sefirot/)
+**Tree of Life**：Sefirotとその関係をまとめる一般的な図式。通常は十個の節点と、それらを結ぶ経路で描かれる。[Sefirotの説明](https://www.myjewishlearning.com/article/sefirot/)
 
-**Tetragrammaton**：原義は「4つの文字」。YHWHと翻字される神の聖なる御名を指す。[名称の解説](https://www.chabad.org/library/article_cdo/aid/6359796/jewish/The-Tetragrammaton.htm)
+**Tetragrammaton**：意味は「四つの文字」。YHWHと転写される神の名を指す。[名称の説明](https://www.chabad.org/library/article_cdo/aid/6359796/jewish/The-Tetragrammaton.htm)
 
-
-**Kyrie**：ギリシャ語で「主よ」と呼びかける呼格であり、憐れみを乞う典礼文 Kyrie eleison（主よ、憐れみたまえ）などで広く知られる。
-
-
+**Kyrie**：ギリシャ語で「主よ」と呼びかける形。憐れみを求める典礼の言葉Kyrie eleisonによく見られる。
 
 ## 文献および略号
 
-**Apocryphon of John**：復活後の救主が使徒Johnに秘密の教えを明かすという対話枠組みを持つ文書であり、神聖世界、Sophia、Yaldabaoth、人類の生成と救済を語る。本文が依拠する主要な古代文献であり、注釈中では**AJ**と略記されることがある。[英訳](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
+**Apocryphon of John**：復活した救主がJohnに秘密の教えを明かすという物語の枠組みを持つ文献。神聖な世界、Sophia、Yaldabaoth、人の生成と救済を語る。本文が主に用いる古代文献で、注釈では**AJ**と略すこともある。[英訳](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
 
-**Tripartite Tractate**：ウァレンティノス派（Valentinian）の伝統に属する長編文献であり、神聖なる根源、世界と人間の形成、救済および万物の回復について論じる。論文では復帰と和解をめぐる記述を引用している。[英訳](https://www.earlychristianwritings.com/text/tripartite.html)
+**Tripartite Tractate**：Valentinianの伝統に属する長編文献。神聖な源、世界と人の形成、救済と回復について論じる。論文では回帰と和解の箇所を用いる。[英訳](https://www.earlychristianwritings.com/text/tripartite.html)
 
-**Letter to Flora**：プトレマイオス（Ptolemy）がFloraに宛てた手紙であり、モーセ律法およびその制定者について論じる。世界の創造主を至高の完全者と邪悪な対立者との中間に位置する公正な存在として捉えており、論文ではDemiurgeの描写における多面性を説明するために用いられる。[英訳](https://www.earlychristianwritings.com/text/flora.html)
+**Letter to Flora**：PtolemyがFloraに宛てた手紙で、律法とその制定者について論じる。世界の創造者を、至高の完全者と邪悪な対立者の間にいる公正な存在と理解する。論文ではDemiurge像の違いを説明するために用いる。[英訳](https://www.earlychristianwritings.com/text/flora.html)
 
-**Against Heresies**：エイレナイオス（Irenaeus）が異端論駁のために著した書物であり、批判対象となった教説の体系的記録を現代に留めている。論文ではValentinianのSophiaに関する記述を引用している。[引用章節](https://www.newadvent.org/fathers/0103102.htm)
+**Against Heresies**：Irenaeusが反対する教説を批判した著作であり、関連する体系についての彼の記述も残している。論文ではValentinianのSophiaに関する箇所を引用する。[引用箇所](https://www.newadvent.org/fathers/0103102.htm)
 
-**Nag Hammadi Library**：1945年にエジプトで発見された古代写本群（ナグ・ハマディ写本）の総称であり、多数の関連文献を保存している。**The Nag Hammadi Library in English**は本文が参照している現代英語訳集成である。
+**Nag Hammadi Library**：1945年にエジプトで発見された古代写本群の総称で、多くの関連文献を残している。**The Nag Hammadi Library in English**は、論文で用いる現代の英訳集である。
 
-**NHC / BG**：写本の所在を示す略号。NHCはNag Hammadi Codex（ナグ・ハマディ写本）を指し、例えばNHC II,1は第II写本の第1テキストを意味する。BGはBerlin Codex（ベルリン写本）を指し、BG 8502,2は同写本の第2テキストを意味する。後ろに続く数字は頁および行を示し、読者が原文を精確に照会できるよう付されている。
+**NHC / BG**：写本の位置を示す略号。NHCはNag Hammadi Codexを指し、例えばNHC II,1は第II写本の第1文献を表す。BGはBerlin Codexを指し、BG 8502,2は該当する写本の第2文献を表す。後に続く頁と行の数字で、正確な位置を調べられる。
 
 **The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2**：Michael WaldsteinおよびFrederik Wisseが編纂した4写本対照版。論文の注釈における**Synopsis**はその略称である。
 
-**Bible / Old Testament**：前者はキリスト教聖書の総称、後者はその中で古代イスラエルの聖書伝統を継承する旧約聖書を指す。**Genesis**は天地創造と原初の人類の物語、**Ecclesiastes**は生、労働、終焉についての省察、**John**はJesusの生涯と教えを記す福音書、**Revelation**は審判と新天新地を描く終末論的幻視である。
+**Bible / Old Testament**：前者はキリスト教の聖典の総称で、後者はそのうち古代イスラエルの聖典の伝統を受け継ぐ部分。**Genesis**は創世と初期の人類の物語を語り、**Ecclesiastes**は生、労働、終わりを論じる。**John**はJesusの生涯と教えを語る福音書で、**Revelation**は幻視を通じて審判、新しい天と地などの終末の光景を描く。

@@ -7,7 +7,7 @@
 ## 阅读入口
 
 - **[论文全文](gnostic_correspondence_full.md)**：这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。
-- 
+  
 - **[术语说明](GNOSTIC_GLOSSARY.md)**：面向初次接触相关概念的读者，解释文中的名词与文献。
 - **[宇宙论图谱](06_comparative_analysis/gnostic_atlas/index.html)**：下载后浏览器打开HTML文件。
 - **[引文技术索引](01_sources/paper_citation_index.md)**：论文注释与原始语料编号、源表行号的对应。

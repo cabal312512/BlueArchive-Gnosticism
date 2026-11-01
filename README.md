@@ -1,15 +1,17 @@
 # 《蔚蓝档案》的Gnosticism对应模型
 
-关于《蔚蓝档案》剧情与Gnosticism宇宙论的个人研究，重点讨论联邦学生会长、老师、无名众神、无名祭司、被遗忘诸神与学生光环的对应。
+这是关于《蔚蓝档案》剧情与Gnosticism宇宙论的个人研究，重点讨论联邦学生会长、老师、无名众神、无名祭司、被遗忘诸神与学生光环的对应。
+
+这只些是我胡思乱想的个人观点，思维比较跳跃，还用了大量AI，所以会有很多不准确的东西。
 
 ## 阅读入口
 
-- **[论文全文](gnostic_correspondence_full.md)**：以作者重写稿为准，包含主要论证、剧情原话、译文与数字注释。
+- **[论文全文](gnostic_correspondence_full.md)**：这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。
+- 
 - **[术语说明](GNOSTIC_GLOSSARY.md)**：面向初次接触相关概念的读者，解释文中的名词与文献。
-- **[宇宙论图谱](06_comparative_analysis/gnostic_atlas/index.html)**：按文本与版本查看神圣存在、世界与救赎的关系。下载仓库后用浏览器打开HTML文件。
+- **[宇宙论图谱](06_comparative_analysis/gnostic_atlas/index.html)**：下载后浏览器打开HTML文件。
 - **[引文技术索引](01_sources/paper_citation_index.md)**：论文注释与原始语料编号、源表行号的对应。
 
-论文位于仓库根目录；文内链接均使用仓库相对路径。数据库定位集中保存在技术索引中，正文注释使用章节、场景与对白位置。
 
 ## 资料目录
 
@@ -26,7 +28,7 @@
 
 ## 本地检索
 
-本地研究语料来自固定版本的数据快照，包含237,386条非空日文记录。仓库包含完整的可读台词和压缩数据库。原始数据不上传，保留外部来源与固定版本，下载文献缓存及重复备份留在本机；来源与版本见[语料说明](02_corpus/coverage_report.md)。
+本地研究语料来自固定版本的数据快照，包含237,386条非空日文记录。仓库包含完整的可读台词和压缩数据库。原始数据保留外部来源与固定版本，来源与版本见[语料说明](02_corpus/coverage_report.md)。
 
 ```powershell
 python 03_tools/restore_corpus.py
@@ -34,7 +36,7 @@ python 03_tools/search.py -q "名もなき神" -C 3
 python 03_tools/search.py -q "忘却は" -C 3
 ```
 
-接续研究前，请阅读[运行指南](AGENTS.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)。
+如果对我的想法感兴趣且下载了仓库，可以看看[运行指南](AGENTS.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给AI。
 
 ## 原始数据与历史
 

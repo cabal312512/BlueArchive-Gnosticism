@@ -1,0 +1,77 @@
+{
+  "author_before_sha256": "e688657b1c949e93c13504e1d214c88881196ef6e5512f518e7a0de8e1c41180",
+  "after_sha256": "b87daf6dab8b88f537245d7c8df5870ccfb69fbfa08efa72d1b3d87daba462ee",
+  "footnotes": 93,
+  "all_references_resolve": true,
+  "game_citation_labels_unchanged": true,
+  "retired_note": 34,
+  "change_blocks": [
+    {
+      "change": "replace",
+      "old_lines": [
+        204,
+        204
+      ],
+      "new_lines": [
+        204,
+        204
+      ]
+    },
+    {
+      "change": "replace",
+      "old_lines": [
+        206,
+        206
+      ],
+      "new_lines": [
+        206,
+        208
+      ]
+    },
+    {
+      "change": "replace",
+      "old_lines": [
+        208,
+        208
+      ],
+      "new_lines": [
+        210,
+        212
+      ]
+    },
+    {
+      "change": "delete",
+      "old_lines": [
+        251,
+        260
+      ],
+      "new_lines": [
+        255,
+        254
+      ]
+    },
+    {
+      "change": "replace",
+      "old_lines": [
+        465,
+        465
+      ],
+      "new_lines": [
+        459,
+        467
+      ]
+    },
+    {
+      "change": "replace",
+      "old_lines": [
+        732,
+        734
+      ],
+      "new_lines": [
+        734,
+        734
+      ]
+    }
+  ],
+  "github_updated": false
+}

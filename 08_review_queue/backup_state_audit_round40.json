@@ -1,0 +1,85 @@
+{
+  "restored_rounds": {
+    "37": {
+      "messages": 4,
+      "user_messages": 1,
+      "ai_messages": 3,
+      "source_script": "scratch/record_round37.py",
+      "restored_block_sha256": "33f0f9cf3ba8a59b5c63030b8161848295f05a57d55fe26fc62c1fd1499cbddf"
+    },
+    "38": {
+      "messages": 4,
+      "user_messages": 1,
+      "ai_messages": 3,
+      "source_script": "scratch/record_round38.py",
+      "restored_block_sha256": "6c08d3740ba0e56c079bcca275b63b5306b9a5a505e2c74c0bcc646b813f87fe"
+    },
+    "39": {
+      "messages": 4,
+      "user_messages": 1,
+      "ai_messages": 3,
+      "source_script": "scratch/record_round39.py",
+      "restored_block_sha256": "97b774d517d1ef8fc2946a40b9e7bd2754529226abe1cc72d434d049dc9c7093"
+    }
+  },
+  "backup_original_prefix_sha256": "295a5c28670791ec58fb4663de338c789eda7de1a351d2cc499e5c3079efce44",
+  "backup_original_prefix_preserved": true,
+  "recent_index": [
+    {
+      "round": 34,
+      "line": 3254,
+      "user_messages": 3,
+      "ai_messages": 6
+    },
+    {
+      "round": 35,
+      "line": 3304,
+      "user_messages": 1,
+      "ai_messages": 3
+    },
+    {
+      "round": 36,
+      "line": 3334,
+      "user_messages": 4,
+      "ai_messages": 12
+    },
+    {
+      "round": 37,
+      "line": 3424,
+      "user_messages": 1,
+      "ai_messages": 3
+    },
+    {
+      "round": 38,
+      "line": 3501,
+      "user_messages": 1,
+      "ai_messages": 3
+    },
+    {
+      "round": 39,
+      "line": 3532,
+      "user_messages": 1,
+      "ai_messages": 3
+    },
+    {
+      "round": 40,
+      "line": 3609,
+      "user_messages": 2,
+      "ai_messages": 4
+    }
+  ],
+  "readme_remote_blob_sha": "81ccddf215e6fe297ba0b4e96703a89e6d65b023",
+  "readme_local_blob_sha": "81ccddf215e6fe297ba0b4e96703a89e6d65b023",
+  "readme_matches_remote_exactly": true,
+  "remote_main_checked": "ead7e43e01f7d5d1e3202e6b1363eeaca6150f18",
+  "remote_backup_last_round": 36,
+  "author_files_unchanged": {
+    "gnostic_correspondence_full.md": "fc2b08615d017f1b150087d6c662adeb6ca1e8657f7dc772e5ce34b0f49da2d0",
+    "GNOSTIC_GLOSSARY.md": "cefb7f66511ec5738d032bb5688b4814badf096e219206aad494f01d3680dadd",
+    "gnostic_correspondence_en.md": "cf56bbd6e17ba458116fa8479bab2f5b5f1e14540c15ddf822d9ad82322afa51",
+    "gnostic_correspondence_ja.md": "19485152e15413b43e0089dffdd046bc2bbdfa1b04dad295cc6df088a7e09684",
+    "gnostic_correspondence_ko.md": "587d775ba5edabac2c72dfd2f48dd2910ed95cd1a5dc995cb8ebcd17e7e1aadb"
+  },
+  "archived_before_cleanup": "08_review_queue/archive/maintenance_round40_2026-11-01",
+  "github_pushed": false
+}

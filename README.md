@@ -1,3 +1,9 @@
+日本語はこちら：[日本語版README](README.ja.md)。AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
+
+한국어는 [한국어판 README](README.ko.md)를 봐 주세요. AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어를 몰라 중국어판만 검토했으므로 내용은 [중국어판](README.md)을 기준으로 해 주세요.
+
+For English, see [English README](README.en.md). This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
+
 # 《蔚蓝档案》的Gnosticism对应模型
 
 这是关于《蔚蓝档案》剧情与Gnosticism宇宙论的个人研究，重点讨论联邦学生会长、老师、无名众神、无名祭司、被遗忘诸神与学生光环的对应。

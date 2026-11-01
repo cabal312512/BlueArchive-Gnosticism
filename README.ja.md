@@ -1,0 +1,57 @@
+[中文](README.md) · 日本語 · [한국어](README.ko.md) · [English](README.en.md)
+
+AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
+
+# 『ブルーアーカイブ』のGnosticism対応モデル
+
+『ブルーアーカイブ』の物語とGnosticismの宇宙論との対応についての個人的な考察です。連邦生徒会長、先生、名もなき神々、無名の司祭、忘れられた神々、そして生徒たちのヘイローの対応を中心に扱っています。
+
+これはあくまで私の思いつきや個人的な考えです。話があちこちに飛ぶうえ、AIも大量に使っているので、不正確な部分がたくさんあると思います。
+
+## 読むならここから
+
+- **[論文全文](gnostic_correspondence_ja.md)**：大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。
+- **[用語解説](GNOSTIC_GLOSSARY_ja.md)**：この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。
+- **[宇宙論の関係図](06_comparative_analysis/gnostic_atlas/index.html)**：ダウンロード後、HTMLファイルをブラウザで開いてください。
+- **[引用の技術索引](01_sources/paper_citation_index.md)**：論文の注と、元のコーパスの番号・データ表・行番号との対応を記録しています。
+
+私の考えに興味があり、リポジトリをダウンロードした方は、AIに[実行ガイド](AGENTS.md)、[考察の会話記録](CHAT_BACKUP.md)、[現在の状況](PROJECT_STATUS.md)、[判断の記録](08_review_queue/decision_log.md)を読ませてから、続きを進めてもらうこともできます。このプロジェクトはそのままAgentに引き継げます。これらの補助文書は中国語です。
+
+## 資料の構成
+
+| ディレクトリ | 内容 |
+| --- | --- |
+| [01_sources](01_sources/) | 出典の記録、文献一覧、引用の技術索引 |
+| [02_corpus](02_corpus/) | コーパスのバージョンと収録範囲の説明 |
+| [03_tools](03_tools/) | 検索、コーパス構築、関係図のツール |
+| [04_evidence](04_evidence/) | 物語の引用、中国語訳、テーマ別の根拠資料 |
+| [05_hypotheses](05_hypotheses/) | 各対応についての考察ノート |
+| [06_comparative_analysis](06_comparative_analysis/) | 原典の構造と比較資料 |
+| [07_writing](07_writing/) | 以前の草稿と執筆資料 |
+| [08_review_queue](08_review_queue/) | 議論での判断と過去の記録 |
+
+## ローカルでの検索
+
+ローカルの調査用コーパスは、固定バージョンのデータスナップショットから作成したもので、空でない日本語の記録を237,386件含んでいます。リポジトリには、読みやすい形式の全文コーパスと圧縮したデータベースが入っています。元データについては外部の入手先と固定リビジョンを記録しています。出典とバージョンは[コーパスの説明](02_corpus/coverage_report.md)を参照してください。
+
+```powershell
+python 03_tools/restore_corpus.py
+python 03_tools/search.py -q "名もなき神" -C 3
+python 03_tools/search.py -q "忘却は" -C 3
+```
+
+## 元データと履歴
+
+通常の検索には、上記の方法でデータベースを復元するだけで十分です。再構築や元データの照合を行う場合は、先に次のコマンドを実行してください。
+
+```powershell
+git clone https://github.com/electricgoat/ba-data.git 02_corpus/ba-data-jp
+git -C 02_corpus/ba-data-jp checkout 3428d2a0943bdfe7d6453adfcb06676509972b02
+python 03_tools/search.py --test
+```
+
+アップロード前のローカルのコミットとタグは、[Git履歴のバックアップ](08_review_queue/archive/pre_github_history.bundle)にすべて保存されています。
+
+## ライセンス
+
+本プロジェクトのオリジナルの文章、考察・整理した内容、およびコードは[CC0 1.0 Universal](LICENSE)で公開しています。ゲーム内テキスト、第三者の文献、外部データについては、それぞれの権利と出典が維持され、本プロジェクトのCC0宣言によって変更されることはありません。

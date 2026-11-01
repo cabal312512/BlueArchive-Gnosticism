@@ -1,0 +1,23 @@
+{
+  "chinese_readme_original_sha256": "5d03b38c1d58c56956299eac30f3f9b8e5ef02cb5b7dc937bb97fb522bd189de",
+  "chinese_body_preserved_exactly": true,
+  "chinese_default_readme": "README.md",
+  "translated_readmes": [
+    "README.ja.md",
+    "README.ko.md",
+    "README.en.md"
+  ],
+  "translation_notices_kept_together": true,
+  "matching_paper_and_glossary_links": true,
+  "local_links_checked": 94,
+  "paper_and_glossary_hashes_unchanged": {
+    "gnostic_correspondence_en.md": "cf56bbd6e17ba458116fa8479bab2f5b5f1e14540c15ddf822d9ad82322afa51",
+    "gnostic_correspondence_full.md": "fc2b08615d017f1b150087d6c662adeb6ca1e8657f7dc772e5ce34b0f49da2d0",
+    "gnostic_correspondence_ja.md": "19485152e15413b43e0089dffdd046bc2bbdfa1b04dad295cc6df088a7e09684",
+    "gnostic_correspondence_ko.md": "587d775ba5edabac2c72dfd2f48dd2910ed95cd1a5dc995cb8ebcd17e7e1aadb",
+    "GNOSTIC_GLOSSARY.md": "cefb7f66511ec5738d032bb5688b4814badf096e219206aad494f01d3680dadd",
+    "GNOSTIC_GLOSSARY_en.md": "429ac3477261ad7635bf02a13d91a6f80ab4531f92d235a35134fa51c06c603b",
+    "GNOSTIC_GLOSSARY_ja.md": "471e10429f9266fe4c07acda54e969c55be61e077be9da17eb6f870a935a6ba3",
+    "GNOSTIC_GLOSSARY_ko.md": "7caaef86bc98ab5db34450419c85f9c99a6b53e9c23852e0632b644a7222abad"
+  }
+}

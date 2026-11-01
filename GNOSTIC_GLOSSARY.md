@@ -2,13 +2,12 @@
 
 [返回论文](gnostic_correspondence_full.md)
 
-这份说明按论文的阅读需要整理。先看前三节，就能理解主要对应；后面是其他宗教背景与文献名称。不同古代文本讲述的版本有所不同，文中以Apocryphon of John为主，另参考Valentinian材料。
 
 ## 三个容易混用的词
 
 **Gnosticism**：对一组古代宗教思想与传统的统称。与本文最相关的观念是：现实世界的创造者之上还有更高的神圣来源，人内在也保有来自那里的神圣成分，认识自己的来源与摆脱束缚、获得救赎有关。
 
-**Gnosis**：本义是“认识”或“知识”，在这里通常译作“灵知”。重点是对神圣来源、自身处境与得救道路的认识。
+**Gnosis**：本义是“认识”或“知识”，在这里通常译作“灵知”。
 
 **Gnostic**：通常作形容词，表示“与上述传统有关的”，也可作名词指其信奉者。例如Gnostic texts就是相关文献。论文谈整套思想传统时统一使用Gnosticism。[术语背景](https://iep.utm.edu/gnostic/)
 
@@ -32,7 +31,7 @@
 
 **Adam**：神话中的始祖。Apocryphon of John将其身体的塑造与神圣力量进入身体分别讲述。
 
-**Luminous Epinoia / Epinoia**：前者可理解为“光明的洞见”。在Apocryphon of John中，她是帮助Adam的存在，隐秘地居于其中，帮助他认识来源与归返之路。论文将这一帮助功能与老师相比较。[以上角色与关系见Apocryphon of John英译](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
+**Luminous Epinoia / Epinoia**：前者可理解为“光明的洞见”。在Apocryphon of John中，她是帮助Adam的存在，隐秘地居于其中，帮助他认识来源与归返之路。[以上角色与关系见Apocryphon of John英译](https://www.earlychristianwritings.com/text/apocryphonjohn.html)
 
 ## 人的内在与救赎
 
@@ -54,7 +53,7 @@
 
 **Duodecad**：十二位构成的一组。Irenaeus记述的体系将Sophia放在这组的末位；这里的十二是一个分组的数目。[Against Heresies I.2](https://www.newadvent.org/fathers/0103102.htm)
 
-**Halo**：游戏中学生头顶的光环。论文将它解释为Divine Spark的外在表现，这是本文提出的对应。
+
 
 ## 文中出现的其他宗教背景
 
@@ -66,11 +65,10 @@
 
 **Tetragrammaton**：意为“四个字母”，指以YHWH转写的神名。[名称说明](https://www.chabad.org/library/article_cdo/aid/6359796/jewish/The-Tetragrammaton.htm)
 
-**Decagrammaton**：游戏角色名称，构词可以理解为“十个字母”。论文在讨论它时涉及Tetragrammaton及十个Sefirot的背景。
 
-**Kyrie**：希腊语中呼唤“主啊”的形式，常见于祈求怜悯的礼仪用语Kyrie eleison。论文用它解释《伊甸条约篇》的章、话标题。
+**Kyrie**：希腊语中呼唤“主啊”的形式，常见于祈求怜悯的礼仪用语Kyrie eleison。
 
-论文还提到一些其他神话名字：**Anubis**与**Horus**是古埃及神祇，分别与亡者、王权等主题有关；**Michael**、**Gabriel**、**Uriel**是犹太及基督教相关传统中的天使名字；**Baal**原是古代西亚的神祇称号或名字；**Belial**、**Beelzebub**在后来的犹太及基督教相关传统中成为邪恶存在或魔王的名字。这些是论文讨论学生个体原型时提到的背景。
+
 
 ## 文献与缩写
 
@@ -88,4 +86,4 @@
 
 **The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2**：Michael Waldstein与Frederik Wisse编的四抄本对照版。论文注释中的**Synopsis**是它的简称。
 
-**Bible / Old Testament**：前者是基督教经书的统称，后者是其中承接古代以色列经书传统的部分。**Genesis**讲创世与早期人类故事；**Ecclesiastes**讨论生命、劳作与终结；**John**是讲述Jesus生平与教导的福音书；**Revelation**以异象描绘审判、新天新地等终末景象。论文用这些文本作局部比较。
+**Bible / Old Testament**：前者是基督教经书的统称，后者是其中承接古代以色列经书传统的部分。**Genesis**讲创世与早期人类故事；**Ecclesiastes**讨论生命、劳作与终结；**John**是讲述Jesus生平与教导的福音书；**Revelation**以异象描绘审判、新天新地等终末景象。

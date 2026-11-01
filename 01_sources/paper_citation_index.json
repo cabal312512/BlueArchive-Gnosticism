@@ -34,7 +34,6 @@
     "G182940": 31,
     "G182941": 32,
     "P6": 33,
-    "P7": 34,
     "G186045": 35,
     "G186046": 36,
     "G186047": 37,
@@ -2205,5 +2204,14 @@
     "unnamed_text",
     "quiz_question_and_choices",
     "hidden_label_text"
-  ]
+  ],
+  "retired_footnotes": {
+    "34": {
+      "reason": "第38轮删除第5.2中误用Tripartite Tractate的段落后无引用；原始来源保留于原稿技术记录。",
+      "old_keys": [
+        "P7"
+      ],
+      "original_definition": "[^34]: [Genesis6:5–7](https://www.biblegateway.com/passage/?search=Genesis%206%3A5-7&version=KJV)；[Revelation21:1–5](https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=KJV)。AJ洪水段NHC II,1 28,32–29页，参见Wisse英译Noah段。"
+    }
+  }
 }

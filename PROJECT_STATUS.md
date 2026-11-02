@@ -1,8 +1,8 @@
 # 项目状态
 
-更新：2026-11-01，第43轮。
+更新：2026-11-02，第47轮。
 
-当前在维护作者论文与译稿；本轮再次通篇对照英、日、韩三篇论文，修复剩余句法、修饰归属、范围和注释问题。中文论文及四份术语说明本轮均未改；上轮按用户要求删去的第4.2节“完全”没有恢复。研究仍按兴趣与具体问题推进；阶段5已展开，论文写作是用户另外授权的工作。
+四语论文已按用户第47轮授权替换指定的开头两段，并新增8条来源注释；其余作者正文、旧注释、游戏台词、术语说明和README保留。第46轮建立的宗教比较资料辅助游戏理论，本轮与此前待更新记录一起上传。研究按兴趣与具体问题推进，不扩张为正式科研任务。
 
 ## 当前文件
 
@@ -14,11 +14,15 @@
 | [英文术语](GNOSTIC_GLOSSARY_en.md)、[日文术语](GNOSTIC_GLOSSARY_ja.md)、[韩文术语](GNOSTIC_GLOSSARY_ko.md) | 已对照中文逐项复查35条，删除新增释义、评价和范围扩张 |
 | [英文译稿](gnostic_correspondence_en.md)、[日文译稿](gnostic_correspondence_ja.md)、[韩文译稿](gnostic_correspondence_ko.md) | 已再次对照全文；日／韩游戏引文采用数据库原文，英文保留日文并附英译；[本轮修改](08_review_queue/translation_audit_round43.md) · [上轮修改](08_review_queue/translation_audit_round42.md) |
 | [宇宙论图谱](06_comparative_analysis/gnostic_atlas/index.html) | 按文本、版本查关系；下载后用浏览器打开 |
+| [宗教比较资料](09_religious_comparison/README.md) | 本源、入世与归返；专题判断、原文摘录、来源与本地下载记录分开 |
 | [引文技术索引](01_sources/paper_citation_index.md) | 保存数据库定位，论文用数字注释 |
 | [对话备份](CHAT_BACKUP.md) · [最近对话索引](CHAT_BACKUP_INDEX.md) | 保存问答原话，方便按轮查找 |
 
 ## 最近已经处理
 
+- **四语开头已定点替换。** 中文采用第46轮获认可的表达，英／日／韩逐段对应；新注95–102登记宗教例子，旧注1–94保持原样。先同步远端作者修改，保留“而”字及段落空行；核验替换区外字节一致。见[本轮修改](08_review_queue/intro_revision_round47.md)。
+- **独立宗教比较资料夹已建立。** 查道与Monad的结构相似、Gospel of Truth和Mundaka Upanishad的同源同归，以及佛教光明天界众生来此界等材料。原话、上下文、定位与论文用途分开记录；未新增游戏人物对应。开头建议保持自然直接的语气，不插入无关的传统差异综述；第47轮用户已授权落实。
+- **另贴的日文简介已审阅。** 主旨基本对应；补回所有学生、完全对应，微调创造的表述，游戏引文取数据库原话；支配欲按用户认可保留。[核对与整理稿](08_review_queue/short_translation_review_round44.md)不替换项目论文。
 - **三篇论文再次复查完成。** 修复日文助词与七人分掌七层的歧义、英文工具修饰对象、注释接触关系的主宾、可能性的范围等；82条原始引用字段重新核对数据库，93条注释编号匹配。[逐项记录](08_review_queue/translation_audit_round43.md)保存新增修改，不覆盖第42轮历史清单。
 - **三语术语说明已在第42轮校对。** 35条逐项对照，中文说明未改；[记录](08_review_queue/translation_audit_round42.md)保留前后全文。
 - **第37轮：核查两处原典问题。** 确认Tripartite Tractate语境误用，以及Apocryphon of John引文混入解释；见[核查记录](08_review_queue/paper_review_round37.md)。
@@ -42,8 +46,8 @@
 ## GitHub与本地
 
 - 仓库：[cabal312512/BlueArchive-Gnosticism](https://github.com/cabal312512/BlueArchive-Gnosticism)，CC0。
-- 第42轮更新已发布为`f4c9b00a3433eec8a70c328cc5b55c236157416d`；本轮在此基础上同步三篇译文、复查清单与本轮记录。用户此前复查后上传的授权继续适用，具体提交以Git日志为准。
-- 对话记录补至第43轮，中文README保持默认入口；正文、台词与注释不从旧生成器回滚。
+- 第47轮四语开头、注释和第44–46轮的简介审阅、宗教比较及记录一并发布。发布前同步远端`dba09fa`，不覆盖作者的最新修改；本轮逐项记录见上述修改清单。
+- 对话记录补至第47轮，中文README保持默认入口；正文、台词与注释不从旧生成器回滚。
 - 原始数据不上传，本机也不删除；已发布的压缩数据库可用`python 03_tools/restore_corpus.py`恢复。范围见[语料说明](02_corpus/coverage_report.md)。
 
 ## 记录放在哪里

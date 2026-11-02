@@ -4,8 +4,30 @@
 
 This paper uses the cosmology of Gnosticism to interpret the characters and world structure of *Blue Archive*.
 
-In many religious and mythological conceptions, people’s present, real lives are seldom granted value in their own right. In such cosmologies, the material creation often carries an inherent imperfection, while bodily existence seems more like a temporary state of confinement or forgetting; the joys, sorrows, and everyday details of secular life are all treated as a transition to be transcended.
-Within this logic, life’s ultimate meaning is placed in a “return”: only by awakening one’s inner spirituality, escaping the constraints of reality, and returning to the original, exalted divine source is the individual considered to have attained salvation, and life to have reached fulfillment and liberation.
+In many religious and mythological conceptions, people’s everyday lives are not the ultimate goal. To reach true fulfillment, people still need salvation, liberation, or a return to a more fundamental source.
+
+Gnosticism includes such a view: people have forgotten their divine origin and need to awaken their inner spirituality through knowledge, free themselves from bondage, and return to Pleroma. Gospel of Truth states directly that a person will return to the place from which they received their essential being.[^95] Manichaeism also regards the human soul as captive light; salvation means freeing this light and returning it to the World of Light.[^96]
+
+The Indian Mundaka Upanishad compares living beings to sparks: they emerge from an imperishable source and eventually return there.[^97] Dao De Jing also says:
+
+> The myriad things each return to their root. Returning to the root is called stillness; this is called returning to one’s destiny.[^98]
+
+All things unfold from their source and return to their root.
+
+The Christian Bible contains this statement:
+
+> The dust returns to the earth, and the spirit returns to the God who gave it.[^99]
+
+Quran also says:
+
+> Translation: We do indeed belong to Allah, and to Him we will return.[^100]
+
+The source of life is also what it ultimately returns to.
+
+Buddhism starts from sufferings such as birth, aging, sickness, death, separation from those one loves, and not getting what one wants, and seeks liberation beyond the cycle of birth and death;[^101] Pure Land faith looks toward rebirth in Sukhāvatī, where one can continue practicing and move toward awakening.[^102] The life before us, full of suffering and shortcomings, is likewise not ultimate fulfillment.
+
+When life’s fulfillment is placed in these ultimate goals, the joys, sorrows, and everyday details of this world can easily be regarded as temporary experiences that must eventually be transcended. Under this understanding, life’s meaning lies more in where one ultimately goes than in how one lives here or what one experiences.
+
 Through this model, the game may offer an answer that overturns that view: a divine origin may explain “where the soul comes from,” but it must never determine “what life is for.” Even if people carry a divine origin within them, living never depends on answering grand questions first. Before facing the life before them, people do not need to finish investigating their origins, take on some predetermined mission, find life’s meaning, and so on.
 Rather than those higher-dimensional things that we can never understand and have no need to understand, what we should truly cherish is the “everyday life” spent in day after day of the “ordinary”—the “process itself” of laughing, making mistakes, and growing alongside our companions. Since we are already in this world, we should not reverse our priorities by studying what came before our arrival or what follows our departure. Living this life with care is what matters most.
 And so-called “miracles” often do not come from some power beyond ordinary understanding, but from the warmth of people protecting one another and choosing freely within their ordinary, fragile daily lives. Refusing to let divine origins take precedence over life is precisely how we protect these real, shining everyday miracles.
@@ -842,3 +864,20 @@ Dialogue numbers are counted based on the sequential order of dialogue lines, pl
 [^93]: Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 141.
 
 [^94]: Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 142.
+
+
+[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; paragraph beginning “Each one will speak concerning the place from which he has come forth”.
+
+[^96]: [Manicheism i. General Survey](https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/). Werner Sundermann, Encyclopaedia Iranica; “Gnosis and practice” and “Cosmogony”.
+
+[^97]: [Mundaka Upanishad](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad). 2.1.1; Max Müller, Sacred Books of the East 15.
+
+[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese passage.
+
+[^99]: [Ecclesiastes](https://www.biblegateway.com/verse/zh/传道书%2012%3A7). 12:7; Chinese Union Version. Quotation translated from the Chinese passage.
+
+[^100]: [Quran](https://quran.com/al-baqarah/156?reading=true). 2:156; The Clear Quran. The quotation follows the Chinese translation based on this English version.
+
+[^101]: [Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11/en/bodhi?lang=en). SN 56.11; Bhikkhu Bodhi.
+
+[^102]: [The Display of the Pure Land of Sukhāvatī](https://84000.co/translation/toh115). Toh 115; Sakya Pandita Translation Group, 84000.

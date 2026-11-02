@@ -1,0 +1,287 @@
+{
+  "updated": "2026-11-02",
+  "scope": "首批：本源、入世与归返；只登记本轮使用材料",
+  "sources": [
+    {
+      "id": "REL-DAO",
+      "title": "Dao De Jing, Wang Bi text and commentary",
+      "kind": "primary_with_commentary",
+      "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+      "version": "王弼本；经文与注文分开使用",
+      "locators": [
+        "16",
+        "25",
+        "40",
+        "42",
+        "52"
+      ],
+      "markers": [
+        "有物混成",
+        "各復歸其根",
+        "道生一"
+      ]
+    },
+    {
+      "id": "REL-AJ",
+      "title": "Apocryphon of John",
+      "kind": "primary_translation",
+      "url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+      "version": "Frederik Wisse综合英译；沿用项目已存版本",
+      "local_existing": "01_sources/gnostic_readings/downloads/AJ-W.txt",
+      "locators": [
+        "NHC II,1 2,26–4,19；20,9–21,14；25,16–27,30"
+      ],
+      "markers": [
+        "The Monad is",
+        "He is unnameable"
+      ]
+    },
+    {
+      "id": "REL-GT",
+      "title": "Gospel of Truth",
+      "kind": "primary_translation",
+      "url": "https://www.earlychristianwritings.com/text/gospeltruth.html",
+      "version": "网页署名Robert M. Grant；沿用项目已存版本",
+      "local_existing": "01_sources/gnostic_readings/downloads/GT-E.txt",
+      "locators": [
+        "NHC I,3，结尾归源段；英文锚点to the region from which he received his essential being"
+      ],
+      "markers": [
+        "he will hasten to return once again",
+        "his own place of rest is his Pleroma"
+      ]
+    },
+    {
+      "id": "REL-THEOD",
+      "title": "Excerpta ex Theodoto",
+      "kind": "ancient_report_translation",
+      "url": "https://www.gnosis.org/library/excr.htm",
+      "version": "Clement of Alexandria所存汇编；网站编录英译，不将全部段落一概归Theodotus本人",
+      "locators": [
+        "78"
+      ],
+      "markers": [
+        "whither we hasten"
+      ]
+    },
+    {
+      "id": "REL-PLOT",
+      "title": "Enneads I",
+      "kind": "primary_translation",
+      "url": "https://hermetic.com/texts/plotinus/1",
+      "version": "Stephen MacKenna英译；First Ennead，Sixth Tractate §8；兼看Eighth Tractate §6",
+      "locators": [
+        "I.6.8",
+        "I.8.6"
+      ],
+      "markers": [
+        "The Fatherland to us is There whence we have come"
+      ]
+    },
+    {
+      "id": "REL-PLATO",
+      "title": "Phaedo",
+      "kind": "primary_translation",
+      "url": "https://www-current.chs.harvard.edu/primary-source/plato-phaedo-sb/",
+      "version": "Harvard CHS所载Jowett英译修订文本，保留psūkhai用语",
+      "locators": [
+        "72e–77a"
+      ],
+      "markers": [
+        "before birth"
+      ]
+    },
+    {
+      "id": "REL-MUN",
+      "title": "Mundaka Upanishad",
+      "kind": "primary_translation",
+      "url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad",
+      "version": "F. Max Müller，Sacred Books of the East 15；Brahman与Brahmā不混用",
+      "locators": [
+        "2.1.1",
+        "3.2.8–9"
+      ],
+      "markers": [
+        "return thither also",
+        "losing their name and their form"
+      ]
+    },
+    {
+      "id": "REL-CHAN",
+      "title": "Chandogya Upanishad 6.10.2",
+      "kind": "primary_translation_with_commentary",
+      "url": "https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239310.html",
+      "version": "Swami Lokeswarananda；经文英译、逐字解释与Commentary分开",
+      "locators": [
+        "6.10.1–3；本页6.10.2"
+      ],
+      "markers": [
+        "having come from Sat"
+      ]
+    },
+    {
+      "id": "REL-DN27",
+      "title": "Aggañña Sutta",
+      "kind": "primary_translation",
+      "url": "https://suttacentral.net/dn27/en/sujato",
+      "fetch_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+      "version": "Bhikkhu Sujato，SuttaCentral/Bilara，published分支可检索字段",
+      "locators": [
+        "dn27:10.1–13.3"
+      ],
+      "markers": [
+        "their radiance vanished"
+      ]
+    },
+    {
+      "id": "REL-SN15",
+      "title": "Tiṇakaṭṭha Sutta",
+      "kind": "primary_translation",
+      "url": "https://suttacentral.net/sn15.1/en/sujato",
+      "fetch_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/sn/sn15/sn15.1_translation-en-sujato.json",
+      "version": "Bhikkhu Sujato，SuttaCentral/Bilara",
+      "locators": [
+        "SN 15.1"
+      ],
+      "markers": [
+        "no known beginning"
+      ]
+    },
+    {
+      "id": "REL-PURE",
+      "title": "The Display of the Pure Land of Sukhāvatī",
+      "kind": "primary_translation",
+      "url": "https://84000.co/translation/toh115",
+      "version": "84000，Toh 115；本页依藏文传本，不冒充汉译字句底本",
+      "locators": [
+        "往生、听法与不退转段"
+      ],
+      "markers": [
+        "Sukhāvatī"
+      ]
+    },
+    {
+      "id": "REL-ECC",
+      "title": "Ecclesiastes 12:7",
+      "kind": "primary_translation",
+      "url": "https://www.biblegateway.com/verse/zh/传道书%2012%3A7",
+      "version": "引文取公共领域Chinese Union Version，网页并列其他译本不混引",
+      "locators": [
+        "12:7"
+      ],
+      "markers": [
+        "仍"
+      ]
+    },
+    {
+      "id": "REL-REV",
+      "title": "Revelation 21",
+      "kind": "primary_translation",
+      "url": "https://www.biblegateway.com/passage/?search=Revelation+21&version=CUVS",
+      "version": "Chinese Union Version Simplified",
+      "locators": [
+        "21:1–5"
+      ],
+      "markers": [
+        "21"
+      ]
+    },
+    {
+      "id": "REL-CCC",
+      "title": "Catechism of the Catholic Church, Man",
+      "kind": "official_doctrinal_document",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_6_man.html",
+      "version": "教理366，仅代表天主教该项教导",
+      "locators": [
+        "366"
+      ],
+      "markers": [
+        "created immediately by God"
+      ]
+    },
+    {
+      "id": "REL-Q2",
+      "title": "Quran 2:156",
+      "kind": "primary_translation",
+      "url": "https://quran.com/al-baqarah/156?reading=true",
+      "version": "The Clear Quran / Mustafa Khattab，英文网站文本；中文为本项目译文",
+      "locators": [
+        "2:156"
+      ],
+      "markers": [
+        "return"
+      ]
+    },
+    {
+      "id": "REL-Q7",
+      "title": "Quran 7:172–174",
+      "kind": "primary_translation",
+      "url": "https://legacy.quran.com/7/172-196",
+      "version": "Sahih International英译；原初见证的具体时间与方式不由单句定死",
+      "locators": [
+        "7:172–174"
+      ],
+      "markers": [
+        "Am I not your Lord"
+      ]
+    },
+    {
+      "id": "REL-MANI",
+      "title": "Manicheism i. General Survey",
+      "kind": "scholarly_secondary",
+      "url": "https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/",
+      "version": "Werner Sundermann，Encyclopaedia Iranica；本轮只作学术概述，不伪称摩尼教原典",
+      "locators": [
+        "Gnosis and practice in Manicheism",
+        "Cosmogony"
+      ],
+      "markers": [
+        "redemption of the human soul"
+      ]
+    },
+    {
+      "id": "REL-SHANK",
+      "title": "Śaṅkara",
+      "kind": "scholarly_secondary",
+      "url": "https://plato.stanford.edu/archives/sum2024/entries/shankara/",
+      "version": "Stanford Encyclopedia of Philosophy，§4.3",
+      "locators": [
+        "4.3 Self-Knowledge and Living While Liberated"
+      ],
+      "markers": [
+        "liberated"
+      ]
+    },
+    {
+      "id": "REL-CHAN-PD",
+      "title": "Chandogya Upanishad, Sixth Prapathaka",
+      "kind": "primary_translation",
+      "url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_1/Kh%C3%A2ndogya-upanishad/Sixth_Prap%C3%A2thaka",
+      "version": "F. Max Müller，Sacred Books of the East 1；与Lokeswarananda现代译本对看",
+      "locators": [
+        "6.8.1",
+        "6.8.4–7",
+        "6.9.2–4",
+        "6.10.1–3"
+      ],
+      "markers": [
+        "have their root in the True",
+        "when they have come back from the True"
+      ]
+    },
+    {
+      "id": "REL-SN56",
+      "title": "Dhammacakkappavattana Sutta, SN 56.11",
+      "kind": "primary_translation",
+      "url": "https://suttacentral.net/sn56.11/en/bodhi?lang=en",
+      "version": "Bhikkhu Bodhi英译",
+      "locators": [
+        "苦谛与道谛段"
+      ],
+      "markers": [
+        "birth is suffering",
+        "Noble Eightfold Path"
+      ]
+    }
+  ]
+}

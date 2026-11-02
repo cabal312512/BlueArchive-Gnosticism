@@ -8,6 +8,23 @@
 
 第38轮维护：原注34随着其对应段落删除而退役，原始来源仍保存在本页“原稿注释原貌”及JSON的retired_footnotes中；游戏引文标签保持原样。
 
+## 第47轮新增：开头宗教例子
+
+仅替换作者指定的开头两段。旧注1–94的引用和定义保留，新材料使用95–102，不变更游戏数据库索引。三份论文译本使用相同标签。
+
+| 论文注释 | 来源与定位 | 研究摘录 |
+| --- | --- | --- |
+| 95 | Gospel of Truth，Robert M. Grant英译，Each one will speak concerning the place from which he has come forth起句段落 | G2 |
+| 96 | Werner Sundermann，Manicheism i. General Survey，Gnosis and practice／Cosmogony；二手学术概述 | M1 |
+| 97 | Mundaka Upanishad 2.1.1，Max Müller英译 | H1 |
+| 98 | Dao De Jing第16章，王弼本 | D3 |
+| 99 | Ecclesiastes 12:7，Chinese Union Version | A1 |
+| 100 | Quran 2:156，The Clear Quran；中文引文为转译 | A3 |
+| 101 | Dhammacakkappavattana Sutta，SN 56.11，Bhikkhu Bodhi英译，苦谛与道谛段 | B4 |
+| 102 | The Display of the Pure Land of Sukhāvatī，Toh 115，84000 | B3 |
+
+原文、中文解释与上下文见[宗教比较摘录](../09_religious_comparison/evidence_cards.md)，完整网址及版本见[来源登记](../09_religious_comparison/sources.json)。这些是宗教材料，不虚构对应的游戏数据库条目。
+
 ## 原始技术说明
 
 5. 本项目固定日文游戏语料快照：原始数据提交3428d2a0943bdfe7d6453adfcb06676509972b02，schema v2。每条引文在文末保留剧情位置、ID、源表及DataList行号；中文为工作译文。正文略去演出标签和注音源码，原始日文脚本另存引文数据文件。Event与特殊作战重编入口按原始Group识别，不作为独立重复事件计算。

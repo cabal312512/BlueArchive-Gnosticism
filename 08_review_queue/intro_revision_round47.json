@@ -1,0 +1,52 @@
+{
+  "round": 47,
+  "remote_base": "dba09fa",
+  "scope": "Only the two designated opening paragraphs and eight new source notes; preserve all other bytes.",
+  "files": {
+    "gnostic_correspondence_full.md": {
+      "before_sha256": "bf8c4b92a92dcba95729f1eda3a5d76e47d85e9e63435f72e58a9a57e1a8b7b1",
+      "after_sha256": "406f7da5ba6879cc064e634a4d4c05b138dd1cc82b8c4880bb8a2a07b4c10b26",
+      "replacement_start_line": 7,
+      "replacement_end_line": 29,
+      "new_note_start_line": 880,
+      "existing_definitions_preserved": 93,
+      "total_definitions": 101,
+      "outside_replacement_unchanged": true,
+      "old_note_text_preserved": true
+    },
+    "gnostic_correspondence_en.md": {
+      "before_sha256": "fe58a974792f74f116cae3e55f49127893316dbfc212b678f45ab013d429923d",
+      "after_sha256": "7c30e1d66ee2502ddee741583c055346296a751c22b9015352d52962296fdb54",
+      "replacement_start_line": 7,
+      "replacement_end_line": 29,
+      "new_note_start_line": 869,
+      "existing_definitions_preserved": 93,
+      "total_definitions": 101,
+      "outside_replacement_unchanged": true,
+      "old_note_text_preserved": true
+    },
+    "gnostic_correspondence_ja.md": {
+      "before_sha256": "37739319f3a19725f131ef37847e51980a2e96554666d87f1a19c1b1bb1046da",
+      "after_sha256": "81811a239793a8ce650882723738433df4fe1f7842ceaf74bf7580d0a5e17b10",
+      "replacement_start_line": 7,
+      "replacement_end_line": 29,
+      "new_note_start_line": 711,
+      "existing_definitions_preserved": 93,
+      "total_definitions": 101,
+      "outside_replacement_unchanged": true,
+      "old_note_text_preserved": true
+    },
+    "gnostic_correspondence_ko.md": {
+      "before_sha256": "1c9cc5d25b1c1b734d7b655bf2e33ad867afb35be04d488b8b21b6126f6250dc",
+      "after_sha256": "9b18e756ef30c1f917c2a178b764659ad2c26c03cf19d827fd9d6e0969e2a461",
+      "replacement_start_line": 7,
+      "replacement_end_line": 29,
+      "new_note_start_line": 695,
+      "existing_definitions_preserved": 93,
+      "total_definitions": 101,
+      "outside_replacement_unchanged": true,
+      "old_note_text_preserved": true
+    }
+  },
+  "validation": "Prefixes, complete original suffixes, and all 93 old footnote definitions preserved byte for byte; 101 references and definitions match in each language."
+}

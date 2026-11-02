@@ -4,8 +4,29 @@
 
 本文以Gnosticism宇宙论解释《蔚蓝档案》的人物与世界结构。
 
-在许多宗教与神话观念中，人当下的现实生活很少被赋予自足的价值。在这类宇宙论看来，物质受造界往往带有先天的不完美，而肉身的存在更像是一种暂时的困顿或遗忘；人在世俗中经历的喜怒哀乐与琐碎日常，统统被视作需要被超越的过渡。
-在这种逻辑下，生命的终极意义被寄托在“回归”之中——只有唤醒内在的灵性、摆脱现实的束缚，重新回归最初那个崇高的神圣本源，个体才被认为完成了救赎，生命才算真正获得了圆满与解脱。
+在许多宗教与神话观念里，人的日常生活本身并不是最终目的。人要获得真正的圆满，还需要救赎、解脱，或是回归更根本的来源。
+
+Gnosticism中就有这样的观念：人忘记了自己的神圣来源，需要通过认识唤醒内在的灵性，摆脱束缚，回到Pleroma。Gospel of Truth直接写到，人将返回赋予自己本质的地方。[^95]摩尼教也把人的灵魂视作受困的光，救赎就是让这些光得到释放，重返光明世界。[^96]
+
+印度的Mundaka Upanishad用火花比喻众生：它们从不灭的本源中生出，最终又返回那里。[^97]《道德经》也说：
+
+> 夫物芸芸，各复归其根。归根曰静，是谓复命。[^98]
+
+万物由本源展开，又向根本复归。
+
+基督教《圣经》中有这样的说法：
+
+> 尘土仍归于地，灵仍归于赐灵的神。[^99]
+
+《古兰经》也说：
+
+> 译文：我们确实属于Allah，也终将归于他。[^100]
+
+生命的来源，同时也是最终归向的对象。
+
+佛教从生老病死、爱别离、求不得等苦出发，寻求超越生死轮回的解脱；[^101]净土信仰则希望往生极乐世界，在那里继续修行、走向觉悟。[^102]眼前充满痛苦与缺憾的生活，也并非最终的圆满。
+
+当生命的圆满被寄托在这些最终目标上，现世的喜怒哀乐与琐碎日常，就容易被看作暂时的经历，最终需要被超越。按照这种理解，生命的意义更多地在于最终走向哪里，而不在于人在这里怎样生活、经历了什么。
 
 而游戏可能通过这套模型给出的回答颠覆了这一点：神圣的来源或许解释了灵魂“从何而来”，但绝不应规定生命“为何而活”。即便人们携带着神性的本源，生命的展开永远不会以解答宏大课题为前提。人们在正视当下的生活前，不必先完成对自身来源的追问、去承担某种预定的使命、找到生命的意义等等。
 比起那些高维的永远无法被我们理解且无需被理解的东西，在日复一日的“平凡”中所度过的“日常”——那些与同伴共同欢笑、犯错、成长的“过程本身”，才是我们真正该珍视的。既然已经到了这个世界上，就不该本末倒置，去研究来之前或走之后的东西。认真过完这一生才是最重要的。
@@ -854,3 +875,20 @@ Decagrammaton同样展现出强烈的神学色彩与重塑世界的企图，但�
 [^93]: 特殊作战·Decagrammaton篇，第3章第23话，第141条对白。
 
 [^94]: 特殊作战·Decagrammaton篇，第3章第23话，第142条对白。
+
+
+[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; paragraph beginning “Each one will speak concerning the place from which he has come forth”.
+
+[^96]: [Manicheism i. General Survey](https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/). Werner Sundermann, Encyclopaedia Iranica; “Gnosis and practice” and “Cosmogony”.
+
+[^97]: [Mundaka Upanishad](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad). 2.1.1; Max Müller, Sacred Books of the East 15.
+
+[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章)，第16章，王弼本。
+
+[^99]: [Ecclesiastes](https://www.biblegateway.com/verse/zh/传道书%2012%3A7)，12:7，Chinese Union Version。
+
+[^100]: [Quran](https://quran.com/al-baqarah/156?reading=true)，2:156，The Clear Quran；引文由该英译转译。
+
+[^101]: [Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11/en/bodhi?lang=en). SN 56.11; Bhikkhu Bodhi.
+
+[^102]: [The Display of the Pure Land of Sukhāvatī](https://84000.co/translation/toh115). Toh 115; Sakya Pandita Translation Group, 84000.

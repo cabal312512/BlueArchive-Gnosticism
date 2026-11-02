@@ -1,0 +1,223 @@
+[
+  {
+    "id": "REL-DAO",
+    "checked_utc": "2026-11-02T04:59:37.272008+00:00",
+    "final_url": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_%28%E7%8E%8B%E5%BC%BC%E6%9C%AC%29",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-DAO.html",
+    "source_url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+    "bytes": 423012,
+    "sha256": "489fcd8deb3a7e6373cd3f05529b7159ae1379386197b36de28288ebd962f28b",
+    "markers": {
+      "有物混成": true,
+      "各復歸其根": true,
+      "道生一": true
+    }
+  },
+  {
+    "id": "REL-AJ",
+    "checked_utc": "2026-11-02T04:59:37.272574+00:00",
+    "status": "reused_local",
+    "file": "01_sources/gnostic_readings/downloads/AJ-W.txt",
+    "source_url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+    "bytes": 53965,
+    "sha256": "44b93f91f91c004694b5868b3589083c7130a533143af32f0677384e42cce11f",
+    "markers": {
+      "The Monad is": true,
+      "He is unnameable": false
+    }
+  },
+  {
+    "id": "REL-GT",
+    "checked_utc": "2026-11-02T04:59:37.272918+00:00",
+    "status": "reused_local",
+    "file": "01_sources/gnostic_readings/downloads/GT-E.txt",
+    "source_url": "https://www.earlychristianwritings.com/text/gospeltruth.html",
+    "bytes": 36246,
+    "sha256": "4ff6f99f7c7f6c199a27727245c75b98bea1d6523762e19d49f95adc8539ca62",
+    "markers": {
+      "he will hasten to return once again": true,
+      "his own place of rest is his Pleroma": true
+    }
+  },
+  {
+    "id": "REL-THEOD",
+    "checked_utc": "2026-11-02T04:59:37.273192+00:00",
+    "status": "failed",
+    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1147)>"
+  },
+  {
+    "id": "REL-PLOT",
+    "checked_utc": "2026-11-02T04:59:37.273468+00:00",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "REL-PLATO",
+    "checked_utc": "2026-11-02T04:59:37.273960+00:00",
+    "final_url": "https://www-current.chs.harvard.edu/primary-source/plato-phaedo-sb/",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-PLATO.html",
+    "source_url": "https://www-current.chs.harvard.edu/primary-source/plato-phaedo-sb/",
+    "bytes": 237109,
+    "sha256": "221b2cbff6d3dc816081db5d83a739fbff47daa553194e7fb0c9dc846f0a28f1",
+    "markers": {
+      "before birth": true
+    }
+  },
+  {
+    "id": "REL-MUN",
+    "checked_utc": "2026-11-02T04:59:37.335074+00:00",
+    "final_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-MUN.html",
+    "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad",
+    "bytes": 123161,
+    "sha256": "9cfbdcceb399bbd0ded8767dbe247817a085cb6c669d6c07ebb0dddb75c95fbb",
+    "markers": {
+      "return thither also": true,
+      "losing their name and their form": true
+    }
+  },
+  {
+    "id": "REL-CHAN",
+    "checked_utc": "2026-11-02T04:59:37.336249+00:00",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "REL-DN27",
+    "checked_utc": "2026-11-02T04:59:37.772427+00:00",
+    "final_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-DN27.json",
+    "source_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/dn/dn27_translation-en-sujato.json",
+    "bytes": 28212,
+    "sha256": "760011f798dd670408c341b213a1c99d277276d4d9572517a8a7234fb8dd92aa",
+    "markers": {
+      "their radiance vanished": true
+    }
+  },
+  {
+    "id": "REL-SN15",
+    "checked_utc": "2026-11-02T04:59:37.893885+00:00",
+    "final_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/sn/sn15/sn15.1_translation-en-sujato.json",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-SN15.json",
+    "source_url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/sn/sn15/sn15.1_translation-en-sujato.json",
+    "bytes": 1630,
+    "sha256": "77ea3009202420182d64121ad16d0714a9f713b15629a89f890c4d7505fcc41b",
+    "markers": {
+      "no known beginning": true
+    }
+  },
+  {
+    "id": "REL-PURE",
+    "checked_utc": "2026-11-02T04:59:38.111129+00:00",
+    "final_url": "https://84000.co/translation/toh115",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-PURE.html",
+    "source_url": "https://84000.co/translation/toh115",
+    "bytes": 886950,
+    "sha256": "7da0f51873d739ee8242783dce7f7945e78c12ecf132242e266d876da3df8040",
+    "markers": {
+      "Sukhāvatī": true
+    }
+  },
+  {
+    "id": "REL-ECC",
+    "checked_utc": "2026-11-02T04:59:38.217332+00:00",
+    "final_url": "https://www.biblegateway.com/verse/zh/%E4%BC%A0%E9%81%93%E4%B9%A6%2012%3A7",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-ECC.html",
+    "source_url": "https://www.biblegateway.com/verse/zh/传道书%2012%3A7",
+    "bytes": 128080,
+    "sha256": "6134bdfa81463b00f9b896078dbff4774882cae83523040761a0aceea84335d3",
+    "markers": {
+      "仍": true
+    }
+  },
+  {
+    "id": "REL-REV",
+    "checked_utc": "2026-11-02T04:59:38.444726+00:00",
+    "final_url": "https://www.biblegateway.com/passage/?search=Revelation+21&version=CUVS",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-REV.html",
+    "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21&version=CUVS",
+    "bytes": 189197,
+    "sha256": "3f1720241c172a835d4e395f4bf2261b68838198954c24359669fb0084e947c2",
+    "markers": {
+      "21": true
+    }
+  },
+  {
+    "id": "REL-CCC",
+    "checked_utc": "2026-11-02T04:59:38.544186+00:00",
+    "final_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_6_man.html",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-CCC.html",
+    "source_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_6_man.html",
+    "bytes": 124999,
+    "sha256": "c5105497422a60e0069115c8ce8de1292bad428f3f0469ff61350d0fb2c57721",
+    "markers": {
+      "created immediately by God": true
+    }
+  },
+  {
+    "id": "REL-Q2",
+    "checked_utc": "2026-11-02T04:59:39.212092+00:00",
+    "final_url": "https://quran.com/al-baqarah/156?reading=true",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-Q2.html",
+    "source_url": "https://quran.com/al-baqarah/156?reading=true",
+    "bytes": 233399,
+    "sha256": "4adbef0ece7d9b40533ea1c118bb1054daae3e201da3494ee3015b5570f4469e",
+    "markers": {
+      "return": true
+    }
+  },
+  {
+    "id": "REL-Q7",
+    "checked_utc": "2026-11-02T04:59:39.384182+00:00",
+    "final_url": "https://legacy.quran.com/7/172-196",
+    "status": "downloaded_unconfirmed_content",
+    "file": "09_religious_comparison/downloads/REL-Q7.html",
+    "source_url": "https://legacy.quran.com/7/172-196",
+    "bytes": 58521,
+    "sha256": "b42ba9d9a01be045ddadc5cb9041a675ea0cc7eff22319b88e0a94912c3e0808",
+    "markers": {
+      "Am I not your Lord": false
+    }
+  },
+  {
+    "id": "REL-MANI",
+    "checked_utc": "2026-11-02T04:59:39.626061+00:00",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "REL-SHANK",
+    "checked_utc": "2026-11-02T04:59:39.974796+00:00",
+    "final_url": "https://plato.stanford.edu/archives/sum2024/entries/shankara/",
+    "status": "downloaded",
+    "file": "09_religious_comparison/downloads/REL-SHANK.html",
+    "source_url": "https://plato.stanford.edu/archives/sum2024/entries/shankara/",
+    "bytes": 111109,
+    "sha256": "651fa82a8523eccdc0bc38fff034022e2b7858f179b1b3eb6dcc2cffaf56eb06",
+    "markers": {
+      "liberated": true
+    }
+  },
+  {
+    "id": "REL-CHAN-PD",
+    "status": "failed",
+    "checked_utc": "2026-11-02T05:01:05.165573+00:00",
+    "error": "HTTPError: 403 Forbidden; text verified through browser, no local snapshot"
+  },
+  {
+    "id": "REL-SN56",
+    "status": "web_verified_not_downloaded",
+    "source_url": "https://suttacentral.net/sn56.11/en/bodhi?lang=en",
+    "note": "已用网页检索核见苦谛与道谛原文；无本地完整快照"
+  }
+]

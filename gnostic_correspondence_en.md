@@ -6,31 +6,47 @@ This paper uses the cosmology of Gnosticism to interpret the characters and worl
 
 In many religious and mythological conceptions, people’s everyday lives are not the ultimate goal. To reach true fulfillment, people still need salvation, liberation, or a return to a more fundamental source.
 
-Gnosticism includes such a view: people have forgotten their divine origin and need to awaken their inner spirituality through knowledge, free themselves from bondage, and return to Pleroma. Gospel of Truth states directly that a person will return to the place from which they received their essential being.[^95] Manichaeism also regards the human soul as captive light; salvation means freeing this light and returning it to the World of Light.[^96]
+Gospel of Truth, a text of Gnosticism, says of return and rest:
 
-The Indian Mundaka Upanishad compares living beings to sparks: they emerge from an imperishable source and eventually return there.[^97] Dao De Jing also says:
+> to the region from which he received his essential being, he will hasten to return once again.[^95]
+
+Here the source of one’s essential being is linked to one’s ultimate destination, so salvation means returning to the source that gave one existence.
+
+The Chinese Manichaean Hymn Scroll says in a prayer for the deceased:
+
+> May they themselves lead it into the World of Light, its birthplace, the realm of peace and joy.[^96]
+
+Here the World of Light is called its birthplace; liberation means the luminous nature’s return to the world to which it originally belonged.
+
+Dao De Jing says:
 
 > The myriad things each return to their root. Returning to the root is called stillness; this is called returning to one’s destiny.[^98]
 
-All things unfold from their source and return to their root.
+The concern here is not only how all things grow, but also how they return to their root.
 
-The Christian Bible contains this statement:
+Hebrews in the Bible says:
 
-> The dust returns to the earth, and the spirit returns to the God who gave it.[^99]
+> We have no enduring city here; instead, we seek the city that is to come.[^99]
 
-Quran also says:
+Here the present world is seen as a place where one cannot settle permanently, and life’s hope is directed toward the city to come.
 
-> Translation: We do indeed belong to Allah, and to Him we will return.[^100]
+The Buddhist Amitābha Sūtra describes Sukhāvatī as follows:
 
-The source of life is also what it ultimately returns to.
+> The beings in that land suffer none of the many sufferings, but experience only joys; hence it is called Utmost Bliss.[^102]
 
-Buddhism starts from sufferings such as birth, aging, sickness, death, separation from those one loves, and not getting what one wants, and seeks liberation beyond the cycle of birth and death;[^101] Pure Land faith looks toward rebirth in Sukhāvatī, where one can continue practicing and move toward awakening.[^102] The life before us, full of suffering and shortcomings, is likewise not ultimate fulfillment.
+It also urges:
 
-When life’s fulfillment is placed in these ultimate goals, the joys, sorrows, and everyday details of this world can easily be regarded as temporary experiences that must eventually be transcended. Under this understanding, life’s meaning lies more in where one ultimately goes than in how one lives here or what one experiences.
+> Beings who hear this should make the vow to be born in that land.[^102]
 
-Through this model, the game may offer an answer that overturns that view: a divine origin may explain “where the soul comes from,” but it must never determine “what life is for.” Even if people carry a divine origin within them, living never depends on answering grand questions first. Before facing the life before them, people do not need to finish investigating their origins, take on some predetermined mission, find life’s meaning, and so on.
+Here the Pure Land, free of suffering, is the destination one is urged to aspire to, so the goal of life extends beyond this present lifetime.
+
+In these examples, people look beyond everyday life for a more fundamental answer: where all things come from, what human beings really are, and how true fulfillment can be attained.
+
+Once these questions become the standard by which life is judged, the life before us takes second place. How people live here and what they experience become less important than those answers.
+
+The game may use this model to express a different view: even if human existence is connected to some higher source, that source should not decide how we live our lives. We do not need to unravel the secrets of the universe, understand our own essence, or find some predetermined mission before we begin to take our lives seriously.
 Rather than those higher-dimensional things that we can never understand and have no need to understand, what we should truly cherish is the “everyday life” spent in day after day of the “ordinary”—the “process itself” of laughing, making mistakes, and growing alongside our companions. Since we are already in this world, we should not reverse our priorities by studying what came before our arrival or what follows our departure. Living this life with care is what matters most.
-And so-called “miracles” often do not come from some power beyond ordinary understanding, but from the warmth of people protecting one another and choosing freely within their ordinary, fragile daily lives. Refusing to let divine origins take precedence over life is precisely how we protect these real, shining everyday miracles.
+And so-called “miracles” often do not come from some power beyond ordinary understanding, but from the warmth of people protecting one another and choosing freely within their ordinary, fragile daily lives. We refuse to let divine origins decide how people should live in order to protect these everyday miracles.
 
 **Keywords** Blue Archive; Gnosticism; Sophia; Yaldabaoth; Archons; Luminous Epinoia; Divine Spark; Pleroma
 
@@ -866,18 +882,12 @@ Dialogue numbers are counted based on the sequential order of dialogue lines, pl
 [^94]: Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 142.
 
 
-[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; paragraph beginning “Each one will speak concerning the place from which he has come forth”.
+[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. Quotation from this English translation.
 
-[^96]: [Manicheism i. General Survey](https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/). Werner Sundermann, Encyclopaedia Iranica; “Gnosis and practice” and “Cosmogony”.
+[^96]: [Chinese Manichaean Hymn Scroll](https://zh.wikisource.org/wiki/下部讚), S.2659, prayer for offerings on behalf of the deceased, beginning with the deceased’s luminous nature leaving the body. Quotation translated from the Chinese text.
 
-[^97]: [Mundaka Upanishad](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad). 2.1.1; Max Müller, Sacred Books of the East 15.
+[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese text, not Wang Bi’s commentary.
 
-[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese passage.
+[^99]: [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. Context: 13:11–16; also 11:13–16 and 12:22. Quotation translated from the Chinese passage.
 
-[^99]: [Ecclesiastes](https://www.biblegateway.com/verse/zh/传道书%2012%3A7). 12:7; Chinese Union Version. Quotation translated from the Chinese passage.
-
-[^100]: [Quran](https://quran.com/al-baqarah/156?reading=true). 2:156; The Clear Quran. The quotation follows the Chinese translation based on this English version.
-
-[^101]: [Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11/en/bodhi?lang=en). SN 56.11; Bhikkhu Bodhi.
-
-[^102]: [The Display of the Pure Land of Sukhāvatī](https://84000.co/translation/toh115). Toh 115; Sakya Pandita Translation Group, 84000.
+[^102]: [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; The separate passages describing the absence of suffering and urging the vow for rebirth. Quotations translated from Kumārajīva’s Chinese text, not the Tibetan version.

@@ -1,0 +1,116 @@
+{
+  "round": 48,
+  "publication": "Local changes only. User explicitly requested no upload.",
+  "files": {
+    "gnostic_correspondence_full.md": {
+      "before_sha256": "406f7da5ba6879cc064e634a4d4c05b138dd1cc82b8c4880bb8a2a07b4c10b26",
+      "after_sha256": "86bfa37827a75a413a0ab3148a3dfdf64f64f1266ecd5f56d055cbb2d8f33a38",
+      "new_intro_start": 7,
+      "new_intro_end": 43,
+      "old_notes_1_to_94_preserved": true,
+      "other_body_bytes_preserved": false,
+      "definitions": 98,
+      "removed_notes": [
+        97,
+        100,
+        101
+      ],
+      "additional_authorized_paragraph": {
+        "before": "而游戏可能通过这套模型给出的回答颠覆了这一点：神圣的来源或许解释了灵魂“从何而来”，但绝不应规定生命“为何而活”。即便人们携带着神性的本源，生命的展开永远不会以解答宏大课题为前提。人们在正视当下的生活前，不必先完成对自身来源的追问、去承担某种预定的使命、找到生命的意义等等。",
+        "after": "而游戏可能借这套模型给出相反的回答：神圣的来源或许能解释灵魂从哪里来，却绝不该规定人为什么而活。即便人有神圣的来处，也不必先弄清自己的来源、承担某种预定的使命，或找到人生的意义，再去面对眼前的生活。",
+        "before_sha256": "bef2282df30453806453ba2f836b3afa14d936302be72a77609bced99efe41d7",
+        "after_sha256": "0d721cd600b3a0d2a64409a714de2b2dddc3301437b183ff50f247cd8eb27cf0",
+        "outside_target_unchanged": true
+      },
+      "additional_authorized_sentence": {
+        "before": "拒绝让神圣的来源反客为主，正是为了守住这份真真切切、闪闪发光的日常奇迹。",
+        "after": "不让神圣的来源替人决定该怎样活，是为了守住这份日常中的奇迹。"
+      },
+      "author_parallel_edit_rule": "Read current file and replace only the specific authorized paragraph; abort if bytes change before writing.",
+      "outside_authorized_edits_matches_initial_body": false,
+      "preserved_author_parallel_edit": "作者将“也往往并不来自”改为“也往往不来自”，原样保留。"
+    },
+    "gnostic_correspondence_en.md": {
+      "before_sha256": "7c30e1d66ee2502ddee741583c055346296a751c22b9015352d52962296fdb54",
+      "after_sha256": "8c84e6671e3ae1d04c9f633ea1631f9e95488eded5085884f8b2b3d33787a062",
+      "new_intro_start": 7,
+      "new_intro_end": 43,
+      "old_notes_1_to_94_preserved": true,
+      "other_body_bytes_preserved": true,
+      "definitions": 98,
+      "removed_notes": [
+        97,
+        100,
+        101
+      ],
+      "additional_authorized_paragraph": {
+        "before": "Through this model, the game may offer an answer that overturns that view: a divine origin may explain “where the soul comes from,” but it must never determine “what life is for.” Even if people carry a divine origin within them, living never depends on answering grand questions first. Before facing the life before them, people do not need to finish investigating their origins, take on some predetermined mission, find life’s meaning, and so on.",
+        "after": "The game may use this model to offer the opposite answer: a divine origin may explain where the soul comes from, but it must never dictate what people live for. Even if people have a divine origin, they do not need to work out where they come from, take on a predetermined mission, or find life’s meaning before facing life here and now.",
+        "before_sha256": "a6df7fdcac9d2e147b165158c0b4f8c18440bd915fbb1ae9029a878e218a9d29",
+        "after_sha256": "842dad79b8d0e41380bc50dbe1b6510301b7c3b6750392d6a4d6d0bd769a52c7",
+        "outside_target_unchanged": true
+      },
+      "additional_authorized_sentence": {
+        "before": "Refusing to let divine origins take precedence over life is precisely how we protect these real, shining everyday miracles.",
+        "after": "We refuse to let divine origins decide how people should live in order to protect these everyday miracles."
+      },
+      "author_parallel_edit_rule": "Read current file and replace only the specific authorized paragraph; abort if bytes change before writing.",
+      "outside_authorized_edits_matches_initial_body": true
+    },
+    "gnostic_correspondence_ja.md": {
+      "before_sha256": "81811a239793a8ce650882723738433df4fe1f7842ceaf74bf7580d0a5e17b10",
+      "after_sha256": "ea139549042dca4b8509a51dcf3e84470e438992fda81c334c0bbb38676cb151",
+      "new_intro_start": 7,
+      "new_intro_end": 43,
+      "old_notes_1_to_94_preserved": true,
+      "other_body_bytes_preserved": true,
+      "definitions": 98,
+      "removed_notes": [
+        97,
+        100,
+        101
+      ],
+      "additional_authorized_paragraph": {
+        "before": "ゲームはこのモデルを通じて、その考えを覆す答えを示しているのかもしれない。神聖な起源は魂が「どこから来たか」を説明するかもしれないが、生が「何のためにあるか」を決めては決してならない。人が神性の源を受け継いでいても、生きることが壮大な問いへの解答を前提とすることはない。今の生活と向き合う前に、自らの起源を問い終えたり、決められた使命を引き受けたり、生きる意味を見つけたりする必要はない。",
+        "after": "ゲームはこのモデルを通じて、逆の答えを示しているのかもしれない。神聖な起源は魂がどこから来たかを説明するかもしれないが、人が何のために生きるかを決して決めてはならない。人に神聖な起源があっても、目の前の生活と向き合う前に、自分の起源を解き明かしたり、あらかじめ定められた使命を引き受けたり、人生の意味を見つけたりする必要はない。",
+        "before_sha256": "e5ebab12a1a08dcb7fd9a033f76e65ac29b42c8c5bc2686f09b70ef779bfcd3b",
+        "after_sha256": "219f58a8878b08ec0c8edda7b724bdeba3abcf272bb24d9a18f34a0bdb7a3255",
+        "outside_target_unchanged": true
+      },
+      "additional_authorized_sentence": {
+        "before": "神聖な起源に生を乗っ取らせないのは、この確かに存在する、輝く日常の奇跡を守るためである。",
+        "after": "神聖な起源に人の生き方を決めさせないのは、この日常の奇跡を守るためである。"
+      },
+      "author_parallel_edit_rule": "Read current file and replace only the specific authorized paragraph; abort if bytes change before writing.",
+      "outside_authorized_edits_matches_initial_body": true
+    },
+    "gnostic_correspondence_ko.md": {
+      "before_sha256": "9b18e756ef30c1f917c2a178b764659ad2c26c03cf19d827fd9d6e0969e2a461",
+      "after_sha256": "31fd8504c6e2b83ac5e6ea1fc879b1f5f6ac30508f9ce807398707d6b97f21a3",
+      "new_intro_start": 7,
+      "new_intro_end": 43,
+      "old_notes_1_to_94_preserved": true,
+      "other_body_bytes_preserved": true,
+      "definitions": 98,
+      "removed_notes": [
+        97,
+        100,
+        101
+      ],
+      "additional_authorized_paragraph": {
+        "before": "게임이 이 모델을 통해 제시하는 답은 이러한 생각을 뒤집는 것일 수 있다. 신성한 기원은 영혼이 ‘어디서 왔는가’를 설명할 수는 있을지 몰라도, 삶이 ‘무엇을 위해 존재하는가’를 결코 규정해서는 안 된다. 사람이 신성한 근원을 품고 있더라도, 삶을 펼쳐 나가는 데 거창한 물음에 답하는 것이 전제가 되는 일은 없다. 지금의 삶을 마주하기 전에 자신의 기원을 끝까지 캐묻거나, 정해진 사명을 떠맡거나, 삶의 의미를 찾아낼 필요는 없다.",
+        "after": "게임은 이 모델을 통해 반대의 답을 제시하는 것일 수 있다. 신성한 기원은 영혼이 어디서 왔는지를 설명할 수는 있을지 몰라도, 사람이 무엇을 위해 살아야 하는지를 결코 정해서는 안 된다. 사람이 신성한 기원을 지녔더라도, 눈앞의 삶을 마주하기 전에 자신의 기원을 알아내거나, 미리 정해진 사명을 떠맡거나, 삶의 의미를 찾아낼 필요는 없다.",
+        "before_sha256": "62c2ca8850f4f59b12d268c88b622f7cc9292f82b89635798933a212311245d5",
+        "after_sha256": "96e720e5a77df6086c87c5034d1ef9054268e33e35ba79e026177f00c2559d3c",
+        "outside_target_unchanged": true
+      },
+      "additional_authorized_sentence": {
+        "before": "신성한 기원이 삶의 주인 행세를 하지 못하게 하는 것은 바로 이 생생하고 빛나는 일상의 기적을 지키기 위해서다.",
+        "after": "신성한 기원이 사람의 삶의 방식을 대신 결정하게 두지 않는 것은 이 일상 속 기적을 지키기 위해서다."
+      },
+      "author_parallel_edit_rule": "Read current file and replace only the specific authorized paragraph; abort if bytes change before writing.",
+      "outside_authorized_edits_matches_initial_body": true
+    }
+  },
+  "scope": "Religious opening, newly authorized model-answer paragraph, and final abstract sentence; preserve current author edits."
+}

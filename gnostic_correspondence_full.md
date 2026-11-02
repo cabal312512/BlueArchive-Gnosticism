@@ -6,31 +6,46 @@
 
 在许多宗教与神话观念里，人的日常生活本身并不是最终目的。人要获得真正的圆满，还需要救赎、解脱，或是回归更根本的来源。
 
-Gnosticism中就有这样的观念：人忘记了自己的神圣来源，需要通过认识唤醒内在的灵性，摆脱束缚，回到Pleroma。Gospel of Truth直接写到，人将返回赋予自己本质的地方。[^95]摩尼教也把人的灵魂视作受困的光，救赎就是让这些光得到释放，重返光明世界。[^96]
+Gnosticism中的Gospel of Truth在谈到归返与安息时说：
 
-印度的Mundaka Upanishad用火花比喻众生：它们从不灭的本源中生出，最终又返回那里。[^97]《道德经》也说：
+> 译文：他将再次赶回那个赋予自己本质的地方。[^95]
+
+这里将本质的来源与最终归宿连在一起，救赎也就意味着回到赋予自身存在的根源。
+
+摩尼教《下部赞》在为亡者祈愿的段落中说：
+
+> 自引入于光明世界，本生之处，安乐之境。[^96]
+
+这里把光明世界称为“本生之处”，解脱便是让明性回到原本所属的世界。
+
+《道德经》说：
 
 > 夫物芸芸，各复归其根。归根曰静，是谓复命。[^98]
 
-万物由本源展开，又向根本复归。
+这里关心的不只是万物如何生长，也包括它们如何回到根本。
 
-基督教《圣经》中有这样的说法：
+《圣经》Hebrews说：
 
-> 尘土仍归于地，灵仍归于赐灵的神。[^99]
+> 我们在这里本没有常存的城，乃是寻求那将来的城。[^99]
 
-《古兰经》也说：
+这里把现世看作不能永久安顿的所在，将人生的盼望指向那座将来的城。
 
-> 译文：我们确实属于Allah，也终将归于他。[^100]
+佛教《佛说阿弥陀经》这样描述极乐世界：
 
-生命的来源，同时也是最终归向的对象。
+> 其国众生，无有众苦，但受诸乐，故名极乐。[^102]
 
-佛教从生老病死、爱别离、求不得等苦出发，寻求超越生死轮回的解脱；[^101]净土信仰则希望往生极乐世界，在那里继续修行、走向觉悟。[^102]眼前充满痛苦与缺憾的生活，也并非最终的圆满。
+并劝人：
 
-当生命的圆满被寄托在这些最终目标上，现世的喜怒哀乐与琐碎日常，就容易被看作暂时的经历，最终需要被超越。按照这种理解，生命的意义更多地在于最终走向哪里，而不在于人在这里怎样生活、经历了什么。
+> 众生闻者，应当发愿，愿生彼国。[^102]
 
-而游戏可能通过这套模型给出的回答颠覆了这一点：神圣的来源或许解释了灵魂“从何而来”，但绝不应规定生命“为何而活”。即便人们携带着神性的本源，生命的展开永远不会以解答宏大课题为前提。人们在正视当下的生活前，不必先完成对自身来源的追问、去承担某种预定的使命、找到生命的意义等等。
+这里把没有众苦的净土作为应当发愿前往的归宿，人生的目标因而超出了眼前这一世。
+
+这些例子里，人都在日常生活之外寻找一个更根本的答案：万物从何而来，人究竟是什么，又该如何获得真正的圆满。
+一旦这些问题成了衡量生命的标准，眼前的生活就退到了次要的位置。人在这里过得怎样、经历了什么，反而不如那些答案重要。
+
+而游戏可能借这套模型表达了另一种看法：即便人的存在与某种更高的本源有关，怎么过这一生，也不该由它来决定。我们不需要先解开宇宙的秘密、弄清自己的本质，或找到某种预定的使命，才开始认真生活。
 比起那些高维的永远无法被我们理解且无需被理解的东西，在日复一日的“平凡”中所度过的“日常”——那些与同伴共同欢笑、犯错、成长的“过程本身”，才是我们真正该珍视的。既然已经到了这个世界上，就不该本末倒置，去研究来之前或走之后的东西。认真过完这一生才是最重要的。
-且所谓的“奇迹”，也往往并不来自某种超越常理的力量，而恰恰诞生于人们在平凡而脆弱的日常中彼此守护、自由选择所散发出的温度。拒绝让神圣的来源反客为主，正是为了守住这份真真切切、闪闪发光的日常奇迹。
+且所谓的“奇迹”，也往往不来自某种超越常理的力量，而恰恰诞生于人们在平凡而脆弱的日常中彼此守护、自由选择所散发出的温度。不让神圣的来源替人决定该怎样活，正是为了守住这份日常的奇迹。
 
 **关键词**　Blue Archive；Gnosticism；Sophia；Yaldabaoth；Archons；Luminous Epinoia；Divine Spark；Pleroma
 
@@ -877,18 +892,12 @@ Decagrammaton同样展现出强烈的神学色彩与重塑世界的企图，但�
 [^94]: 特殊作战·Decagrammaton篇，第3章第23话，第142条对白。
 
 
-[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; paragraph beginning “Each one will speak concerning the place from which he has come forth”.
+[^95]: [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. 引文为据该英译所作的中文译文。
 
-[^96]: [Manicheism i. General Survey](https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/). Werner Sundermann, Encyclopaedia Iranica; “Gnosis and practice” and “Cosmogony”.
+[^96]: [下部讚](https://zh.wikisource.org/wiki/下部讚)，S.2659，“此偈为亡者受供结愿用之”；以“某乙明性，去离肉身”开头的段落。正文用通行简体字与标点，未混用佛教净土经文。
 
-[^97]: [Mundaka Upanishad](https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Mundaka-upanishad). 2.1.1; Max Müller, Sacred Books of the East 15.
+[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. 经文，非王弼注文。
 
-[^98]: [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章)，第16章，王弼本。
+[^99]: [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. 上下文13:11–16；另参11:13–16与12:22。
 
-[^99]: [Ecclesiastes](https://www.biblegateway.com/verse/zh/传道书%2012%3A7)，12:7，Chinese Union Version。
-
-[^100]: [Quran](https://quran.com/al-baqarah/156?reading=true)，2:156，The Clear Quran；引文由该英译转译。
-
-[^101]: [Dhammacakkappavattana Sutta](https://suttacentral.net/sn56.11/en/bodhi?lang=en). SN 56.11; Bhikkhu Bodhi.
-
-[^102]: [The Display of the Pure Land of Sukhāvatī](https://84000.co/translation/toh115). Toh 115; Sakya Pandita Translation Group, 84000.
+[^102]: [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; “其国众生”与“众生闻者”两段，分开引用；使用鸠摩罗什汉译，不与藏文传本混用。

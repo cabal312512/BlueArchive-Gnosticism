@@ -282,6 +282,53 @@
         "birth is suffering",
         "Noble Eightfold Path"
       ]
+    },
+    {
+      "id": "REL-HEB-CUV",
+      "title": "Hebrews, Chinese Union Version",
+      "kind": "primary_translation",
+      "url": "https://zh.wikisource.org/wiki/聖經_(和合本)/希伯來書",
+      "version": "和合本；正文按通行简体与标点呈现",
+      "locators": [
+        "13:11–16",
+        "11:13–16",
+        "12:22"
+      ],
+      "markers": [
+        "我們在這裏本沒有常存的城"
+      ],
+      "use": "第48轮现行注99"
+    },
+    {
+      "id": "REL-AMIT-CN",
+      "title": "佛說阿彌陀經",
+      "kind": "primary_translation",
+      "url": "https://zh.wikisource.org/wiki/佛說阿彌陀經",
+      "version": "鸠摩罗什汉译；经文主体，非页面后附咒文",
+      "locators": [
+        "其国众生无有众苦段",
+        "众生闻者应当发愿段"
+      ],
+      "markers": [
+        "無有眾苦",
+        "應當發願"
+      ],
+      "use": "第48轮现行注102"
+    },
+    {
+      "id": "REL-MANI-S2659",
+      "title": "下部讚 / Chinese Manichaean Hymn Scroll",
+      "kind": "primary_text",
+      "url": "https://zh.wikisource.org/wiki/下部讚",
+      "version": "S.2659；维基文库转录；原文异体字与正文通行字区别记录",
+      "locators": [
+        "此偈爲亡者受供結䫟用之"
+      ],
+      "markers": [
+        "自引入於光明世界",
+        "本生之處"
+      ],
+      "use": "第48轮现行注96；取代二手概述"
     }
   ]
 }

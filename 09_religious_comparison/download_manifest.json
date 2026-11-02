@@ -219,5 +219,23 @@
     "status": "web_verified_not_downloaded",
     "source_url": "https://suttacentral.net/sn56.11/en/bodhi?lang=en",
     "note": "已用网页检索核见苦谛与道谛原文；无本地完整快照"
+  },
+  {
+    "id": "REL-HEB-CUV",
+    "status": "web_verified_not_downloaded",
+    "source_url": "https://zh.wikisource.org/wiki/聖經_(和合本)/希伯來書",
+    "note": "在线全文与上下文核见；本机下载遇SSL EOF，未保存完整快照。"
+  },
+  {
+    "id": "REL-AMIT-CN",
+    "status": "web_verified_not_downloaded",
+    "source_url": "https://zh.wikisource.org/wiki/佛說阿彌陀經",
+    "note": "在线全文与上下文核见；本机下载遇SSL EOF，未保存完整快照。"
+  },
+  {
+    "id": "REL-MANI-S2659",
+    "status": "web_verified_not_downloaded",
+    "source_url": "https://zh.wikisource.org/wiki/下部讚",
+    "note": "在线全文与为亡者祈愿上下文核见；本轮未下载完整快照。"
   }
 ]

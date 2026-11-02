@@ -11,6 +11,7 @@
 | [道与Monad](dao_and_monad.md) | 《道德经》与Apocryphon of John的本源观念；哪些相似处有原话支持 |
 | [来处与归处](origin_and_return.md) | 各传统的来源、入世和归返；对论文有什么用 |
 | [原文摘录](evidence_cards.md) | 原话、中文译文、必要上下文、定位与解释 |
+| [开头引文的上下文核查](opening_context_review_round48.md) | 第48轮实际选用的引语、适用范围及更换理由；只改本地 |
 | [来源登记](sources.json) | 文本、译者或版本、章节、原链接 |
 | [下载记录](download_manifest.json) | 本地快照指纹、成功与失败状态；网页读到不等于下载成功 |
 | [研究日志](research_log.md) | 本资料夹的工作与后续问题 |

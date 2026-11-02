@@ -2,7 +2,7 @@
 
 > **第29轮当前解释优先**：保留塔类技术源于无名神、中央塔被祭司列为被遗忘诸神产物的归属矛盾；反转与具体建筑有别不能解决技术谱系问题。两类力量称呼切换只作弱旁证。过程本身有价值与Divine Spark回归Pleroma是用户明确强调的重点。详细引文与贡献见04_evidence/stage4_round29_response.md。
 
-> **第25轮当前基准：Pleroma内部关系与群体对应**。原典全结构已整理于 `06_comparative_analysis/gnostic_atlas/index.html`。Yaldabaoth对应由无名众神相关事物分担，祭司100%对应Archons并承接部分Yaldabaoth；本体与Sophia的固定上下排序撤去。Pleroma是神圣整体，内部仍可有差别。完整用户方向和AI建议见 `08_review_queue/stage4_mapping_after_cosmology.md`，新候选未替用户裁定。
+> **第25轮当前基准：Pleroma内部关系与群体对应**。原典全结构已整理于 `gnostic_atlas.html`。Yaldabaoth对应由无名众神相关事物分担，祭司100%对应Archons并承接部分Yaldabaoth；本体与Sophia的固定上下排序撤去。Pleroma是神圣整体，内部仍可有差别。完整用户方向和AI建议见 `08_review_queue/stage4_mapping_after_cosmology.md`，新候选未替用户裁定。
 
 > **第25轮当前方向**：无名众神本体不再固定高于Sophia，研究其与Sophia、被遗忘诸神同属Pleroma神圣层次的可能。讨论可能对应Aeons的是无名众神本体及被遗忘诸神；所有人具有Divine Spark表达神性来源，不等于每个人原本都是某位Aeon。禁止把后一句AI概括冒称用户观点。
 

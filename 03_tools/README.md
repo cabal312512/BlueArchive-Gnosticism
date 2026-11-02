@@ -50,6 +50,18 @@ python 03_tools/search.py --db scratch/new-corpus-build/story_index.db --test
 `--speaker-key`按原始角色键精确筛选；`--variants GROUP_ID`导出该Group的版本对照JSON。旧ID共395,866个全部可追溯。79个去除空白后仍不同的Group保留122个对照块；其余3组仅空白差异。23项回归检查通过。角色哈希实现见xxhash32.py，算法规范：https://github.com/Cyan4973/xxHash/blob/dev/doc/xxhash_spec.md 。
 
 
-## 论文维护
+## 图谱维护
 
-当前[论文](../gnostic_correspondence_full.md)以用户重写稿为准。`write_full_manuscript.py`已停用，避免覆盖。`format_author_manuscript.py`保存第34轮从原件整理出版格式的过程，现已封存停用，防止覆盖作者后续修改。当前[注释映射](../01_sources/paper_citation_index.md)与[发言人格式保字校验](../01_sources/paper_speaker_format_validation.json)均另存于来源目录；paper_format_validation.json保留第34轮历史输出的校验。
+根目录的[gnostic_atlas.html](../gnostic_atlas.html)是四语单文件，直接离线打开。全部数据、译文、脚本与样式在文件内部，资料页可导出JSON、CSV与文字总表。
+
+```powershell
+python 03_tools/atlas.py
+python 03_tools/atlas.py --export scratch/atlas-data.json
+python 03_tools/test_gnostic_atlas.py
+```
+
+`atlas.py`只校验或导出，不会重建或覆盖HTML。旧版图谱生成器和一次性论文生成器已移入本地垃圾桶，避免覆盖后续人工修改。
+
+## 当前工具
+
+保留检索、数据库恢复、完整语料构建、源文献下载、图谱检查及相关回归检查；检索使用的`xxhash32.py`保留。临时探查脚本、旧索引构建器和一次性排版脚本已清理。论文仍以根目录作者稿为准，引用定位见[技术索引](../01_sources/paper_citation_index.md)。

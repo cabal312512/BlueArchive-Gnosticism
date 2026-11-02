@@ -2,18 +2,24 @@
 import json
 from pathlib import Path
 import unittest
+from atlas import read_embedded, validate
 
 ROOT=Path(__file__).resolve().parent.parent
 
 class AtlasReviewTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.data=json.loads((ROOT/'06_comparative_analysis/gnostic_atlas/atlas_data.json').read_text(encoding='utf-8'))
+        cls.data=read_embedded()
         cls.nodes={n['id']:n for n in cls.data['nodes']}
         cls.edges=cls.data['edges']
 
     def relation(self, source, target, kind=None):
         return any(e['from_id']==source and e['to_id']==target and (kind is None or e['type']==kind) for e in self.edges)
+
+    def test_standalone_translations_cover_all_existing_content(self):
+        report=validate()
+        self.assertEqual(report['languages'], ['zh','en','ja','ko'])
+        self.assertEqual(report['translated_strings_per_language'],875)
 
     def test_identifiers_sources_and_endpoints(self):
         self.assertEqual(len(self.nodes),len(self.data['nodes']))

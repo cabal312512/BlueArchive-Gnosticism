@@ -6,7 +6,7 @@
 
 Michael Waldstein / Frederik Wisse 编，*The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2*，Nag Hammadi and Manichaean Studies33，E. J. Brill，1995，ISBN90-04-10395-3。II、IV为长本；III、BG为短本。四栏中的缺文不能当作完整证词。另用James M. Robinson总编，*The Nag Hammadi Library in English*，第三次全面修订版，Harper & Row，1988。其Wisse综合英译不等同于四栏校勘本。
 
-核验缓存：`scratch/sources/`（不入Git）；来源与文件指纹见 `01_sources/primary_source_verification.json`；书目暂存于 `08_review_queue/parked_later_stages_2026-10-31/references.bib`。以下PDF页序从文件第一页起算为1。
+核验缓存：`01_sources/gnostic_readings/local_archive/`（不入Git）；来源与文件指纹见 `01_sources/primary_source_verification.json`；书目暂存于 `08_review_queue/parked_later_stages_2026-10-31/references.bib`。以下PDF页序从文件第一页起算为1。
 
 ## GN-01：索菲亚的独自行动
 

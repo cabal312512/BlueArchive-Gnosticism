@@ -1,0 +1,54 @@
+{
+  "locales": [
+    {
+      "locale": "zh-CN",
+      "language": "zh-CN"
+    },
+    {
+      "locale": "en-US",
+      "language": "en"
+    },
+    {
+      "locale": "ja-JP",
+      "language": "ja"
+    },
+    {
+      "locale": "ko-KR",
+      "language": "ko"
+    },
+    {
+      "locale": "fr-FR",
+      "language": "en"
+    },
+    {
+      "locale": "zh-TW",
+      "language": "zh-CN"
+    }
+  ],
+  "offline": true,
+  "externalRequests": [],
+  "errors": [],
+  "systemsChecked": 21,
+  "downloadFormats": 4,
+  "manualLanguagePersistence": true,
+  "storageDeniedFallback": true,
+  "mobileWidth": 390,
+  "data": {
+    "languages": [
+      "zh",
+      "en",
+      "ja",
+      "ko"
+    ],
+    "translated_strings_per_language": 875,
+    "systems": 21,
+    "nodes": 370,
+    "edges": 375,
+    "original_data_unchanged": true,
+    "bytes": 542214
+  },
+  "title_banner_removed": true,
+  "file": "gnostic_atlas.html",
+  "semantic_tests": 9,
+  "corpus_tests": 23
+}

@@ -16,7 +16,7 @@ For English, see [English README](README.en.md). This is an AI translation and m
 - **[论文全文](gnostic_correspondence_full.md)**：这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。
   
 - **[术语说明](GNOSTIC_GLOSSARY.md)**：面向初次接触相关概念的读者，解释文中的名词与文献。
-- **[宇宙论图谱](06_comparative_analysis/gnostic_atlas/index.html)**：下载后浏览器打开HTML文件。
+- **[宇宙论图谱](gnostic_atlas.html)**：下载后浏览器打开HTML文件。
 - **[引文技术索引](01_sources/paper_citation_index.md)**：论文注释与原始语料编号、源表行号的对应。
 
 如果对我的想法感兴趣且下载了仓库，可以让AI看看[运行指南](AGENTS.md)、[研究过程](CHAT_BACKUP.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。

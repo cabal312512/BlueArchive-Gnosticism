@@ -4,7 +4,7 @@
 
 > **第27轮当前方向**：此前Yaldabaoth／Archons等对应和分支保留，用于整体理解，不强求精确排位与唯一映射。剧情重读补充：祭司复归包含解体分化神圣；声音容纳追随者诅咒的对象并祝福；神力的继承不强制继承使命。详见本篇末尾与04_evidence/nameless_forgotten_revisit_2026-10-31.md。以下第23轮固定高于Sophia的说法为已被第25轮修正的历史分支。
 
-> **第25轮当前基准：Yaldabaoth非独占对应与祭司功能**。原典全结构已整理于 `06_comparative_analysis/gnostic_atlas/index.html`。Yaldabaoth对应由无名众神相关事物分担，祭司100%对应Archons并承接部分Yaldabaoth；本体与Sophia的固定上下排序撤去。Pleroma是神圣整体，内部仍可有差别。完整用户方向和AI建议见 `08_review_queue/stage4_mapping_after_cosmology.md`，新候选未替用户裁定。
+> **第25轮当前基准：Yaldabaoth非独占对应与祭司功能**。原典全结构已整理于 `gnostic_atlas.html`。Yaldabaoth对应由无名众神相关事物分担，祭司100%对应Archons并承接部分Yaldabaoth；本体与Sophia的固定上下排序撤去。Pleroma是神圣整体，内部仍可有差别。完整用户方向和AI建议见 `08_review_queue/stage4_mapping_after_cosmology.md`，新候选未替用户裁定。
 
 > **第23轮更新优先**：用户100%认定声音为无名众神，作为研究工作前提；不将其改写为原文已标明身份。当前基线：本体＝Yaldabaoth，祭司＝Archons；重点分支一：祭司兼承Yaldabaoth与Archons；重点分支二：神本体低于Monad、高于Sophia，祭司承接低层造物秩序功能。以下旧论述中的AI保留意见属于历史判断，不代表用户仍未决定。人工遗物暂留，之后关注“人工”与化石燃料比喻的关系；本轮不检索。
 

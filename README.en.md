@@ -12,7 +12,7 @@ These are just my own rambling thoughts and personal views. My thinking jumps ar
 
 - **[Full paper](gnostic_correspondence_en.md)**: I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.
 - **[Glossary](GNOSTIC_GLOSSARY_en.md)**: Explains the terms and literature mentioned in the paper for readers new to the subject.
-- **[Cosmology atlas](06_comparative_analysis/gnostic_atlas/index.html)**: Download it and open the HTML file in a browser.
+- **[Cosmology atlas](gnostic_atlas.html)**: Download it and open the HTML file in a browser.
 - **[Technical citation index](01_sources/paper_citation_index.md)**: Maps the paper's notes to the original corpus IDs, source tables, and row numbers.
 
 If you're interested in my ideas and have downloaded the repository, you can have an AI read the [agent guide](AGENTS.md), [research conversations](CHAT_BACKUP.md), [current status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.

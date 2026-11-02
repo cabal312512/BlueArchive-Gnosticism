@@ -35,3 +35,7 @@ temp/
 # Local reference downloads; catalog and source fingerprints remain tracked
 01_sources/gnostic_readings/downloads/
 09_religious_comparison/downloads/
+
+# Disposable local outputs and preserved reference downloads
+垃圾桶/
+01_sources/gnostic_readings/local_archive/

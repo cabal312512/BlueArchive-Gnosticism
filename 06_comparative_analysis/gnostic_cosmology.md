@@ -2,8 +2,8 @@
 
 2026-10-31，GPT 6.1 Sol。本轮按用户要求整理原典体系，不推进论文。工作依据为既有学术整理与可检索英译；原典用于关键关系及分歧核对，不逐页精读全部下载书籍。
 
-- [HTML关系图](gnostic_atlas/index.html)：21个文本／版本视图，点击节点看名号、所属、功能与来源；可展开名单及跨文本检索。
-- [文字总表](gnostic_atlas/cosmology_reference.md)：各文本从生成到归返的完整骨架及370个分版本条目。
+- [HTML关系图](../gnostic_atlas.html)：21个文本／版本视图，点击节点看名号、所属、功能与来源；可展开名单及跨文本检索。
+- [文字总表（在图谱内导出）](../gnostic_atlas.html)：各文本从生成到归返的完整骨架及370个分版本条目。
 - [CSV名号表](gnostic_atlas/name_catalog.csv)：另含130项下界身体／感官／passions名录附录；条目数不是神的数量。
 - [下载资料与指纹](../01_sources/gnostic_readings/download_manifest.json)：36份成功下载，约81 MB；含原典英译、古代外部传述、学术书及目录，具体取舍见README和download_validation。
 

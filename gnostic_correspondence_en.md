@@ -380,7 +380,7 @@ The titles of Episodes 23 and 24 are:
 >
 > English: "Kyrie for the Girls (1) / Kyrie for the Girls (2)."[^49]
 
-The title’s shift from “Forgotten Gods” to “Girls” can also suggest, to some extent, that contemporary students correspond to the Forgotten Gods, and that their divine origins can broadly be understood as lying on the Pleroma side (I don’t feel it is necessary to work out the exact correspondence; if you are interested, you can look through the [Atlas](06_comparative_analysis/gnostic_atlas/index.html) for a match).
+The title’s shift from “Forgotten Gods” to “Girls” can also suggest, to some extent, that contemporary students correspond to the Forgotten Gods, and that their divine origins can broadly be understood as lying on the Pleroma side (I don’t feel it is necessary to work out the exact correspondence; if you are interested, you can look through the [Atlas](gnostic_atlas.html) for a match).
 
 ### 7.3 Oblivion
 

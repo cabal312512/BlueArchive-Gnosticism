@@ -12,7 +12,7 @@ AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어�
 
 - **[논문 전문](gnostic_correspondence_ko.md)**: 대부분 제가 직접 썼습니다. AI가 쓴 글은 좋지 않았습니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.
 - **[용어 설명](GNOSTIC_GLOSSARY_ko.md)**: 이 분야를 처음 접하는 분들을 위해 본문에 나오는 용어와 문헌을 설명합니다.
-- **[우주론 관계도](06_comparative_analysis/gnostic_atlas/index.html)**: 내려받은 뒤 브라우저에서 HTML 파일을 열어 주세요.
+- **[우주론 관계도](gnostic_atlas.html)**: 내려받은 뒤 브라우저에서 HTML 파일을 열어 주세요.
 - **[인용 기술 색인](01_sources/paper_citation_index.md)**: 논문의 주석과 원문 코퍼스 번호, 데이터 표, 행 번호의 대응 관계를 기록합니다.
 
 제 생각에 관심이 있고 저장소를 내려받았다면, AI가 [작업 안내](AGENTS.md), [연구 대화 기록](CHAT_BACKUP.md), [현재 상태](PROJECT_STATUS.md), [논의 결정 기록](08_review_queue/decision_log.md)을 먼저 읽고 이어서 작업하도록 할 수 있습니다. 이 프로젝트는 그대로 Agent에게 넘겨도 됩니다. 이 보조 문서들은 중국어로 되어 있습니다.

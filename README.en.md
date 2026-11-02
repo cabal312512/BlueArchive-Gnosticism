@@ -3,9 +3,7 @@
 >
 > This article contains major spoilers for the main story of Blue Archive. It is intended for players who have finished Part 1 of the main story.
 
-<p align="center">
-<a href="README.md">中文</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <strong>English</strong>
-</p>
+---
 
 > [!NOTE]
 > **Translation notes**

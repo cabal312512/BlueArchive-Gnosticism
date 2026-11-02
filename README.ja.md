@@ -3,9 +3,7 @@
 >
 > 本文には『ブルーアーカイブ』のメインストーリーの重要なネタバレが含まれます。メインストーリー第1部を読了したプレイヤー向けです。
 
-<p align="center">
-<a href="README.md">中文</a> &nbsp; · &nbsp; <strong>日本語</strong> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.en.md">English</a>
-</p>
+---
 
 > [!NOTE]
 > **翻訳について**

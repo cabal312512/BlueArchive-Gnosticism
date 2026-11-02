@@ -3,9 +3,7 @@
 >
 > 本文包含《蔚蓝档案》主线剧情的重要剧透，适合已读完第一部主线剧情的玩家阅读。
 
-<p align="center">
-<strong>中文</strong> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.en.md">English</a>
-</p>
+---
 
 > [!NOTE]
 > **翻译说明**

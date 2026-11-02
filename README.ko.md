@@ -3,9 +3,7 @@
 >
 > 이 글에는 『블루 아카이브』 메인 스토리의 주요 스포일러가 포함되어 있습니다. 메인 스토리 1부를 모두 읽은 플레이어를 대상으로 합니다.
 
-<p align="center">
-<a href="README.md">中文</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <strong>한국어</strong> &nbsp; · &nbsp; <a href="README.en.md">English</a>
-</p>
+---
 
 > [!NOTE]
 > **번역 안내**

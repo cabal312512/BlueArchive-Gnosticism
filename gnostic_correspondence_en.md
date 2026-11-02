@@ -44,7 +44,7 @@ In these examples, people look beyond everyday life for a more fundamental answe
 
 Once these questions become the standard by which life is judged, the life before us takes second place. How people live here and what they experience become less important than those answers.
 
-The game may use this model to express a different view: even if human existence is connected to some higher source, that source should not decide how we live our lives. We do not need to unravel the secrets of the universe, understand our own essence, or find some predetermined mission before we begin to take our lives seriously.
+The game may use this model to express a different view: even if human existence is connected to some higher-dimensional source, that source should not decide how we live our lives. We do not need to unravel the secrets of the universe, understand our own essence, or find some predetermined mission before we begin to take our lives seriously.
 Rather than those higher-dimensional things that we can never understand and have no need to understand, what we should truly cherish is the “everyday life” spent in day after day of the “ordinary”—the “process itself” of laughing, making mistakes, and growing alongside our companions. Since we are already in this world, we should not reverse our priorities by studying what came before our arrival or what follows our departure. Living this life with care is what matters most.
 And so-called “miracles” often do not come from some power beyond ordinary understanding, but from the warmth of people protecting one another and choosing freely within their ordinary, fragile daily lives. We refuse to let divine origins decide how people should live in order to protect these everyday miracles.
 
@@ -54,7 +54,7 @@ If all these unfamiliar terms are confusing, you can start with the [Glossary: G
 
 ## I. Basic Structure of the Model
 
-Some key elements in *Blue Archive* are the President’s mistake and Sensei’s arrival; the old order left by the Nameless Gods and their Priests; students referred to as gods; oblivion; halos; and the demand to return to the origin in the Ex arc. These can be connected into a whole through a Gnosticism model.
+Some key elements in *Blue Archive* are the President’s mistake and Sensei’s arrival; the Nameless Gods and their Priests; students referred to as gods; oblivion; halos. These can be connected into a whole through a Gnosticism model.
 
 The correspondences adopted in this paper are as follows:
 
@@ -73,7 +73,7 @@ This correspondence model is grounded primarily in the *Apocryphon of John*, sup
 
 ### 2.1 Error, Repentance, and Remedy
 
-The correspondence between the President and Sophia appears first in the narrative’s starting point. In Apocryphon of John, Sophia acts alone, without working with her consort or obtaining permission from the source, causing an imbalance in the order. On recognizing her mistake, she becomes repentant and begins a long process of repair. The game likewise grounds the story in the President’s mistake and reflection, and the Final Arc returns to this central monologue:
+The correspondence between the President and Sophia appears first in the narrative’s starting point. In Apocryphon of John, Sophia acts alone, without working with her consort or obtaining permission from the source, causing an imbalance in the order. On recognizing her mistake, she becomes repentant. The game likewise grounds the story in the President’s mistake and reflection, and the Final Arc returns to this central monologue:
 
 > **連邦生徒会長**：……私のミスでした。
 >
@@ -103,7 +103,27 @@ The President acknowledges more than a loss of control: she explicitly attribute
 
 This forms the chain “a divine figure makes a mistake—a distorted outcome—a helper is introduced—another outcome is sought,” matching Sophia’s story.[^7]
 
-### 2.2 An Additional Point: Being the Youngest
+### 2.2 Disappearance and Continued Presence
+
+> **プラナ**：シッテムの箱のOS、A.R.O.N.Aである私と、アロナ先輩……
+> なぜ二人が似て非なる存在であるのか……理解しました。
+>
+> **Prana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.[^11]
+
+> **プラナ**：ここに居たのですね……だからこそ、誰にも見つけられなかった。
+> そうでしょう？
+>
+> **Prana**：You were here all along... That is why no one could find you. Isn't that right?[^12]
+
+> **プラナ**：――――連邦生徒会長。
+>
+> **Prana**：——General Student Council President.[^13]
+
+This scene clearly shows that the President’s “disappearance” is neither death nor an exit from the story, but a change in her form and level of existence: she steps away from public administrative duties, transfers herself into the Shittim Chest, and secretly keeps the entire remedial plan running.
+
+This corresponds to Sophia’s state of existence in the original text. In Apocryphon of John (NHC II,1 14,9–13), Sophia does not immediately return to the heavenly source after her repentance, but is placed in “The Ninth,” a hidden intermediate level above the created world. Although she does not appear openly in that world, she watches over it in secret, waits, and participates in the gradual repair of its deficiency. The President’s situation matches this: remaining in the Shittim Chest and providing crucial support to Sensei behind the scenes, she quietly advances the world’s correction from this position as an “intermediate hub.”[^14]
+
+### 2.3 An Additional Point: Being the Youngest
 
 When the Part 2 Prologue looks back at the President’s inauguration, Aoi and Ayumu have the following exchange:
 
@@ -120,28 +140,6 @@ The Valentinian system described by Irenaeus, meanwhile, calls Sophia the younge
 
 > "was the youngest of the Duodecad"[^10]
 
-### 2.3 Disappearance and Continued Presence
-
-Prana offers the following assessment in the Shittim Chest:
-
-> **プラナ**：シッテムの箱のOS、A.R.O.N.Aである私と、アロナ先輩……
-> なぜ二人が似て非なる存在であるのか……理解しました。
->
-> **Prana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.[^11]
-
-> **プラナ**：ここに居たのですね……だからこそ、誰にも見つけられなかった。
-> そうでしょう？
->
-> **Prana**：You were here all along... That is why no one could find you. Isn't that right?[^12]
-
-> **プラナ**：――――連邦生徒会長。
->
-> **Prana**：——General Student Council President.[^13]
-
-This scene clearly shows that the President’s “disappearance” is neither death nor an exit from the story, but a change in her form and level of existence: she steps away from public administrative duties, transfers her consciousness into the Shittim Chest, and secretly keeps the entire remedial plan running.
-
-This corresponds to Sophia’s state of existence in the original text. In Apocryphon of John (NHC II,1 14,9–13), Sophia does not immediately return to the heavenly source after her repentance, but is placed in “The Ninth,” a hidden intermediate level above the created world. Although she does not appear openly in that world, she watches over it in secret, waits, and participates in the gradual repair of its deficiency. The President’s situation matches this: remaining in the Shittim Chest and providing crucial support to Sensei behind the scenes, she quietly advances the world’s correction from this position as an “intermediate hub.”[^14]
-
 ## III. Sensei = Luminous Epinoia
 
 ### 3.1 The Helper Function in the Primary Texts
@@ -150,7 +148,7 @@ In Apocryphon of John, after Sophia’s divine power flows into Adam, the heaven
 
 > “a helper to Adam, luminous Epinoia”[^15]
 
-The core mission of Luminous Epinoia is to help created individuals awaken, guide them toward recognizing their inner divine source, and thereby help them escape matter’s absolute constraints. She resides secretly within Adam, beyond the scrutiny or control of the Archons, and directly participates in gradually correcting the Mother’s deficiency. This archetype connects two ends of the narrative structure: above, Sophia’s imbalance and the broader remedial effort; below, the protection of individuals in reality from being wholly defined by the cold will of the lower rulers.
+Luminous Epinoia is hidden within Adam, helping him understand where he comes from and the divine power within him, and guiding him back to the upper world. The Archons maintain their rule through forgetfulness and deception; Epinoia awakens human understanding and helps people escape that control.
 
 ### 3.2 The President's Entrustment and Sensei's Action
 
@@ -173,8 +171,8 @@ To which Sensei replies:
 
 Both sides see the same person. The Priests place her within the categories of divine power and purpose; Sensei cares only about the student who is suffering.
 
-A potential contradiction needs clarification here: the mission of Luminous Epinoia is to guide humanity toward recognizing its divine origin and “returning to its original fullness.” Does that conflict with Sensei’s protection of students’ secular lives?
-A distinction is needed: what we criticize is not the goodness of the source itself, but the reversal of priorities that “focuses only on higher-dimensional origins while disregarding everyday life in the present.” In fact, the most essential forms of goodness do not have to be obtained by leaving life behind. On the contrary, it is by seriously engaging in ordinary daily life, facing choices, and experiencing bonds that people can quietly come to understand these essentials.
+What Sensei seeks to protect here is the possibility of Shiroko continuing to live as a student and choosing her own future. This parallels the way Luminous Epinoia helps individuals escape domination, yet it also makes the difference in their goals apparent: Luminous Epinoia guides people to recognize their divine origin and return to their original fullness, while Sensei cherishes the lives students are living now and refuses to let divine status and mission take their place. If the ancient text presents return to the upper world as the direction of salvation, does Sensei’s help in enabling students to continue living in this world instead conflict with that direction?
+A distinction is needed: what we criticize is not the goodness of the source itself, but the reversal of priorities that “focuses only on higher-dimensional origins while disregarding everyday life in the present.” I think the things that are truly most fundamental do not have to be obtained by leaving life behind. When we seriously engage in the small, real details of ordinary life, face concrete difficulties and choices one after another, share laughter, mistakes and companionship with those around us, and experience the sincere bonds between us, we instead gradually become aware of and experience some of the underlying meaning of ourselves and the world through this calm, grounded process.
 
 Sensei thus continues the function of Luminous Epinoia in helping and guiding individuals after an imbalance. The game gives this help concrete form by protecting students’ growth and independent choices in the present world. It also brings “fullness” back to the actual experience of humanity and life. The functional relationship can be compared, while the narrative focus of salvation has changed.
 

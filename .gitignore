@@ -37,5 +37,14 @@ temp/
 09_religious_comparison/downloads/
 
 # Disposable local outputs and preserved reference downloads
-垃圾桶/
+Trash/
 01_sources/gnostic_readings/local_archive/
+
+# DeepSeek work products and secrets stay local; runtime is F:/DeepSeekHarness
+deepseek/inputs/
+deepseek/outputs/
+deepseek/jobs/
+deepseek/cache/
+deepseek/*.log
+deepseek/.env*
+deepseek/*.dpapi

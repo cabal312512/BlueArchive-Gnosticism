@@ -1,0 +1,109 @@
+{
+  "terms": 42,
+  "term_order": [
+    "Monad / Invisible Spirit / Father",
+    "Pleroma",
+    "Aeon / Aeons",
+    "Barbelo",
+    "Autogenes / Christ",
+    "Four Luminaries",
+    "Sophia",
+    "The Ninth",
+    "Demiurge",
+    "Yaldabaoth",
+    "Archon / Archons",
+    "Adam",
+    "Luminous Epinoia / Epinoia",
+    "Pronoia",
+    "Divine Spark",
+    "Power / Dynamis",
+    "Pneuma",
+    "Psyche",
+    "Psychic / Pneumatic",
+    "Light Fragments",
+    "Heimarmene",
+    "Valentinian",
+    "Duodecad",
+    "Achamoth / Horos",
+    "Kabbalah",
+    "Sefirah / Sefirot",
+    "Tree of Life",
+    "Tetragrammaton",
+    "Kyrie",
+    "Gnosticism",
+    "Gnosis",
+    "Gnostic",
+    "Apocryphon of John",
+    "Tripartite Tractate",
+    "Gospel of Truth",
+    "Letter to Flora",
+    "Against Heresies",
+    "Nag Hammadi Library",
+    "NHC / BG",
+    "The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2",
+    "Bible / Old Testament",
+    "Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll"
+  ],
+  "files": {
+    "GNOSTIC_GLOSSARY.md": {
+      "before_sha256": "cefb7f66511ec5738d032bb5688b4814badf096e219206aad494f01d3680dadd",
+      "after_sha256": "4b0347ffc3e1cee951826b6175e316d6c35580e52fe45c07c406d7d5506e14a9",
+      "terms": 42,
+      "links_verified": true
+    },
+    "GNOSTIC_GLOSSARY_en.md": {
+      "before_sha256": "1708c4b13ef1379a57e3c00476ff688f7bf40a683ee6df5c6fbcade86edf540a",
+      "after_sha256": "111a69e115992aa6e5f2f5b9ce318b205627a71afbe8fc5d1f22924b258d514c",
+      "terms": 42,
+      "links_verified": true
+    },
+    "GNOSTIC_GLOSSARY_ja.md": {
+      "before_sha256": "de3fd0954f3e0e7d8b66f955bcfe7764dce45e21633618fca4e5f6e32b073cc8",
+      "after_sha256": "c19cd44d75bceb331671e45e0537bb1b05bd5df081b2face56bd5012affe278a",
+      "terms": 42,
+      "links_verified": true
+    },
+    "GNOSTIC_GLOSSARY_ko.md": {
+      "before_sha256": "3c75310a65411b7f195a5e7de5f214ecd89f4bea901d61fad19584275198c331",
+      "after_sha256": "f995e445c06e8a1dfff7e41bc5b72d9d987140a30a77deaf9817daab3c4909e7",
+      "terms": 42,
+      "links_verified": true
+    }
+  },
+  "helper_mode": "read-only; write/edit/shell/subagents disabled",
+  "paragraph_change": {
+    "before": "Luminous Epinoia的核心使命，是协助受造个体觉醒、指引其认识内在的神圣源头，进而摆脱物质的绝对束缚。她隐秘地入驻于Adam体内，无法被Archons所窥探或掌控，直接参与着对母体缺陷的逐步修正。这一原型在叙事结构上兼顾了两端：向上连接着 Sophia 的失衡与补救大局，向下则守护着现实个体，使其免于被下层统治者的冷酷意志彻底定义。",
+    "after": "Luminous Epinoia隐藏在Adam体内，帮助他认识自己的来处和内在的神圣力量，并指引他回归上界。Archons用遗忘和蒙蔽维持支配，她则唤醒人的认识，帮助人摆脱这种控制。对Sophia过失的补救，也就落实在了对人的帮助上：人虽然生活在造物者建立的世界里，却不必永远任由这些统治者摆布。",
+    "before_sha256": "8e941bf935862dacc1c3747b7de973220cefad95ba8bbc3fb00721c127d7ec01",
+    "after_sha256": "9712b3656e5e128d09b275b83ca2f4521c3eaae32322daaaa5edc183598359d0",
+    "outside_target_unchanged": true
+  },
+  "paper_translations": {
+    "gnostic_correspondence_en.md": {
+      "before": "The core mission of Luminous Epinoia is to help created individuals awaken, guide them toward recognizing their inner divine source, and thereby help them escape matter’s absolute constraints. She resides secretly within Adam, beyond the scrutiny or control of the Archons, and directly participates in gradually correcting the Mother’s deficiency. This archetype connects two ends of the narrative structure: above, Sophia’s imbalance and the broader remedial effort; below, the protection of individuals in reality from being wholly defined by the cold will of the lower rulers.",
+      "after": "Luminous Epinoia is hidden within Adam, helping him understand where he comes from and the divine power within him, and guiding him back to the upper world. The Archons maintain their rule through forgetfulness and deception; she awakens human understanding and helps people escape that control. Repairing Sophia’s mistake thus takes the form of helping people: although they live in the world established by their makers, they do not have to remain forever at these rulers’ mercy.",
+      "outside_target_unchanged": true
+    },
+    "gnostic_correspondence_ja.md": {
+      "before": "Luminous Epinoiaの中心的な使命は、被造の個体の覚醒を助け、内なる神聖な源を認識するよう導き、物質による絶対的な束縛から解放することである。彼女はAdamの内にひそかに宿り、Archonsに見抜かれたり支配されたりすることなく、母の欠陥の段階的な修正に直接関わる。この原型は物語構造の両端をつないでいる。上ではSophiaの不均衡と修復の全体像に結びつき、下では現実の個体を守り、下層の支配者の冷酷な意志によって完全に規定されることを防いでいる。",
+      "after": "Luminous EpinoiaはAdamの内に隠れ、彼が自分の由来と内なる神聖な力を知るのを助け、上界への帰還を導く。Archonsは忘却と欺きによって支配を保つが、彼女は人の認識を目覚めさせ、その支配から抜け出すのを助ける。Sophiaの過ちを正すことは、こうして人を助けることにつながっている。人は創造者たちが築いた世界に生きていても、いつまでもその支配者たちの思いどおりになる必要はない。",
+      "outside_target_unchanged": true
+    },
+    "gnostic_correspondence_ko.md": {
+      "before": "Luminous Epinoia의 핵심 사명은 피조된 개체의 각성을 돕고 내면의 신성한 근원을 깨닫도록 이끌어, 물질의 절대적인 속박에서 벗어나게 하는 것이다. 그녀는 Adam의 몸 안에 은밀히 깃들어 Archons의 감시나 통제를 받지 않으며, 어머니의 결함을 점진적으로 바로잡는 일에 직접 참여한다. 이 원형은 서사 구조의 양쪽을 연결한다. 위로는 Sophia의 불균형과 전체적인 수습에 연결되고, 아래로는 현실의 개체를 보호하여 하위 지배자들의 냉혹한 의지에 완전히 규정되지 않도록 한다.",
+      "after": "Luminous Epinoia는 Adam 안에 숨어 그가 자신의 유래와 내면의 신성한 힘을 알도록 돕고 상계로 돌아가도록 이끈다. Archons는 망각과 기만으로 지배를 유지하지만, 그녀는 인간의 인식을 일깨워 이 통제에서 벗어나도록 돕는다. Sophia의 과오를 수습하는 일도 이처럼 인간을 돕는 일로 이어진다. 인간은 창조자들이 세운 세계에 살더라도 영원히 이 지배자들에게 휘둘릴 필요는 없다.",
+      "outside_target_unchanged": true
+    }
+  },
+  "latest_delegation_rule": "Reader-facing papers, glossaries, README, translations and short prose stay with the main assistant; DeepSeek performs large repetitive evidence work and returns internal reports only.",
+  "harness": {
+    "root": "F:/DeepSeekHarness",
+    "version": "0.2.1-rc.2",
+    "node_inside_root": true,
+    "all_configured_child_data_paths_on_F": true,
+    "credential_storage": "Windows current-user DPAPI, F-drive only",
+    "write_edit_shell_subagents_disabled": true,
+    "full_text_read_test": "6/6 lines; full glossary structural check 1-103; source copies unchanged",
+    "old_game_jobs_resumed": false
+  }
+}

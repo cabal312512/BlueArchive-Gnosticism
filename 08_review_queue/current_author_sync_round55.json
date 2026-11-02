@@ -1,0 +1,26 @@
+{
+  "en": {
+    "targeted_replacements": 6,
+    "chapter_order": "2.1 / disappearance 2.2 / youngest 2.3",
+    "footnote_definitions_unchanged": true,
+    "game_quote_lines_unchanged": true,
+    "before_sha256": "0a65b309b9f4b8ddcbee871ff601a1857d3871b30700d4a631021aa583665822",
+    "after_sha256": "5fc43df207dae2103725f41b5dba108ccffecbe38f5320f40b8c0f860465d085"
+  },
+  "ja": {
+    "targeted_replacements": 7,
+    "chapter_order": "2.1 / disappearance 2.2 / youngest 2.3",
+    "footnote_definitions_unchanged": true,
+    "game_quote_lines_unchanged": true,
+    "before_sha256": "e0fec50600940ea5ac8707fafc618b57d9206fa07c9f119b26a4d49babe2fd6a",
+    "after_sha256": "178c0709722f5882f16022ab3089f5ecaa142b0ed6e8b4a1ad802d71c52791af"
+  },
+  "ko": {
+    "targeted_replacements": 8,
+    "chapter_order": "2.1 / disappearance 2.2 / youngest 2.3",
+    "footnote_definitions_unchanged": true,
+    "game_quote_lines_unchanged": true,
+    "before_sha256": "4a52038c6cbf603c8344d7f084a90f71b3c2ccf52d6c0d5c303e7c07c4609e6d",
+    "after_sha256": "409fa8eb0b539e9cc17910cdd063359451ddac910a26185ea04ed76d1ba4644c"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "README.md": {
+    "full_translation_notice_preserved": true,
+    "always_visible": true,
+    "position": "After language navigation, before title",
+    "style": "GitHub native NOTE with bold localized heading",
+    "before_sha256": "6b292a7303c4e5cbe634c4b800bebd38d8becef415205de5c192dec19e19be3d",
+    "after_sha256": "d1003a8d11865af991c9ee611aaa7ccca314b65c6b0a5c52677e1f73e5935427"
+  },
+  "README.en.md": {
+    "full_translation_notice_preserved": true,
+    "always_visible": true,
+    "position": "After language navigation, before title",
+    "style": "GitHub native NOTE with bold localized heading",
+    "before_sha256": "1b5fe56389e359dc328a44271efb50801edd465ab77cace8f352135d94bb52be",
+    "after_sha256": "9f454ed243fa9840ee3132282f41a46bf24701744211e649fd6fb46696ffa826"
+  },
+  "README.ja.md": {
+    "full_translation_notice_preserved": true,
+    "always_visible": true,
+    "position": "After language navigation, before title",
+    "style": "GitHub native NOTE with bold localized heading",
+    "before_sha256": "9498eb9af16e21c583764cf10fc30d8027be0475f7c065cb3b89ca83e39e1ecc",
+    "after_sha256": "be1c21cefa24c412042aaaf9cc7dae06ec2e5d1fd133799fc04ce0ffa4dcd01d"
+  },
+  "README.ko.md": {
+    "full_translation_notice_preserved": true,
+    "always_visible": true,
+    "position": "After language navigation, before title",
+    "style": "GitHub native NOTE with bold localized heading",
+    "before_sha256": "a79c993e135cc491fa28ada4a2fc0371b89e070e8dd54ed444d14fdadfdbce80",
+    "after_sha256": "39131bfd8fd9e1200a370ae492ed1e299ce5bfb004cad46229b753e6e4a65280"
+  }
+}

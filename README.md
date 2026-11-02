@@ -7,22 +7,20 @@
 <strong>中文</strong> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.en.md">English</a>
 </p>
 
+> [!NOTE]
+> **翻译说明**
+>
+> 日本語はこちら：[日本語版README](README.ja.md)。AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
+>
+> 한국어는 [한국어판 README](README.ko.md)를 봐 주세요. AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어를 몰라 중국어판만 검토했으므로 내용은 [중국어판](README.md)을 기준으로 해 주세요.
+>
+> For English, see [English README](README.en.md). This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
+
 <h1 align="center">《蔚蓝档案》的Gnosticism对应模型</h1>
 
 这是关于《蔚蓝档案》剧情与Gnosticism宇宙论的个人研究，重点讨论联邦学生会长、老师、无名众神、无名祭司、被遗忘诸神与学生光环的对应。
 
 > 这只些是我胡思乱想的个人观点，思维比较跳跃，还用了大量AI，所以会有很多不准确的东西。
-
-<details>
-<summary><strong>翻译说明</strong></summary>
-
-日本語はこちら：[日本語版README](README.ja.md)。AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
-
-한국어는 [한국어판 README](README.ko.md)를 봐 주세요. AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어를 몰라 중국어판만 검토했으므로 내용은 [중국어판](README.md)을 기준으로 해 주세요.
-
-For English, see [English README](README.en.md). This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
-
-</details>
 
 ## 阅读入口
 

@@ -7,18 +7,16 @@
 <a href="README.md">中文</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <strong>English</strong>
 </p>
 
+> [!NOTE]
+> **Translation notes**
+>
+> This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
+
 <h1 align="center">Blue Archive and Gnosticism: A Correspondence Model</h1>
 
 This is a personal study of the story of *Blue Archive* and its correspondences with the cosmology of Gnosticism. It focuses on the General Student Council President, Sensei, the Nameless Gods, the Nameless Priests, the Forgotten Gods, and the students' halos.
 
 > These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
-
-<details>
-<summary><strong>Translation notes</strong></summary>
-
-This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
-
-</details>
 
 ## Where to Start
 

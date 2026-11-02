@@ -7,18 +7,16 @@
 <a href="README.md">中文</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <strong>한국어</strong> &nbsp; · &nbsp; <a href="README.en.md">English</a>
 </p>
 
+> [!NOTE]
+> **번역 안내**
+>
+> AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어를 몰라 중국어판만 검토했으므로 내용은 [중국어판](README.md)을 기준으로 해 주세요.
+
 <h1 align="center">『블루 아카이브』의 Gnosticism 대응 모델</h1>
 
 『블루 아카이브』의 스토리와 Gnosticism 우주론의 대응 관계에 관한 개인적인 연구입니다. 총학생회장, 선생님, 이름 없는 신들, 무명사제, 잊혀진 신들, 그리고 학생들의 헤일로가 무엇에 대응하는지를 중심으로 다룹니다.
 
 > 이건 그저 제가 이것저것 상상해 본 개인적인 생각입니다. 생각이 이리저리 튀는 데다 AI도 많이 사용했으니 부정확한 내용이 많을 겁니다.
-
-<details>
-<summary><strong>번역 안내</strong></summary>
-
-AI 번역이라 표현이 다소 어색할 수 있으며, 저는 다른 언어를 몰라 중국어판만 검토했으므로 내용은 [중국어판](README.md)을 기준으로 해 주세요.
-
-</details>
 
 ## 읽기 안내
 

@@ -196,7 +196,7 @@ AI最初提出减少默认连线，用户立即纠正：“你别少连线 你�
 
 补充纠正：用户明确认为指整套思想传统时Gnosticism更合适，Gnosis太宽泛，不将论文中的思想传统名称改成Gnosis。当前统一使用Gnosticism；术语说明另解释三词差别。
 
-已落实：论文在[根目录](../gnostic_correspondence_full.md)，[术语说明](../GNOSTIC_GLOSSARY.md)、[引文技术索引](../01_sources/paper_citation_index.md)分开。作者原件存archive/user_manuscript_2026-11-01_original.md。正文按允许变更规范化后逐字一致。后续不得擅自纠正作者观点、补写段落或恢复AI旧稿；旧写稿生成器停用。
+已落实：论文在[根目录](../gnostic_correspondence_full.md)，[术语说明](../glossary/GNOSTIC_GLOSSARY.md)、[引文技术索引](../01_sources/paper_citation_index.md)分开。作者原件存archive/user_manuscript_2026-11-01_original.md。正文按允许变更规范化后逐字一致。后续不得擅自纠正作者观点、补写段落或恢复AI旧稿；旧写稿生成器停用。
 
 
 ## 第35轮：再次修改后的作者稿与双语姓名标签
@@ -343,3 +343,13 @@ AI最初提出减少默认连线，用户立即纠正：“你别少连线 你�
 ## 第59轮：删去重复语言导航（2026-11-02）
 
 用户指定截图中的独立语言导航多余，要求删掉换横线。四语README仅原位替换这一段为Markdown横线；翻译说明及其中的语言链接保留，其他正文和布局不变。逐字节验证仅导航段被替换。
+
+
+## 第60轮：四语阅读缘起与术语整理（2026-11-02）
+
+用户要求压缩并核查其他AI写的宗教背景文，四语置于根目录新文件夹，在README阅读入口上方用引用样式链接；术语说明移到另一个文件夹，更新相关路径。用户随后允许删不合适项，又明确能纠正就纠正、学生神话原型不要删。最终保留四组主题及学生原型，纠正词义、经文位置、预言者编号和体系归属，删除未获依据的Qliphoth确定对应。只改本地，不上传GitHub。
+
+
+## 第61轮：阅读缘起改名并上传（2026-11-02）
+
+用户要求rationale中的四篇文章不要叫README，随后上传GitHub。改名为why_gnosticism.md、why_gnosticism_en.md、why_gnosticism_ja.md、why_gnosticism_ko.md；更新README入口、文内跨语言与返回中文链接、状态及核查记录的活链接，正文不改。重新检查四语短文、术语说明和README的相对链接。按本次授权发布第60轮四语短文、术语目录迁移、路径更新、核查记录及本轮改名与对话记录；不上传原始数据、独立工具数据或Trash。

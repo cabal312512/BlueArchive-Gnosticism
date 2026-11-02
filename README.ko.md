@@ -16,6 +16,8 @@
 
 > 이건 그저 제가 이것저것 상상해 본 개인적인 생각입니다. 생각이 이리저리 튀는 데다 AI도 많이 사용했으니 부정확한 내용이 많을 겁니다.
 
+> 왜 『블루 아카이브』를 Gnosticism과 연결해서 생각하는가? [짧은 설명](rationale/why_gnosticism_ko.md)을 먼저 읽어보세요.
+
 ## 읽기 안내
 
 <table width="100%">
@@ -30,7 +32,7 @@
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ko.md">논문 전문</a></strong>:</p>
 <blockquote><p>대부분 제가 직접 썼습니다. AI가 쓴 글은 좋지 않았습니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_ko.md">용어 설명</a></strong>:</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ko.md">용어 설명</a></strong>:</p>
 <blockquote><p>이 분야를 처음 접하는 분들을 위해 본문에 나오는 용어와 문헌을 설명합니다.</p></blockquote>
 
 <p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">우주론 관계도</a></strong>:</p>

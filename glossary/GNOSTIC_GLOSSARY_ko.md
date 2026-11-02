@@ -1,6 +1,6 @@
 # 본문 용어 설명
 
-[논문으로 돌아가기](gnostic_correspondence_ko.md) · [관계도 보기](gnostic_atlas.html)
+[논문으로 돌아가기](../gnostic_correspondence_ko.md) · [관계도 보기](../gnostic_atlas.html)
 
 여기서는 먼저 논문에서 주로 사용하는 Apocryphon of John에 따라 역할 관계를 분명히 설명하고, 그다음 다른 전통과 용어를 보충한다. 다음의 흐름을 먼저 기억해 두면 좋다: 최고 근원이 신성한 세계를 드러내고; Sophia는 이 세계에 속하지만 홀로 창조할 때 Yaldabaoth를 낳으며; Yaldabaoth와 Archons는 하층 세계를 조직하고 사람의 몸을 빚으며, 사람의 내면에는 다시 더 높은 세계에서 온 힘이 있고, Luminous Epinoia가 사람이 이 점을 깨닫도록 돕는다.
 
@@ -34,7 +34,7 @@
 
 **Pronoia**: 예지, 돌봄, Providence 등의 뜻이 있으며, Apocryphon of John에서 Barbelo의 First Thought 정체성과 밀접히 연결된다. 긴 본문 말미에서는 Pronoia가 자술자로 나와 자신이 하강하고 어둠에 들어가 속박된 자들을 깨우고 Five Seals를 베푸는 행동을 이야기한다. Epinoia와 Pronoia는 모두 원조에 참여하지만, 구체적 행위를 인용할 때는 누가 말하고 누가 행동하는지를 여전히 분명히 알아야 한다.
 
-[이상의 관계는 주로 Apocryphon of John에서 보인다](https://www.earlychristianwritings.com/text/apocryphonjohn.html). 더 많은 묶음과 판본 차이는 [도표](gnostic_atlas.html)에서 볼 수 있다.
+[이상의 관계는 주로 Apocryphon of John에서 보인다](https://www.earlychristianwritings.com/text/apocryphonjohn.html). 더 많은 묶음과 판본 차이는 [도표](../gnostic_atlas.html)에서 볼 수 있다.
 
 ## 사람의 내면과 구원
 
@@ -100,4 +100,4 @@
 
 **Bible / Old Testament**: Bible은 기독교 경서 전체를 가리키고, Old Testament는 그중 고대 이스라엘 경서 전통을 이은 부분이다. Genesis는 창세와 초기 인류를 말한다; Ecclesiastes는 생명, 노동과 삶의 끝을 논한다; John은 Jesus의 생애와 가르침을 말한다; Hebrews는 Jesus, 신앙과 약속을 논하며, 논문 서두에 인용된 “항존하는 성”은 13:14에서 온다; Revelation은 환상으로 심판, 새 하늘과 새 땅 등의 종말 장면을 그린다.
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: 논문 서두는 세 가지 자료를 더 인용한다. Dao De Jing은 뿌리로 돌아가고 명을 회복하는 것으로 만물의 변화를 논한다; Amitābha Sūtra는 Sukhāvatī를 묘사하고 사람들에게 발원하여 왕생하도록 권한다; Manichaean Hymnscroll은 여기서 사용한 마니교 《하부찬》을 가리키며, 망자를 위해 빛의 본성이 광명 세계로 돌아가기를 기원한다. 그것들은 논문이 논하는 본원, 해탈과 현세 생활의 문제를 설명하는 데 쓰이며, 각 단락의 맥락은 [검증 기록](09_religious_comparison/opening_context_review_round48.md)에 있다.
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: 논문 서두는 세 가지 자료를 더 인용한다. Dao De Jing은 뿌리로 돌아가고 명을 회복하는 것으로 만물의 변화를 논한다; Amitābha Sūtra는 Sukhāvatī를 묘사하고 사람들에게 발원하여 왕생하도록 권한다; Manichaean Hymnscroll은 여기서 사용한 마니교 《하부찬》을 가리키며, 망자를 위해 빛의 본성이 광명 세계로 돌아가기를 기원한다. 그것들은 논문이 논하는 본원, 해탈과 현세 생활의 문제를 설명하는 데 쓰이며, 각 단락의 맥락은 [검증 기록](../09_religious_comparison/opening_context_review_round48.md)에 있다.

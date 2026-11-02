@@ -11,9 +11,9 @@
 | [英文](../gnostic_correspondence_en.md) | [英文全部修改](translation_audit_round42/en.md) | [en.diff](translation_audit_round42/en.diff) |
 | [日文](../gnostic_correspondence_ja.md) | [日文全部修改](translation_audit_round42/ja.md) | [ja.diff](translation_audit_round42/ja.diff) |
 | [韩文](../gnostic_correspondence_ko.md) | [韩文全部修改](translation_audit_round42/ko.md) | [ko.diff](translation_audit_round42/ko.diff) |
-| [英文术语说明](../GNOSTIC_GLOSSARY_en.md) | [英文术语全部修改](translation_audit_round42/glossary_en.md) | [glossary_en.diff](translation_audit_round42/glossary_en.diff) |
-| [日文术语说明](../GNOSTIC_GLOSSARY_ja.md) | [日文术语全部修改](translation_audit_round42/glossary_ja.md) | [glossary_ja.diff](translation_audit_round42/glossary_ja.diff) |
-| [韩文术语说明](../GNOSTIC_GLOSSARY_ko.md) | [韩文术语全部修改](translation_audit_round42/glossary_ko.md) | [glossary_ko.diff](translation_audit_round42/glossary_ko.diff) |
+| [英文术语说明](../glossary/GNOSTIC_GLOSSARY_en.md) | [英文术语全部修改](translation_audit_round42/glossary_en.md) | [glossary_en.diff](translation_audit_round42/glossary_en.diff) |
+| [日文术语说明](../glossary/GNOSTIC_GLOSSARY_ja.md) | [日文术语全部修改](translation_audit_round42/glossary_ja.md) | [glossary_ja.diff](translation_audit_round42/glossary_ja.diff) |
+| [韩文术语说明](../glossary/GNOSTIC_GLOSSARY_ko.md) | [韩文术语全部修改](translation_audit_round42/glossary_ko.md) | [glossary_ko.diff](translation_audit_round42/glossary_ko.diff) |
 
 每份清单按对应段落列出全文，包含同段中的所有变动，而非只摘几处例子。同一段中的多个词不拆算成多个错误；引文姓名标签、标点和英文术语统一也单独留痕。修改前的四份文件见[存档](archive/translation_round42_before/)，其中的中文稿仅用于确认校对基准。
 

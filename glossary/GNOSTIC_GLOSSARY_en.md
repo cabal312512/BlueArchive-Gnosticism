@@ -1,6 +1,6 @@
 # Notes on Terminology in the Text
 
-[Return to the paper](gnostic_correspondence_en.md) · [View the relationship diagram](gnostic_atlas.html)
+[Return to the paper](../gnostic_correspondence_en.md) · [View the relationship diagram](../gnostic_atlas.html)
 
 This guide first explains the relationships in Apocryphon of John, the paper’s main source, then adds other traditions and terminology. The basic sequence is: the highest source manifests the divine world; Sophia belongs to this world, yet when creating alone she gives birth to Yaldabaoth; Yaldabaoth and the Archons organize the lower world and shape the human body, while within the human there is also a power from a higher world, and the Luminous Epinoia helps humans recognize this.
 
@@ -34,7 +34,7 @@ This guide first explains the relationships in Apocryphon of John, the paper’s
 
 **Pronoia**: has meanings such as foreknowledge, care, and Providence, and in the Apocryphon of John is closely connected with Barbelo's identity as First Thought. At the end of the long recension, Pronoia is the narrator, recounting her actions of descending, entering the darkness, awakening the bound, and applying the Five Seals. Both Epinoia and Pronoia participate in assistance, but when citing specific actions one must still clearly identify who is speaking and who is acting.
 
-[The above relationships are mainly found in the Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html). More groupings and differences between versions can be viewed in the [atlas](gnostic_atlas.html).
+[The above relationships are mainly found in the Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html). More groupings and differences between versions can be viewed in the [atlas](../gnostic_atlas.html).
 
 ## Inner Nature and Salvation
 
@@ -100,4 +100,4 @@ This guide first explains the relationships in Apocryphon of John, the paper’s
 
 **Bible / Old Testament**: Bible refers to the Christian scriptures as a whole, and Old Testament is the part that inherits the tradition of the ancient Israelite scriptures. Genesis discusses creation and early humanity; Ecclesiastes discusses life, labor, and the end; John discusses Jesus's life and teachings; Hebrews discusses Jesus, faith, and promise, and the 'abiding city' quoted at the beginning of the paper comes from 13:14; Revelation depicts through visions the last things, such as judgment and a new heaven and a new earth.
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: The opening of the paper also cites three other types of material. The Dao De Jing uses returning to the root and returning to destiny to discuss the changes of all things; the Amitābha Sūtra describes Sukhāvatī and urges people to make vows to be reborn there; the Manichaean Hymnscroll refers to the Manichaean 'Lower Hymnscroll' used here, praying for the dead that the luminous nature may return to the world of light. They are used to illustrate the questions of origin, liberation, and life in the present world discussed in the paper; for the context of each passage, see the [verification record](09_religious_comparison/opening_context_review_round48.md).
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: The opening of the paper also cites three other types of material. The Dao De Jing uses returning to the root and returning to destiny to discuss the changes of all things; the Amitābha Sūtra describes Sukhāvatī and urges people to make vows to be reborn there; the Manichaean Hymnscroll refers to the Manichaean 'Lower Hymnscroll' used here, praying for the dead that the luminous nature may return to the world of light. They are used to illustrate the questions of origin, liberation, and life in the present world discussed in the paper; for the context of each passage, see the [verification record](../09_religious_comparison/opening_context_review_round48.md).

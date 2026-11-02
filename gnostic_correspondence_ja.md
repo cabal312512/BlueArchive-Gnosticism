@@ -50,7 +50,7 @@ Gnosticismの文献Gospel of Truthは、帰還と安息についてこう述べ�
 
 **キーワード**　Blue Archive；Gnosticism；Sophia；Yaldabaoth；Archons；Luminous Epinoia；Divine Spark；Pleroma
 
-こうしたややこしい用語になじみがなければ、まず[用語解説：Gnosticismの用語と文献](GNOSTIC_GLOSSARY_ja.md)を読んでみてほしい。
+こうしたややこしい用語になじみがなければ、まず[用語解説：Gnosticismの用語と文献](glossary/GNOSTIC_GLOSSARY_ja.md)を読んでみてほしい。
 
 ## 一、モデルの基本構造
 

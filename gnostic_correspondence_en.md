@@ -50,7 +50,7 @@ And so-called “miracles” often do not come from some power beyond ordinary u
 
 **Keywords** Blue Archive; Gnosticism; Sophia; Yaldabaoth; Archons; Luminous Epinoia; Divine Spark; Pleroma
 
-If all these unfamiliar terms are confusing, you can start with the [Glossary: Gnosticism Terms and Texts](GNOSTIC_GLOSSARY_en.md).
+If all these unfamiliar terms are confusing, you can start with the [Glossary: Gnosticism Terms and Texts](glossary/GNOSTIC_GLOSSARY_en.md).
 
 ## I. Basic Structure of the Model
 

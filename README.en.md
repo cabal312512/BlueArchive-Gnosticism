@@ -16,6 +16,8 @@ This is a personal study of the story of *Blue Archive* and its correspondences 
 
 > These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
 
+> Why connect Blue Archive with Gnosticism? Start with this [short explanation](rationale/why_gnosticism_en.md).
+
 ## Where to Start
 
 <table width="100%">
@@ -30,7 +32,7 @@ This is a personal study of the story of *Blue Archive* and its correspondences 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:</p>
 <blockquote><p>I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
 <blockquote><p>Explains the terms and literature mentioned in the paper for readers new to the subject.</p></blockquote>
 
 <p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Cosmology atlas</a></strong>:</p>

@@ -16,6 +16,8 @@
 
 > これはあくまで私の思いつきや個人的な考えです。話があちこちに飛ぶうえ、AIも大量に使っているので、不正確な部分がたくさんあると思います。
 
+> なぜ『ブルーアーカイブ』とGnosticismを結びつけるのか。[短い説明はこちら](rationale/why_gnosticism_ja.md)。
+
 ## 読むならここから
 
 <table width="100%">
@@ -30,7 +32,7 @@
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：</p>
 <blockquote><p>大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：</p>
 <blockquote><p>この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p></blockquote>
 
 <p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙論の関係図</a></strong>：</p>

@@ -1,6 +1,6 @@
 # 英文术语说明逐项修改
 
-[修改后文件](../../GNOSTIC_GLOSSARY_en.md) · [完整差异](glossary_en.diff) · [总说明](../translation_audit_round42.md)
+[修改后文件](../../glossary/GNOSTIC_GLOSSARY_en.md) · [完整差异](glossary_en.diff) · [总说明](../translation_audit_round42.md)
 
 中文术语说明保持原样。每项包含中文条目、原译文、修订译文及中文理由；不加入新考据。
 

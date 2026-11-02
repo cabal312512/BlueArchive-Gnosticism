@@ -1,6 +1,6 @@
 # 文中术语说明
 
-[返回论文](gnostic_correspondence_full.md) · [查看关系图](gnostic_atlas.html)
+[返回论文](../gnostic_correspondence_full.md) · [查看关系图](../gnostic_atlas.html)
 
 这里先按论文主要使用的Apocryphon of John讲清楚角色关系，再补充其他传统与用词。可以先记住这条线：最高根源显现出神圣世界；Sophia属于这个世界，却在独自创造时生出Yaldabaoth；Yaldabaoth与Archons组织下层世界、塑造人的身体，而人的内在又有来自更高世界的力量，Luminous Epinoia帮助人认识这一点。
 
@@ -34,7 +34,7 @@
 
 **Pronoia**：有预知、照顾、Providence等含义，在Apocryphon of John中与Barbelo的First Thought身份密切相连。长本末尾以Pronoia为自述者，讲述她下降、进入黑暗、唤醒受束缚者并施以Five Seals的行动。Epinoia与Pronoia都参与援助，但引用具体行为时仍要认清是谁在说话、是谁采取行动。
 
-[以上关系主要见Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html)。更多分组和版本区别可在[图谱](gnostic_atlas.html)中查看。
+[以上关系主要见Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html)。更多分组和版本区别可在[图谱](../gnostic_atlas.html)中查看。
 
 ## 人的内在与救赎
 
@@ -100,4 +100,4 @@
 
 **Bible / Old Testament**：Bible指基督教经书整体，Old Testament是其中承接古代以色列经书传统的部分。Genesis讲创世与早期人类；Ecclesiastes讨论生命、劳作与终结；John讲Jesus的生平与教导；Hebrews讨论Jesus、信仰与应许，论文开头所引“常存的城”来自13:14；Revelation以异象描绘审判、新天新地等终末景象。
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：论文开头另引三类材料。Dao De Jing用归根与复命讨论万物的变化；Amitābha Sūtra描述Sukhāvatī并劝人发愿往生；Manichaean Hymnscroll指这里使用的摩尼教《下部赞》，为亡者祈求明性回到光明世界。它们用于说明论文所讨论的本源、解脱与现世生活问题，各段上下文见[核查记录](09_religious_comparison/opening_context_review_round48.md)。
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：论文开头另引三类材料。Dao De Jing用归根与复命讨论万物的变化；Amitābha Sūtra描述Sukhāvatī并劝人发愿往生；Manichaean Hymnscroll指这里使用的摩尼教《下部赞》，为亡者祈求明性回到光明世界。它们用于说明论文所讨论的本源、解脱与现世生活问题，各段上下文见[核查记录](../09_religious_comparison/opening_context_review_round48.md)。

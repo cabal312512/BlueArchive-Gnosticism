@@ -50,7 +50,7 @@ Gnosticism의 문헌 Gospel of Truth는 귀환과 안식에 관해 다음과 같
 
 **주제어**　Blue Archive; Gnosticism; Sophia; Yaldabaoth; Archons; Luminous Epinoia; Divine Spark; Pleroma
 
-이런 복잡한 용어들이 낯설다면 먼저 [용어 설명: Gnosticism의 용어와 문헌](GNOSTIC_GLOSSARY_ko.md)을 읽어보면 좋겠다.
+이런 복잡한 용어들이 낯설다면 먼저 [용어 설명: Gnosticism의 용어와 문헌](glossary/GNOSTIC_GLOSSARY_ko.md)을 읽어보면 좋겠다.
 
 ## 1. 모델의 기본 구조
 

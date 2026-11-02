@@ -20,6 +20,8 @@
 
 > 这只些是我胡思乱想的个人观点，思维比较跳跃，还用了大量AI，所以会有很多不准确的东西。
 
+> 为什么会把《蔚蓝档案》和Gnosticism联系起来？先看这篇[简短说明](rationale/why_gnosticism.md)。
+
 ## 阅读入口
 
 <table width="100%">
@@ -34,7 +36,7 @@
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_full.md">论文全文</a></strong>：</p>
 <blockquote><p>这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
 <blockquote><p>面向初次接触相关概念的读者，解释文中的名词与文献。</p></blockquote>
 
 <p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙论图谱</a></strong>：</p>

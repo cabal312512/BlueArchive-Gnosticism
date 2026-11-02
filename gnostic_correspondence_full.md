@@ -49,7 +49,7 @@ Gnosticism中的Gospel of Truth在谈到归返与安息时说：
 
 **关键词**　Blue Archive；Gnosticism；Sophia；Yaldabaoth；Archons；Luminous Epinoia；Divine Spark；Pleroma
 
-如果不了解这些乱七八糟的可以先看看[术语说明：Gnosticism名词与文献](GNOSTIC_GLOSSARY.md)
+如果不了解这些乱七八糟的可以先看看[术语说明：Gnosticism名词与文献](glossary/GNOSTIC_GLOSSARY.md)
 
 ## 一、模型的基本结构
 

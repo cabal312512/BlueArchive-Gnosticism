@@ -1,8 +1,12 @@
 # Agent交接指南
 
-更新：2026-11-02，第59轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
+更新：2026-11-02，第61轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
 
 ## 当前执行规则
+
+- 第61轮用户重新授权上传GitHub：rationale/四篇已改名为why_gnosticism.md与_en／_ja／_ko版，禁止再命名README。跨语言及所有入口链接已更新；第60轮仅本地限制由本次明确上传指令解除，发布两轮文档与记录，原始数据、凭据和Trash继续排除。
+
+- 第60轮：用户明确只改本地，覆盖此前自动同步GitHub的授权；本轮未提交或上传。新增rationale/四语阅读缘起，README在阅读入口上方用引用链接；四语术语说明移到glossary/，论文仅更新相应路径，正文不变。学生神话原型必须保留，易纠正的点改准；不恢复“全员完整映射”等断言。核查原话与理由见08_review_queue/religious_motifs_review_round60.md。后续上传须有新授权。
 
 - 第59轮：按用户截图删除四语README独立语言导航行，原位换横线；常显翻译说明中的原有语言链接保留。不要恢复已删的重复导航。
 
@@ -100,7 +104,8 @@ Blue Archive Project Gnosis/
 ├── CHAT_BACKUP.md             # 【每轮必更新】用户与 AI 一问一答原话完整备份（平时不用读）
 ├── gnostic_correspondence_full.md # 作者论文
 ├── gnostic_atlas.html         # 四语离线单文件图谱
-├── GNOSTIC_GLOSSARY.md         # 读者术语说明
+├── glossary/                  # 四语读者术语说明（原GNOSTIC_GLOSSARY*.md）
+├── rationale/                 # 四语阅读缘起与宗教神话背景
 ├── README.md                  # 项目概况与人类可读介绍
 ├── prompt.txt                 # 项目发起时的原始详细指导书
 ├── .gitignore                 # 版本控制过滤规则

@@ -1,8 +1,10 @@
 # Agent交接指南
 
-更新：2026-11-02，第55轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
+更新：2026-11-02，第56轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
 
 ## 当前执行规则
+
+- 第56轮四语README统一排版，顶部剧透提醒；assets/readme/reading.jpg为用户提供的正式配图，不能当垃圾截图清理。桌面右浮动、手机图在入口上方，用单格外框承载浮动图文，不改回挤压手机的两列布局。保留作者原文和完整翻译声明；论文及术语本轮未改。检查记录见08_review_queue/readme_design_round56.json。
 
 - 第55轮补充：本地垃圾桶目录已改名为Trash，.gitignore同步；历史对话中的旧路径保留原话，不再创建旧目录。发布前按当前中文同步作者自行修改的章节顺序、删句和表述，不能只同步AI改过的段落。
 

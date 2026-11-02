@@ -1,23 +1,57 @@
-[中文](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · English
+> [!WARNING]
+> **Spoiler warning**
+>
+> This article contains major spoilers for the main story of Blue Archive. It is intended for players who have finished Part 1 of the main story.
 
-This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
+<p align="center">
+<a href="README.md">中文</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <strong>English</strong>
+</p>
 
-# Blue Archive and Gnosticism: A Correspondence Model
+<h1 align="center">Blue Archive and Gnosticism: A Correspondence Model</h1>
 
 This is a personal study of the story of *Blue Archive* and its correspondences with the cosmology of Gnosticism. It focuses on the General Student Council President, Sensei, the Nameless Gods, the Nameless Priests, the Forgotten Gods, and the students' halos.
 
-These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
+> These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
+
+<details>
+<summary>Translation notes</summary>
+
+This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
+
+</details>
 
 ## Where to Start
 
-- **[Full paper](gnostic_correspondence_en.md)**: I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.
-- **[Glossary](GNOSTIC_GLOSSARY_en.md)**: Explains the terms and literature mentioned in the paper for readers new to the subject.
-- **[Cosmology atlas](gnostic_atlas.html)**: Download it and open the HTML file in a browser.
-- **[Technical citation index](01_sources/paper_citation_index.md)**: Maps the paper's notes to the original corpus IDs, source tables, and row numbers.
+<table>
+<tr>
+<td>
+
+<img align="right" src="assets/readme/reading.jpg" width="440" alt="Two characters working at a desk">
+
+<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:<br>
+I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p>
+
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:<br>
+Explains the terms and literature mentioned in the paper for readers new to the subject.</p>
+
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Cosmology atlas</a></strong>:<br>
+Download it and open the HTML file in a browser.</p>
+
+<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">Technical citation index</a></strong>:<br>
+Maps the paper&#x27;s notes to the original corpus IDs, source tables, and row numbers.</p>
+
+<br clear="all">
+
+</td>
+</tr>
+</table>
 
 If you're interested in my ideas and have downloaded the repository, you can have an AI read the [agent guide](AGENTS.md), [research conversations](CHAT_BACKUP.md), [current status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
 
-## Repository Contents
+---
+
+<details>
+<summary><strong>Repository Contents</strong></summary>
 
 | Directory | Contents |
 | --- | --- |
@@ -30,7 +64,10 @@ If you're interested in my ideas and have downloaded the repository, you can hav
 | [07_writing](07_writing/) | Earlier drafts and writing material |
 | [08_review_queue](08_review_queue/) | Discussion decisions and historical archives |
 
-## Searching Locally
+</details>
+
+<details>
+<summary><strong>Searching Locally</strong></summary>
 
 The local research corpus comes from a fixed data snapshot and contains 237,386 non-empty Japanese records. The repository includes the complete readable corpus and a compressed database. The raw data's external source and fixed revision are recorded; see the [corpus documentation](02_corpus/coverage_report.md) for the source and version.
 
@@ -40,7 +77,10 @@ python 03_tools/search.py -q "名もなき神" -C 3
 python 03_tools/search.py -q "忘却は" -C 3
 ```
 
-## Raw Data and History
+</details>
+
+<details>
+<summary><strong>Raw Data and History</strong></summary>
 
 For everyday searches, you only need to restore the database as shown above. Before rebuilding it or checking the original data, run:
 
@@ -51,6 +91,8 @@ python 03_tools/search.py --test
 ```
 
 The local commits and tags from before the upload are preserved in full in the [Git history backup](08_review_queue/archive/pre_github_history.bundle).
+
+</details>
 
 ## License
 

@@ -1,0 +1,92 @@
+{
+  "README.md": {
+    "original_wording_preserved": true,
+    "existing_links_preserved": true,
+    "spoiler_alert_first": true,
+    "image": "assets/readme/reading.jpg",
+    "reading_links": 4,
+    "before_sha256": "8be4a59ed73a381494fc37edd91552d80ade7c4cd1a25059734b5a0262f17901",
+    "after_sha256": "2fdeb70442ecc2e39e314cd72323c4bfbb174d96950a768e4a3810452a078365",
+    "github_render_browser_check": {
+      "language": "zh",
+      "alertFirst": true,
+      "readingLinks": 4,
+      "imageLoaded": true,
+      "imageOnRight": true,
+      "foldouts": 4,
+      "mobileOverflow": false,
+      "mobileImageAboveEntries": true
+    },
+    "layout": "Desktop: image to the right. Mobile: image above all four reading entries.",
+    "shared_outer_frame": true
+  },
+  "README.en.md": {
+    "original_wording_preserved": true,
+    "existing_links_preserved": true,
+    "spoiler_alert_first": true,
+    "image": "assets/readme/reading.jpg",
+    "reading_links": 4,
+    "before_sha256": "603e9de1206a090bc18c8797a0c0dc50438b27961e6d8ef30accac39d7bded0e",
+    "after_sha256": "b38c14319e85752eb868de44d22e71931cf4699772e6f9c7a83ff647a7018497",
+    "github_render_browser_check": {
+      "language": "en",
+      "alertFirst": true,
+      "readingLinks": 4,
+      "imageLoaded": true,
+      "imageOnRight": true,
+      "foldouts": 4,
+      "mobileOverflow": false,
+      "mobileImageAboveEntries": true
+    },
+    "layout": "Desktop: image to the right. Mobile: image above all four reading entries.",
+    "shared_outer_frame": true
+  },
+  "README.ja.md": {
+    "original_wording_preserved": true,
+    "existing_links_preserved": true,
+    "spoiler_alert_first": true,
+    "image": "assets/readme/reading.jpg",
+    "reading_links": 4,
+    "before_sha256": "96b36ef8a24d9d4c265273db9742a3dfc98886a48af19f0912aedc44167e07a0",
+    "after_sha256": "da6ec4b8595ab1810d445ffe974cdc9cccac9c3d208a081d6a44abb114889636",
+    "github_render_browser_check": {
+      "language": "ja",
+      "alertFirst": true,
+      "readingLinks": 4,
+      "imageLoaded": true,
+      "imageOnRight": true,
+      "foldouts": 4,
+      "mobileOverflow": false,
+      "mobileImageAboveEntries": true
+    },
+    "layout": "Desktop: image to the right. Mobile: image above all four reading entries.",
+    "shared_outer_frame": true
+  },
+  "README.ko.md": {
+    "original_wording_preserved": true,
+    "existing_links_preserved": true,
+    "spoiler_alert_first": true,
+    "image": "assets/readme/reading.jpg",
+    "reading_links": 4,
+    "before_sha256": "83d17a87862ea4fdae7c03c8b152f85b9e9e4f432d23771360f4c9ab1dcb39cf",
+    "after_sha256": "1adaf53f2a6b0ca62177a68eab461829ccaa3a321d655081cba53e7bd656db38",
+    "github_render_browser_check": {
+      "language": "ko",
+      "alertFirst": true,
+      "readingLinks": 4,
+      "imageLoaded": true,
+      "imageOnRight": true,
+      "foldouts": 4,
+      "mobileOverflow": false,
+      "mobileImageAboveEntries": true
+    },
+    "layout": "Desktop: image to the right. Mobile: image above all four reading entries.",
+    "shared_outer_frame": true
+  },
+  "_asset": {
+    "path": "assets/readme/reading.jpg",
+    "bytes": 180999,
+    "sha256": "569354344c7b79723f22f1d70a7d2ef4163bbae1ef14e5bc2e64ebd6caf8724a",
+    "original_image_unchanged": true
+  }
+}

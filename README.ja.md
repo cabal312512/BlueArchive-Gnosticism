@@ -1,23 +1,57 @@
-[中文](README.md) · 日本語 · [한국어](README.ko.md) · [English](README.en.md)
+> [!WARNING]
+> **ネタバレ注意**
+>
+> 本文には『ブルーアーカイブ』のメインストーリーの重要なネタバレが含まれます。メインストーリー第1部を読了したプレイヤー向けです。
 
-AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
+<p align="center">
+<a href="README.md">中文</a> &nbsp; · &nbsp; <strong>日本語</strong> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.en.md">English</a>
+</p>
 
-# 『ブルーアーカイブ』のGnosticism対応モデル
+<h1 align="center">『ブルーアーカイブ』のGnosticism対応モデル</h1>
 
 『ブルーアーカイブ』の物語とGnosticismの宇宙論との対応についての個人的な考察です。連邦生徒会長、先生、名もなき神々、無名の司祭、忘れられた神々、そして生徒たちのヘイローの対応を中心に扱っています。
 
-これはあくまで私の思いつきや個人的な考えです。話があちこちに飛ぶうえ、AIも大量に使っているので、不正確な部分がたくさんあると思います。
+> これはあくまで私の思いつきや個人的な考えです。話があちこちに飛ぶうえ、AIも大量に使っているので、不正確な部分がたくさんあると思います。
+
+<details>
+<summary>翻訳について</summary>
+
+AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
+
+</details>
 
 ## 読むならここから
 
-- **[論文全文](gnostic_correspondence_ja.md)**：大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。
-- **[用語解説](GNOSTIC_GLOSSARY_ja.md)**：この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。
-- **[宇宙論の関係図](gnostic_atlas.html)**：ダウンロード後、HTMLファイルをブラウザで開いてください。
-- **[引用の技術索引](01_sources/paper_citation_index.md)**：論文の注と、元のコーパスの番号・データ表・行番号との対応を記録しています。
+<table>
+<tr>
+<td>
+
+<img align="right" src="assets/readme/reading.jpg" width="440" alt="机に向かう二人のキャラクター">
+
+<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：<br>
+大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p>
+
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：<br>
+この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p>
+
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙論の関係図</a></strong>：<br>
+ダウンロード後、HTMLファイルをブラウザで開いてください。</p>
+
+<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引用の技術索引</a></strong>：<br>
+論文の注と、元のコーパスの番号・データ表・行番号との対応を記録しています。</p>
+
+<br clear="all">
+
+</td>
+</tr>
+</table>
 
 私の考えに興味があり、リポジトリをダウンロードした方は、AIに[実行ガイド](AGENTS.md)、[考察の会話記録](CHAT_BACKUP.md)、[現在の状況](PROJECT_STATUS.md)、[判断の記録](08_review_queue/decision_log.md)を読ませてから、続きを進めてもらうこともできます。このプロジェクトはそのままAgentに引き継げます。これらの補助文書は中国語です。
 
-## 資料の構成
+---
+
+<details>
+<summary><strong>資料の構成</strong></summary>
 
 | ディレクトリ | 内容 |
 | --- | --- |
@@ -30,7 +64,10 @@ AIによる翻訳のため不自然な表現があるかもしれませんが、
 | [07_writing](07_writing/) | 以前の草稿と執筆資料 |
 | [08_review_queue](08_review_queue/) | 議論での判断と過去の記録 |
 
-## ローカルでの検索
+</details>
+
+<details>
+<summary><strong>ローカルでの検索</strong></summary>
 
 ローカルの調査用コーパスは、固定バージョンのデータスナップショットから作成したもので、空でない日本語の記録を237,386件含んでいます。リポジトリには、読みやすい形式の全文コーパスと圧縮したデータベースが入っています。元データについては外部の入手先と固定リビジョンを記録しています。出典とバージョンは[コーパスの説明](02_corpus/coverage_report.md)を参照してください。
 
@@ -40,7 +77,10 @@ python 03_tools/search.py -q "名もなき神" -C 3
 python 03_tools/search.py -q "忘却は" -C 3
 ```
 
-## 元データと履歴
+</details>
+
+<details>
+<summary><strong>元データと履歴</strong></summary>
 
 通常の検索には、上記の方法でデータベースを復元するだけで十分です。再構築や元データの照合を行う場合は、先に次のコマンドを実行してください。
 
@@ -51,6 +91,8 @@ python 03_tools/search.py --test
 ```
 
 アップロード前のローカルのコミットとタグは、[Git履歴のバックアップ](08_review_queue/archive/pre_github_history.bundle)にすべて保存されています。
+
+</details>
 
 ## ライセンス
 

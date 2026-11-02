@@ -14,7 +14,7 @@
 > 这只些是我胡思乱想的个人观点，思维比较跳跃，还用了大量AI，所以会有很多不准确的东西。
 
 <details>
-<summary>翻译说明</summary>
+<summary><strong>翻译说明</strong></summary>
 
 日本語はこちら：[日本語版README](README.ja.md)。AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
 
@@ -26,23 +26,26 @@ For English, see [English README](README.en.md). This is an AI translation and m
 
 ## 阅读入口
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="9999">
 
+<picture>
+<source media="(min-width: 768px)" srcset="assets/readme/reading-desktop.svg">
 <img align="right" src="assets/readme/reading.jpg" width="440" alt="书桌前的两位角色">
+</picture>
 
-<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_full.md">论文全文</a></strong>：<br>
-这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p>
+<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_full.md">论文全文</a></strong>：</p>
+<blockquote><p>这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY.md">术语说明</a></strong>：<br>
-面向初次接触相关概念的读者，解释文中的名词与文献。</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
+<blockquote><p>面向初次接触相关概念的读者，解释文中的名词与文献。</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙论图谱</a></strong>：<br>
-下载后浏览器打开HTML文件。</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙论图谱</a></strong>：</p>
+<blockquote><p>下载后浏览器打开HTML文件。</p></blockquote>
 
-<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引文技术索引</a></strong>：<br>
-论文注释与原始语料编号、源表行号的对应。</p>
+<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引文技术索引</a></strong>：</p>
+<blockquote><p>论文注释与原始语料编号、源表行号的对应。</p></blockquote>
 
 <br clear="all">
 
@@ -50,7 +53,7 @@ For English, see [English README](README.en.md). This is an AI translation and m
 </tr>
 </table>
 
-如果对我的想法感兴趣且下载了仓库，可以让AI看看[运行指南](AGENTS.md)、[研究过程](CHAT_BACKUP.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。
+> 如果对我的想法感兴趣且下载了仓库，可以让AI看看[运行指南](AGENTS.md)、[研究过程](CHAT_BACKUP.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。
 
 ---
 

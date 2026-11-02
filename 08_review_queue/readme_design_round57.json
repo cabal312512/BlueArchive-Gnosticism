@@ -1,0 +1,141 @@
+{
+  "layout_checks": [
+    {
+      "lang": "zh",
+      "width": 1200,
+      "available": 900,
+      "frame": 900,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "available": 350,
+      "frame": 350,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "zh",
+      "width": 320,
+      "available": 280,
+      "frame": 280,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "en",
+      "width": 1200,
+      "available": 900,
+      "frame": 900,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "available": 350,
+      "frame": 350,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "available": 280,
+      "frame": 280,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ja",
+      "width": 1200,
+      "available": 900,
+      "frame": 900,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ja",
+      "width": 390,
+      "available": 350,
+      "frame": 350,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ja",
+      "width": 320,
+      "available": 280,
+      "frame": 280,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ko",
+      "width": 1200,
+      "available": 900,
+      "frame": 900,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ko",
+      "width": 390,
+      "available": 350,
+      "frame": 350,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    },
+    {
+      "lang": "ko",
+      "width": 320,
+      "available": 280,
+      "frame": 280,
+      "frameOverflow": false,
+      "pageOverflow": false,
+      "grayDescriptions": 4
+    }
+  ],
+  "readmes": {
+    "README.md": {
+      "wording_unchanged": true,
+      "before_sha256": "2fdeb70442ecc2e39e314cd72323c4bfbb174d96950a768e4a3810452a078365",
+      "after_sha256": "6b292a7303c4e5cbe634c4b800bebd38d8becef415205de5c192dec19e19be3d"
+    },
+    "README.en.md": {
+      "wording_unchanged": true,
+      "before_sha256": "b38c14319e85752eb868de44d22e71931cf4699772e6f9c7a83ff647a7018497",
+      "after_sha256": "1b5fe56389e359dc328a44271efb50801edd465ab77cace8f352135d94bb52be"
+    },
+    "README.ja.md": {
+      "wording_unchanged": true,
+      "before_sha256": "da6ec4b8595ab1810d445ffe974cdc9cccac9c3d208a081d6a44abb114889636",
+      "after_sha256": "9498eb9af16e21c583764cf10fc30d8027be0475f7c065cb3b89ca83e39e1ecc"
+    },
+    "README.ko.md": {
+      "wording_unchanged": true,
+      "before_sha256": "1adaf53f2a6b0ca62177a68eab461829ccaa3a321d655081cba53e7bd656db38",
+      "after_sha256": "a79c993e135cc491fa28ada4a2fc0371b89e070e8dd54ed444d14fdadfdbce80"
+    }
+  },
+  "implementation": "Single-cell table uses wide cell width hint to fill GitHub content area; native blockquotes provide gray description text and left rules. No custom CSS. Desktop float/mobile stacking retained.",
+  "desktop_spacing": {
+    "asset": "assets/readme/reading-desktop.svg",
+    "original_jpeg_bytes_preserved": true,
+    "desktop_top_space_px_at_440_width": 39.83,
+    "mobile": "Original JPEG with no added spacing"
+  }
+}

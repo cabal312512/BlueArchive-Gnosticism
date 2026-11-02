@@ -14,7 +14,7 @@
 > これはあくまで私の思いつきや個人的な考えです。話があちこちに飛ぶうえ、AIも大量に使っているので、不正確な部分がたくさんあると思います。
 
 <details>
-<summary>翻訳について</summary>
+<summary><strong>翻訳について</strong></summary>
 
 AIによる翻訳のため不自然な表現があるかもしれませんが、私は中国語以外の言語が分からず中国語版しか確認していないので、内容は[中国語版](README.md)を基準にしてください。
 
@@ -22,23 +22,26 @@ AIによる翻訳のため不自然な表現があるかもしれませんが、
 
 ## 読むならここから
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="9999">
 
+<picture>
+<source media="(min-width: 768px)" srcset="assets/readme/reading-desktop.svg">
 <img align="right" src="assets/readme/reading.jpg" width="440" alt="机に向かう二人のキャラクター">
+</picture>
 
-<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：<br>
-大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p>
+<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：</p>
+<blockquote><p>大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：<br>
-この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：</p>
+<blockquote><p>この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙論の関係図</a></strong>：<br>
-ダウンロード後、HTMLファイルをブラウザで開いてください。</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙論の関係図</a></strong>：</p>
+<blockquote><p>ダウンロード後、HTMLファイルをブラウザで開いてください。</p></blockquote>
 
-<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引用の技術索引</a></strong>：<br>
-論文の注と、元のコーパスの番号・データ表・行番号との対応を記録しています。</p>
+<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引用の技術索引</a></strong>：</p>
+<blockquote><p>論文の注と、元のコーパスの番号・データ表・行番号との対応を記録しています。</p></blockquote>
 
 <br clear="all">
 
@@ -46,7 +49,7 @@ AIによる翻訳のため不自然な表現があるかもしれませんが、
 </tr>
 </table>
 
-私の考えに興味があり、リポジトリをダウンロードした方は、AIに[実行ガイド](AGENTS.md)、[考察の会話記録](CHAT_BACKUP.md)、[現在の状況](PROJECT_STATUS.md)、[判断の記録](08_review_queue/decision_log.md)を読ませてから、続きを進めてもらうこともできます。このプロジェクトはそのままAgentに引き継げます。これらの補助文書は中国語です。
+> 私の考えに興味があり、リポジトリをダウンロードした方は、AIに[実行ガイド](AGENTS.md)、[考察の会話記録](CHAT_BACKUP.md)、[現在の状況](PROJECT_STATUS.md)、[判断の記録](08_review_queue/decision_log.md)を読ませてから、続きを進めてもらうこともできます。このプロジェクトはそのままAgentに引き継げます。これらの補助文書は中国語です。
 
 ---
 

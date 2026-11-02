@@ -14,7 +14,7 @@ This is a personal study of the story of *Blue Archive* and its correspondences 
 > These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
 
 <details>
-<summary>Translation notes</summary>
+<summary><strong>Translation notes</strong></summary>
 
 This is an AI translation and may sound awkward; I do not understand the other languages and have reviewed only the Chinese version, so please treat the [Chinese version](README.md) as authoritative.
 
@@ -22,23 +22,26 @@ This is an AI translation and may sound awkward; I do not understand the other l
 
 ## Where to Start
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="9999">
 
+<picture>
+<source media="(min-width: 768px)" srcset="assets/readme/reading-desktop.svg">
 <img align="right" src="assets/readme/reading.jpg" width="440" alt="Two characters working at a desk">
+</picture>
 
-<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:<br>
-I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p>
+<p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:</p>
+<blockquote><p>I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
 
-<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:<br>
-Explains the terms and literature mentioned in the paper for readers new to the subject.</p>
+<p><sub>02</sub>&nbsp;&nbsp;<strong><a href="GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
+<blockquote><p>Explains the terms and literature mentioned in the paper for readers new to the subject.</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Cosmology atlas</a></strong>:<br>
-Download it and open the HTML file in a browser.</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Cosmology atlas</a></strong>:</p>
+<blockquote><p>Download it and open the HTML file in a browser.</p></blockquote>
 
-<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">Technical citation index</a></strong>:<br>
-Maps the paper&#x27;s notes to the original corpus IDs, source tables, and row numbers.</p>
+<p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">Technical citation index</a></strong>:</p>
+<blockquote><p>Maps the paper&#x27;s notes to the original corpus IDs, source tables, and row numbers.</p></blockquote>
 
 <br clear="all">
 
@@ -46,7 +49,7 @@ Maps the paper&#x27;s notes to the original corpus IDs, source tables, and row n
 </tr>
 </table>
 
-If you're interested in my ideas and have downloaded the repository, you can have an AI read the [agent guide](AGENTS.md), [research conversations](CHAT_BACKUP.md), [current status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
+> If you're interested in my ideas and have downloaded the repository, you can have an AI read the [agent guide](AGENTS.md), [research conversations](CHAT_BACKUP.md), [current status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
 
 ---
 

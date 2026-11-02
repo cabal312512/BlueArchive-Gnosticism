@@ -1,8 +1,10 @@
 # Agent交接指南
 
-更新：2026-11-02，第56轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
+更新：2026-11-02，第57轮。先读[项目状态](PROJECT_STATUS.md)与[裁决记录](08_review_queue/decision_log.md)，不要把历史日志当成当前任务。
 
 ## 当前执行规则
+
+- 第57轮补充：四语README阅读入口外框须撑满阅读区；GitHub的table百分比宽度会被样式覆盖，使用单格td width=9999实现填满但不溢出。四条说明用原生blockquote呈现灰色文字及左竖线，手机图片在前。桌面picture使用assets/readme/reading-desktop.svg上下留白容器（内嵌原JPEG），让配图下移；手机仍用原JPEG。两张都是正式排版资源。作者文字不变，检查见08_review_queue/readme_design_round57.json。
 
 - 第56轮四语README统一排版，顶部剧透提醒；assets/readme/reading.jpg为用户提供的正式配图，不能当垃圾截图清理。桌面右浮动、手机图在入口上方，用单格外框承载浮动图文，不改回挤压手机的两列布局。保留作者原文和完整翻译声明；论文及术语本轮未改。检查记录见08_review_queue/readme_design_round56.json。
 

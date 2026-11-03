@@ -1,0 +1,55 @@
+{
+  "round": 77,
+  "files": [
+    {
+      "file": "gnostic_correspondence_full.md",
+      "endnotes": 105,
+      "references": 118,
+      "separators": 0,
+      "content_preserved": true,
+      "before_sha256": "3a0c0f80710f0c8c4422859ebe2102bede7ef9f939cb9080fc22b6a4384def61",
+      "after_sha256": "b1de0d01d68b9ea9cd0f66d352fc91c2bc4c5200e8a969d9894fcf8a6065c882"
+    },
+    {
+      "file": "gnostic_correspondence_ja.md",
+      "endnotes": 105,
+      "references": 118,
+      "separators": 0,
+      "content_preserved": true,
+      "before_sha256": "7cdc0198f91685a4b59c5abe62c0d8710c53496c96d5184c6d7737f64e1b7f16",
+      "after_sha256": "08fa96c1f0dfd4e0c94d3aff7645127c33afd3baf1593ecf3b028d194521a975"
+    },
+    {
+      "file": "gnostic_correspondence_ko.md",
+      "endnotes": 105,
+      "references": 118,
+      "separators": 0,
+      "content_preserved": true,
+      "before_sha256": "607256cca773bfe3f21edfd28b48892bbcd55a7bda4966f9981b46cac77ff90b",
+      "after_sha256": "4bdae1e6d69d26b3b44d66cca0ba0b4d18b3018f532181b5e079ed23b61a0cbc"
+    },
+    {
+      "file": "gnostic_correspondence_en.md",
+      "endnotes": 105,
+      "references": 118,
+      "separators": 0,
+      "content_preserved": true,
+      "before_sha256": "727c480747c64c2177785ffeb8fe0c4bc60363e09d0aafe8a86397811a2ec47c",
+      "after_sha256": "445fd2dd44e91376c9cbaf5a03b03b1931ffa49bc39efc2ab14176c4b7600cf2"
+    }
+  ],
+  "note_exports_untouched": true,
+  "navigation": "content-sized centered table; single inline cell with align=center and valign=middle; no extra paragraph margins",
+  "endnotes": "explicit superscript anchor links so note definitions remain inside details",
+  "user_update": "User withdrew horizontal rules before publication; all 15 per paper removed.",
+  "github_render_validation": {
+    "details": 2,
+    "notes_inside_details": 105,
+    "citation_links": 118,
+    "auto_footnote_section": false,
+    "centered_navigation": true,
+    "compact_cell_no_paragraph_margins": true,
+    "vertical_alignment": "middle"
+  },
+  "author_keyword_blockquote_synced": true
+}

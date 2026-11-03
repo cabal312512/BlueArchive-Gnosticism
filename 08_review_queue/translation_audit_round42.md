@@ -15,7 +15,7 @@
 | [日文术语说明](../glossary/GNOSTIC_GLOSSARY_ja.md) | [日文术语全部修改](translation_audit_round42/glossary_ja.md) | [glossary_ja.diff](translation_audit_round42/glossary_ja.diff) |
 | [韩文术语说明](../glossary/GNOSTIC_GLOSSARY_ko.md) | [韩文术语全部修改](translation_audit_round42/glossary_ko.md) | [glossary_ko.diff](translation_audit_round42/glossary_ko.diff) |
 
-每份清单按对应段落列出全文，包含同段中的所有变动，而非只摘几处例子。同一段中的多个词不拆算成多个错误；引文姓名标签、标点和英文术语统一也单独留痕。修改前的四份文件见[存档](archive/translation_round42_before/)，其中的中文稿仅用于确认校对基准。
+每份清单按对应段落列出全文，包含同段中的所有变动，而非只摘几处例子。同一段中的多个词不拆算成多个错误；引文姓名标签、标点和英文术语统一也单独留痕。修改前的四份文件见[存档](https://github.com/cabal312512/BlueArchive-Gnosticism/tree/de993b724fbca2b130bd896085360cd310244aa1/08_review_queue/archive/translation_round42_before/)，其中的中文稿仅用于确认校对基准。
 
 中文唯一获授权的改动另见[zh.diff](translation_audit_round42/zh.diff)。对应位置：中文184行、英文179行、日文145行、韩文140行。其他地方原来有的“完全”不作全局删除。
 

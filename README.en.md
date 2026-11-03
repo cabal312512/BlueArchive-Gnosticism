@@ -12,7 +12,7 @@
 
 <h1 align="center">Blue Archive and Gnosticism: A Correspondence Model</h1>
 
-This is a personal study of the story of *Blue Archive* and its correspondences with the cosmology of Gnosticism. It focuses on the General Student Council President, Sensei, the Nameless Gods, the Nameless Priests, the Forgotten Gods, and the students' halos.
+This is a personal study of the connections between the story of *Blue Archive* and the cosmology of Gnosticism. It discusses the Gnostic mythological prototypes corresponding to the General Student Council President, Sensei, the Nameless Gods, the Nameless Priests, and the Forgotten Gods.
 
 > These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
 
@@ -35,7 +35,7 @@ This is a personal study of the story of *Blue Archive* and its correspondences 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
 <blockquote><p>Explains the terms and literature mentioned in the paper for readers new to the subject.</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Cosmology atlas</a></strong>:</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Gnosticism Character Atlas</a></strong>:</p>
 <blockquote><p>Download it and open the HTML file in a browser.</p></blockquote>
 
 <p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">Technical citation index</a></strong>:</p>
@@ -47,7 +47,7 @@ This is a personal study of the story of *Blue Archive* and its correspondences 
 </tr>
 </table>
 
-> If you're interested in my ideas and have downloaded the repository, you can have an AI read the [agent guide](AGENTS.md), [research conversations](CHAT_BACKUP.md), [current status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
+> If you're interested in my ideas and have downloaded the repository, you can have an AI read the [handover guide](AGENTS.md), [project status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
 
 ---
 

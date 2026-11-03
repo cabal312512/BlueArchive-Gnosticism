@@ -48,3 +48,7 @@ deepseek/cache/
 deepseek/*.log
 deepseek/.env*
 deepseek/*.dpapi
+
+# Local note.com paste exports and their dedicated export reports
+/note/
+/08_review_queue/note_export*.json

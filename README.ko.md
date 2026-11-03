@@ -12,7 +12,7 @@
 
 <h1 align="center">『블루 아카이브』의 Gnosticism 대응 모델</h1>
 
-『블루 아카이브』의 스토리와 Gnosticism 우주론의 대응 관계에 관한 개인적인 연구입니다. 총학생회장, 선생님, 이름 없는 신들, 무명사제, 잊혀진 신들, 그리고 학생들의 헤일로가 무엇에 대응하는지를 중심으로 다룹니다.
+『블루 아카이브』의 스토리와 Gnosticism 우주론의 연관성에 관한 개인적인 연구입니다. 총학생회장, 선생님, 이름 없는 신들, 무명사제, 잊혀진 신들에 대응하는 Gnostic 신화의 원형을 다룹니다.
 
 > 이건 그저 제가 이것저것 상상해 본 개인적인 생각입니다. 생각이 이리저리 튀는 데다 AI도 많이 사용했으니 부정확한 내용이 많을 겁니다.
 
@@ -35,7 +35,7 @@
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ko.md">용어 설명</a></strong>:</p>
 <blockquote><p>이 분야를 처음 접하는 분들을 위해 본문에 나오는 용어와 문헌을 설명합니다.</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">우주론 관계도</a></strong>:</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Gnosticism 등장 존재 관계도</a></strong>:</p>
 <blockquote><p>내려받은 뒤 브라우저에서 HTML 파일을 열어 주세요.</p></blockquote>
 
 <p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">인용 기술 색인</a></strong>:</p>
@@ -47,7 +47,7 @@
 </tr>
 </table>
 
-> 제 생각에 관심이 있고 저장소를 내려받았다면, AI가 [작업 안내](AGENTS.md), [연구 대화 기록](CHAT_BACKUP.md), [현재 상태](PROJECT_STATUS.md), [논의 결정 기록](08_review_queue/decision_log.md)을 먼저 읽고 이어서 작업하도록 할 수 있습니다. 이 프로젝트는 그대로 Agent에게 넘겨도 됩니다. 이 보조 문서들은 중국어로 되어 있습니다.
+> 제 생각에 관심이 있고 저장소를 내려받았다면, AI에게 [인수인계 문서](AGENTS.md), [프로젝트 상태](PROJECT_STATUS.md), [논의 결정 기록](08_review_queue/decision_log.md)을 읽힌 뒤 이어서 작업하도록 할 수 있습니다. 이 프로젝트는 그대로 Agent에게 넘겨도 됩니다. 이 보조 문서들은 중국어로 되어 있습니다.
 
 ---
 

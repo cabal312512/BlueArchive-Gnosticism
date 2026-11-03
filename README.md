@@ -16,7 +16,7 @@
 
 <h1 align="center">《蔚蓝档案》的Gnosticism对应模型</h1>
 
-这是关于《蔚蓝档案》剧情与Gnosticism宇宙论的个人研究，重点讨论联邦学生会长、老师、无名众神、无名祭司、被遗忘诸神与学生光环的对应。
+这是关于《蔚蓝档案》剧情与Gnosticism宇宙论之间联系的个人研究，讨论了联邦学生会长、老师、无名众神、无名祭司、被遗忘的诸神对应的Gnostic神话原型。
 
 > 这只些是我胡思乱想的个人观点，思维比较跳跃，还用了大量AI，所以会有很多不准确的东西。
 
@@ -39,7 +39,7 @@
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
 <blockquote><p>面向初次接触相关概念的读者，解释文中的名词与文献。</p></blockquote>
 
-<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">宇宙论图谱</a></strong>：</p>
+<p><sub>03</sub>&nbsp;&nbsp;<strong><a href="gnostic_atlas.html">Gnosticism角色图谱</a></strong>：</p>
 <blockquote><p>下载后浏览器打开HTML文件。</p></blockquote>
 
 <p><sub>04</sub>&nbsp;&nbsp;<strong><a href="01_sources/paper_citation_index.md">引文技术索引</a></strong>：</p>
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-> 如果对我的想法感兴趣且下载了仓库，可以让AI看看[运行指南](AGENTS.md)、[研究过程](CHAT_BACKUP.md)、[当前状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。
+> 如果对我的想法感兴趣且下载了仓库，可以让AI看看[交接文档](AGENTS.md)、[项目状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。
 
 ---
 

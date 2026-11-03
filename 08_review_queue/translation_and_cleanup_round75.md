@@ -1,0 +1,453 @@
+# 第75轮译文同步、英韩论文核对与整理
+
+2026-11-03，GPT 6.1 Sol。以作者当前中文为准，主助手直接校对；未交由DeepSeek写改。
+
+## 作者当前改动
+
+中文论文与第71轮发布版相同，本轮未改中文论文。README改动：项目介绍、图谱名称、交接入口删去对话链接；阅读缘起改动：开头语气、Shaked删句、Sanctum单列、公会议与Kyrie表述、Gematria及Sephirot名单、学生原型增删和结尾删除。三译已逐项同步；来源区及作者中文保持。
+
+## 论文审阅
+
+逐段对照179组非引用正文／标题／表格／书目块，另核对引用与文末注释。英韩共36组修改（英文20组、韩文16组），多处姓名标签统一归为一组；不代表每组都是严重错误。91个韩文人物引用块按同源记录ScriptKr核对，处理ruby与展示命令后全部匹配；韩文原台词未改。英文保留日文原话，修正附带英译；所有注号及顺序不变。第72轮日文26处修订一并发布。
+
+## 英韩逐项修改
+
+### 1. gnostic_correspondence_en.md 第158行
+
+委托标题改为自然英语，结合会长托付希望的语境
+
+**修改前**
+
+### 3.2 The President's Entrustment and Sensei's Action
+
+**修改后**
+
+### 3.2 The President's Trust and Sensei's Actions
+
+### 2. gnostic_correspondence_en.md 第183行
+
+在I think范围内保留原文会察觉的判断，不额外削弱
+
+**修改前**
+
+some of the underlying meaning of ourselves and the world may instead gradually become apparent to us
+
+**修改后**
+
+some of the underlying meaning of ourselves and the world will instead gradually become apparent to us
+
+### 3. gnostic_correspondence_en.md 第184行
+
+难免很像不等于必然就是
+
+**修改前**
+
+so they inevitably sound like general platitudes
+
+**修改后**
+
+so they can easily sound like general platitudes
+
+### 4. gnostic_correspondence_en.md 第186行
+
+补回守护学生成长与选择
+
+**修改前**
+
+The game brings this premise into the students' growth and independent choices in the present world.
+
+**修改后**
+
+The game puts this premise into practice by protecting the students' growth and independent choices in the present world.
+
+### 5. gnostic_correspondence_en.md 第188行
+
+神权不是单指神力
+
+**修改前**
+
+## IV. Nameless Gods and Yaldabaoth: Ancient Divine Power and Functional Division
+
+**修改后**
+
+## IV. Nameless Gods and Yaldabaoth: Ancient Divine Authority and the Division of Functions
+
+### 6. gnostic_correspondence_en.md 第255行
+
+说明个人认为声音就是本体，而非两种说法无所谓
+
+**修改前**
+
+Although it is uncertain whether that ‘soft voice’ is the Nameless Gods, I personally think it amounts to much the same thing, and throughout this paper I treat it as the Nameless Gods themselves. Whether it is one being, several, an abstract whole, or some lower-dimensional projection does not affect the argument.
+
+**修改后**
+
+Although it is uncertain whether that ‘soft voice’ is the Nameless Gods, I personally think that is more or less the case, and throughout this paper I treat it as the Nameless Gods themselves. Whether it is one being, several, an abstract whole, or some lower-dimensional projection does not affect the argument.
+
+### 7. gnostic_correspondence_en.md 第257行
+
+原型功能交由祭司承接，消除their指向本体的歧义
+
+**修改前**
+
+This paper retains the connection between the Nameless Gods themselves and Yaldabaoth, while assigning some of their active functions to the Priests in the interpretation. This accommodates both the divine authority and creative nature of the old-god system, while also explaining the difference in attitude between the gods themselves and their agents.
+
+**修改后**
+
+This paper retains the connection between the Nameless Gods themselves and Yaldabaoth, while assigning some of Yaldabaoth’s functions in action to the Priests in the interpretation. This accommodates both the divine authority and creative nature of the old-god system, while also explaining the difference in attitude between the gods themselves and their agents.
+
+### 8. gnostic_correspondence_en.md 第356行
+
+把崇拜对象落实成使命表达为有限理解形成使命，避免字面变成神本体变使命
+
+**修改前**
+
+The gods themselves can be generous and detached, allowing things to develop outside their prescribed course. The Priests strive to worship and carry out divine intent, but their limited understanding turns what they worship into a rigid mission. Their difference lies in how they understand and use divine power.
+
+**修改后**
+
+The gods themselves can be generous and detached, allowing things to develop outside their prescribed course. The Priests strive to worship and carry out divine intent, but their limited understanding leads them to turn their understanding of what they worship into a rigid mission. Their difference lies in how they understand and use divine power.
+
+### 9. gnostic_correspondence_en.md 第501行
+
+明确身份认证的识别信息含义
+
+**修改前**
+
+The President's connection with the Forgotten Gods therefore rests on more than her personality and experiences corresponding to Sophia's: the key relics she leaves behind, manages, and authenticates through her identity are also listed by the Priests as products of the Forgotten Gods.[^108] This shows the President's connection with the Forgotten Gods.
+
+**修改后**
+
+The President's connection with the Forgotten Gods therefore rests on more than her personality and experiences corresponding to Sophia's: the key relics she leaves behind, manages, and authenticates using her identification information are also listed by the Priests as products of the Forgotten Gods.[^108] This shows the President's connection with the Forgotten Gods.
+
+### 10. gnostic_correspondence_en.md 第531行
+
+存续不只指活下来
+
+**修改前**
+
+### 8.3 The Halo Connecting Divinity and Individual Survival
+
+**修改后**
+
+### 8.3 The Halo Connecting Divinity and Individual Existence
+
+### 11. gnostic_correspondence_en.md 第605行
+
+不必不等于必定没有继承
+
+**修改前**
+
+### 10.1 Inheriting Power without Inheriting Ancient Missions
+
+**修改后**
+
+### 10.1 Inheriting Power Does Not Require Inheriting the Old Mission
+
+### 12. gnostic_correspondence_en.md 第689行
+
+经历选择及空洞损耗的自然英语表达
+
+**修改前**
+
+Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, experiencing choices, and growing step by step is by no means an empty loss that can simply be skipped over.
+
+**修改后**
+
+Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, making choices, and growing step by step is by no means a meaningless drain that can simply be skipped over.
+
+### 13. gnostic_correspondence_en.md 第116行
+
+统一普拉娜英文名
+
+**修改前**
+
+**Prana**
+
+**修改后**
+
+**Plana**
+
+### 14. gnostic_correspondence_en.md 第99行
+
+引用发言名保留原文未知显示，不额外在引文中确认身份
+
+**修改前**
+
+**General Student Council President (displayed as ??? in the Prologue)**
+
+**修改后**
+
+**???**
+
+### 15. gnostic_correspondence_en.md 第103行
+
+原台词无perhaps，不额外削弱
+
+**修改前**
+
+Perhaps a different outcome from this twisted, distorted destination...
+
+**修改后**
+
+A different outcome from this twisted, distorted destination...
+
+### 16. gnostic_correspondence_en.md 第218行
+
+代表性不是最高级最具代表性
+
+**修改前**
+
+Among the powers of the 'Nameless Gods,' the most representative is the restructuring of matter.
+
+**修改后**
+
+One representative power of the 'Nameless Gods' is the restructuring of matter.
+
+### 17. gnostic_correspondence_en.md 第236行
+
+删除台词没有的Kivotos解释插入
+
+**修改前**
+
+In order to return the present world—Kivotos—to one ruled
+
+**修改后**
+
+In order to return the present world to one ruled
+
+### 18. gnostic_correspondence_en.md 第661行
+
+删除额外indeed强调，保留might
+
+**修改前**
+
+Returning Kivotos to the former world might indeed be an incredible feat.
+
+**修改后**
+
+Returning Kivotos to the former world might be an incredible feat.
+
+### 19. gnostic_correspondence_en.md 第703行
+
+老师让纱织自己找答案，不是老师与她各自共同找答案
+
+**修改前**
+
+Let’s find that answer for ourselves.
+
+**修改后**
+
+Try to find that answer for yourself.
+
+### 20. gnostic_correspondence_en.md 第758行
+
+同一遗物英文名统一
+
+**修改前**
+
+**Nameless Priest B**：The Staff of Shaked.[^93]
+
+**修改后**
+
+**Nameless Priest B**：The Rod of Shaked.[^93]
+
+### 21. gnostic_correspondence_ko.md 第152行
+
+只在乎眼前受苦学生，不把范围歧义写成只关心一个学生
+
+**修改前**
+
+양쪽이 보는 것은 같은 사람이다. 사제들은 그녀를 신의 권능과 용도에 따라 분류하지만, 선생님이 신경 쓰는 것은 지금 고통받는 학생뿐이다.
+
+**修改后**
+
+양쪽이 보는 것은 같은 사람이다. 사제들은 그녀를 신의 권능과 용도에 따라 분류하지만, 선생님은 그저 지금 고통받는 학생을 걱정한다.
+
+### 22. gnostic_correspondence_ko.md 第156行
+
+在내 생각에范围内保留原文会察觉的判断
+
+**修改前**
+
+여기서는 구분이 필요하다. 우리가 비판하는 것은 근원 자체의 아름다움이 아니라, ‘고차원의 기원만 바라보며 현세의 일상을 가볍게 여기는’ 본말전도다. 내 생각에 정말 본질적인 것은 생활에서 벗어나는 대가로 얻어야 하는 것이 아니다. 사소하지만 실제인 평범한 일상에 진지하게 참여하고, 구체적인 어려움과 선택을 마주하며, 곁의 사람들과 웃고 실수하고 함께하면서 서로의 진실한 유대를 느낄 때, 자신과 세계가 지닌 본래의 의미 중 일부를 오히려 그런 차분하고 착실한 과정에서 서서히 알아차리고 느낄 수 있다.
+사실 이 점은 나도 명확히 설명하기 어렵다. 단순해 보이는 많은 이치는 논리가 분명하고, 평소 누구나 이해하고 말할 수 있어서, 일반적이고 진부한 이야기처럼 들리기 쉽다. 하지만 ‘어떤 이치를 듣고 이해하는 것’과 ‘실제 생활에서 몸소 느끼는 것’은 완전히 다르다. 경험 속에서 천천히 떠오르는 실제 감각은 추상적인 말만으로 전달하기 어렵다.
+
+**修改后**
+
+여기서는 구분이 필요하다. 우리가 비판하는 것은 근원 자체의 아름다움이 아니라, ‘고차원의 기원만 바라보며 현세의 일상을 가볍게 여기는’ 본말전도다. 내 생각에 정말 본질적인 것은 생활에서 벗어나는 대가로 얻어야 하는 것이 아니다. 사소하지만 실제인 평범한 일상에 진지하게 참여하고, 구체적인 어려움과 선택을 마주하며, 곁의 사람들과 웃고 실수하고 함께하면서 서로의 진실한 유대를 느낄 때, 자신과 세계가 지닌 본래의 의미 중 일부를 오히려 그런 차분하고 착실한 과정에서 서서히 알아차리고 느끼게 된다.
+사실 이 점은 나도 명확히 설명하기 어렵다. 단순해 보이는 많은 이치는 논리가 분명하고, 평소 누구나 이해하고 말할 수 있어서, 일반적이고 진부한 이야기처럼 들리기 쉽다. 하지만 ‘어떤 이치를 듣고 이해하는 것’과 ‘실제 생활에서 몸소 느끼는 것’은 완전히 다르다. 경험 속에서 천천히 떠오르는 실제 감각은 추상적인 말만으로 전달하기 어렵다.
+
+### 23. gnostic_correspondence_ko.md 第159行
+
+消除充满自行返回的生硬搭配
+
+**修改前**
+
+아무튼 굳이 대응시킨다면, 선생님은 높은 확률로 Luminous Epinoia에 대응한다고 생각한다. 게임은 이 설정을 현세에서 학생들이 성장하고 스스로 선택할 수 있도록 지키는 일로 구현한다. ‘충만함’도 인간성과 생활의 구체적인 경험으로 돌아오게 한다. 기능적 관계는 비교할 수 있지만 구원 서사가 도달하는 지점은 달라졌다.
+
+**修改后**
+
+아무튼 굳이 대응시킨다면, 선생님은 높은 확률로 Luminous Epinoia에 대응한다고 생각한다. 게임은 이 설정을 현세에서 학생들이 성장하고 스스로 선택할 수 있도록 지키는 일로 구현한다. 또한 ‘충만함’을 인간성과 생활의 구체적인 경험으로 되돌려 놓는다. 기능적 관계는 비교할 수 있지만 구원 서사가 도달하는 지점은 달라졌다.
+
+### 24. gnostic_correspondence_ko.md 第211行
+
+明确承接的是原型功能
+
+**修改前**
+
+이 글은 이름 없는 신들 본체와 Yaldabaoth의 연관을 유지하면서, 그 행동 기능의 일부는 사제들에게 맡겨 해석한다. 이렇게 하면 옛 신들의 체계가 지닌 신권과 창조의 성격을 포괄하면서, 본체와 실행자 사이의 태도 차이도 설명할 수 있다.
+
+**修改后**
+
+이 글은 이름 없는 신들 본체와 Yaldabaoth의 연관을 유지하면서, Yaldabaoth의 행동 기능 일부는 사제들에게 맡겨 해석한다. 이렇게 하면 옛 신들의 체계가 지닌 신권과 창조의 성격을 포괄하면서, 본체와 실행자 사이의 태도 차이도 설명할 수 있다.
+
+### 25. gnostic_correspondence_ko.md 第247行
+
+明确计划行动主体是祭司，去掉生硬使役嵌套
+
+**修改前**
+
+이어 원전은 끝이 시작과 마찬가지로 하나인 존재를 되찾는다고 말한다. 여기서 합일은 구원의 완성이다. 게임은 ‘시작으로 돌아간다’는 목표를 옛 신의 사제들에게 맡기고, 이들이 현존하는 세계를 취소하고 이미 분화된 신성을 해체하여 실현하려 하게 한다. 공통점은 분화를 넘어 원초적 상태를 회복한다는 발상이다. 게임이 바꾼 것은 그 목표의 실현 방식과 의미다. 원전의 충만함으로의 복귀는 사제들의 손에서 지금의 생명을 부정하는 초기화 계획이 되었다.
+
+**修改后**
+
+이어 원전은 끝이 시작과 마찬가지로 하나인 존재를 되찾는다고 말한다. 여기서 합일은 구원의 완성이다. 게임은 ‘시작으로 돌아간다’는 목표를 옛 신의 사제들에게 맡기고, 사제들은 현존하는 세계를 취소하고 이미 분화된 신성을 해체하는 방식으로 그 목표를 실현하려 한다. 공통점은 분화를 넘어 원초적 상태를 회복한다는 발상이다. 게임이 바꾼 것은 그 목표의 실현 방식과 의미다. 원전의 충만함으로의 복귀는 사제들의 손에서 지금의 생명을 부정하는 초기화 계획이 되었다.
+
+### 26. gnostic_correspondence_ko.md 第285行
+
+明确有限理解被落实为使命
+
+**修改前**
+
+신의 본체는 너그럽고 초연하여, 일이 정해진 궤도대로 흘러가지 않는 것도 허용할 수 있다. 사제들은 열심히 숭배하고 신의 뜻을 실행하려 하지만, 이해에 한계가 있어 숭배하는 것을 경직된 사명으로 실천하게 된다. 둘의 차이는 신성한 힘을 이해하고 사용하는 방식에 있다.
+
+**修改后**
+
+신의 본체는 너그럽고 초연하여, 일이 정해진 궤도대로 흘러가지 않는 것도 허용할 수 있다. 사제들은 열심히 숭배하고 신의 뜻을 실행하려 하지만, 이해에 한계가 있어 숭배 대상에 대한 자신의 이해를 경직된 사명으로 실천하게 된다. 둘의 차이는 신성한 힘을 이해하고 사용하는 방식에 있다.
+
+### 27. gnostic_correspondence_ko.md 第287行
+
+恢复可以主要承接的可能性
+
+**修改前**
+
+이는 원형의 서로 다른 특징을 서로 다른 존재들이 나누어 맡을 수 있다는 설명으로도 이어진다. Yaldabaoth의 질투, 오만, 전제적 성격은 주로 무명사제가 맡고, 무명의 신들 본체는 너그럽고 초연한 면을 유지할 수 있다. 이는 앞서 본체를 Pleroma 쪽에 놓은 이론적 분기에도 여지를 남긴다. 무명의 신들과 관련된 것들이 여전히 Yaldabaoth에 대응하더라도, 신의 본체와 사제가 모두 같은 성격을 지녀야 하는 것은 아니다.
+
+**修改后**
+
+이는 원형의 서로 다른 특징을 서로 다른 존재들이 나누어 맡을 수 있다는 설명으로도 이어진다. Yaldabaoth의 질투, 오만, 전제적 성격은 주로 무명사제가 맡을 수 있고, 무명의 신들 본체는 너그럽고 초연한 면을 유지할 수 있다. 이는 앞서 본체를 Pleroma 쪽에 놓은 이론적 분기에도 여지를 남긴다. 무명의 신들과 관련된 것들이 여전히 Yaldabaoth에 대응하더라도, 신의 본체와 사제가 모두 같은 성격을 지녀야 하는 것은 아니다.
+
+### 28. gnostic_correspondence_ko.md 第295行
+
+设计参考神话，不是学生自己参考神话
+
+**修改前**
+
+학생을 앞서 제시한 Gnosticism 모델 안에 놓으려면, 먼저 학생과 잊혀진 신들이 어떤 관계인지 설명해야 한다. 학생들이 참고했을 법한 신화적 원형만 나열해서는 Sophia, Pleroma, Yaldabaoth와의 대립에 연결하기에 부족하다.
+
+**修改后**
+
+학생을 앞서 제시한 Gnosticism 모델 안에 놓으려면, 먼저 학생과 잊혀진 신들이 어떤 관계인지 설명해야 한다. 학생들의 디자인에 참고되었을 가능성이 있는 신화적 원형만 나열해서는 Sophia, Pleroma, Yaldabaoth와의 대립에 연결하기에 부족하다.
+
+### 29. gnostic_correspondence_ko.md 第341行
+
+整理重复이라는条件的句式，判断力度不变
+
+**修改前**
+
+사제들의 호칭, 이야기의 제목, 망각이라는 조건이라는 세 묶음의 단서는 같은 판단을 가리킨다. 오늘날의 학생 전체는 잊혀진 신들이 현세에서 개체로 현현한 것으로 이해할 수 있다.
+
+**修改后**
+
+사제들의 호칭, 이야기의 제목, 망각이라는 조건. 이 세 묶음의 단서는 모두 같은 판단을 가리킨다. 오늘날의 학생 전체는 잊혀진 신들이 현세에서 개체로 현현한 것으로 이해할 수 있다.
+
+### 30. gnostic_correspondence_ko.md 第396行
+
+说明认证使用识别信息
+
+**修改前**
+
+따라서 회장과 잊혀진 신들의 관계는 성격과 경험이 Sophia에 대응한다는 데만 있지 않다. 회장이 남기고 관리하며 자신의 신원으로 인증하는 주요 유물도 사제들이 잊혀진 신들의 결과물로 나열한다.[^108] 여기서 회장과 잊혀진 신들의 연관을 알 수 있다.
+
+**修改后**
+
+따라서 회장과 잊혀진 신들의 관계는 성격과 경험이 Sophia에 대응한다는 데만 있지 않다. 회장이 남기고 관리하며 자신의 식별 정보를 사용해 인증하는 주요 유물도 사제들이 잊혀진 신들의 결과물로 나열한다.[^108] 여기서 회장과 잊혀진 신들의 연관을 알 수 있다.
+
+### 31. gnostic_correspondence_ko.md 第440行
+
+恢复直接证明，不额外添加鲜明强调
+
+**修改前**
+
+독립적인 지성과 판단력을 지닌 인공 존재임에도 헤일로를 갖지 못했다는 사실은, 헤일로가 결코 평범한 사고력이나 생명 기능의 표식이 아님을 여실히 입증한다.
+
+**修改后**
+
+독립적인 지성과 판단력을 지닌 인공 존재임에도 헤일로를 갖지 못했다는 사실은, 헤일로가 결코 평범한 사고력이나 생명 기능의 표식이 아님을 직접 증명한다.
+
+### 32. gnostic_correspondence_ko.md 第480行
+
+纯粹存在溯源不等于只能或一味溯源，删除额外排他性
+
+**修改前**
+
+이는 『블루 아카이브』에서 ‘망각’이라는 설정이 지닌 의미도 보여줄 수 있다. 개체는 신성한 근원을 간직하지만, 신격을 완전히 기억해 내는 방식으로 살아갈 필요는 없으며 실제로 그렇게 살지도 않는다. 진명과 각성, 망각은 모두 ‘개체가 현실 속에서 어떻게 자아를 확립하고 삶을 펼치는가’를 중심으로 전개된다. 사제들의 집착은 이처럼 존재를 오로지 그 근원까지 거슬러 올라가려는 데 있는지도 모른다.
+
+**修改后**
+
+이는 『블루 아카이브』에서 ‘망각’이라는 설정이 지닌 의미도 보여줄 수 있다. 개체는 신성한 근원을 간직하지만, 신격을 완전히 기억해 내는 방식으로 살아갈 필요는 없으며 실제로 그렇게 살지도 않는다. 진명과 각성, 망각은 모두 ‘개체가 현실 속에서 어떻게 자아를 확립하고 삶을 펼치는가’를 중심으로 전개된다. 사제들의 집착은 이처럼 존재 자체를 그 근원까지 거슬러 올라가려는 데 있는지도 모른다.
+
+### 33. gnostic_correspondence_ko.md 第530行
+
+补出面对对象并自然表达经历选择
+
+**修改前**
+
+아리스는 삶에서 겪는 ‘과정’을 가치 그 자체로 확립했다. 지고한 힘이 기적으로 한순간에 낙원을 이룰 수 있다 해도, 동료들과 나란히 마주하고 선택을 겪으며 조금씩 성장하는 실제 과정은 결코 쉽게 생략해도 되는 공허한 소모가 아니다.
+
+**修改后**
+
+아리스는 삶에서 겪는 ‘과정’을 가치 그 자체로 확립했다. 지고한 힘이 기적으로 한순간에 낙원을 이룰 수 있다 해도, 동료들과 함께 상황에 맞서고 선택을 거듭하며 조금씩 성장하는 실제 과정은 결코 쉽게 생략해도 되는 공허한 소모가 아니다.
+
+### 34. gnostic_correspondence_ko.md 第591行
+
+避免韩语表里直译不自然，保留相互联系
+
+**修改前**
+
+종합하면 『블루 아카이브』의 Gnosticism 대응 모델은 비교적 일관성이 있다. 회장과 Sophia의 대응은 실수의 발생과 수습 계획의 논리적 출발점을 설명한다. 선생님과 Luminous Epinoia의 대응은 외부 조력자가 현실에 들어와 개체의 처지를 어떻게 바꾸는지 설명한다. 이름 없는 신들과 무명사제들이 Yaldabaoth와 Archons의 기능을 분담하는 것은 고대 신권의 강제적 재구성과 지배 메커니즘을 설명한다. 당대의 학생들이 ‘잊혀진 신들’의 현세적 발현이라는 점과 헤일로가 표상하는 Divine Spark는 서로 표리를 이룬다. 그리고 Pleroma는 이 집단의 신성한 계보와 정신적 귀착점을 위한 좌표를 제공한다.
+
+**修改后**
+
+종합하면 『블루 아카이브』의 Gnosticism 대응 모델은 비교적 일관성이 있다. 회장과 Sophia의 대응은 실수의 발생과 수습 계획의 논리적 출발점을 설명한다. 선생님과 Luminous Epinoia의 대응은 외부 조력자가 현실에 들어와 개체의 처지를 어떻게 바꾸는지 설명한다. 이름 없는 신들과 무명사제들이 Yaldabaoth와 Archons의 기능을 분담하는 것은 고대 신권의 강제적 재구성과 지배 메커니즘을 설명한다. 당대의 학생들이 ‘잊혀진 신들’의 현세적 발현이라는 점과 헤일로가 표상하는 Divine Spark는 서로 안팎을 이룬다. 그리고 Pleroma는 이 집단의 신성한 계보와 정신적 귀착점을 위한 좌표를 제공한다.
+
+### 35. gnostic_correspondence_ko.md 第596行
+
+彻头彻尾灾难改自然表达，不削弱作者评价
+
+**修改前**
+
+정통 Gnosticism은 물질세계를 아름다운 거처로 보기는커녕 창조의 실수로 태어난 철저한 재앙이자 차가운 감옥으로 여긴다. Gnosticism의 구원은 극히 철저한 ‘탈속’이자 ‘도피주의’다.
+
+**修改后**
+
+정통 Gnosticism은 물질세계를 아름다운 거처로 보기는커녕 창조의 실수로 태어난 그야말로 재앙이자 차가운 감옥으로 여긴다. Gnosticism의 구원은 극히 철저한 ‘탈속’이자 ‘도피주의’다.
+
+### 36. gnostic_correspondence_ko.md 第474行
+
+结局不额外译为末日宗末；整理一体存在的重复表述
+
+**修改前**
+
+번역: 왜냐하면 시작이 하나였듯이, 종말 또한 하나의 통일된 존재를 얻을 것이기 때문이다.[^33]
+
+**修改后**
+
+번역: 시작이 하나이듯이, 끝도 하나로 통일된 존재를 얻게 될 것이기 때문이다.[^33]
+
+## 整理范围
+
+重复旧译稿快照12份、旧管理快照6份、旧README和旧宇宙论各1份，共20份移入本地Trash/cleanup_round75/。旧AGENTS另存Trash后精简为现行指南，逐轮历史仍在journal和decision_log。作者原始稿、原典、证据、引文索引、旧裁决审计和Git历史包保留。第42／43轮报告中的旧快照链接改指已发布历史提交；不改历史原话。
+
+note/与专用导出报告加入.gitignore，保留本地且不上传；共享对话与项目维护记录照常保留。

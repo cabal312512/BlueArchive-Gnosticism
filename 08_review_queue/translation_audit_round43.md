@@ -39,7 +39,7 @@
 | [日文论文](../gnostic_correspondence_ja.md) | [完整清单](translation_audit_round43/ja.md) | [ja.diff](translation_audit_round43/ja.diff) |
 | [韩文论文](../gnostic_correspondence_ko.md) | [完整清单](translation_audit_round43/ko.md) | [ko.diff](translation_audit_round43/ko.diff) |
 
-本轮修改前的四篇论文见[存档](archive/translation_round43_before/)。第42轮的历史清单保留，不改写成当前行号；这份记录列出之后的新增修改。
+本轮修改前的四篇论文见[存档](https://github.com/cabal312512/BlueArchive-Gnosticism/tree/de993b724fbca2b130bd896085360cd310244aa1/08_review_queue/archive/translation_round43_before/)。第42轮的历史清单保留，不改写成当前行号；这份记录列出之后的新增修改。
 
 ## 验证
 

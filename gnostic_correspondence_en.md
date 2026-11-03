@@ -96,15 +96,15 @@ The President acknowledges more than a loss of control: she explicitly attribute
 
 > **？？？**：私が信じられる大人である、あなたになら、
 >
-> **General Student Council President (displayed as ??? in the Prologue)**：If it is you, an adult I can trust,[^4]
+> **???**：If it is you, an adult I can trust,[^4]
 
 > **？？？**：この捻じれて歪んだ先の終着点とは、また別の結果を……。
 >
-> **General Student Council President (displayed as ??? in the Prologue)**：Perhaps a different outcome from this twisted, distorted destination...[^5]
+> **???**：A different outcome from this twisted, distorted destination...[^5]
 
 > **？？？**：そこへ繋がる選択肢は……きっと見つかるはずです。
 >
-> **General Student Council President (displayed as ??? in the Prologue)**：The choices leading there... you will surely be able to find them.[^6]
+> **???**：The choices leading there... you will surely be able to find them.[^6]
 
 This forms the chain “a divine figure makes a mistake—a distorted outcome—a helper is introduced—another outcome is sought,” matching Sophia’s story.[^7]
 
@@ -113,16 +113,16 @@ This forms the chain “a divine figure makes a mistake—a distorted outcome—
 > **プラナ**：シッテムの箱のOS、A.R.O.N.Aである私と、アロナ先輩……
 > なぜ二人が似て非なる存在であるのか……理解しました。
 >
-> **Prana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.[^11]
+> **Plana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.[^11]
 
 > **プラナ**：ここに居たのですね……だからこそ、誰にも見つけられなかった。
 > そうでしょう？
 >
-> **Prana**：You were here all along... That is why no one could find you. Isn't that right?[^12]
+> **Plana**：You were here all along... That is why no one could find you. Isn't that right?[^12]
 
 > **プラナ**：――――連邦生徒会長。
 >
-> **Prana**：——General Student Council President.[^13]
+> **Plana**：——General Student Council President.[^13]
 
 This scene clearly shows that the President’s “disappearance” is neither death nor an exit from the story, but a change in her form and level of existence: she steps away from public administrative duties, transfers herself into the Shittim Chest, and secretly keeps the entire remedial plan running.
 
@@ -155,7 +155,7 @@ In Apocryphon of John, after Sophia’s divine power flows into Adam, the heaven
 
 Luminous Epinoia is hidden within Adam, helping him understand where he comes from and the divine power within him, and guiding him back to the upper world. The Archons maintain their rule through forgetfulness and deception; Epinoia awakens human understanding and helps people escape that control.
 
-### 3.2 The President's Entrustment and Sensei's Action
+### 3.2 The President's Trust and Sensei's Actions
 
 After acknowledging her error of judgment, the President places her hope of changing the distorted ending in Sensei and entrusts the Shittim Chest to Sensei. This introduction parallels Luminous Epinoia, the helper sent into the lower world after a deficiency appears in the mythical order. (One difference is that, in the myth, Luminous Epinoia is sent by the heavenly realm rather than summoned directly by Sophia.)
 Sensei's actions in the story also, of course, put the helper's role into practice. As an adult, Sensei consistently cares for and accompanies all the students, helps them with the practical difficulties of their lives, and takes responsibility and risks in the face of danger.
@@ -180,12 +180,12 @@ Both sides see the same person. The Priests place her within the categories of d
 
 Sensei preserves the possibility of Shiroko continuing to live as a student and choosing her own future. This parallels Luminous Epinoia's help for individuals, but also makes the difference between their goals apparent: Luminous Epinoia guides people to recognize their divine origin and return to their original fullness; Sensei values the students' present lives and does not let divine identity and mission replace them. If the original text presents return to the upper world as the direction of salvation, does Sensei's help for students to continue living in this world instead conflict with that direction?
 
-A distinction is needed here: what we criticize is not the goodness of the source itself, but the reversal of priorities in focusing only on higher-dimensional origins while disregarding everyday life in this world. I think the most essential things do not have to be obtained by leaving life behind. When we seriously engage in ordinary life, with its small, real details, face concrete difficulties and choices, share laughter, mistakes, and companionship with those around us, and experience the sincere bonds between us, some of the underlying meaning of ourselves and the world may instead gradually become apparent to us in this quiet, grounded process.
-In fact, I cannot explain this clearly either. Many seemingly simple principles are logically clear; people can usually understand and repeat them, so they inevitably sound like general platitudes. But merely understanding a principle and experiencing it firsthand in real life are completely different things. The real feelings that slowly emerge through experience are difficult to convey through abstract language alone.
+A distinction is needed here: what we criticize is not the goodness of the source itself, but the reversal of priorities in focusing only on higher-dimensional origins while disregarding everyday life in this world. I think the most essential things do not have to be obtained by leaving life behind. When we seriously engage in ordinary life, with its small, real details, face concrete difficulties and choices, share laughter, mistakes, and companionship with those around us, and experience the sincere bonds between us, some of the underlying meaning of ourselves and the world will instead gradually become apparent to us in this quiet, grounded process.
+In fact, I cannot explain this clearly either. Many seemingly simple principles are logically clear; people can usually understand and repeat them, so they can easily sound like general platitudes. But merely understanding a principle and experiencing it firsthand in real life are completely different things. The real feelings that slowly emerge through experience are difficult to convey through abstract language alone.
 
-Anyway, if a correspondence has to be made, Sensei most likely corresponds to Luminous Epinoia. The game brings this premise into the students' growth and independent choices in the present world. It also brings ‘fullness’ back to concrete experiences of humanity and life. The functional relationships can be compared, while the narrative destination of salvation changes.
+Anyway, if a correspondence has to be made, Sensei most likely corresponds to Luminous Epinoia. The game puts this premise into practice by protecting the students' growth and independent choices in the present world. It also brings ‘fullness’ back to concrete experiences of humanity and life. The functional relationships can be compared, while the narrative destination of salvation changes.
 
-## IV. Nameless Gods and Yaldabaoth: Ancient Divine Power and Functional Division
+## IV. Nameless Gods and Yaldabaoth: Ancient Divine Authority and the Division of Functions
 
 ### 4.1 Masters of the World Prior to the Existing Order
 
@@ -215,7 +215,7 @@ In the story, the power of the Nameless Gods is not merely abstract mythology, b
 
 > **ケイ**：「名もなき神」の力の中で代表的なのは、物質の再構築です。
 >
-> **Key**：Among the powers of the 'Nameless Gods,' the most representative is the restructuring of matter.[^22]
+> **Key**：One representative power of the 'Nameless Gods' is the restructuring of matter.[^22]
 
 > **ケイ**：はい。「名もなき神」の力は、波動と粒子の関係を根本から変化させることができます。
 >
@@ -233,7 +233,7 @@ This direct restructuring of matter and rewriting of underlying physical laws gi
 
 > **柔らかい声**：今の世界を、名もなき神々が本来の姿で統治する世界に戻すために。
 >
-> **Soft Voice**：In order to return the present world—Kivotos—to one ruled by the Nameless Gods in their original form.[^26]
+> **Soft Voice**：In order to return the present world to one ruled by the Nameless Gods in their original form.[^26]
 
 > **柔らかい声**：名もなき神々の王女を稼働させるための鍵。
 > 司祭たちの道具として、王女に役割を果たさせる装置でした。
@@ -252,9 +252,9 @@ The Priests’ definition of the Princess and the Key as tools for carrying out 
 
 ### 4.3 The Gods Themselves, the Priests, and the Division of Archetypes
 
-Although it is uncertain whether that ‘soft voice’ is the Nameless Gods, I personally think it amounts to much the same thing, and throughout this paper I treat it as the Nameless Gods themselves. Whether it is one being, several, an abstract whole, or some lower-dimensional projection does not affect the argument.
+Although it is uncertain whether that ‘soft voice’ is the Nameless Gods, I personally think that is more or less the case, and throughout this paper I treat it as the Nameless Gods themselves. Whether it is one being, several, an abstract whole, or some lower-dimensional projection does not affect the argument.
 
-This paper retains the connection between the Nameless Gods themselves and Yaldabaoth, while assigning some of their active functions to the Priests in the interpretation. This accommodates both the divine authority and creative nature of the old-god system, while also explaining the difference in attitude between the gods themselves and their agents.
+This paper retains the connection between the Nameless Gods themselves and Yaldabaoth, while assigning some of Yaldabaoth’s functions in action to the Priests in the interpretation. This accommodates both the divine authority and creative nature of the old-god system, while also explaining the difference in attitude between the gods themselves and their agents.
 
 Ancient accounts of the Demiurge themselves have different aspects. Ptolemy’s Letter to Flora places the lawgiver and creator between the supreme, perfect source and the evil adversary, understanding him as a just intermediary. This version differs from the ignorant, jealous Yaldabaoth of Apocryphon of John in its characterization, but together they show that creative and ruling functions can be repositioned within different theological arrangements.[^28]
 
@@ -353,7 +353,7 @@ After Aris explains her choice, the voice accepts her attempt:
 
 Although the Nameless Gods foresee that those fanatical followers will regard Aris as a traitor, they still calmly offer her their blessing. This shows the different attitudes of the gods themselves and the Priests.
 
-The gods themselves can be generous and detached, allowing things to develop outside their prescribed course. The Priests strive to worship and carry out divine intent, but their limited understanding turns what they worship into a rigid mission. Their difference lies in how they understand and use divine power.
+The gods themselves can be generous and detached, allowing things to develop outside their prescribed course. The Priests strive to worship and carry out divine intent, but their limited understanding leads them to turn their understanding of what they worship into a rigid mission. Their difference lies in how they understand and use divine power.
 
 This also explains how different aspects of an archetype can be carried by different entities: Yaldabaoth's jealousy, arrogance, and authoritarianism can be carried mainly by the Nameless Priests, while the Nameless Gods themselves retain a generous, detached side, leaving room for the earlier theoretical branch placing them on the Pleroma side. Things related to the Nameless Gods can still correspond to Yaldabaoth without requiring the gods themselves and their Priests to share the same personality.
 
@@ -498,7 +498,7 @@ In the same conversation, she explains Sanctum Tower's authentication procedure:
 >
 > **Plana**: To operate Sanctum Tower remotely, a process is required to transmit special identification information defined in the General Student Council President’s name and obtain authentication.[^106]
 
-The President's connection with the Forgotten Gods therefore rests on more than her personality and experiences corresponding to Sophia's: the key relics she leaves behind, manages, and authenticates through her identity are also listed by the Priests as products of the Forgotten Gods.[^108] This shows the President's connection with the Forgotten Gods.
+The President's connection with the Forgotten Gods therefore rests on more than her personality and experiences corresponding to Sophia's: the key relics she leaves behind, manages, and authenticates using her identification information are also listed by the Priests as products of the Forgotten Gods.[^108] This shows the President's connection with the Forgotten Gods.
 
 **3. From the President's connection with the Forgotten Gods back to the students' divine background.**
 
@@ -528,7 +528,7 @@ The Nameless Gods themselves define divine power as a power of possibility of wh
 
 This also explains why some students seem to have no mythological archetype (such as those at Millennium Science School): specific divine names reflect individual characteristics, while the Divine Spark represented by the halo explains the divine origin and potential shared by all students.
 
-### 8.3 The Halo Connecting Divinity and Individual Survival
+### 8.3 The Halo Connecting Divinity and Individual Existence
 
 > **オウル**：私たちにはヘイローがありません。
 >
@@ -602,7 +602,7 @@ This can also show the significance of “oblivion” in Blue Archive: individua
 
 ## X. The Game’s Reworking: Choosing How to Live After Knowing the Source
 
-### 10.1 Inheriting Power without Inheriting Ancient Missions
+### 10.1 Inheriting Power Does Not Require Inheriting the Old Mission
 
 Key does not deny Aris’s origin as the Princess, but separates origin from destiny:
 
@@ -658,7 +658,7 @@ Faced with the proposal to restore her divine identity and realize paradise, Ari
 
 > **アリス**：キヴォトスを以前の世界に戻すのは、すごい事かもしれません。
 >
-> **Aris**：Returning Kivotos to the former world might indeed be an incredible feat.[^74]
+> **Aris**：Returning Kivotos to the former world might be an incredible feat.[^74]
 
 > **アリス**：みんながそれぞれの姿を取り戻すのも、きっとすごい事だと思います。
 >
@@ -686,7 +686,7 @@ Faced with the proposal to restore her divine identity and realize paradise, Ari
 >
 > **Aris**：Above all, Aris believes that the process itself has value.[^80]
 
-Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, experiencing choices, and growing step by step is by no means an empty loss that can simply be skipped over.
+Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, making choices, and growing step by step is by no means a meaningless drain that can simply be skipped over.
 
 Divine origins thereby lose their monopoly over the meaning of secular life. People may trace where they came from, but living does not depend on those grand answers. A divine starting point may explain an individual’s origin, but it cannot and should not take over how a person spends their actual life in the present. This theme is actually completely opposed to the ideas of Gnosticism.
 
@@ -700,7 +700,7 @@ Following the Kyrie, Saori asks Sensei:
 
 > **先生**："その答えは、自分で見つけようね。"
 >
-> **Sensei**：Let’s find that answer for ourselves.[^82]
+> **Sensei**：Try to find that answer for yourself.[^82]
 
 > **サオリ**：初めて……この世界にいてもいいのだと、思う事ができたよ。
 >
@@ -755,7 +755,7 @@ Yet the Priests list Sanctum Tower as a product of the Forgotten Gods:
 
 > **無名の司祭B**：シャーケードの杖。
 >
-> **Nameless Priest B**：The Staff of Shaked.[^93]
+> **Nameless Priest B**：The Rod of Shaked.[^93]
 
 > **無名の司祭C**：サンクトゥムタワー。
 >

@@ -272,3 +272,18 @@
 ## 第67轮新增及更新
 
 注109：台词ID186592、186594；特殊作战Decagrammaton第3章第23话结尾祭司宣告，group_row265、267。注107改为AJ的Yaldabaoth不服从来源、独占神权宣称及文本反驳段落，不再使用Adam智慧引句。
+
+
+## 注110：本船与无名众神王女的敌对
+
+最终篇第3章第6话，凯伊解释乌特纳庇什廷之船的场景。
+
+| 论文注 | 场景内对白 | 数据库ID | 源表 | DataList行 | 原始Group行 |
+| --- | --- | --- | --- | --- | --- |
+| 110 | 82（quoted） | 24412 | ScenarioScriptExcelTable1.json | 40582 | 189 |
+| 110 | 83（context） | 24413 | ScenarioScriptExcelTable1.json | 40583 | 190 |
+| 110 | 84（quoted） | 24414 | ScenarioScriptExcelTable1.json | 40584 | 191 |
+| 110 | 85（quoted） | 24415 | ScenarioScriptExcelTable1.json | 40588 | 195 |
+| 110 | 91（quoted） | 24421 | ScenarioScriptExcelTable1.json | 40594 | 201 |
+
+Group为103060，正文本船“古代遗物”为Ooparts。第83条说明过去未用；未凭本段确定敌方名字，也不把军事对抗写成本船实战记录。原始日文、韩文及上下文保存在JSON的supplementary_footnotes.110中。

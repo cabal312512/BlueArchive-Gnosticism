@@ -164,7 +164,7 @@ Luminous Epinoia is hidden within Adam, helping him understand where he comes fr
 ### 3.2 The President's Trust and Sensei's Actions
 
 After acknowledging her error of judgment, the President places her hope of changing the distorted ending in Sensei and entrusts the Shittim Chest to Sensei. This introduction parallels Luminous Epinoia, the helper sent into the lower world after a deficiency appears in the mythical order. (One difference is that, in the myth, Luminous Epinoia is sent by the heavenly realm rather than summoned directly by Sophia.)
-Sensei's actions in the story also, of course, put the helper's role into practice. As an adult, Sensei consistently cares for and accompanies all the students, helps them with the practical difficulties of their lives, and takes responsibility and risks in the face of danger.
+Sensei's actions in the story also, of course, put the helper's role into practice. As an adult, Sensei consistently cares for and accompanies all the students, helps them with the practical difficulties of their lives, and takes responsibility and risks in the face of danger. But this is also what one would naturally expect, so it is not very reliable as evidence.
 
 In the parallel world, the Priests attempt to determine Shiroko's fate through her divine identity, but Sensei rejects this determination. The Priests say:
 
@@ -184,7 +184,7 @@ To which Sensei replies:
 
 Both sides see the same person. The Priests place her within the categories of divine power and purpose; Sensei cares only about the student who is suffering.
 
-Sensei preserves the possibility of Shiroko continuing to live as a student and choosing her own future. This parallels Luminous Epinoia's help for individuals, but also makes the difference between their goals apparent: Luminous Epinoia guides people to recognize their divine origin and return to their original fullness; Sensei values the students' present lives and does not let divine identity and mission replace them. If the original text presents return to the upper world as the direction of salvation, does Sensei's help for students to continue living in this world instead conflict with that direction?
+Sensei's role in helping individuals parallels that of Luminous Epinoia, but at this point we can recognize a difference in their goals: Luminous Epinoia guides people to recognize their divine origin and return to their original fullness; Sensei cherishes and protects the students' present lives. If the original text presents return to the upper world as the direction of salvation, does Sensei's help for students to continue living in this world instead conflict with that direction?
 
 A distinction is needed here: what we criticize is not the goodness of the source itself, but the reversal of priorities in focusing only on higher-dimensional origins while disregarding everyday life in this world. I think the most essential things do not have to be obtained by leaving life behind. When we seriously engage in ordinary life, with its small, real details, face concrete difficulties and choices, share laughter, mistakes, and companionship with those around us, and experience the sincere bonds between us, some of the underlying meaning of ourselves and the world will instead gradually become apparent to us in this quiet, grounded process.
 In fact, I cannot explain this clearly either. Many seemingly simple principles are logically clear; people can usually understand and repeat them, so they can easily sound like general platitudes. But merely understanding a principle and experiencing it firsthand in real life are completely different things. The real feelings that slowly emerge through experience are difficult to convey through abstract language alone.
@@ -391,9 +391,9 @@ The Priests’ declaration of banishment connects with their description of Shir
 
 Then, in response to Sensei's concern for Shiroko, the Priests react with strong rejection, insistently denying her identity as a ‘student’ and maintaining that she is a true manifestation of a god.
 
-The Priests declare that they will banish the Forgotten Gods while also insisting that Shiroko is a god and refusing to recognize her student identity. Both statements point to the same thing: the ancient gods have not vanished with the old era, but continue to exist as contemporary students. They carry the divinity of ancient gods while also living their own lives as independent individuals.
+The Priests declare that they will banish the Forgotten Gods while also insisting that Shiroko is a god and refusing to recognize her student identity. Combining these two statements, we can infer that the ancient gods have not vanished with the old era, but continue to exist as contemporary students. They carry the divinity of ancient gods while also living their own lives as independent individuals.
 
-In the story, Shiroko is identified as Anubis and Hoshino as Horus, providing clear examples of students having specific divine backgrounds.<sup><a href="#note-46">46</a></sup><sup><a href="#note-47">47</a></sup> Many other correspondences also seem fairly certain: Misono Mika to Michael, Yurizono Seia to Gabriel, Kirifuji Nagisa to Uriel, Sorasaki Hina to Baal, Rikuhachima Aru to the 68th demon Belial, Kurodate Haruna to Beelzebub, Lord of Gluttony, and so on.
+In the story, Shiroko is identified as Anubis and Hoshino as Horus, providing examples of students having specific divine backgrounds.<sup><a href="#note-46">46</a></sup><sup><a href="#note-47">47</a></sup> Many other correspondences also seem fairly certain: Misono Mika to Michael, Yurizono Seia to Gabriel, Kirifuji Nagisa to Uriel, Sorasaki Hina to Baal, Rikuhachima Aru to the 68th demon Belial, Kurodate Haruna to Beelzebub, Lord of Gluttony, and so on.
 
 **2. The Kyrie titles connect gods and girls.**
 
@@ -431,7 +431,7 @@ The voice’s explanation of Aris’s choice directly places oblivion among the 
 >
 > **Soft Voice**：Because oblivion is the most important condition for you all to remain in Kivotos.<sup><a href="#note-53">53</a></sup>
 
-Divine power, present personality, and “oblivion” reflect one another here. Aris can regain an omnipotent divine form, but only at the cost of giving up her present student life and memories; choosing to preserve her human way of being means voluntarily relinquishing mastery over the ultimate divine state. This choice provides a clear model of existence for the “Forgotten Gods”: although the divine origin has not been severed, individuals must “forget their divine identity” in order to live ordinary, real lives in the world.
+Divine power, present personality, and “oblivion” reflect one another here. Aris can regain an omnipotent divine form, but only at the cost of giving up her present student life and memories; choosing to preserve her human way of being means voluntarily relinquishing mastery over the ultimate divine state. This choice provides a model of existence for the “Forgotten Gods”: although the divine origin has not been severed, individuals must “forget their divine identity” in order to live ordinary, real lives in the world.
 
 These three sets of clues—the Priests' terminology, the story's titles, and the condition of forgetting—point to the same judgment: contemporary students as a whole can be understood as individualized manifestations of the Forgotten Gods in this world.
 
@@ -450,9 +450,25 @@ In the game, the Nameless Priests themselves first state the opposition between 
 >
 > **Nameless Priest A**: Let us grant them the same fate as ours, like the Nameless Gods, who are not called because they have no names, and do not exist because they cannot be called.<sup><a href="#note-109">109</a></sup>
 
-The Priests want the Forgotten Gods to suffer the same exclusion and forgetting as the Nameless Gods. This shows that they are not merely opposing some gods in general, but clearing away the opposing side on behalf of the old divine system they worship. As section 7.1 shows, the gods they seek to banish are also connected with those now living as students.
+There is also a clue to this hostility in an ancient weapon. In the Final Arc, Key explains to Aris the ship of Utnapishtim beneath her feet:
 
-The preceding discussion has mapped the Nameless Gods' system to Yaldabaoth and the Priests to the Archons. Following that correspondence, the position of the Forgotten Gods can be understood through Yaldabaoth's relationship with the higher divine world in the original text. Apocryphon of John first explains that Yaldabaoth gains power through the light of his mother Sophia, yet:
+> **ケイ**：今、あなたが立っている「オーパーツ」は……遠い昔、私たちの敵が箱舟に対抗すべく生み出した対箱舟用の「決戦兵器」なのです。
+>
+> **Key**: The Oopart you are standing on now... is an anti-Ark ‘decisive weapon’ that our enemies created long ago to counter the Ark.<sup><a href="#note-110">110</a></sup>
+
+> **ケイ**：王女よ……あなたは今――
+> 自身の脅威である「天敵」に乗っているのです。
+>
+> **Key**: Princess... you are now aboard a ‘natural enemy’ that threatens your very existence.<sup><a href="#note-110">110</a></sup>
+
+> **ケイ**：この兵器は、起動した瞬間……「名もなき神々の王女」――あなたに牙を剥くでしょう。
+>
+> **Key**: The moment this weapon activates... it will bare its fangs at you—the ‘Princess of the Nameless Gods.’<sup><a href="#note-110">110</a></sup>
+
+The Priests want the Forgotten Gods to suffer the same exclusion and forgetting as the Nameless Gods. This shows that they are not merely opposing some gods in general, but clearing away the opposing side on behalf of the old divine system they worship.
+Combined with Key's references to ‘our enemies,’ an ‘anti-Ark decisive weapon,’ and its direct threat to the Princess, we can see that the Nameless Gods and the Forgotten Gods are sworn enemies.
+
+The preceding discussion has mapped the Nameless Gods' system to Yaldabaoth. Following that correspondence, the position of the Forgotten Gods can be understood through Yaldabaoth's relationship with the higher divine world, Pleroma, in the original text. Apocryphon of John first explains that Yaldabaoth gains power through the light of his mother Sophia, yet:
 
 > “he did not obey the place from which he came”<sup><a href="#note-107">107</a></sup>
 
@@ -460,9 +476,11 @@ He then declares before his creation and followers:
 
 > “I am a jealous God, and there is no other God beside me.”<sup><a href="#note-107">107</a></sup>
 
-The text immediately points out that this statement actually reveals to his followers the existence of another God; otherwise, of whom would he be jealous? The conflict here is that Yaldabaoth treats his power over the lower world as the only divine authority, without knowing or obeying the higher source that gives him power. Pleroma is the divine world to which Sophia belongs. It exists above his rule and does not disappear because of his claim to exclusivity.
+Words and actions like these anger the divine powers on the Pleroma side. Sophia confronts Yaldabaoth, exposes his lie, and declares that the immortal Man of Light existed before him; Zoe creates a fiery angel with her breath, who binds Yaldabaoth and casts him into the abyss. On witnessing all this, Yaldabaoth's son Sabaoth betrays his father and pledges allegiance to Sophia. He receives the support of divine light and angelic armies, leading to a heavenly war among the rulers of chaos.
 
-Thus, in this paper's model, the old divine authority represented by the Nameless Gods and their Priests corresponds to Yaldabaoth and the Archons, while the Forgotten Gods whom they exclude and try to banish correspond to divine beings on the Pleroma side. This placement follows the preceding judgment about the Nameless system and also explains why the two groups of gods occupy opposing positions. Combined with section 7.1, students are then not creations whose purposes the old divine order may arbitrarily prescribe, but individuals connected with a higher divine background that it cannot monopolize.
+In any case, Yaldabaoth and Pleroma are indeed sworn enemies. The Nameless Gods and the Forgotten Gods are also sworn enemies. Given the correspondence between the Nameless Gods and Yaldabaoth, we can infer that the Forgotten Gods correspond to the forces of light on the Pleroma side.
+
+The President, who corresponds to Sophia, is also on the Pleroma side, and Pleroma in turn corresponds to the Forgotten Gods. This suggests that the President and the Forgotten Gods may also have a deep connection. And the President herself is a student, too. Having just established a connection between students and the Forgotten Gods, we can use the two to support each other here. But this chain of reasoning is rather thin; the following can strengthen it:
 
 **2. Three relics directly connect the Forgotten Gods with the President.**
 
@@ -504,15 +522,28 @@ In the same conversation, she explains Sanctum Tower's authentication procedure:
 >
 > **Plana**: To operate Sanctum Tower remotely, a process is required to transmit special identification information defined in the General Student Council President’s name and obtain authentication.<sup><a href="#note-106">106</a></sup>
 
-The President's connection with the Forgotten Gods therefore rests on more than her personality and experiences corresponding to Sophia's: the key relics she leaves behind, manages, and authenticates using her identification information are also listed by the Priests as products of the Forgotten Gods.<sup><a href="#note-108">108</a></sup> This shows the President's connection with the Forgotten Gods.
+At this point, we can see the President's connection with the Forgotten Gods. Add to this that the President is a student, students correspond to the Forgotten Gods, the President corresponds to Sophia, Sophia belongs to Pleroma, Yaldabaoth and Pleroma are sworn enemies, the Nameless Gods and the Forgotten Gods are also sworn enemies, and the Nameless Gods correspond to Yaldabaoth. Together, these allow us to infer more reliably that students and the Forgotten Gods correspond to the forces of light on the Pleroma side.
 
-**3. From the President's connection with the Forgotten Gods back to the students' divine background.**
 
-The preceding discussion maps the President to Sophia and Sensei to Luminous Epinoia; section 7.1 connects the Forgotten Gods with contemporary students. The three relics join these two lines: both the divine legacy the President manages and leaves behind and the divine background inherited by the students point to the Forgotten Gods' side. The Priests seek to eliminate both those relics and the girls now living as students.
 
-In the original text, Sophia, her power, and Luminous Epinoia, who helps Adam, participate together in remedying the predicament below. In the game, the President, the relics she leaves behind, and Sensei likewise participate in helping students. What corresponds here is their relationship: the President and students have connected divine backgrounds; Sensei's arrival puts the President's remedial arrangements into practice in the students' lives; the Priests try to undo all of this. Placing students on the Pleroma side thus depends on more than their being called gods: their associated origin, assistance, and opponents can all be explained within the same structure. I cannot work out which particular divine being they correspond to; the [atlas](gnostic_atlas.html) can be consulted to find a correspondence.
 
-Once this relationship is established, the next section can discuss why this inner divinity, connected with a higher world, can be understood as Divine Spark, and how halos become its outward expression.
+
+Also, in the original text, Sophia, her power, and Luminous Epinoia participate together in remedying the predicament below; in the game, the President, the relics she leaves behind, and Sensei also help the students. This can strengthen the conclusion.
+
+Once this relationship is established, Chapter 8 can discuss why students' halos are related to Divine Spark.
+
+### 7.3 Potential Problems
+
+I cannot work out which particular divine being on the Pleroma side the Forgotten Gods and students correspond to. If you are interested, you can consult the [atlas](gnostic_atlas.html) to find a correspondence.
+
+In the game, the Nameless Gods and the Forgotten Gods actually seem more like opposing forces on the same level, whereas the forces of light on the Pleroma side are clearly on a higher level than Yaldabaoth. This seems contradictory. But there is a distinction here: I think this “level” can be divided into “dimensional level” and “degree of abstraction.”
+Dimensional level can be understood through the difference between the lower-dimensional material world and the higher-dimensional divine realm. Put simply, imagine a Y-axis: the higher the value, the closer to heaven; the lower the value, the closer to the human world. In this sense, Yaldabaoth is certainly on a lower level than Pleroma.
+“Degree of abstraction,” meanwhile, can be understood this way: for two opposing things to actually fight, they must at least be able to recognize each other's existence. The Nameless Gods' forces cannot sail a tangible Atra-Hasis into battle against some vague, intangible Forgotten Gods. And the Forgotten Gods are indeed not all that abstract: they also have Utnapishtim, and the two sides can actually wage wars of the sort we can ordinarily understand. Although Yaldabaoth is dimensionally below Pleroma, he is not necessarily less abstract than the various things within it. For example, placing Sophia and Yaldabaoth at the same degree of abstraction seems quite suitable, while Monad is clearly far more abstract than Yaldabaoth.
+So if Yaldabaoth is merely dimensionally lower, while his degree of abstraction is not very different from that of the Four Luminaries and the like, that does not prevent me from mapping the Nameless Gods and the Forgotten Gods to Yaldabaoth and Pleroma.
+Even without considering this distinction, there is no need to get so caught up in the details, so it still does not affect the correspondence.
+
+There is also the fact that Sophia is Yaldabaoth's mother. The President probably is not the Nameless Gods' mother, is she?
+If my earlier reasoning is reliable, this model could suggest that the President initially activated the Nameless Priests or something of the sort, causing all the problems.
 
 ## VIII. Halo as the External Manifestation of the Divine Spark
 
@@ -526,13 +557,15 @@ To clarify, “Divine Spark” is primarily an umbrella term used in modern scho
 
 (NHC II,1 26,20–25). This shows that, in the original text’s cosmology, divine power from the upper realm remains universally within the soul of every living individual.<sup><a href="#note-15">15</a></sup>
 
-The point here is that the body and real life are subject to the physical laws and bonds of fate of the lower order, while the inner soul universally retains a sacred spark leading to a higher source. This paper borrows the scholarly term “Divine Spark” to summarize this inner divinity, and regards the halos floating above students’ heads in *Blue Archive* as signs of its outward manifestation.
+This can be understood as the body and real life being subject to the physical laws, causality, and fate of the lower order, while the inner soul universally retains a sacred spark leading to a higher source. This paper borrows the scholarly term ‘Divine Spark’ to summarize this inner divinity and regards the halos floating above students' heads in Blue Archive as the outward manifestation of that spark.
 
 ### 8.2 Parallels within the Game
 
 The Nameless Gods themselves define divine power as a power of possibility of which “everyone living in the present secretly harbors a little within themselves.” This is the most important textual support for the correspondence.<sup><a href="#note-36">36</a></sup><sup><a href="#note-38">38</a></sup> This power has three core features: it originates in supreme divinity, is inherent in life itself, and persists universally yet subtly among all people.
 
-This also explains why some students seem to have no mythological archetype (such as those at Millennium Science School): specific divine names reflect individual characteristics, while the Divine Spark represented by the halo explains the divine origin and potential shared by all students.
+This also explains why some students seem to have no mythological archetype, such as those at Millennium Science School. Everyone has Divine Spark, so even without a mythological archetype, one can have Divine Spark and a halo.
+
+Even that airship in the PV has a halo, showing that Divine Spark is widespread.
 
 ### 8.3 The Halo Connecting Divinity and Individual Existence
 
@@ -604,11 +637,11 @@ Blue Archive also presents the idea of returning to a divine source, but Aris ch
 
 The Bible also contains expressions about the spirit returning to the God who gave it and the restoration of glory from before creation (see Ecclesiastes 12:7 and John 17:5). What is distinctive about the Gnosticism tradition is its systematic linking of awakening to one’s source, the limitations of the present world, and the path of salvation.<sup><a href="#note-63">63</a></sup>
 
-This can also show the significance of “oblivion” in Blue Archive: individuals retain a divine origin, yet they need not, and do not, live by fully remembering their divine identity. True names, awakening, and oblivion all revolve around “how individuals establish themselves and live in reality.” The Priests’ fixation may lie in tracing existence purely back to its origin in this way.
+This can also show the significance of “oblivion” in Blue Archive: individuals retain a divine origin, yet they need not, and do not, live by remembering their divine identity. True names, awakening, and oblivion all revolve around “how individuals establish themselves and live in reality.” The Priests’ fixation may lie in tracing existence purely back to its origin in this way.
 
 ## X. The Game’s Reworking: Choosing How to Live After Knowing the Source
 
-### 10.1 Inheriting Power Does Not Require Inheriting the Old Mission
+### 10.1 Inheriting Power Does Not Require Inheriting a Mission
 
 Key does not deny Aris’s origin as the Princess, but separates origin from destiny:
 
@@ -694,7 +727,7 @@ Faced with the proposal to restore her divine identity and realize paradise, Ari
 
 Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, making choices, and growing step by step is by no means a meaningless drain that can simply be skipped over.
 
-Divine origins thereby lose their monopoly over the meaning of secular life. People may trace where they came from, but living does not depend on those grand answers. A divine starting point may explain an individual’s origin, but it cannot and should not take over how a person spends their actual life in the present. This theme is actually completely opposed to the ideas of Gnosticism.
+Divine origins thereby lose their monopoly over the meaning of secular life. People may trace where they came from, but living does not depend on those grand answers. A divine starting point may explain an individual’s origin, but it cannot and should not take over how a person spends their actual life in the present. This theme is actually completely opposed to the ideas of orthodox Gnosticism.
 
 ### 10.3 Finding Answers
 
@@ -712,9 +745,9 @@ Following the Kyrie, Saori asks Sensei:
 >
 > **Saori**：For the first time... I felt like it was okay for me to exist in this world.<sup><a href="#note-83">83</a></sup>
 
-Faced with her confusion, Sensei does not offer grand pronouncements. Sensei simply protects her future in a plain, unassuming way, allowing her to find her own answer through life. This connects with the guiding nature of Luminous Epinoia, students’ desire to live as ordinary girls, and Aris’s affirmation of the value of the process.
+Faced with her confusion, Sensei does not offer grand pronouncements. Sensei simply protects her future in a plain, unassuming way, allowing her to find her own answer through life. This connects with students’ desire to live as ordinary girls, and Aris’s affirmation of the value of the process.
 
-Aris also has her own view:
+Aris also has her own understanding:
 
 > **アリス**：アリスはそれを不完全だとは思いません。
 >
@@ -785,7 +818,7 @@ This clearly makes for a poor correspondence, even if it uses divine self-procla
 Taken together, the Gnosticism correspondence model for Blue Archive is reasonably coherent: the President’s correspondence to Sophia explains the logical starting point of the mistake and the remedial plan; Sensei’s correspondence to Luminous Epinoia explains how an external helper enters reality and changes individuals’ circumstances; the division of Yaldabaoth’s and the Archons’ functions between the Nameless Gods and the Nameless Priests explains the coercive reconstruction and ruling mechanisms of ancient divine authority; the contemporary students as manifestations of the “Forgotten Gods” and the Divine Spark represented by their halos are two sides of the same thing; and Pleroma provides a reference point for this group’s divine lineage and spiritual destination.
 
 
-But it should be noted that, although the game may have borrowed this cosmic structure from Gnosticism, it completely reverses its direction of salvation and its theme of life.
+But it should be noted that, although the game may have borrowed this cosmic structure from Gnosticism, it reverses its direction of salvation and its theme of life.
 
 Orthodox Gnosticism generally regards the material world not as a beautiful home, but as a disaster born of an error in creation, a prison that confines the soul. Salvation in Gnosticism is more like withdrawal from the world and “escapism.”
 
@@ -1228,5 +1261,9 @@ Dialogue numbers are counted based on the sequential order of dialogue lines, pl
 <a name="note-109"></a>
 
 **[109]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 3 and 5: banishing the Forgotten Gods from all possibilities and granting them the same fate as the Nameless Gods.
+
+<a name="note-110"></a>
+
+**[110]** Main Story Part 1, Final Arc, Chapter 3, Episode 6, “The Ship of Utnapishtim (1),” dialogue entries 82, 84–85, and 91. Key explains that the ship is an anti-Ark decisive weapon built by ancient enemies and warns that it will attack the Princess of the Nameless Gods. Entry 83 in the same scene says that this weapon has never been used before; this supports discussion of ancient military hostility, not a claim that this ship has already seen combat. Key does not directly identify the enemies here as the Forgotten Gods; that connection is an interpretation made together with the Priests' declaration.
 
 </details>

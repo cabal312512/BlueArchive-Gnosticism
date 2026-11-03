@@ -1,8 +1,8 @@
 # 项目状态
 
-更新：2026-11-02，第61轮。
+更新：2026-11-03，第71轮。
 
-当前新增四语[阅读缘起](rationale/why_gnosticism.md)，说明从游戏的宗教神话借用联想到Gnosticism的理由；保留学生神话原型，纠正事实错误和夸饰。四语术语说明已移入glossary/，README在阅读入口上方用引用样式链接同语言短文；论文仅更新术语说明链接，正文未改。用户第61轮要求改名后上传：四语阅读缘起改用why_gnosticism及语言后缀命名，本轮发布第60轮与本轮全部文档修改。
+用户第71轮确认完成修改并授权同步上传。三译已按最终中文同步，包括第62轮以来正文、章节重组、原典与遗物引文、注103–109，以及最后合并的10.2主题句和三段总结。中文原文保持；原游戏引文保留，新增日／韩采用数据库原话，英文附日文及英译。当前发布本轮及此前累积文档和维护记录，原始数据、凭据、缓存与Trash不上传。
 
 ## 阅读与使用
 
@@ -32,4 +32,4 @@
 - 下载原典保留在01_sources/gnostic_readings/downloads和local_archive，均不上传。
 - 本地`Trash`收纳已停用脚本、重复产物、截图和临时环境，可随时删除；已被.gitignore排除。scratch已清空。
 - 第55轮已发布作者稿和辅助规范；第56轮同步四语README与正式配图，独立工具的凭据和运行数据不进入仓库。
-- 对话记录补至第61轮，模型标注GPT 6.1 Sol。过程见[研究日志](00_project_management/research_journal.md)，[本轮详情](08_review_queue/project_cleanup_round52.md)。
+- 对话记录补至第71轮，模型标注GPT 6.1 Sol。过程见[研究日志](00_project_management/research_journal.md)，[本轮详情](08_review_queue/project_cleanup_round52.md)。

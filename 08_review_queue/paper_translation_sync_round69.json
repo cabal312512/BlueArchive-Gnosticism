@@ -1,0 +1,88 @@
+{
+  "chinese_sha256": "43ff5f4d4296ff3c601ebd123e4a19adc1cd0d6e1d364eb38efe09735b99ab22",
+  "translations": {
+    "en": {
+      "before_sha256": "af44c67d555d4906451fa399ec525cb20b57490d4eeac85f128a6f0dfc43bbfd",
+      "after_sha256": "ae0e42e627774f10d24b722b1f1ad8b340fa0fcc58bd20d0c8932389a6e27e14",
+      "new_game_quote_ids": [
+        186592,
+        186594,
+        186599,
+        186600,
+        186601,
+        186602,
+        197,
+        48431,
+        48436
+      ],
+      "new_footnotes": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "all_existing_native_quotes_preserved": true,
+      "final_author_summary_and_merged_theme_synced": true
+    },
+    "ja": {
+      "before_sha256": "005932bb647350dc1e6b8791fd364d18d529cf1a827a3d9ebd3ca4b1cf1e3638",
+      "after_sha256": "cf7a71ebfb1a71be5c4d349b5a89263b597ee1184a460e42e8c0ee1cc65cd98c",
+      "new_game_quote_ids": [
+        186592,
+        186594,
+        186599,
+        186600,
+        186601,
+        186602,
+        197,
+        48431,
+        48436
+      ],
+      "new_footnotes": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "all_existing_native_quotes_preserved": true,
+      "final_author_summary_and_merged_theme_synced": true
+    },
+    "ko": {
+      "before_sha256": "5627da0c17ddea1be22d291f5f8072828cde1890fb85fef549f7bfba50a8578c",
+      "after_sha256": "f2e0d45c8509f3c5c02892033c1d39191bc3e398a9cf4b353e03b8d3ec5d104c",
+      "new_game_quote_ids": [
+        186592,
+        186594,
+        186599,
+        186600,
+        186601,
+        186602,
+        197,
+        48431,
+        48436
+      ],
+      "new_footnotes": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "all_existing_native_quotes_preserved": true,
+      "final_author_summary_and_merged_theme_synced": true
+    }
+  },
+  "all_original_game_quote_blocks_preserved": true,
+  "short_author_aside_and_final_summary_synchronized": true,
+  "latest_short_summary_synchronized": true,
+  "concurrent_author_709_shortening_and_following_sentence_deletion_synced": true,
+  "publication_round": 71
+}

@@ -255,3 +255,20 @@
 - `G186602`：特殊作戦_デカグラマトン編_Vol.1 / 第3章 / 第23話；Group `90002230`；v2 ID `186602`；`ScenarioScriptExcelTable2.json` DataList第`45373`行，Group内第`275`行。
 - `G22360`：最終篇_あまねく奇跡の始発点編 / 第1章 / 第15話；Group `101150`；v2 ID `22360`；`ScenarioScriptExcelTable1.json` DataList第`36357`行，Group内第`158`行。
 - `G37619`：第1篇_対策委員会編 / 第3章 / 第33話；Group `13330`；v2 ID `37619`；`ScenarioScriptExcelTable1.json` DataList第`69030`行，Group内第`43`行。
+
+
+## 第66轮第七节新增引文
+
+| 论文注释 | 数据库台词ID | 定位 |
+| --- | --- | --- |
+| 103 | 186599, 186600, 186601, 186602 | [02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md](../02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md)；group_row 272起 |
+| 104 | 197 | [02_corpus/stories/主線_第1部/第1部_プロローグ/第1章/第2話.md](../02_corpus/stories/主線_第1部/第1部_プロローグ/第1章/第2話.md)；group_row 43起 |
+| 105 | 48431 | [02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md](../02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md)；group_row 69起 |
+| 106 | 48436 | [02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md](../02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md)；group_row 74起 |
+| 108 | 22409, 22410 | [02_corpus/stories/主線_第1部/最終篇_あまねく奇跡の始発点編/第2章/第1話.md](../02_corpus/stories/主線_第1部/最終篇_あまねく奇跡の始発点編/第2章/第1話.md)；group_row 81起 |
+| 107 | — | Apocryphon of John，Wisse英译中Adam的智慧超过造形者、Archons嫉妒及Epinoia援助的连续段落 |
+
+
+## 第67轮新增及更新
+
+注109：台词ID186592、186594；特殊作战Decagrammaton第3章第23话结尾祭司宣告，group_row265、267。注107改为AJ的Yaldabaoth不服从来源、独占神权宣称及文本反驳段落，不再使用Adam智慧引句。

@@ -1,0 +1,97 @@
+{
+  "scope": "Chinese paper only; chapter 7 rebuilt, notes 103–108 appended; chapter 6 and existing chapter 8 onward preserved",
+  "before_sha256": "1971e7a31d19923cd95421349a9ecfdcc1e451e0421ddd01831ce185322d27e7",
+  "after_sha256": "5cfe283665addb52de6b284a5c76de8dfb75015431e19121c5a46247a6140e6d",
+  "new_game_evidence": [
+    {
+      "id": 186599,
+      "group_id": 90002230,
+      "group_row": 272,
+      "source_file": "ScenarioScriptExcelTable2.json",
+      "source_row": 45370,
+      "markdown_path": "02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md",
+      "speaker_jp": "無名の司祭C",
+      "quote_verified": true
+    },
+    {
+      "id": 186600,
+      "group_id": 90002230,
+      "group_row": 273,
+      "source_file": "ScenarioScriptExcelTable2.json",
+      "source_row": 45371,
+      "markdown_path": "02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md",
+      "speaker_jp": "無名の司祭A",
+      "quote_verified": true
+    },
+    {
+      "id": 186601,
+      "group_id": 90002230,
+      "group_row": 274,
+      "source_file": "ScenarioScriptExcelTable2.json",
+      "source_row": 45372,
+      "markdown_path": "02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md",
+      "speaker_jp": "無名の司祭B",
+      "quote_verified": true
+    },
+    {
+      "id": 186602,
+      "group_id": 90002230,
+      "group_row": 275,
+      "source_file": "ScenarioScriptExcelTable2.json",
+      "source_row": 45373,
+      "markdown_path": "02_corpus/stories/特殊作戦/特殊作戦_デカグラマトン編_Vol.1/第3章/第23話.md",
+      "speaker_jp": "無名の司祭C",
+      "quote_verified": true
+    },
+    {
+      "id": 197,
+      "group_id": 11005,
+      "group_row": 43,
+      "source_file": "ScenarioScriptExcelTable1.json",
+      "source_row": 324,
+      "markdown_path": "02_corpus/stories/主線_第1部/第1部_プロローグ/第1章/第2話.md",
+      "speaker_jp": "リン",
+      "quote_verified": true
+    },
+    {
+      "id": 48431,
+      "group_id": 201070,
+      "group_row": 69,
+      "source_file": "ScenarioScriptExcelTable1.json",
+      "source_row": 89981,
+      "markdown_path": "02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md",
+      "speaker_jp": "プラナ",
+      "quote_verified": true
+    },
+    {
+      "id": 48436,
+      "group_id": 201070,
+      "group_row": 74,
+      "source_file": "ScenarioScriptExcelTable1.json",
+      "source_row": 89986,
+      "markdown_path": "02_corpus/stories/主線_第2部/第2部_Vol.0/第1章/第7話.md",
+      "speaker_jp": "プラナ",
+      "quote_verified": true
+    },
+    {
+      "id": 22409,
+      "group_id": 102010,
+      "group_row": 81,
+      "source_file": "ScenarioScriptExcelTable1.json",
+      "source_row": 36460,
+      "markdown_path": "02_corpus/stories/主線_第1部/最終篇_あまねく奇跡の始発点編/第2章/第1話.md",
+      "speaker_jp": "黒服",
+      "quote_verified": true
+    },
+    {
+      "id": 22410,
+      "group_id": 102010,
+      "group_row": 82,
+      "source_file": "ScenarioScriptExcelTable1.json",
+      "source_row": 36461,
+      "markdown_path": "02_corpus/stories/主線_第1部/最終篇_あまねく奇跡の始発点編/第2章/第1話.md",
+      "speaker_jp": "黒服",
+      "quote_verified": true
+    }
+  ]
+}

@@ -787,7 +787,7 @@ Taken together, the Gnosticism correspondence model for Blue Archive is reasonab
 
 But it should be noted that, although the game may have borrowed this cosmic structure from Gnosticism, it completely reverses its direction of salvation and its theme of life.
 
-Orthodox Gnosticism regards the material world as anything but a beautiful home: it is a thoroughgoing disaster born of an error in creation, a cold prison. Salvation in Gnosticism is an extremely thoroughgoing withdrawal from the world and a form of “escapism.”
+Orthodox Gnosticism generally regards the material world not as a beautiful home, but as a disaster born of an error in creation, a prison that confines the soul. Salvation in Gnosticism is more like withdrawal from the world and “escapism.”
 
 The game, however, does the exact opposite. It does not let a remote destiny hold present life hostage. Rather than severing attachments to seek fullness in the upper world, what truly deserves to be cherished is living each ordinary day earnestly in an imperfect world and protecting the real warmth between people. It borrows the skeleton of this ancient cosmos, yet offers a modern answer about protecting everyday life in the present world.
 

@@ -1,4 +1,4 @@
-# 《蔚蓝档案》的Gnosticism对应模型
+<h1 align="center">《蔚蓝档案》的Gnosticism对应模型</h1>
 
 <table align="center">
 <tr>

@@ -1,4 +1,4 @@
-# A Gnosticism Correspondence Model for Blue Archive
+<h1 align="center">A Gnosticism Correspondence Model for Blue Archive</h1>
 
 <table align="center">
 <tr>

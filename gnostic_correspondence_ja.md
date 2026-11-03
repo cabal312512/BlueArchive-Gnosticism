@@ -1,4 +1,4 @@
-# 『ブルーアーカイブ』のGnosticism対応モデル
+<h1 align="center">『ブルーアーカイブ』のGnosticism対応モデル</h1>
 
 <table align="center">
 <tr>

@@ -1,4 +1,4 @@
-# 『블루 아카이브』의 Gnosticism 대응 모델
+<h1 align="center">『블루 아카이브』의 Gnosticism 대응 모델</h1>
 
 <table align="center">
 <tr>

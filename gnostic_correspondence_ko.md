@@ -1,4 +1,6 @@
-# 『블루 아카이브』의 Gnosticism 대응 모델: 인물, 신성, 그리고 세계 질서
+# 『블루 아카이브』의 Gnosticism 대응 모델
+
+[中文](gnostic_correspondence_full.md) · [日本語](gnostic_correspondence_ja.md) · **한국어** · [English](gnostic_correspondence_en.md)
 
 > [!WARNING]
 > **스포일러 주의**

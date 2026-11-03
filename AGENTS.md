@@ -1,8 +1,10 @@
 # Agent交接指南
 
-更新：2026-11-03，第75轮。先读[项目状态](PROJECT_STATUS.md)、[裁决记录](08_review_queue/decision_log.md)与[任务板](00_project_management/task_board.md)。历史日志不是当前任务；逐轮过程见[研究日志](00_project_management/research_journal.md)。
+更新：2026-11-03，第76轮。先读[项目状态](PROJECT_STATUS.md)、[裁决记录](08_review_queue/decision_log.md)与[任务板](00_project_management/task_board.md)。历史日志不是当前任务；逐轮过程见[研究日志](00_project_management/research_journal.md)。
 
 ## 当前状态与发布范围
+
+第76轮在四篇论文标题下加语言导航，当前语言加粗，其余相对链接；同步作者缩短的新标题。用户追加授权上传，note继续排除。
 
 第75轮用户要求同步所有作者改动，检查英韩论文，整理过时文件后上传GitHub；明确排除note相关文件。中文论文与第71轮发布稿一致，README和rationale/的作者新改已同步三译。英韩论文完成全文核对及36组定点修改，第72轮日文26处修订一并发布。详见[本轮记录](08_review_queue/translation_and_cleanup_round75.md)。
 

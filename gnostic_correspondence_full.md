@@ -1,4 +1,6 @@
-# 《蔚蓝档案》的Gnosticism对应模型：人物、神性与世界秩序
+# 《蔚蓝档案》的Gnosticism对应模型
+
+**中文** · [日本語](gnostic_correspondence_ja.md) · [한국어](gnostic_correspondence_ko.md) · [English](gnostic_correspondence_en.md)
 
 > [!WARNING]
 > **剧透警告**

@@ -1,4 +1,6 @@
-# A Gnosticism Correspondence Model for Blue Archive: Characters, Divinity, and World Order
+# A Gnosticism Correspondence Model for Blue Archive
+
+[中文](gnostic_correspondence_full.md) · [日本語](gnostic_correspondence_ja.md) · [한국어](gnostic_correspondence_ko.md) · **English**
 
 > [!WARNING]
 > **Spoiler warning**

@@ -5106,3 +5106,28 @@ note 官方编辑器支持保留格式的复制粘贴，所以我会做成一个
 - **note 文件没有上传**：`note/` 和专用导出报告已加入忽略规则，仍留在本地。
 
 具体修改前后、行号和整理范围见[本轮完整记录](https://github.com/cabal312512/BlueArchive-Gnosticism/blob/main/08_review_queue/translation_and_cleanup_round75.md)。
+
+
+---
+
+## 第76轮：论文语言导航（2026-11-03）
+
+### 【用户 原话】
+
+把每篇论文标题下加上切换语言的路径
+
+### 【AI (GPT 6.1 Sol) 原话】
+
+我会在四篇论文标题下加上语言切换链接，分别指向对应译文。
+
+### 【用户 原话】
+
+也上传
+
+### 【AI (GPT 6.1 Sol) 原话】
+
+四篇论文的语言导航已加好。你也把中文标题缩短了，我会同步另外三篇标题后一起上传；note 文件继续排除。
+
+### 【AI (GPT 6.1 Sol) 原话】
+
+已加好并[上传 GitHub](https://github.com/cabal312512/BlueArchive-Gnosticism)。四篇论文标题下都有 **中文 · 日本語 · 한국어 · English** 切换导航，当前语言加粗。你缩短后的标题也已同步三译，note 文件没有上传。

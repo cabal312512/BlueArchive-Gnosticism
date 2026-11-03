@@ -1,6 +1,8 @@
 # 项目状态
 
-更新：2026-11-03，第75轮。
+更新：2026-11-03，第76轮。
+
+第76轮四篇论文标题下已加语言导航，并同步作者缩短的新标题；用户追加授权上传，note继续排除。
 
 第75轮按用户授权完成作者改动同步、英韩论文核对与项目整理，并发布正式资料。中文论文与第71轮相同，README及阅读缘起的当前修改已同步三译；英韩论文修正36组，第72轮日文26处修订一并发布。91个韩文人物引文块与同源数据库匹配，原台词保留。20份重复旧稿移入本地Trash，交接指南与任务板已整合。note专用副本和导出报告明确排除上传。详见[本轮修改清单](08_review_queue/translation_and_cleanup_round75.md)。
 
@@ -32,4 +34,4 @@
 - 下载原典保留在01_sources/gnostic_readings/downloads和local_archive，均不上传。
 - 本地`Trash`收纳已停用脚本、重复产物、截图和临时环境，可随时删除；已被.gitignore排除。scratch已清空。
 - 当前发布范围包括四语正式文章、README、术语、图谱、可公开资料和维护记录；note专用导出、本地工具凭据与运行数据均排除。
-- 对话记录补至第75轮，模型标注GPT 6.1 Sol。过程见[研究日志](00_project_management/research_journal.md)，[本轮详情](08_review_queue/translation_and_cleanup_round75.md)。
+- 对话记录补至第76轮，模型标注GPT 6.1 Sol。过程见[研究日志](00_project_management/research_journal.md)，[本轮详情](08_review_queue/translation_and_cleanup_round75.md)。

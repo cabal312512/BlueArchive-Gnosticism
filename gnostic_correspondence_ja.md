@@ -1,4 +1,6 @@
-# 『ブルーアーカイブ』におけるGnosticism対応モデル：登場人物、神性、そして世界秩序
+# 『ブルーアーカイブ』のGnosticism対応モデル
+
+[中文](gnostic_correspondence_full.md) · **日本語** · [한국어](gnostic_correspondence_ko.md) · [English](gnostic_correspondence_en.md)
 
 > [!WARNING]
 > **ネタバレ注意**

@@ -5382,3 +5382,22 @@ Apocryphon of John确实有强烈的肉身束缚、遗忘与上升救赎叙述�
 已核对四篇论文的 **120处引用、106条注释**，编号和顺序一致；原有台词保留，新增日／韩台词取自同源数据库。
 
 [note 日文复制页面](<F:/Blue Archive Project Gnosis/note/gnostic_correspondence_ja_note.html>)和[纯文本版](<F:/Blue Archive Project Gnosis/note/gnostic_correspondence_ja_note.txt>)也已更新为最新内容，保留原来的粘贴格式、开头说明和 GitHub 链接。**note 文件只留本地，没有上传。**
+
+
+---
+
+## 第83轮：三译论文翻译提示（2026-11-04）
+
+### 【用户 原话】
+
+在3个论文剧透警告下方另外加上提示  ai生成的翻译 可能不准确 以中文为准 要有装饰 上传github
+
+### 【AI (GPT 6.1 Sol) 原话】
+
+我会在英、日、韩三篇论文的剧透警告下方加上醒目的翻译说明，注明 AI 翻译可能不准确、以中文版为准，并附中文链接，然后上传 GitHub。
+
+### 【AI (GPT 6.1 Sol) 原话】
+
+已加好并[上传 GitHub](https://github.com/cabal312512/BlueArchive-Gnosticism)。
+
+英、日、韩三篇论文的剧透警告下方，都新增了**蓝色 NOTE 提示框**，用对应语言注明：**AI 生成的翻译可能不准确，以中文版为准**，并附有中文版论文链接。

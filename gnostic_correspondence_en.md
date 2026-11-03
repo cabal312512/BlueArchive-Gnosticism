@@ -11,6 +11,11 @@
 >
 > This article contains major spoilers for the main story of Blue Archive. It is intended for players who have finished Part 1 of the main story.
 
+> [!NOTE]
+> **Translation notice**
+>
+> This is an AI-generated translation and may contain inaccuracies. Please refer to the [Chinese original](gnostic_correspondence_full.md) as the authoritative version.
+
 ## Abstract
 
 This paper uses the cosmology of Gnosticism to interpret the characters and world structure of *Blue Archive*.

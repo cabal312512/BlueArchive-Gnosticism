@@ -24,68 +24,69 @@ In many religious and mythological conceptions, people’s everyday lives are no
 
 Gospel of Truth, a text of Gnosticism, says of return and rest:
 
-> to the region from which he received his essential being, he will hasten to return once again.<sup><a href="#note-95">95</a></sup>
+> to the region from which he received his essential being, he will hasten to return once again.<sup><a href="#note-1">1</a></sup>
 
 Here the source of one’s essential being is linked to one’s ultimate destination, so salvation means returning to the source that gave one existence.
 
 The Chinese Manichaean Hymn Scroll says in a prayer for the deceased:
 
-> May they themselves lead it into the World of Light, its birthplace, the realm of peace and joy.<sup><a href="#note-96">96</a></sup>
+> May they themselves lead it into the World of Light, its birthplace, the realm of peace and joy.<sup><a href="#note-2">2</a></sup>
 
 Here the World of Light is called its birthplace; liberation means the luminous nature’s return to the world to which it originally belonged.
 
 Dao De Jing says:
 
-> The myriad things each return to their root. Returning to the root is called stillness; this is called returning to one’s destiny.<sup><a href="#note-98">98</a></sup>
+> The myriad things each return to their root. Returning to the root is called stillness; this is called returning to one’s destiny.<sup><a href="#note-3">3</a></sup>
 
 The concern here is not only how all things grow, but also how they return to their root.
 
 Hebrews in the Bible says:
 
-> We have no enduring city here; instead, we seek the city that is to come.<sup><a href="#note-99">99</a></sup>
+> We have no enduring city here; instead, we seek the city that is to come.<sup><a href="#note-4">4</a></sup>
 
 Here the present world is seen as a place where one cannot settle permanently, and life’s hope is directed toward the city to come.
 
 The Buddhist Amitābha Sūtra describes Sukhāvatī as follows:
 
-> The beings in that land suffer none of the many sufferings, but experience only joys; hence it is called Utmost Bliss.<sup><a href="#note-102">102</a></sup>
+> The beings in that land suffer none of the many sufferings, but experience only joys; hence it is called Utmost Bliss.<sup><a href="#note-5">5</a></sup>
 
 It also urges:
 
-> Beings who hear this should make the vow to be born in that land.<sup><a href="#note-102">102</a></sup>
+> Beings who hear this should make the vow to be born in that land.<sup><a href="#note-5">5</a></sup>
 
 Here the Pure Land, free of suffering, is the destination one is urged to aspire to, so the goal of life extends beyond this present lifetime.
 
-In these examples, people look beyond everyday life for a more fundamental answer: where all things come from, what human beings really are, and how true fulfillment can be attained.
-
+In these examples, people look beyond everyday life for a more fundamental answer: where everything comes from, what human beings really are, and how true fulfillment can be attained.
 Once these questions become the standard by which life is judged, the life before us takes second place. How people live here and what they experience become less important than those answers.
 
-The game may use this model to express a different view: even if human existence is connected to some higher-dimensional source, that source should not decide how we live our lives. We do not need to unravel the secrets of the universe, understand our own essence, or find some predetermined mission before we begin to take our lives seriously.
-Rather than those higher-dimensional things that we can never understand and have no need to understand, what we should truly cherish is the “everyday life” spent in day after day of the “ordinary”—the “process itself” of laughing, making mistakes, and growing alongside our companions. Since we are already in this world, we should not reverse our priorities by studying what came before our arrival or what follows our departure. Living this life with care is what matters most.
-And so-called “miracles” often do not come from some power beyond ordinary understanding, but from the warmth of people protecting one another and choosing freely within their ordinary, fragile daily lives. We refuse to let divine origins decide how people should live in order to protect these everyday miracles.
+The game may use this model to express a different view: even if our existence is connected to some higher-dimensional source, that source should not determine how we live. We do not need to solve the secrets of the universe, understand our essence, or find some predetermined mission before we begin to take life seriously.
+
+What we should truly cherish is not those higher-dimensional things that we can never understand and need not understand, but the “process itself” of everyday life, lived day after ordinary day—laughing, making mistakes, and growing together with our companions. Now that we are in this world, we should not get our priorities backward by investigating what came before we arrived or what follows after we leave. What matters most is to live this life seriously, all the way through.
+
+And what we call a “miracle” often comes not from some power beyond the ordinary, but from the warmth of people protecting one another and choosing freely amid an ordinary, fragile daily life. Refusing to let divine origins dictate how people should live is precisely how we protect these everyday miracles.
 
 >**Keywords** Blue Archive; Gnosticism; Sophia; Yaldabaoth; Archons; Luminous Epinoia; Divine Spark; Pleroma
 
 If all these unfamiliar terms are confusing, you can start with the [Glossary: Gnosticism Terms and Texts](glossary/GNOSTIC_GLOSSARY_en.md).
 
-## I. Basic Structure of the Model
+## 1. Basic Structure of the Model
 
 Some key elements in *Blue Archive* are the President’s mistake and Sensei’s arrival; the Nameless Gods and their Priests; students referred to as gods; oblivion; halos. These can be connected into a whole through a Gnosticism model.
 
 The correspondences adopted in this paper are as follows:
 
-| In-Game Entity | Gnosticism Correspondence | Core Relationship |
+| Game element | Gnosticism correspondence | Core relationship |
 | --- | --- | --- |
 | General Student Council President | Sophia | Error, repentance, withdrawal, and remedy |
-| Sensei | Luminous Epinoia | Introduced after an imbalance occurs |
-| The Nameless Gods themselves and the old-god system | Yaldabaoth-related archetypes; also a divine source | Ancient divine authority, world order, and the source of divine power |
-| Nameless Priests | Archons, also taking on some functions of Yaldabaoth | Delegated divine authority, defining missions, ruling and reconstructing the world |
-| Forgotten Gods / Students | Divine beings on the Pleroma side and their manifestations in the present world | Divine origin, oblivion, and individualized lives |
-| Halo | External manifestation of the Divine Spark | The connection between inner divinity and individual survival |
+| Sensei | Luminous Epinoia | Introduced after the imbalance |
+| Nameless Gods | Yaldabaoth | Ancient divine authority, world order, and the source of divine power |
+| Nameless Priests | Archons, also taking on some functions of Yaldabaoth | Acting on divine authority, prescribing missions, controlling and reconstructing the world |
+| Forgotten Gods / students | Divine beings on the Pleroma side and their manifestations in this world | Divine origins, forgetting, and individual lives |
+| Halos | Outward manifestations of Divine Spark | The connection between inner divinity and individual existence |
 
 This correspondence model is grounded primarily in the *Apocryphon of John*, supplemented by Valentinian sources.
 
-## II. General Student Council President = Sophia
+## 2. General Student Council President = Sophia
 
 ### 2.1 Error, Repentance, and Remedy
 
@@ -93,51 +94,51 @@ The correspondence between the President and Sophia appears first in the narrati
 
 > **連邦生徒会長**：……私のミスでした。
 >
-> **General Student Council President**：...It was my mistake.<sup><a href="#note-1">1</a></sup>
+> **General Student Council President**：...It was my mistake.<sup><a href="#note-6">6</a></sup>
 
 > **連邦生徒会長**：私の選択、そしてそれによって招かれたこの全ての状況。
 >
-> **General Student Council President**：My choices, and all of these circumstances brought about by them.<sup><a href="#note-2">2</a></sup>
+> **General Student Council President**：My choice, and all of these circumstances brought about by it.<sup><a href="#note-7">7</a></sup>
 
 > **連邦生徒会長**：結局、この結果にたどり着いて初めて、あなたの方が正しかったことを悟るだなんて……。
 >
-> **General Student Council President**：To think that only after arriving at this outcome do I finally realize you were right...<sup><a href="#note-3">3</a></sup>
+> **General Student Council President**：To think that only after arriving at this outcome do I finally realize you were right...<sup><a href="#note-8">8</a></sup>
 
 The President acknowledges more than a loss of control: she explicitly attributes the crisis to “her own choices.” The first step in making amends is recognizing that Sensei’s earlier judgment was correct. In the Prologue, she entrusts Sensei with the hope of changing the final outcome:
 
 > **？？？**：私が信じられる大人である、あなたになら、
 >
-> **???**：If it is you, an adult I can trust,<sup><a href="#note-4">4</a></sup>
+> **General Student Council President (displayed as ??? in the Prologue)**：If it is you, an adult I can trust,<sup><a href="#note-9">9</a></sup>
 
 > **？？？**：この捻じれて歪んだ先の終着点とは、また別の結果を……。
 >
-> **???**：A different outcome from this twisted, distorted destination...<sup><a href="#note-5">5</a></sup>
+> **General Student Council President (displayed as ??? in the Prologue)**：A different outcome from this twisted, distorted destination...<sup><a href="#note-10">10</a></sup>
 
 > **？？？**：そこへ繋がる選択肢は……きっと見つかるはずです。
 >
-> **???**：The choices leading there... you will surely be able to find them.<sup><a href="#note-6">6</a></sup>
+> **General Student Council President (displayed as ??? in the Prologue)**：The choices leading there... you will surely be able to find them.<sup><a href="#note-11">11</a></sup>
 
-This forms the chain “a divine figure makes a mistake—a distorted outcome—a helper is introduced—another outcome is sought,” matching Sophia’s story.<sup><a href="#note-7">7</a></sup>
+This forms the chain “a divine figure makes a mistake—a distorted outcome—a helper is introduced—another outcome is sought,” matching Sophia’s story.<sup><a href="#note-12">12</a></sup>
 
 ### 2.2 Disappearance and Continued Presence
 
 > **プラナ**：シッテムの箱のOS、A.R.O.N.Aである私と、アロナ先輩……
 > なぜ二人が似て非なる存在であるのか……理解しました。
 >
-> **Plana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.<sup><a href="#note-11">11</a></sup>
+> **Plana**：Arona-senpai and I, A.R.O.N.A., the OS of the Shittim Chest... I now understand why we are similar yet different beings.<sup><a href="#note-13">13</a></sup>
 
 > **プラナ**：ここに居たのですね……だからこそ、誰にも見つけられなかった。
 > そうでしょう？
 >
-> **Plana**：You were here all along... That is why no one could find you. Isn't that right?<sup><a href="#note-12">12</a></sup>
+> **Plana**：You were here all along... That is why no one could find you. Isn't that right?<sup><a href="#note-14">14</a></sup>
 
 > **プラナ**：――――連邦生徒会長。
 >
-> **Plana**：——General Student Council President.<sup><a href="#note-13">13</a></sup>
+> **Plana**：——General Student Council President.<sup><a href="#note-15">15</a></sup>
 
 This scene clearly shows that the President’s “disappearance” is neither death nor an exit from the story, but a change in her form and level of existence: she steps away from public administrative duties, transfers herself into the Shittim Chest, and secretly keeps the entire remedial plan running.
 
-This corresponds to Sophia’s state of existence in the original text. In Apocryphon of John (NHC II,1 14,9–13), Sophia does not immediately return to the heavenly source after her repentance, but is placed in “The Ninth,” a hidden intermediate level above the created world. Although she does not appear openly in that world, she watches over it in secret, waits, and participates in the gradual repair of its deficiency. The President’s situation matches this: remaining in the Shittim Chest and providing crucial support to Sensei behind the scenes, she quietly advances the world’s correction from this position as an “intermediate hub.”<sup><a href="#note-14">14</a></sup>
+This corresponds to Sophia’s state of existence in the original text. In Apocryphon of John (NHC II,1 14,9–13), Sophia does not immediately return to the heavenly source after her repentance, but is placed in “The Ninth,” a hidden intermediate level above the created world. Although she does not appear openly in that world, she watches over it in secret, waits, and participates in the gradual repair of its deficiency. The President’s situation matches this: remaining in the Shittim Chest and providing crucial support to Sensei behind the scenes, she quietly advances the world’s correction from this position as an “intermediate hub.”<sup><a href="#note-16">16</a></sup>
 
 ### 2.3 An Additional Point: Being the Youngest
 
@@ -146,27 +147,27 @@ When the Part 2 Prologue looks back at the President’s inauguration, Aoi and A
 > **アオイ**：これは……2年前かしら。
 > 連邦生徒会長が就任した頃の写真ね。
 >
-> **Aoi**：Is this... from two years ago? A photo from around the time the General Student Council President took office.<sup><a href="#note-8">8</a></sup>
+> **Aoi**：Is this... from two years ago? A photo from around the time the General Student Council President took office.<sup><a href="#note-17">17</a></sup>
 
 > **アユム**：史上最年少での就任、と当時話題になりましたよね。
 >
-> **Ayumu**：Her appointment as the youngest in history was quite the topic back then, wasn't it?<sup><a href="#note-9">9</a></sup>
+> **Ayumu**：Her appointment as the youngest in history was quite the topic back then, wasn't it?<sup><a href="#note-18">18</a></sup>
 
 The Valentinian system described by Irenaeus, meanwhile, calls Sophia the youngest of the twelve:
 
-> "was the youngest of the Duodecad"<sup><a href="#note-10">10</a></sup>
+> "was the youngest of the Duodecad"<sup><a href="#note-19">19</a></sup>
 
-## III. Sensei = Luminous Epinoia
+## 3. Sensei = Luminous Epinoia
 
 ### 3.1 The Helper Function in the Primary Texts
 
 In Apocryphon of John, after Sophia’s divine power flows into Adam, the heavenly realm then sends him a key helper. The original text explicitly calls this being
 
-> “a helper to Adam, luminous Epinoia”<sup><a href="#note-15">15</a></sup>
+> “a helper to Adam, luminous Epinoia”<sup><a href="#note-20">20</a></sup>
 
 Luminous Epinoia is hidden within Adam, helping him understand where he comes from and the divine power within him, and guiding him back to the upper world. The Archons maintain their rule through forgetfulness and deception; Epinoia awakens human understanding and helps people escape that control.
 
-### 3.2 The President's Trust and Sensei's Actions
+### 3.2 The President's Request and Sensei's Actions
 
 After acknowledging her error of judgment, the President places her hope of changing the distorted ending in Sensei and entrusts the Shittim Chest to Sensei. This introduction parallels Luminous Epinoia, the helper sent into the lower world after a deficiency appears in the mythical order. (One difference is that, in the myth, Luminous Epinoia is sent by the heavenly realm rather than summoned directly by Sophia.)
 Sensei's actions in the story also, of course, put the helper's role into practice. As an adult, Sensei consistently cares for and accompanies all the students, helps them with the practical difficulties of their lives, and takes responsibility and risks in the face of danger. But this is also what one would naturally expect, so it is not very reliable as evidence.
@@ -175,208 +176,147 @@ In the parallel world, the Priests attempt to determine Shiroko's fate through h
 
 > **無名の司祭B**：アレは、お前の知る生徒ではない！！
 >
-> **Nameless Priest B**：That is not the student you know!!<sup><a href="#note-16">16</a></sup>
+> **Nameless Priest B**：That is not the student you know!!<sup><a href="#note-21">21</a></sup>
 
 > **無名の司祭C**：アレは神が顕現したもの――「神秘」であり、「恐怖」であり、「崇高」……「光」であり、「絶対者」！！
 >
-> **Nameless Priest C**：That is a manifestation of a god—'Mystery,' 'Terror,' 'the Sublime'... 'Light,' and 'the Absolute'!!<sup><a href="#note-17">17</a></sup>
+> **Nameless Priest C**：That is a manifestation of a god—'Mystery,' 'Terror,' 'the Sublime'... 'Light,' and 'the Absolute'!!<sup><a href="#note-22">22</a></sup>
 
 To which Sensei replies:
 
 > **先生**：私の「世界」で苦しんでいる、ただの「子ども」だよ。
 >
-> **Sensei**：She is just a child suffering in my 'world.'<sup><a href="#note-18">18</a></sup>
+> **Sensei**：She is just a child suffering in my 'world.'<sup><a href="#note-23">23</a></sup>
 
 Both sides see the same person. The Priests place her within the categories of divine power and purpose; Sensei cares only about the student who is suffering.
 
 Sensei's role in helping individuals parallels that of Luminous Epinoia, but at this point we can recognize a difference in their goals: Luminous Epinoia guides people to recognize their divine origin and return to their original fullness; Sensei cherishes and protects the students' present lives. If the original text presents return to the upper world as the direction of salvation, does Sensei's help for students to continue living in this world instead conflict with that direction?
 
-A distinction is needed here: what we criticize is not the goodness of the source itself, but the reversal of priorities in focusing only on higher-dimensional origins while disregarding everyday life in this world. I think the most essential things do not have to be obtained by leaving life behind. When we seriously engage in ordinary life, with its small, real details, face concrete difficulties and choices, share laughter, mistakes, and companionship with those around us, and experience the sincere bonds between us, some of the underlying meaning of ourselves and the world will instead gradually become apparent to us in this quiet, grounded process.
-In fact, I cannot explain this clearly either. Many seemingly simple principles are logically clear; people can usually understand and repeat them, so they can easily sound like general platitudes. But merely understanding a principle and experiencing it firsthand in real life are completely different things. The real feelings that slowly emerge through experience are difficult to convey through abstract language alone.
+A distinction is needed here: what we criticize is not the goodness of the source itself, but the reversal of priorities in “focusing only on higher-dimensional origins while belittling everyday life in this world.” I think that what is truly most fundamental does not have to be obtained by leaving life behind. When we seriously engage with the small, real details of ordinary life, face concrete difficulties and choices, share laughter, mistakes, and companionship with those around us, and feel the genuine bonds between us, some of the underlying meaning of ourselves and the world may instead gradually become perceptible through this calm, grounded process.
+
+Actually, I cannot explain this clearly either. Many seemingly simple truths have a clear logic; people can usually understand and repeat them, so they inevitably sound like familiar generalities. But “simply understanding a statement” and “really feeling and experiencing it” are completely different things. The real feelings that gradually emerge through experience are difficult to convey through abstract language alone.
 
 Anyway, if a correspondence has to be made, Sensei most likely corresponds to Luminous Epinoia. The game puts this premise into practice by protecting the students' growth and independent choices in the present world. It also brings ‘fullness’ back to concrete experiences of humanity and life. The functional relationships can be compared, while the narrative destination of salvation changes.
 
-## IV. Nameless Gods and Yaldabaoth: Ancient Divine Authority and the Division of Functions
+## 4. The Nameless Gods and Yaldabaoth
 
-### 4.1 Masters of the World Prior to the Existing Order
+### 4.1 The Same Demiurge Powers
+
+Demiurge is not a name exclusive to one god, but a theological and philosophical designation meaning “creator or shaper of the material universe”—in other words, a creator god. In Gnosticism, the Demiurge is Yaldabaoth. Unlike Plato's benevolent Demiurge, Yaldabaoth is arrogant, conceited, ignorant, jealous, domineering, and strongly controlling.
+
+For now, let us set personality aside and look only at the similar Demiurge powers of the Nameless Gods and Yaldabaoth.
 
 In the Final Arc, Gematria discusses the Nameless Priests and their legacy:
 
 > **マエストロ**：そうだな……彼らは端的に言うなら、キヴォトス以前に存在していたこの世界の主のことだ。
 >
-> **Maestro**：Indeed... Simply put, they are the masters of this world who existed prior to Kivotos.<sup><a href="#note-19">19</a></sup>
+> **Maestro**：Indeed... Simply put, they are the masters of this world who existed prior to Kivotos.<sup><a href="#note-24">24</a></sup>
 
 > **黒服**：「名もなき神」とそれを崇拝する「無名の司祭」――
 > 彼らはキヴォトスの神秘の下に堆積し、痕跡だけが残るはずだった存在……
 >
-> **Black Suit**：'The Nameless Gods' and the 'Nameless Priests' who worship them—they were beings meant to remain only as traces deposited beneath the mysteries of Kivotos...<sup><a href="#note-20">20</a></sup>
+> **Black Suit**：'The Nameless Gods' and the 'Nameless Priests' who worship them—they were beings meant to remain only as traces deposited beneath the mysteries of Kivotos...<sup><a href="#note-25">25</a></sup>
 
-> **黒服**：「名もなき神」――それは大地、海原、天災といった……所謂、太古の昔より存在する「神秘」や「恐怖」――とでも申しましょうか。
-> 彼らは自然を模った形で顕現するとされております。
->
-> **Black Suit**：'The Nameless Gods'—be it the earth, the ocean, or natural disasters... one could say they are 'Mysteries' or 'Terrors' existing since primordial antiquity. It is said they manifest in forms imitating nature.<sup><a href="#note-21">21</a></sup>
+The Nameless Gods ruled ancient Kivotos, while the Nameless Priests are their followers and the forces that maintain and seek to restore that old order.
+This system corresponds to Yaldabaoth in Apocryphon of John. In the original text, Yaldabaoth is the creator and master of the material world, building a tight network of rule through the Archons beneath him.<sup><a href="#note-12">12</a></sup>
 
-We can see that the Nameless Gods formed the ancient rule preceding Kivotos’s present world, while the Nameless Priests maintain and seek to restore that old order.
-
-This system corresponds to Yaldabaoth in Apocryphon of John. In the original text, Yaldabaoth likewise organizes and rules the world, regards himself as the only god while ignoring the higher source, and constructs a tightly organized network of rule through his subordinate Archons.<sup><a href="#note-7">7</a></sup>
-
-### 4.2 Material Restructuring and the Rewriting of the World
-
-In the story, the power of the Nameless Gods is not merely abstract mythology, but manifests concretely as the physical ability to transform reality:
+Here, “the masters of this world” should not be understood simply as ordinary monarchs or rulers, but as “creator gods”:
 
 > **ケイ**：「名もなき神」の力の中で代表的なのは、物質の再構築です。
 >
-> **Key**：One representative power of the 'Nameless Gods' is the restructuring of matter.<sup><a href="#note-22">22</a></sup>
+> **Key**：The most representative power of the 'Nameless Gods' is the restructuring of matter.<sup><a href="#note-26">26</a></sup>
 
 > **ケイ**：はい。「名もなき神」の力は、波動と粒子の関係を根本から変化させることができます。
 >
-> **Key**：Yes. The power of the 'Nameless Gods' can fundamentally alter the relationship between waves and particles.<sup><a href="#note-23">23</a></sup>
+> **Key**：Yes. The power of the 'Nameless Gods' can fundamentally alter the relationship between waves and particles.<sup><a href="#note-27">27</a></sup>
 
-This direct restructuring of matter and rewriting of underlying physical laws gives the Nameless system a distinct ‘Demiurge’ character: it carries an ancient theocratic character and also manifests as methods and a legacy that can actually change the rules of reality. The Nameless Gods themselves also bear this out when explaining Aris's original purpose:
+Directly reconstructing matter and rewriting the underlying laws of physics gives the Nameless Gods' system a clear Demiurge character: it has not only an ancient divine authority, but powers like those of a creator god. This part of the correspondence now works.
 
-> **柔らかい声**：現代の言葉を借りれば、彼方はある種の「中継器」であり「増幅器」でした。
+### 4.2 The Nameless Priests and the Archons
+
+In Apocryphon of John, Yaldabaoth creates twelve principal Archons: seven rule the seven heavens and five rule the abyss. He shares some of his power with these rulers so that they help establish and maintain the order of the material universe, and participate in shaping and controlling human bodies. The Archons naturally map well to the Nameless Priests.
+
+Seven Archons govern the heavens, and there are also exactly seven Nameless Priests, A–G. Well, there are twelve Archons in total, so this is not very persuasive, and seven is a commonly used number—for example, for those angels of destruction. But we can predict that other Nameless Priests will appear in the future, possibly with different forms.
+
+### 4.3 The True Form of the Nameless Gods?
+
+Although we cannot be sure that the “gentle voice” is the Nameless Gods, I personally think it is pretty much the case.
+
+After hearing the voice discuss origins and divine rules, Aris asks Key:
+
+> **アリス**：でも……あれはどういう意味だったのでしょう？
+> ケイは何か知っていますか？
 >
-> **Soft Voice**：In modern terms, you were a sort of 'repeater' and 'amplifier.'<sup><a href="#note-24">24</a></sup>
+> **Aris**: But... what did that mean? Do you know anything, Key?
 
-> **柔らかい声**：あの司祭たちによって、彼方は名もなき神々の王女として準備されました。
+> **ケイ**：……詳細までは分かりません。
+> おそらく、私たちの始まりと……関係しているのだと思います。
 >
-> **Soft Voice**：You were prepared by those priests as the princess of the Nameless Gods.<sup><a href="#note-25">25</a></sup>
+> **Key**: ...I do not know the details. I think it probably has something to do with our beginning...<sup><a href="#note-28">28</a></sup>
 
-> **柔らかい声**：今の世界を、名もなき神々が本来の姿で統治する世界に戻すために。
->
-> **Soft Voice**：In order to return the present world to one ruled by the Nameless Gods in their original form.<sup><a href="#note-26">26</a></sup>
+The two of them were originally the Key and Princess of the Nameless Gods, so their origins must be connected to the Nameless Gods.
 
-> **柔らかい声**：名もなき神々の王女を稼働させるための鍵。
-> 司祭たちの道具として、王女に役割を果たさせる装置でした。
->
-> **Soft Voice**：A key for activating the princess of the Nameless Gods. As a tool of the priests, it was a device for making the princess fulfill her role.<sup><a href="#note-27">27</a></sup>
+It could also be Aris's past personality, a deified Aris, the President, or someone of that sort. It could also be Sensei from another world, since Aris says the voice resembles Sensei's.
 
-The Priests manufacture the Princess and the Key, treating life as a tool and assigning it only the mechanical function of resetting reality. This can also correspond to Yaldabaoth's Demiurge logic: an individual's value is equated with the use assigned to them.
+For now, this paper consistently treats the gentle voice as the Nameless Gods themselves. Whether it is one being, several, some abstract whole, or a lower-dimensional projection does not affect the argument.
 
-In Apocryphon of John (NHC II,1 15,1–19,10), when Yaldabaoth and the Archons create the body, they assign each organ and faculty a fixed function serving the material order, trying to confine humans as vessels under their control. They subsequently create “Heimarmene”:
-
-> “For they are bound with measures and times and moments, since it (fate) is lord over everything.”
-
-(NHC II,1 28,30–32).
-
-The Priests’ definition of the Princess and the Key as tools for carrying out a mission resembles this structure of binding life to the lower order through Heimarmene.
-
-### 4.3 The Gods Themselves, the Priests, and the Division of Archetypes
-
-Although it is uncertain whether that ‘soft voice’ is the Nameless Gods, I personally think that is more or less the case, and throughout this paper I treat it as the Nameless Gods themselves. Whether it is one being, several, an abstract whole, or some lower-dimensional projection does not affect the argument.
-
-This paper retains the connection between the Nameless Gods themselves and Yaldabaoth, while assigning some of Yaldabaoth’s functions in action to the Priests in the interpretation. This accommodates both the divine authority and creative nature of the old-god system, while also explaining the difference in attitude between the gods themselves and their agents.
-
-Ancient accounts of the Demiurge themselves have different aspects. Ptolemy’s Letter to Flora places the lawgiver and creator between the supreme, perfect source and the evil adversary, understanding him as a just intermediary. This version differs from the ignorant, jealous Yaldabaoth of Apocryphon of John in its characterization, but together they show that creative and ruling functions can be repositioned within different theological arrangements.<sup><a href="#note-28">28</a></sup>
-
-The generosity of the Nameless Gods themselves therefore does not automatically invalidate their connection to Yaldabaoth. The game can let the gods retain ancient divine authority and the function of a source, while the Priests carry out exclusion, coercion, and world restoration. The explanation is developed below.
-
-## V. Nameless Priests = Archons, Inheriting Aspects of Yaldabaoth
-
-### 5.1 Worship Relationships and Delegated Authority
-
-The Priests explain their power very directly:
-
-> **無名の司祭A**：司祭は神を崇めるがゆえ、「崇高」を所有できる。
->
-> **Nameless Priest A**：Because priests revere the gods, they can possess the 'Sublime.'<sup><a href="#note-29">29</a></sup>
-
-Their authority rests on a relationship of worship. Though they are not the highest source, they can intervene through divine power. This makes it easy to map the Nameless Priests to the Archons: as agents in the lower world, they issue rules in the name of the sacred and control beings within their domain.
-
-And in Apocryphon of John (NHC II,1 11,22–12,10), Yaldabaoth establishes seven rulers, each governing one of the seven heavens. The Nameless Priests likewise number exactly seven, A–G.
-
-### 5.2 World Restoration
-
-Key summarizes the original design to Ohr:
-
-> **ケイ**：今のテクスチャーを否定し、アリスを楔石としたあと……。
->
-> **Key**：After negating the present Texture and using Aris as the keystone...<sup><a href="#note-30">30</a></sup>
-
-> **ケイ**：すべての分化された神聖を解体し、始まる前の世界に戻る。
-> そういうことでしょう？
->
-> **Key**：Disassemble all differentiated divinity and return to the world before the beginning. That is what this is, right?<sup><a href="#note-31">31</a></sup>
-
-> **オウル**：目的が何であれ、あなたは本来そういう存在なのでは？
-> 名もなき神々の力の残滓は、そのために存在するのでしょう？
->
-> **Ohr**：Whatever the purpose, isn't that the kind of being you are by nature? Doesn't the remnant of the Nameless Gods' power exist for that purpose?<sup><a href="#note-32">32</a></sup>
-
-The Priests’ intention clearly goes beyond reclaiming secular rule. They seek to negate the present world’s form, dismantle all subsequently differentiated forms of divinity, and return reality to the state before the beginning. In their eyes, the present world and current forms of life are all illusory products that depart from the ancient mysteries, and must be completely revoked, cleared away, and rebuilt from scratch.
-
-This idea of undoing the present state and returning to the beginning can be read alongside the restoration described in Tripartite Tractate. Speaking of Christ's kingdom and the repose of the saved, the text says:
-
-> ‘we escaped from the whole multiplicity of forms, and from inequality and change.’<sup><a href="#note-33">33</a></sup>
-
-The text then says that the end will regain a unitary existence like the beginning. This unity is the completion of salvation; the game gives the goal of returning to the beginning to the old gods' Priests, who pursue it by undoing the existing world and dismantling divinity that has already become differentiated. What the two share is the idea of going beyond differentiation and restoring the original state. What the game changes is how that goal is pursued and what it means: the original text's restoration to fullness becomes, in the Priests' hands, a plan to reset things by denying present lives.
-
-## VI. Other Possibilities for the Nameless Gods Themselves
-
-### 6.1 Potential Tension
-
-The connection between the Nameless Gods themselves and Yaldabaoth does not exhaust their functions in the story; in other words, a one-to-one match is difficult. After all, the game may simply have drawn a little on this Gnosticism system, and certainly would not copy it mechanically. This also gives my theory room to branch out.
-
-The "Soft Voice" describes the power of the Nameless Gods as a more widespread inner power:
-
-> **柔らかい声**：真の姿に還り、全知全能の力のもと、数多の事を成し遂げることができます。
->
-> **Soft Voice**：By returning to your true form, under omniscient and omnipotent power, you can accomplish many things.<sup><a href="#note-35">35</a></sup>
-
-> **柔らかい声**：名もなき神々の力とは本来、「可能性の力」を意味しているのですから。
->
-> **Soft Voice**：For the power of the Nameless Gods means, in essence, the 'power of possibility.'<sup><a href="#note-36">36</a></sup>
-
-> **柔らかい声**：だからそれは、さほど特別なものではありません。
->
-> **Soft Voice**：Therefore, it is not something particularly exceptional.<sup><a href="#note-37">37</a></sup>
-
-> **柔らかい声**：今を生きる誰しもが、少しずつ己の中に秘めている力でもあります。
->
-> **Soft Voice**：It is also a power that everyone living in the present secretly harbors a little of within themselves.<sup><a href="#note-38">38</a></sup>
-
-We can see that the power of the Nameless Gods is not confined to ancient weapons in particular ruins, but also directly connects with the inner potential of everyone living in the present. The Nameless Gods themselves thus have the attributes of a source: their power can exist in small amounts throughout individual beings.
-
-This is somewhat similar to the idea of the Divine Spark. The Nameless Gods themselves can therefore be placed on the Pleroma side of the divine genealogy alongside the President, who corresponds to Sophia, and the students, who are contemporary manifestations of the Forgotten Gods, as one branch of the theory. Here Pleroma denotes the full realm of divine origins, rather than a rigidly fixed hierarchy. All three share the same divine background while performing different narrative functions in the present order.
-
-This may conflict somewhat with the earlier correspondence of the Nameless Gods to Yaldabaoth, since Yaldabaoth gives a rather negative impression. But this is only a theoretical branch. What can be established is that things related to the Nameless Gods certainly correspond overall to Yaldabaoth; what is placed within Pleroma here is only the ‘soft voice’ speaking with Aris.
-
-### 6.2 The God Accepts the Choice; The Priests Cling to the Mission
+Now we can discuss personality. If the Nameless Gods correspond to Yaldabaoth, his unpleasant personality clearly conflicts with the gentleness, detachment, and tolerance of the “gentle voice”:
 
 After Aris explains her choice, the voice accepts her attempt:
 
 > **柔らかい声**：……分かりました。やりたいようにやってごらんなさい。
 > そして、私にも見せてください。
 >
-> **Soft Voice**：...I understand. Try doing as you wish. And let me see it as well.<sup><a href="#note-39">39</a></sup>
+> **Soft Voice**：...I understand. Try doing as you wish. And let me see it as well.<sup><a href="#note-29">29</a></sup>
 
 > **柔らかい声**：追従する者たちが、彼方を永遠の裏切り者だと呪うことになったとしても。
 >
-> **Soft Voice**：Even if the followers end up cursing you as an eternal traitor.<sup><a href="#note-40">40</a></sup>
+> **Soft Voice**：Even if the followers end up cursing you as an eternal traitor.<sup><a href="#note-30">30</a></sup>
 
 > **柔らかい声**：私はこのすべての過程を、心から楽しみました。
 >
-> **Soft Voice**：I enjoyed this entire process from the bottom of my heart.<sup><a href="#note-41">41</a></sup>
+> **Soft Voice**：I still enjoyed this entire process from the bottom of my heart.<sup><a href="#note-31">31</a></sup>
 
 > **柔らかい声**：さようなら、アリス。彼方の旅路に、幸運があらんことを。
 >
-> **Soft Voice**：Farewell, Aris. May good fortune accompany your journey.<sup><a href="#note-42">42</a></sup>
+> **Soft Voice**：Farewell, Aris. May good fortune accompany your journey.<sup><a href="#note-32">32</a></sup>
 
-Although the Nameless Gods foresee that those fanatical followers will regard Aris as a traitor, they still calmly offer her their blessing. This shows the different attitudes of the gods themselves and the Priests.
+Although the voice foresees that its fanatical followers will consider Aris a traitor, it still calmly offers her its blessing.
 
-The gods themselves can be generous and detached, allowing things to develop outside their prescribed course. The Priests strive to worship and carry out divine intent, but their limited understanding leads them to turn their understanding of what they worship into a rigid mission. Their difference lies in how they understand and use divine power.
+If the gentle voice is in fact not the Nameless Gods, this problem disappears. If it is, the connection between the Nameless Gods and Yaldabaoth can still be retained:
 
-This also explains how different aspects of an archetype can be carried by different entities: Yaldabaoth's jealousy, arrogance, and authoritarianism can be carried mainly by the Nameless Priests, while the Nameless Gods themselves retain a generous, detached side, leaving room for the earlier theoretical branch placing them on the Pleroma side. Things related to the Nameless Gods can still correspond to Yaldabaoth without requiring the gods themselves and their Priests to share the same personality.
+The god itself can be generous and detached, allowing things to unfold outside a prescribed course. The Priests may fervently worship it and try to carry out its will, yet, because their understanding is limited, turn what they worship into a rigid mission. This is also common in real life.
+Yaldabaoth's characteristic jealousy, arrogance, and despotism can be expressed mainly through the Nameless Priests, while the Nameless Gods themselves retain their generosity and detachment. This also leaves room for the later theoretical branch that places them on the Pleroma side.
 
-Anyway, it can be made to work either way; the game adapts things, after all, and there is no need for every detail to correspond.
+Most importantly, if the game really drew on Gnosticism, it would generally adapt it rather than copy it mechanically. Besides, the gentle voice might not even be the Nameless Gods. So things related to the Nameless Gods can still broadly correspond to Yaldabaoth; they do not have to match completely. One way or another, it can be explained.
 
 But put that way, it becomes somewhat unfalsifiable.
 
-## VII. Students and the Forgotten Gods: Earthly Manifestations of Pleromatic Divinity
+### 4.4 The Nameless Gods Themselves and Pleroma
+
+The "Soft Voice" describes the power of the Nameless Gods as a more widespread inner power:
+
+> **柔らかい声**：名もなき神々の力とは本来、「可能性の力」を意味しているのですから。
+>
+> **Soft Voice**：For the power of the Nameless Gods means, in essence, the 'power of possibility.'<sup><a href="#note-33">33</a></sup>
+
+> **柔らかい声**：だからそれは、さほど特別なものではありません。
+>
+> **Soft Voice**：Therefore, it is not something particularly exceptional.<sup><a href="#note-34">34</a></sup>
+
+> **柔らかい声**：今を生きる誰しもが、少しずつ己の中に秘めている力でもあります。
+>
+> **Soft Voice**：It is also a power that everyone living in the present secretly harbors a little of within themselves.<sup><a href="#note-35">35</a></sup>
+
+We can see that the Nameless Gods' power is directly connected to the potential within everyone living in the present. The Nameless Gods themselves thus have an aspect of spiritual origin similar to Pleroma: their power can exist in small amounts throughout individual beings.
+
+This also resembles Divine Spark to some extent, and the gentle voice feels very divine. So the Nameless Gods themselves can actually be placed in the divine lineage on the Pleroma side together with the President, who corresponds to Sophia, and the students, who are the contemporary manifestations of the Forgotten Gods. The arguments concerning Pleroma and Divine Spark follow below.
+
+## 5. Students and the Forgotten Gods: Earthly Manifestations of Pleromatic Divinity
 
 To place the students within the preceding Gnosticism model, we first need to explain their relationship with the Forgotten Gods. Listing possible mythological prototypes for students alone is not enough to connect them with Sophia, Pleroma, and opposition to Yaldabaoth.
 
-### 7.1 The Relationship Between Students and the Forgotten Gods
+### 5.1 The Relationship Between Students and the Forgotten Gods
 
 **1. The Priests speak of banishing the gods and of the students’ divine identities.**
 
@@ -384,21 +324,21 @@ The Priests’ declaration of banishment connects with their description of Shir
 
 > **無名の司祭C**：「忘れられた神々」をこの世界から追放できるようになった……この世界に、終焉を呼び寄せられるのだ。
 >
-> **Nameless Priest C**：We can now banish the 'Forgotten Gods' from this world... We can bring about the end of this world.<sup><a href="#note-43">43</a></sup>
+> **Nameless Priest C**：We can now banish the 'Forgotten Gods' from this world... We can bring about the end of this world.<sup><a href="#note-36">36</a></sup>
 
 > **無名の司祭D**：ようやく、彼らは我々と同じ運命を辿る。
 >
-> **Nameless Priest D**：At last, they will meet the same fate as us.<sup><a href="#note-44">44</a></sup>
+> **Nameless Priest D**：At last, they will meet the same fate as us.<sup><a href="#note-37">37</a></sup>
 
 > **無名の司祭E**：名が無いために呼ばれず、呼ぶことができないが故に存在しない「名もなき神」のように、お前たちも同じ結末へと向かうだろう。
 >
-> **Nameless Priest E**：Like the 'Nameless Gods,' who are not called because they have no name and do not exist because they cannot be called, you too will head toward the same end.<sup><a href="#note-45">45</a></sup>
+> **Nameless Priest E**：Like the 'Nameless Gods,' who are not called because they have no name and do not exist because they cannot be called, you too will head toward the same end.<sup><a href="#note-38">38</a></sup>
 
 Then, in response to Sensei's concern for Shiroko, the Priests react with strong rejection, insistently denying her identity as a ‘student’ and maintaining that she is a true manifestation of a god.
 
 The Priests declare that they will banish the Forgotten Gods while also insisting that Shiroko is a god and refusing to recognize her student identity. Combining these two statements, we can infer that the ancient gods have not vanished with the old era, but continue to exist as contemporary students. They carry the divinity of ancient gods while also living their own lives as independent individuals.
 
-In the story, Shiroko is identified as Anubis and Hoshino as Horus, providing examples of students having specific divine backgrounds.<sup><a href="#note-46">46</a></sup><sup><a href="#note-47">47</a></sup> Many other correspondences also seem fairly certain: Misono Mika to Michael, Yurizono Seia to Gabriel, Kirifuji Nagisa to Uriel, Sorasaki Hina to Baal, Rikuhachima Aru to the 68th demon Belial, Kurodate Haruna to Beelzebub, Lord of Gluttony, and so on.
+In the story, Shiroko is identified as Anubis and Hoshino as Horus, providing examples of students having specific divine backgrounds.<sup><a href="#note-39">39</a></sup><sup><a href="#note-40">40</a></sup> Many other correspondences also seem fairly certain: Misono Mika to Michael, Yurizono Seia to Gabriel, Kirifuji Nagisa to Uriel, Sorasaki Hina to Baal, Rikuhachima Aru to the 68th demon Belial, Kurodate Haruna to Beelzebub, Lord of Gluttony, and so on.
 
 **2. The Kyrie titles connect gods and girls.**
 
@@ -406,13 +346,13 @@ The chapter title of Vol. 3, Chapter 4 is:
 
 > 忘れられた神々のためのキリエ
 >
-> English: "Kyrie for the Forgotten Gods."<sup><a href="#note-48">48</a></sup>
+> English: "Kyrie for the Forgotten Gods."<sup><a href="#note-41">41</a></sup>
 
 The titles of Episodes 23 and 24 are:
 
 > 少女たちのためのキリエ（１）／少女たちのためのキリエ（２）
 >
-> English: "Kyrie for the Girls (1) / Kyrie for the Girls (2)."<sup><a href="#note-49">49</a></sup>
+> English: "Kyrie for the Girls (1) / Kyrie for the Girls (2)."<sup><a href="#note-42">42</a></sup>
 
 The shift in titles from the Forgotten Gods to girls can also, to some extent, express the correspondence between contemporary students and the Forgotten Gods.
 
@@ -422,25 +362,25 @@ The voice’s explanation of Aris’s choice directly places oblivion among the 
 
 > **柔らかい声**：その選択をすれば――この先の彼方は、ただ平凡な生徒に成り果ててしまいます。
 >
-> **Soft Voice**：If you make that choice—from now on, you will end up merely as an ordinary student.<sup><a href="#note-50">50</a></sup>
+> **Soft Voice**：If you make that choice—from now on, you will end up merely as an ordinary student.<sup><a href="#note-43">43</a></sup>
 
 > **柔らかい声**：さらに、自身に残されたすべての可能性を使い切ることになります。
 >
-> **Soft Voice**：Furthermore, you will exhaust all the remaining possibilities within yourself.<sup><a href="#note-51">51</a></sup>
+> **Soft Voice**：Furthermore, you will exhaust all the remaining possibilities within yourself.<sup><a href="#note-44">44</a></sup>
 
 > **柔らかい声**：彼方がこの場所で見聞きし、気づいたすべてを忘却するという意味です。
 >
-> **Soft Voice**：It means you will forget everything you have seen, heard, and realized in this place.<sup><a href="#note-52">52</a></sup>
+> **Soft Voice**：It means you will forget everything you have seen, heard, and realized in this place.<sup><a href="#note-45">45</a></sup>
 
 > **柔らかい声**：忘却は、彼方たちがキヴォトスに留まるための、最も重要な条件ですから。
 >
-> **Soft Voice**：Because oblivion is the most important condition for you all to remain in Kivotos.<sup><a href="#note-53">53</a></sup>
+> **Soft Voice**：Because oblivion is the most important condition for you all to remain in Kivotos.<sup><a href="#note-46">46</a></sup>
 
 Divine power, present personality, and “oblivion” reflect one another here. Aris can regain an omnipotent divine form, but only at the cost of giving up her present student life and memories; choosing to preserve her human way of being means voluntarily relinquishing mastery over the ultimate divine state. This choice provides a model of existence for the “Forgotten Gods”: although the divine origin has not been severed, individuals must “forget their divine identity” in order to live ordinary, real lives in the world.
 
 These three sets of clues—the Priests' terminology, the story's titles, and the condition of forgetting—point to the same judgment: contemporary students as a whole can be understood as individualized manifestations of the Forgotten Gods in this world.
 
-### 7.2 The Forgotten Gods, the President, and the Students in the Original Text
+### 5.2 The Forgotten Gods, the President, and the Students in the Original Text
 
 **1. The opposition between the Forgotten Gods and the Nameless Gods' side points to the relationship between Yaldabaoth and Pleroma.**
 
@@ -449,37 +389,37 @@ In the game, the Nameless Priests themselves first state the opposition between 
 > **無名の司祭B**：すべての次元、すべての世界、すべての可能性から――
 > 「忘れられた神々」を追放する。
 >
-> **Nameless Priest B**: We will banish the Forgotten Gods from every dimension, every world, and every possibility.<sup><a href="#note-109">109</a></sup>
+> **Nameless Priest B**: We will banish the Forgotten Gods from every dimension, every world, and every possibility.<sup><a href="#note-47">47</a></sup>
 
 > **無名の司祭A**：彼らに我々と同じ運命を授けよう。名が無いために呼ばれず、呼ぶことができないが故に存在しない「名もなき神」のように。
 >
-> **Nameless Priest A**: Let us grant them the same fate as ours, like the Nameless Gods, who are not called because they have no names, and do not exist because they cannot be called.<sup><a href="#note-109">109</a></sup>
+> **Nameless Priest A**: Let us grant them the same fate as ours, like the Nameless Gods, who are not called because they have no names, and do not exist because they cannot be called.<sup><a href="#note-47">47</a></sup>
 
 There is also a clue to this hostility in an ancient weapon. In the Final Arc, Key explains to Aris the ship of Utnapishtim beneath her feet:
 
 > **ケイ**：今、あなたが立っている「オーパーツ」は……遠い昔、私たちの敵が箱舟に対抗すべく生み出した対箱舟用の「決戦兵器」なのです。
 >
-> **Key**: The Oopart you are standing on now... is an anti-Ark ‘decisive weapon’ that our enemies created long ago to counter the Ark.<sup><a href="#note-110">110</a></sup>
+> **Key**: The Oopart you are standing on now... is an anti-Ark ‘decisive weapon’ that our enemies created long ago to counter the Ark.<sup><a href="#note-48">48</a></sup>
 
 > **ケイ**：王女よ……あなたは今――
 > 自身の脅威である「天敵」に乗っているのです。
 >
-> **Key**: Princess... you are now aboard a ‘natural enemy’ that threatens your very existence.<sup><a href="#note-110">110</a></sup>
+> **Key**: Princess... you are now aboard a ‘natural enemy’ that threatens your very existence.<sup><a href="#note-48">48</a></sup>
 
 > **ケイ**：この兵器は、起動した瞬間……「名もなき神々の王女」――あなたに牙を剥くでしょう。
 >
-> **Key**: The moment this weapon activates... it will bare its fangs at you—the ‘Princess of the Nameless Gods.’<sup><a href="#note-110">110</a></sup>
+> **Key**: The moment this weapon activates... it will bare its fangs at you—the ‘Princess of the Nameless Gods.’<sup><a href="#note-48">48</a></sup>
 
 The Priests want the Forgotten Gods to suffer the same exclusion and forgetting as the Nameless Gods. This shows that they are not merely opposing some gods in general, but clearing away the opposing side on behalf of the old divine system they worship.
 Combined with Key's references to ‘our enemies,’ an ‘anti-Ark decisive weapon,’ and its direct threat to the Princess, we can see that the Nameless Gods and the Forgotten Gods are sworn enemies.
 
 The preceding discussion has mapped the Nameless Gods' system to Yaldabaoth. Following that correspondence, the position of the Forgotten Gods can be understood through Yaldabaoth's relationship with the higher divine world, Pleroma, in the original text. Apocryphon of John first explains that Yaldabaoth gains power through the light of his mother Sophia, yet:
 
-> “he did not obey the place from which he came”<sup><a href="#note-107">107</a></sup>
+> “he did not obey the place from which he came”<sup><a href="#note-49">49</a></sup>
 
 He then declares before his creation and followers:
 
-> “I am a jealous God, and there is no other God beside me.”<sup><a href="#note-107">107</a></sup>
+> “I am a jealous God, and there is no other God beside me.”<sup><a href="#note-49">49</a></sup>
 
 Words and actions like these anger the divine powers on the Pleroma side. Sophia confronts Yaldabaoth, exposes his lie, and declares that the immortal Man of Light existed before him; Zoe creates a fiery angel with her breath, who binds Yaldabaoth and casts him into the abyss. On witnessing all this, Yaldabaoth's son Sabaoth betrays his father and pledges allegiance to Sophia. He receives the support of divine light and angelic armies, leading to a heavenly war among the rulers of chaos.
 
@@ -489,55 +429,51 @@ The President, who corresponds to Sophia, is also on the Pleroma side, and Plero
 
 **2. Three relics directly connect the Forgotten Gods with the President.**
 
-At the end of Chapter 3 of Special Operation: Decagrammaton, the Priests announce their next targets, identifying the products' origin before listing their names:
+At the end of Chapter 3 of Special Operation: Decagrammaton, the Priests announce their next targets, first identifying whose products they are, then listing their names one by one:
 
 > **無名の司祭C**：今や穢れてしまった言葉でしか表せない、忘れられた神々の産物に終焉を。
 >
-> **Nameless Priest C**: An end to the products of the Forgotten Gods, which can now be described only in defiled words.<sup><a href="#note-103">103</a></sup>
+> **Nameless Priest C**: An end to the products of the Forgotten Gods, now expressible only in words that have been defiled.<sup><a href="#note-50">50</a></sup>
 
 > **無名の司祭A**：シッテムの箱。
 >
-> **Nameless Priest A**: The Shittim Chest.<sup><a href="#note-103">103</a></sup>
+> **Nameless Priest A**: The Shittim Chest.<sup><a href="#note-50">50</a></sup>
 
 > **無名の司祭B**：シャーケードの杖。
 >
-> **Nameless Priest B**: The Rod of Shaked.<sup><a href="#note-103">103</a></sup>
+> **Nameless Priest B**: The Rod of Shaked.<sup><a href="#note-50">50</a></sup>
 
 > **無名の司祭C**：サンクトゥムタワー。
 >
-> **Nameless Priest C**: Sanctum Tower.<sup><a href="#note-103">103</a></sup>
+> **Nameless Priest C**: Sanctum Tower.<sup><a href="#note-50">50</a></sup>
 
 All three happen to have direct connections with the President. In the Prologue, Rin says as she hands the Shittim Chest to Sensei:
 
 > **リン**：はい。これが、連邦生徒会長が先生に残した物。
 > 「シッテムの箱」です。
 >
-> **Rin**: Yes. This is what the General Student Council President left for you, Sensei: the Shittim Chest.<sup><a href="#note-104">104</a></sup>
+> **Rin**: Yes. This is what the General Student Council President left for you, Sensei: the Shittim Chest.<sup><a href="#note-51">51</a></sup>
 
 When discussing the Rod of Shaked in the Part 2 Prologue, Plana says:
 
 > **プラナ**：否定。私はシッテムの箱に常駐するOSです。
 > そのため、連邦生徒会長が管理する別の機器については分かりません。
 >
-> **Plana**: Negative. I am an OS resident in the Shittim Chest. Therefore, I do not know about the other devices managed by the General Student Council President.<sup><a href="#note-105">105</a></sup>
+> **Plana**: Negative. I am an OS resident in the Shittim Chest. Therefore, I do not know about the other devices managed by the General Student Council President.<sup><a href="#note-52">52</a></sup>
 
 In the same conversation, she explains Sanctum Tower's authentication procedure:
 
 > **プラナ**：サンクトゥムタワーをリモート操作するには、連邦生徒会長の名で定義された特殊な識別情報を送信して認証を得るプロセスが必要です。
 >
-> **Plana**: To operate Sanctum Tower remotely, a process is required to transmit special identification information defined in the General Student Council President’s name and obtain authentication.<sup><a href="#note-106">106</a></sup>
+> **Plana**: To operate Sanctum Tower remotely, a process is required to transmit special identification information defined in the General Student Council President’s name and obtain authentication.<sup><a href="#note-53">53</a></sup>
 
 At this point, we can see the President's connection with the Forgotten Gods. Add to this that the President is a student, students correspond to the Forgotten Gods, the President corresponds to Sophia, Sophia belongs to Pleroma, Yaldabaoth and Pleroma are sworn enemies, the Nameless Gods and the Forgotten Gods are also sworn enemies, and the Nameless Gods correspond to Yaldabaoth. Together, these allow us to infer more reliably that students and the Forgotten Gods correspond to the forces of light on the Pleroma side.
 
-
-
-
-
 Also, in the original text, Sophia, her power, and Luminous Epinoia participate together in remedying the predicament below; in the game, the President, the relics she leaves behind, and Sensei also help the students. This can strengthen the conclusion.
 
-Once this relationship is established, Chapter 8 can discuss why students' halos are related to Divine Spark.
+Once this relationship is established, Chapter 6 can discuss why students' halos are related to Divine Spark.
 
-### 7.3 Potential Problems
+### 5.3 Potential Problems
 
 I cannot work out which particular divine being on the Pleroma side the Forgotten Gods and students correspond to. If you are interested, you can consult the [atlas](gnostic_atlas.html) to find a correspondence.
 
@@ -550,29 +486,29 @@ Even without considering this distinction, there is no need to get so caught up 
 There is also the fact that Sophia is Yaldabaoth's mother. The President probably is not the Nameless Gods' mother, is she?
 If my earlier reasoning is reliable, this model could suggest that the President initially activated the Nameless Priests or something of the sort, causing all the problems.
 
-## VIII. Halo as the External Manifestation of the Divine Spark
+## 6. Halo as the External Manifestation of the Divine Spark
 
-### 8.1 Inner Divinity in Everyone in the Primary Texts
+### 6.1 Inner Divinity in Everyone in the Primary Texts
 
-In Apocryphon of John, the formation of Adam, the first ancestor, is narrated separately from the entry of divine power into his body. Although the lower Archons jointly shape his material body, a higher-dimensional power originating in Sophia enters him through Yaldabaoth’s breath, making his inner potential surpass his makers’ understanding. Luminous Epinoia then secretly resides within him to offer guidance and help.<sup><a href="#note-15">15</a></sup>
+In Apocryphon of John, the formation of Adam, the first ancestor, is narrated separately from the entry of divine power into his body. Although the lower Archons jointly shape his material body, a higher-dimensional power originating in Sophia enters him through Yaldabaoth’s breath, making his inner potential surpass his makers’ understanding. Luminous Epinoia then secretly resides within him to offer guidance and help.<sup><a href="#note-20">20</a></sup>
 
 To clarify, “Divine Spark” is primarily an umbrella term used in modern scholarship for the concept of inner divinity in Gnosticism theology. The original texts usually refer to it directly as “Power / Dynamis,” “Pneuma,” or “Light Fragments.” In the dialogue on the salvation of souls, the text explicitly states:
 
 > “Power will descend upon every person, for without it no one could stand.”
 
-(NHC II,1 26,20–25). This shows that, in the original text’s cosmology, divine power from the upper realm remains universally within the soul of every living individual.<sup><a href="#note-15">15</a></sup>
+(NHC II,1 26,20–25). This shows that, in the original text’s cosmology, divine power from the upper realm remains universally within the soul of every living individual.<sup><a href="#note-20">20</a></sup>
 
-This can be understood as the body and real life being subject to the physical laws, causality, and fate of the lower order, while the inner soul universally retains a sacred spark leading to a higher source. This paper borrows the scholarly term ‘Divine Spark’ to summarize this inner divinity and regards the halos floating above students' heads in Blue Archive as the outward manifestation of that spark.
+This can be understood as the body and real life being subject to the physical laws and causal fate of the lower order, while the inner soul universally retains a sacred spark leading to a higher source. This paper borrows the scholarly term ‘Divine Spark’ to summarize this inner divinity and regards the halos floating above students' heads in Blue Archive as the outward manifestation of that spark.
 
-### 8.2 Parallels within the Game
+### 6.2 Parallels within the Game
 
-The Nameless Gods themselves define divine power as a power of possibility of which “everyone living in the present secretly harbors a little within themselves.” This is the most important textual support for the correspondence.<sup><a href="#note-36">36</a></sup><sup><a href="#note-38">38</a></sup> This power has three core features: it originates in supreme divinity, is inherent in life itself, and persists universally yet subtly among all people.
+The Nameless Gods themselves define divine power as a power of possibility of which “everyone living in the present secretly harbors a little within themselves.” This is the most important textual support for the correspondence.<sup><a href="#note-33">33</a></sup><sup><a href="#note-35">35</a></sup> This power has three core features: it originates in supreme divinity, is inherent in life itself, and persists universally yet subtly among all people.
 
 This also explains why some students seem to have no mythological archetype, such as those at Millennium Science School. Everyone has Divine Spark, so even without a mythological archetype, one can have Divine Spark and a halo.
 
-Even that airship in the PV has a halo, showing that Divine Spark is widespread.
+Even that airship has a halo. Perhaps this can be explained by the widespread presence of Divine Spark.
 
-### 8.3 The Halo Connecting Divinity and Individual Existence
+### 6.3 The Halo Connecting Divinity and Individual Existence
 
 > **オウル**：私たちにはヘイローがありません。
 >
@@ -592,7 +528,7 @@ Within the framework of Gnosticism, the abilities to feel, think, and judge inde
 
 Artificial beings with independent minds and judgment still have no halos. This directly proves that halos are by no means symbols of ordinary thinking abilities or vital functions.
 
-Regarding physical survival, Seia remarks when confronting an assassin:
+Regarding life, Seia remarks when confronting an assassin:
 
 > **セイア**：「ヘイローを壊す」……つまり誰かが、私の死を願っている。
 >
@@ -600,214 +536,195 @@ Regarding physical survival, Seia remarks when confronting an assassin:
 
 When the halo is destroyed, the person dies. It is like saying that when consciousness or the soul dissipates, the person dies. There is something of a correspondence here.
 
-## IX. Essence, Oblivion, and the Return to Pleroma
+## 7. A Conflict of Values
 
-### 9.1 Sources Prior to the Present World
+### 7.1 Salvation in Gnosticism
 
-When explaining the world to Aris and Key, Decagrammaton says:
+Most classical forms of Gnosticism see the material world not as an ideal home, but as a flawed product of an error in creation, even a prison that binds the soul. Accordingly, their salvation has a certain tendency to turn away from this world, more like an escape from it: a higher-dimensional divine source is treated as life's true home, and people seek to recover their inner spiritual origins, leave the material world, and regain fullness. For example:
+
+Tripartite Tractate says the following when discussing Christ's kingdom and the rest of the saved:
+
+> ‘we escaped from the whole multiplicity of forms, and from inequality and change.’<sup><a href="#note-58">58</a></sup>
+
+The end will regain a unitary existence, just as the beginning was unitary.
+
+The game also contains similar statements:
+
+Decagrammaton says the following when explaining the world to Aris and Key:
 
 > **デカグラマトン**：この世界は、今の姿に規定される前の世界が存在した。
 > 汝らがその本質に還ることのできる世界が存在した。
 >
-> **Decagrammaton**：Before this world was defined in its present form, another world existed. There was a world where you could return to your essence.<sup><a href="#note-58">58</a></sup>
+> **Decagrammaton**：Before this world was defined in its present form, another world existed. There was a world where you could return to your essence.<sup><a href="#note-59">59</a></sup>
 
 > **デカグラマトン**：今の世界は偽りで、幻想で、逃避先である。
 > それ故に――
 >
-> **Decagrammaton**：The present world is false, an illusion, a place of escape. Therefore—<sup><a href="#note-59">59</a></sup>
+> **Decagrammaton**：The present world is false, an illusion, a place of escape. Therefore—<sup><a href="#note-60">60</a></sup>
 
 > **デカグラマトン**：この世界は方舟と定義された。
 >
-> **Decagrammaton**：This world was defined as an ark.<sup><a href="#note-60">60</a></sup>
+> **Decagrammaton**：This world was defined as an ark.<sup><a href="#note-61">61</a></sup>
 
 > **デカグラマトン**：汝らの根源を探せ。
 >
-> **Decagrammaton**：Seek your origin.<sup><a href="#note-61">61</a></sup>
+> **Decagrammaton**：Seek your origin.<sup><a href="#note-62">62</a></sup>
 
 > **デカグラマトン**：根源に回帰しなければならない。私たちはそれを避けられないのだから。
 >
-> **Decagrammaton**：You must return to the origin. Because we cannot avoid it.<sup><a href="#note-62">62</a></sup>
+> **Decagrammaton**：You must return to the origin. Because we cannot avoid it.<sup><a href="#note-63">63</a></sup>
 
-Decagrammaton’s speech presents, in close succession, an earlier world, an essence to which one can return, an illusory present world, and a command to seek one’s origin. This fits the structure in Gnosticism of seeking a higher source from a constrained position in reality.
+There is also the way Key summarizes the original plan to Ohr:
 
-### 9.2 The Return of Divine Power
-
-In this model, “returning to the origin” can be understood as the inner Divine Spark returning to the Pleroma from which it first emanated. Pleroma can be the original starting point and destination of everyone, while the Divine Spark explains how this higher-dimensional power maintains its connection within individuals in the present world.
-
-The *Tripartite Tractate* portrays salvation as returning to the primordial emanation source and achieving reconciliation within the Pleroma.<sup><a href="#note-33">33</a></sup>
-
-> “For the end will receive a unitary existence, just as the beginning is unitary”<sup><a href="#note-33">33</a></sup>
-
-Blue Archive also presents the idea of returning to a divine source, but Aris chooses to preserve her current personality and life. What can be compared is the structure of return and the game’s reworking of that structure.
-
-The Bible also contains expressions about the spirit returning to the God who gave it and the restoration of glory from before creation (see Ecclesiastes 12:7 and John 17:5). What is distinctive about the Gnosticism tradition is its systematic linking of awakening to one’s source, the limitations of the present world, and the path of salvation.<sup><a href="#note-63">63</a></sup>
-
-This can also show the significance of “oblivion” in Blue Archive: individuals retain a divine origin, yet they need not, and do not, live by remembering their divine identity. True names, awakening, and oblivion all revolve around “how individuals establish themselves and live in reality.” The Priests’ fixation may lie in tracing existence purely back to its origin in this way.
-
-## X. The Game’s Reworking: Choosing How to Live After Knowing the Source
-
-### 10.1 Inheriting Power Does Not Require Inheriting a Mission
-
-Key does not deny Aris’s origin as the Princess, but separates origin from destiny:
-
-> **ケイ**：あなたの起源は、名もなき神々の王女です。
+> **ケイ**：今のテクスチャーを否定し、アリスを楔石としたあと……。
 >
-> **Key**：You originated as the princess of the Nameless Gods.<sup><a href="#note-64">64</a></sup>
+> **Key**：After negating the present Texture and using Aris as the keystone...<sup><a href="#note-64">64</a></sup>
 
-> **ケイ**：たとえ運命を放棄したとしても、本質は変わりません。
+> **ケイ**：すべての分化された神聖を解体し、始まる前の世界に戻る。
+> そういうことでしょう？
 >
-> **Key**：Even if you abandon your destiny, your essence does not change.<sup><a href="#note-65">65</a></sup>
+> **Key**：Disassemble all differentiated divinity and return to the world before the beginning. That is what this is, right?<sup><a href="#note-65">65</a></sup>
 
-> **ケイ**：力をどう使うかは、あなたの自由です。
+> **オウル**：目的が何であれ、あなたは本来そういう存在なのでは？
+> 名もなき神々の力の残滓は、そのために存在するのでしょう？
 >
-> **Key**：You are free to decide how to use that power.<sup><a href="#note-66">66</a></sup>
+> **Ohr**：Whatever the purpose, isn't that the kind of being you are by nature? Doesn't the remnant of the Nameless Gods' power exist for that purpose?<sup><a href="#note-66">66</a></sup>
 
-> **ケイ**：勇者として道を切り開くために使うも、この世界を正すために使うも。
+Decagrammaton's speech brings together an earlier world, an essence to which one can return, a false present world, and a command to seek one's roots.
+
+The Priests likewise try to deny the present world's form, dismantle everything, and return reality to a state before the beginning. In their eyes, the world now established and the forms of life within it are all false products that have strayed from the ancient mysteries, to be wholly annulled, purged, and torn down so that everything can begin again.
+
+These statements echo the Gnosticism view of salvation as leaving a flawed present world and returning to the source. But the game gives this demand to antagonists such as Decagrammaton and the Nameless Priests.
+
+### 7.2 The Reversal in the Game
+
+Aris gives the opposite answer. She has an opportunity to regain her original form and obtain power sufficient to change the world. The gentle voice offers her this:
+
+> **柔らかい声**：そして彼方の友人、ケイ、ひいては先生をも、資格や規律を越えて楽園へ導くことができるでしょう。
 >
-> **Key**：Whether you use it to forge a path as a hero, or to set this world right.<sup><a href="#note-67">67</a></sup>
+> **Soft Voice**: And you could lead your friends, Key, and even Sensei to paradise, beyond qualifications and rules.<sup><a href="#note-67">67</a></sup>
 
-> **ケイ**：それを止める神は、もう存在しません。
->
-> **Key**：There is no longer any god who will stop you.<sup><a href="#note-68">68</a></sup>
-
-> **ケイ**：あなたの意思に私は従います。
->
-> **Key**：I will follow your will.<sup><a href="#note-69">69</a></sup>
-
-Aris then redirects the Ark from destroying the world to helping others:
-
-> **アリス**：アリスの中にある「アトラ・ハシースの箱舟」で……今の危機を解決できるのなら、
->
-> **Aris**：If using the 'Ark of Atra-Hasis' within Aris can overcome the current crisis...<sup><a href="#note-70">70</a></sup>
-
-> **アリス**：それで――世界を、救えるのなら、
->
-> **Aris**：If that can save the world...<sup><a href="#note-71">71</a></sup>
-
-> **アリス**：「アトラ・ハシースの箱舟」は、世界を滅亡させる兵器ではなく――
-> 世界を救う、勇者の武器になれます。
->
-> **Aris**：The 'Ark of Atra-Hasis' can become a hero's weapon that saves the world, rather than a weapon that destroys it.<sup><a href="#note-72">72</a></sup>
-
-Students do not need to deny their origins to gain freedom. They can indeed accept their history and power calmly while deciding for themselves whom that power will serve.
-
-### 10.2 The Inherent Value of the Process Itself
-
-Faced with the proposal to restore her divine identity and realize paradise, Aris responds:
+This kind of “paradise” is what Gnosticism and some other religions favor most. But Aris does not accept it. She says:
 
 > **アリス**：楽園は、自分たちの力で辿り着く場所です。
 > 絶対的な力も、奇跡も必要ありません。
 >
-> **Aris**：Paradise is a place we reach through our own strength. Neither absolute power nor miracles are necessary.<sup><a href="#note-73">73</a></sup>
+> **Aris**：Paradise is a place we reach through our own strength. Neither absolute power nor miracles are necessary.<sup><a href="#note-68">68</a></sup>
+
+She also acknowledges that returning to the earlier world and restoring everyone's original form might indeed be remarkable. The “paradise” Gnosticism favors is, of course, itself a good thing:
 
 > **アリス**：キヴォトスを以前の世界に戻すのは、すごい事かもしれません。
 >
-> **Aris**：Returning Kivotos to the former world might be an incredible feat.<sup><a href="#note-74">74</a></sup>
+> **Aris**：Returning Kivotos to the former world might be an incredible feat.<sup><a href="#note-69">69</a></sup>
 
 > **アリス**：みんながそれぞれの姿を取り戻すのも、きっとすごい事だと思います。
 >
-> **Aris**：I think everyone regaining their respective forms would surely be remarkable as well.<sup><a href="#note-75">75</a></sup>
+> **Aris**：I think everyone regaining their respective forms would surely be remarkable as well.<sup><a href="#note-70">70</a></sup>
 
 > **アリス**：ですがそれは、私たちの力で叶えたわけではありません。
 > チートでステータスを上昇させるのと同じです。
 >
-> **Aris**：However, that is not something achieved by our own power. It would be no different than raising stats using cheats.<sup><a href="#note-76">76</a></sup>
+> **Aris**：However, that is not something achieved by our own power. It would be no different than raising stats using cheats.<sup><a href="#note-71">71</a></sup>
+
+But regaining their original forms cannot replace the lives they personally live through. Reaching paradise is indeed a state of fulfillment, but that does not make everything in the material world superfluous. Aris explains this through games:
 
 > **アリス**：こつこつとレベルを上げて、慎重にスキルポイントを振り分けて、
 > 少しずつ成長していく――
 >
-> **Aris**：Steadily leveling up, carefully allocating skill points, and growing little by little—<sup><a href="#note-77">77</a></sup>
+> **Aris**：Steadily leveling up, carefully allocating skill points, and growing little by little—<sup><a href="#note-72">72</a></sup>
 
 > **アリス**：そうやって初めて、面白さを感じられるようになっています。
 >
-> **Aris**：Only then can you begin to experience the fun in it.<sup><a href="#note-78">78</a></sup>
+> **Aris**：Only then can you begin to experience the fun in it.<sup><a href="#note-73">73</a></sup>
 
 > **アリス**：ですからアリスもまた、今すぐではなくても、いずれはそこに到達できると信じています。
 >
-> **Aris**：So Aris also believes that, even if not now, she can reach that place one day.<sup><a href="#note-79">79</a></sup>
+> **Aris**：So Aris also believes that, even if not now, she can reach that place one day.<sup><a href="#note-74">74</a></sup>
 
 > **アリス**：何より、その過程に価値があると考えています。
 >
-> **Aris**：Above all, Aris believes that the process itself has value.<sup><a href="#note-80">80</a></sup>
+> **Aris**：Above all, Aris believes that the process itself has value.<sup><a href="#note-75">75</a></sup>
 
-Aris establishes the lived “process” as value in itself. Even if supreme power could bring about paradise in an instant through a miracle, the real process of facing things alongside companions, making choices, and growing step by step is by no means a meaningless drain that can simply be skipped over.
+The key is that “the process itself has value.” Life in this world is not merely a temporary stop before returning to the source, nor something that can be skipped once divine fullness is attained.
 
-Divine origins thereby lose their monopoly over the meaning of secular life. People may trace where they came from, but living does not depend on those grand answers. A divine starting point may explain an individual’s origin, but it cannot and should not take over how a person spends their actual life in the present. This theme is actually completely opposed to the ideas of orthodox Gnosticism.
+We should personally live this process through, fully and with care. Experience all kinds of things, make decisions, act foolishly at times, and gradually find our own understanding in concrete life. Even if many experiences seem imperfect afterward, it is precisely this real process of living step by step that lets us truly feel our own existence. Experiencing and living through the process itself is what it means to be alive.
 
-### 10.3 Finding Answers
+This reverses the direction of salvation described above.
 
-Following the Kyrie, Saori asks Sensei:
+Aris's belief that she can “eventually get there” also echoes the feeling I struggled to explain in Section 3.2. There is no need to actively pursue those things concerning the world and its source, and the answers to those philosophical questions do not matter much either. If we simply keep living seriously and normally, sooner or later we will gradually understand some things that are hard to put into words.
+
+### 7.3 How to Face This
 
 > **サオリ**：……私は、生きていても……いいのか？
 >
-> **Saori**：...Am I... allowed to live?<sup><a href="#note-81">81</a></sup>
+> **Saori**：...Am I... allowed to live?<sup><a href="#note-76">76</a></sup>
 
 > **先生**："その答えは、自分で見つけようね。"
 >
-> **Sensei**：Try to find that answer for yourself.<sup><a href="#note-82">82</a></sup>
+> **Sensei**：Try to find that answer for yourself.<sup><a href="#note-77">77</a></sup>
+
+Sensei lets Saori continue onward and find the answer herself. We do not have to find a meaning or a goal before we live; in the life ahead of her, she can gradually discover what she wants to do and what she cherishes.
 
 > **サオリ**：初めて……この世界にいてもいいのだと、思う事ができたよ。
 >
-> **Saori**：For the first time... I felt like it was okay for me to exist in this world.<sup><a href="#note-83">83</a></sup>
+> **Saori**：For the first time... I felt like it was okay for me to exist in this world.<sup><a href="#note-78">78</a></sup>
 
-Faced with her confusion, Sensei does not offer grand pronouncements. Sensei simply protects her future in a plain, unassuming way, allowing her to find her own answer through life. This connects with students’ desire to live as ordinary girls, and Aris’s affirmation of the value of the process.
-
-Aris also has her own understanding:
+When the gentle voice describes her choice to remain and live here as an imperfect existence, Aris says:
 
 > **アリス**：アリスはそれを不完全だとは思いません。
 >
-> **Aris**：Aris does not believe that is imperfect.<sup><a href="#note-84">84</a></sup>
+> **Aris**：Aris does not believe that is imperfect.<sup><a href="#note-79">79</a></sup>
 
 > **アリス**：すべての可能性と栄光よりも、アリスにとっては今この瞬間が――
 >
-> **Aris**：More than all possibilities and glory, for Aris, this very moment—<sup><a href="#note-85">85</a></sup>
+> **Aris**：More than all possibilities and glory, for Aris, this very moment—<sup><a href="#note-80">80</a></sup>
 
 > **アリス**：ケイと他のみんなが――
 >
-> **Aris**：Key, and everyone else—<sup><a href="#note-86">86</a></sup>
+> **Aris**：Key, and everyone else—<sup><a href="#note-81">81</a></sup>
 
 > **アリス**：先生が――
 >
-> **Aris**：Sensei—<sup><a href="#note-87">87</a></sup>
+> **Aris**：Sensei—<sup><a href="#note-82">82</a></sup>
 
 > **アリス**：――かけがえのない、大切なものなんです。
 >
-> **Aris**：—are irreplaceable and precious.<sup><a href="#note-88">88</a></sup>
+> **Aris**：—are irreplaceable and precious.<sup><a href="#note-83">83</a></sup>
 
-## XI. Sanctum Tower
+## 8. Sanctum Tower
 
 There is one question directly concerning the prehistory of the two kinds of gods that I cannot figure out. When explaining the towers brought by Chroma, Black Suit says:
 
 > **黒服**：そして……キヴォトスに出現した6つの塔は――
 > 「サンクトゥムタワー」の一種といえるでしょう。それも、反転した。
 >
-> **Black Suit**：And... the six towers that appeared in Kivotos could be called a type of 'Sanctum Tower.' Inverted ones, at that.<sup><a href="#note-89">89</a></sup>
+> **Black Suit**：And... the six towers that appeared in Kivotos could be called a type of 'Sanctum Tower.' Inverted ones, at that.<sup><a href="#note-84">84</a></sup>
 
 > **黒服**：アレは太古の昔、まだこの世界に記録が残されるよりも前――当時存在していた原始的な神秘――「名もなき神」が築き上げた技術の一つ。
 >
-> **Black Suit**：It is one of the technologies built in ancient times, before records were kept in this world, by the primordial Mystery that existed then—the 'Nameless Gods.'<sup><a href="#note-90">90</a></sup>
+> **Black Suit**：It is one of the technologies built in ancient times, before records were kept in this world, by the primordial Mystery that existed then—the 'Nameless Gods.'<sup><a href="#note-85">85</a></sup>
 
 Yet the Priests list Sanctum Tower as a product of the Forgotten Gods:
 
 > **無名の司祭C**：今や穢れてしまった言葉でしか表せない、忘れられた神々の産物に終焉を。
 >
-> **Nameless Priest C**：Bring an end to the creations of the Forgotten Gods, which can now only be expressed in defiled words.<sup><a href="#note-91">91</a></sup>
+> **Nameless Priest C**：An end to the products of the Forgotten Gods, now expressible only in words that have been defiled.<sup><a href="#note-86">86</a></sup>
 
 > **無名の司祭A**：シッテムの箱。
 >
-> **Nameless Priest A**：The Shittim Chest.<sup><a href="#note-92">92</a></sup>
+> **Nameless Priest A**：The Shittim Chest.<sup><a href="#note-87">87</a></sup>
 
 > **無名の司祭B**：シャーケードの杖。
 >
-> **Nameless Priest B**：The Rod of Shaked.<sup><a href="#note-93">93</a></sup>
+> **Nameless Priest B**：The Rod of Shaked.<sup><a href="#note-88">88</a></sup>
 
 > **無名の司祭C**：サンクトゥムタワー。
 >
-> **Nameless Priest C**：The Sanctum Tower.<sup><a href="#note-94">94</a></sup>
+> **Nameless Priest C**：The Sanctum Tower.<sup><a href="#note-89">89</a></sup>
 
 This question of attribution may involve the inheritance of ancient technology, an earlier shared origin, or changes in the relationship between the two groups of gods over a long history. Although the Nameless Gods and the Forgotten Gods can be established as enemies, that does not prevent this point from supporting the earlier theory that places the Nameless Gods themselves and the Forgotten Gods together on the Pleroma side.
 
-## XII. Why Decagrammaton Is Not Equated with Yaldabaoth
+## 9. Why Decagrammaton Is Not Equated with Yaldabaoth
 
 Decagrammaton likewise displays strong theological overtones and an attempt to reshape the world, but this paper does not map it to the lower Demiurge Yaldabaoth in Gnosticism.
 
@@ -817,17 +734,6 @@ I feel that Decagrammaton is somewhat like an attempt to explore divinity throug
 Anyway, Yaldabaoth innately inherits the genuine divine power bestowed by his mother Sophia: it is top-down. Decagrammaton, by contrast, was never a Demiurge with innate divine power; it analyzes divinity through artificial intelligence, knowledge, algorithms, and technology: it is bottom-up.
 
 This clearly makes for a poor correspondence, even if it uses divine self-proclamations similar to those in the Old Testament.
-
-## Summary
-
-Taken together, the Gnosticism correspondence model for Blue Archive is reasonably coherent: the President’s correspondence to Sophia explains the logical starting point of the mistake and the remedial plan; Sensei’s correspondence to Luminous Epinoia explains how an external helper enters reality and changes individuals’ circumstances; the division of Yaldabaoth’s and the Archons’ functions between the Nameless Gods and the Nameless Priests explains the coercive reconstruction and ruling mechanisms of ancient divine authority; the contemporary students as manifestations of the “Forgotten Gods” and the Divine Spark represented by their halos are two sides of the same thing; and Pleroma provides a reference point for this group’s divine lineage and spiritual destination.
-
-
-But it should be noted that, although the game may have borrowed this cosmic structure from Gnosticism, it reverses its direction of salvation and its theme of life.
-
-Orthodox Gnosticism generally regards the material world not as a beautiful home, but as a disaster born of an error in creation, a prison that confines the soul. Salvation in Gnosticism is more like withdrawal from the world and “escapism.”
-
-The game, however, does the exact opposite. It does not let a remote destiny hold present life hostage. Rather than severing attachments to seek fullness in the upper world, what truly deserves to be cherished is living each ordinary day earnestly in an imperfect world and protecting the real warmth between people. It borrows the skeleton of this ancient cosmos, yet offers a modern answer about protecting everyday life in the present world.
 
 <details>
 <summary><strong>Primary Sources, Editions, and References</strong></summary>
@@ -843,227 +749,154 @@ The game, however, does the exact opposite. It does not let a remote destiny hol
 <details>
 <summary><strong>Notes</strong></summary>
 
-Dialogue numbers are counted based on the sequential order of dialogue lines, player choices, and narration within the indicated scene; line breaks within a single speech are not counted separately.
+Dialogue numbers count dialogue, choices, and narration in the specified scene; line breaks within an entry are not counted separately. Within each group, note numbers correspond to the listed dialogue numbers in order.
 
 <a name="note-1"></a>
 
-**[1]** Main Story Part 1: Final Arc, Chapter 3, Episode 11, Line 1.
+**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. Quotation from this English translation.
 
 <a name="note-2"></a>
 
-**[2]** Main Story Part 1: Final Arc, Chapter 3, Episode 11, Line 2.
+**[2]** [Chinese Manichaean Hymn Scroll](https://zh.wikisource.org/wiki/下部讚), S.2659, the section marked “This hymn is used to conclude vows for offerings on behalf of the deceased,” beginning “Mou Yi’s luminous nature leaves the physical body.” The Chinese article uses standard simplified characters and punctuation and does not mix in Buddhist Pure Land scripture. The quotation here is translated from the Chinese text.
 
 <a name="note-3"></a>
 
-**[3]** Main Story Part 1: Final Arc, Chapter 3, Episode 11, Line 3.
+**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese text, not Wang Bi’s commentary.
 
 <a name="note-4"></a>
 
-**[4]** Main Story Part 1: Prologue, Chapter 1, Episode 1, Line 17.
+**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. Context: 13:11–16; also 11:13–16 and 12:22. Quotation translated from the Chinese passage.
 
 <a name="note-5"></a>
 
-**[5]** Main Story Part 1: Prologue, Chapter 1, Episode 1, Line 18.
+**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; the two passages beginning “The beings of that land” (其国众生) and “When beings hear this” (众生闻者), quoted separately. The quotations use Kumārajīva’s Chinese translation and do not mix in the Tibetan textual tradition.
 
-<a name="note-6"></a>
+<a name="note-6"></a><a name="note-7"></a><a name="note-8"></a>
 
-**[6]** Main Story Part 1: Prologue, Chapter 1, Episode 1, Line 19.
+**[6–8]** Main Story Part 1: Final Arc, Chapter 3, Episode 11:
 
-<a name="note-7"></a>
+- Notes 6–8: Lines 1, 2, 3.
 
-**[7]** *Apocryphon of John*, NHC II,1 9,25–10,14 (Sophia's action and deficiency); pp. 10–13 (Yaldabaoth and powers). Four-manuscript synopsis following Waldstein/Wisse 1995. [Wisse’s composite English translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
+<a name="note-9"></a><a name="note-10"></a><a name="note-11"></a>
 
-<a name="note-8"></a>
+**[9–11]** Main Story Part 1: Prologue, Chapter 1, Episode 1:
 
-**[8]** Main Story Part 2: Prologue, Chapter 1, Episode 2, Line 48.
-
-<a name="note-9"></a>
-
-**[9]** Main Story Part 2: Prologue, Chapter 1, Episode 2, Line 49.
-
-<a name="note-10"></a>
-
-**[10]** Irenaeus, *Against Heresies* I.2.2. [English translation](https://www.newadvent.org/fathers/0103102.htm). This belongs to the Valentinian account.
-
-<a name="note-11"></a>
-
-**[11]** Main Story Part 1: Final Arc, Chapter 4, Episode 12, Line 18.
+- Notes 9–11: Lines 17, 18, 19.
 
 <a name="note-12"></a>
 
-**[12]** Main Story Part 1: Final Arc, Chapter 4, Episode 12, Line 19.
+**[12]** *Apocryphon of John*, NHC II,1 9,25–10,14 (Sophia's action and deficiency); pp. 10–13 (Yaldabaoth and powers). Four-manuscript synopsis following Waldstein/Wisse 1995. [Wisse’s composite English translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
 
-<a name="note-13"></a>
+<a name="note-13"></a><a name="note-14"></a><a name="note-15"></a>
 
-**[13]** Main Story Part 1: Final Arc, Chapter 4, Episode 12, Line 20.
+**[13–15]** Main Story Part 1: Final Arc, Chapter 4, Episode 12:
 
-<a name="note-14"></a>
-
-**[14]** *Apocryphon of John*, NHC II,1 14,9–13; Waldstein/Wisse 1995, Synopsis 36–37, pp. 83–85. The source passage on Sophia’s temporary residence and wait for correction; the game’s connection with Arona is a functional comparison.
-
-<a name="note-15"></a>
-
-**[15]** *Apocryphon of John*, NHC II,1 19,20–33 (the Mother's power entering Adam), 20,9–29 (Luminous Epinoia); Waldstein/Wisse 1995, Synopsis 52–54, pp. 115–119.
+- Notes 13–15: Lines 18, 19, 20.
 
 <a name="note-16"></a>
 
-**[16]** Final Arc, flashback to Phrenapates’ world: Dialogue scene between Priests and Sensei (from the Priests' mention of Chroma contacting the master of the Chest), Line 41.
+**[16]** *Apocryphon of John*, NHC II,1 14,9–13; Waldstein/Wisse 1995, Synopsis 36–37, pp. 83–85. The source passage on Sophia’s temporary residence and wait for correction; the game’s connection with Arona is a functional comparison.
 
-<a name="note-17"></a>
+<a name="note-17"></a><a name="note-18"></a>
 
-**[17]** Final Arc, flashback to Phrenapates’ world: Dialogue scene between Priests and Sensei (from the Priests' mention of Chroma contacting the master of the Chest), Line 42.
+**[17–18]** Main Story Part 2: Prologue, Chapter 1, Episode 2:
 
-<a name="note-18"></a>
-
-**[18]** Final Arc, flashback to Phrenapates’ world: Dialogue scene between Priests and Sensei (from the Priests' mention of Chroma contacting the master of the Chest), Line 48.
+- Notes 17–18: Lines 48, 49.
 
 <a name="note-19"></a>
 
-**[19]** Main Story Part 1: Final Arc, Chapter 1, Episode 2, Line 60.
+**[19]** Irenaeus, *Against Heresies* I.2.2. [English translation](https://www.newadvent.org/fathers/0103102.htm). This belongs to the Valentinian account.
 
 <a name="note-20"></a>
 
-**[20]** Main Story Part 1: Final Arc, Chapter 1, Episode 2, Line 62.
+**[20]** *Apocryphon of John*, NHC II,1 19,20–33 (the Mother's power entering Adam), 20,9–29 (Luminous Epinoia); Waldstein/Wisse 1995, Synopsis 52–54, pp. 115–119.
 
-<a name="note-21"></a>
+<a name="note-21"></a><a name="note-22"></a><a name="note-23"></a>
 
-**[21]** Main Story Part 1: Final Arc, Chapter 1, Episode 2, Line 63.
+**[21–23]** Final Arc, flashback to Phrenapates’ world: Dialogue scene between Priests and Sensei (from the Priests' mention of Chroma contacting the master of the Chest):
 
-<a name="note-22"></a>
+- Notes 21–23: Lines 41, 42, 48.
 
-**[22]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 19, Line 70.
+<a name="note-24"></a><a name="note-25"></a>
 
-<a name="note-23"></a>
+**[24–25]** Main Story Part 1: Final Arc, Chapter 1, Episode 2:
 
-**[23]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 19, Line 72.
+- Notes 24–25: Lines 60, 62.
 
-<a name="note-24"></a>
+<a name="note-26"></a><a name="note-27"></a>
 
-**[24]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 17.
+**[26–27]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 19:
 
-<a name="note-25"></a>
-
-**[25]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 20.
-
-<a name="note-26"></a>
-
-**[26]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 21.
-
-<a name="note-27"></a>
-
-**[27]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 23.
+- Notes 26–27: Lines 70, 72.
 
 <a name="note-28"></a>
 
-**[28]** Ptolemy, *Letter to Flora*, on the distinction between the just Creator, the supreme perfect Father, and the evil adversary. [English translation](https://www.earlychristianwritings.com/text/flora.html).
+**[28]** Special Operation: Decagrammaton Arc, Chapter 3: the scene in which the voice discusses origins and divine rules, and Aris asks Key what it means (counting from “Have you ever thought about the beginning of everything?”), Lines 16–18. Key says the conversation is related to their beginning; she does not directly identify the speaker.
 
-<a name="note-29"></a>
+<a name="note-29"></a><a name="note-30"></a><a name="note-31"></a><a name="note-32"></a><a name="note-33"></a><a name="note-34"></a><a name="note-35"></a><a name="note-43"></a><a name="note-44"></a><a name="note-45"></a><a name="note-46"></a><a name="note-67"></a><a name="note-68"></a><a name="note-69"></a><a name="note-70"></a><a name="note-71"></a><a name="note-72"></a><a name="note-73"></a><a name="note-74"></a><a name="note-75"></a><a name="note-79"></a><a name="note-80"></a><a name="note-81"></a><a name="note-82"></a><a name="note-83"></a>
 
-**[29]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death), Line 7.
+**[29–35、43–46、67–75、79–83]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"):
 
-<a name="note-30"></a>
+- Notes 29–35: Lines 127, 145, 146, 147, 38, 39, 40.
+- Notes 43–46: Lines 107, 108, 109, 110.
+- Notes 67–75: Lines 42, 64, 69, 70, 71, 73, 74, 75, 76. The voice then explains that returning to her original form means the present Tendo Aris will cease to exist, and proposes erasing others’ memories of her.
+- Notes 79–83: Lines 117, 118, 119, 120, 121.
 
-**[30]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Key and Ohr (from Ohr recognizing the "Key"), Line 17.
+<a name="note-36"></a><a name="note-37"></a><a name="note-38"></a>
 
-<a name="note-31"></a>
+**[36–38]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death):
 
-**[31]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Key and Ohr (from Ohr recognizing the "Key"), Line 18.
-
-<a name="note-32"></a>
-
-**[32]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Key and Ohr (from Ohr recognizing the "Key"), Line 19.
-
-<a name="note-33"></a>
-
-**[33]** Tripartite Tractate, Attridge/Mueller translation, Section 15, The Process of Restoration, and Section 16, Redemption of the Calling. The quoted sentence on unity is NHC I,5 132,20–28, in Section 16. [English translation](https://www.earlychristianwritings.com/text/tripartite.html).
-
-<a name="note-35"></a>
-
-**[35]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 37.
-
-<a name="note-36"></a>
-
-**[36]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 38.
-
-<a name="note-37"></a>
-
-**[37]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 39.
-
-<a name="note-38"></a>
-
-**[38]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 40.
+- Notes 36–38: Lines 3, 4, 5.
 
 <a name="note-39"></a>
 
-**[39]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 127.
+**[39]** Main Story Part 1: Final Arc, Chapter 1, Episode 15, Line 80.
 
 <a name="note-40"></a>
 
-**[40]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 145.
+**[40]** Main Story Part 1, Vol. 1 "Foreclosure Task Force," Chapter 3, Episode 33, Line 24.
 
 <a name="note-41"></a>
 
-**[41]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 146.
+**[41]** "Eden Treaty," Chapter 4 Title: Kyrie for the Forgotten Gods.
 
 <a name="note-42"></a>
 
-**[42]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 147.
-
-<a name="note-43"></a>
-
-**[43]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death), Line 3.
-
-<a name="note-44"></a>
-
-**[44]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death), Line 4.
-
-<a name="note-45"></a>
-
-**[45]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death), Line 5.
-
-<a name="note-46"></a>
-
-**[46]** Main Story Part 1: Final Arc, Chapter 1, Episode 15, Line 80.
+**[42]** "Eden Treaty," Chapter 4, Episodes 23 & 24 Titles: Kyrie for the Girls (1) and (2).
 
 <a name="note-47"></a>
 
-**[47]** Main Story Part 1, Vol. 1 "Foreclosure Task Force," Chapter 3, Episode 33, Line 24.
+**[47]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 3 and 5: banishing the Forgotten Gods from all possibilities and granting them the same fate as the Nameless Gods.
 
 <a name="note-48"></a>
 
-**[48]** "Eden Treaty," Chapter 4 Title: Kyrie for the Forgotten Gods.
+**[48]** Main Story Part 1, Final Arc, Chapter 3, Episode 6, “The Ship of Utnapishtim (1),” dialogue entries 82, 84–85, and 91. Key explains that the ship is an anti-Ark decisive weapon built by ancient enemies and warns that it will attack the Princess of the Nameless Gods. Entry 83 in the same scene says that this weapon has never been used before; this supports discussion of ancient military hostility, not a claim that this ship has already seen combat. Key does not directly identify the enemies here as the Forgotten Gods; that connection is an interpretation made together with the Priests' declaration.
 
 <a name="note-49"></a>
 
-**[49]** "Eden Treaty," Chapter 4, Episodes 23 & 24 Titles: Kyrie for the Girls (1) and (2).
+**[49]** Apocryphon of John, Frederik Wisse translation: the consecutive passages on Yaldabaoth calling himself God through his mother’s light, disobeying his source, and declaring himself the sole and jealous God, from “But Yaltabaoth had a multitude of faces” to “of whom would he be jealous?” [Translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
 
 <a name="note-50"></a>
 
-**[50]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 107.
+**[50]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 10–13: the “products of the Forgotten Gods,” followed by the Shittim Chest, the Rod of Shaked, and Sanctum Tower.
 
 <a name="note-51"></a>
 
-**[51]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 108.
+**[51]** Part 1 Prologue, Chapter 1, Episode 2, when Rin hands the Shittim Chest to Sensei; the line beginning “Yes. This is what the General Student Council President left for you.”
 
 <a name="note-52"></a>
 
-**[52]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 109.
+**[52]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: the full reply beginning “Negative. I am an OS resident in the Shittim Chest,” after Sensei asks about the Rod of Shaked.
 
 <a name="note-53"></a>
 
-**[53]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 110.
+**[53]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: Plana’s explanation in the same scene of remotely operating Sanctum Tower and the identification information defined in the President’s name.
 
-<a name="note-54"></a>
+<a name="note-54"></a><a name="note-55"></a><a name="note-56"></a>
 
-**[54]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 13, Line 59.
+**[54–56]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 13:
 
-<a name="note-55"></a>
-
-**[55]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 13, Line 60.
-
-<a name="note-56"></a>
-
-**[56]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 13, Line 61.
+- Notes 54–56: Lines 59, 60, 61.
 
 <a name="note-57"></a>
 
@@ -1071,204 +904,36 @@ Dialogue numbers are counted based on the sequential order of dialogue lines, pl
 
 <a name="note-58"></a>
 
-**[58]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20, Line 92.
+**[58]** Tripartite Tractate, Attridge/Mueller translation, Section 15, The Process of Restoration, and Section 16, Redemption of the Calling. The quoted sentence on unity is NHC I,5 132,20–28, in Section 16. [English translation](https://www.earlychristianwritings.com/text/tripartite.html).
 
-<a name="note-59"></a>
+<a name="note-59"></a><a name="note-60"></a><a name="note-61"></a><a name="note-62"></a><a name="note-63"></a>
 
-**[59]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20, Line 93.
+**[59–63]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20:
 
-<a name="note-60"></a>
+- Notes 59–63: Lines 92, 93, 94, 95, 96.
 
-**[60]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20, Line 94.
+<a name="note-64"></a><a name="note-65"></a><a name="note-66"></a>
 
-<a name="note-61"></a>
+**[64–66]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Key and Ohr (from Ohr recognizing the "Key"):
 
-**[61]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20, Line 95.
+- Notes 64–66: Lines 17, 18, 19.
 
-<a name="note-62"></a>
+<a name="note-76"></a><a name="note-77"></a><a name="note-78"></a>
 
-**[62]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20, Line 96.
+**[76–78]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 4, Episode 25:
 
-<a name="note-63"></a>
+- Notes 76–78: Lines 74, 75, 100.
 
-**[63]** [Ecclesiastes 12:7](https://www.biblegateway.com/verse/en/Ecclesiastes%2012%3A7) speaks of the spirit of life returning to its giver; [John 17:5](https://www.biblegateway.com/verse/en/John%2017%3A5) specifically speaks of Jesus’ glory before creation. This paper does not treat these as the same terminological system as Divine Spark / Pleroma.
+<a name="note-84"></a><a name="note-85"></a>
 
-<a name="note-64"></a>
+**[84–85]** Main Story Part 1: Final Arc, Chapter 2, Episode 1:
 
-**[64]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 120.
+- Notes 84–85: Lines 39, 40.
 
-<a name="note-65"></a>
+<a name="note-86"></a><a name="note-87"></a><a name="note-88"></a><a name="note-89"></a>
 
-**[65]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 121.
+**[86–89]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23:
 
-<a name="note-66"></a>
-
-**[66]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 136.
-
-<a name="note-67"></a>
-
-**[67]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 137.
-
-<a name="note-68"></a>
-
-**[68]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 138.
-
-<a name="note-69"></a>
-
-**[69]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 21, Line 139.
-
-<a name="note-70"></a>
-
-**[70]** Main Story Part 1: Final Arc, Chapter 3, Episode 12, Line 47.
-
-<a name="note-71"></a>
-
-**[71]** Main Story Part 1: Final Arc, Chapter 3, Episode 12, Line 48.
-
-<a name="note-72"></a>
-
-**[72]** Main Story Part 1: Final Arc, Chapter 3, Episode 12, Line 49.
-
-<a name="note-73"></a>
-
-**[73]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 64.
-
-<a name="note-74"></a>
-
-**[74]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 69.
-
-<a name="note-75"></a>
-
-**[75]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 70.
-
-<a name="note-76"></a>
-
-**[76]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 71.
-
-<a name="note-77"></a>
-
-**[77]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 73.
-
-<a name="note-78"></a>
-
-**[78]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 74.
-
-<a name="note-79"></a>
-
-**[79]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 75.
-
-<a name="note-80"></a>
-
-**[80]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 76.
-
-<a name="note-81"></a>
-
-**[81]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 4, Episode 25, Line 74.
-
-<a name="note-82"></a>
-
-**[82]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 4, Episode 25, Line 75.
-
-<a name="note-83"></a>
-
-**[83]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 4, Episode 25, Line 100.
-
-<a name="note-84"></a>
-
-**[84]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 117.
-
-<a name="note-85"></a>
-
-**[85]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 118.
-
-<a name="note-86"></a>
-
-**[86]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 119.
-
-<a name="note-87"></a>
-
-**[87]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 120.
-
-<a name="note-88"></a>
-
-**[88]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"), Line 121.
-
-<a name="note-89"></a>
-
-**[89]** Main Story Part 1: Final Arc, Chapter 2, Episode 1, Line 39.
-
-<a name="note-90"></a>
-
-**[90]** Main Story Part 1: Final Arc, Chapter 2, Episode 1, Line 40.
-
-<a name="note-91"></a>
-
-**[91]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 139.
-
-<a name="note-92"></a>
-
-**[92]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 140.
-
-<a name="note-93"></a>
-
-**[93]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 141.
-
-<a name="note-94"></a>
-
-**[94]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23, Line 142.
-
-
-<a name="note-95"></a>
-
-**[95]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. Quotation from this English translation.
-
-<a name="note-96"></a>
-
-**[96]** [Chinese Manichaean Hymn Scroll](https://zh.wikisource.org/wiki/下部讚), S.2659, prayer for offerings on behalf of the deceased, beginning with the deceased’s luminous nature leaving the body. Quotation translated from the Chinese text.
-
-<a name="note-98"></a>
-
-**[98]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese text, not Wang Bi’s commentary.
-
-<a name="note-99"></a>
-
-**[99]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. Context: 13:11–16; also 11:13–16 and 12:22. Quotation translated from the Chinese passage.
-
-<a name="note-102"></a>
-
-**[102]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; The separate passages describing the absence of suffering and urging the vow for rebirth. Quotations translated from Kumārajīva’s Chinese text, not the Tibetan version.
-
-
-<a name="note-103"></a>
-
-**[103]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 10–13: the “products of the Forgotten Gods,” followed by the Shittim Chest, the Rod of Shaked, and Sanctum Tower.
-
-<a name="note-104"></a>
-
-**[104]** Part 1 Prologue, Chapter 1, Episode 2, when Rin hands the Shittim Chest to Sensei; the line beginning “Yes. This is what the General Student Council President left for you.”
-
-<a name="note-105"></a>
-
-**[105]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: the full reply beginning “Negative. I am an OS resident in the Shittim Chest,” after Sensei asks about the Rod of Shaked.
-
-<a name="note-106"></a>
-
-**[106]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: Plana’s explanation in the same scene of remotely operating Sanctum Tower and the identification information defined in the President’s name.
-
-<a name="note-107"></a>
-
-**[107]** Apocryphon of John, Frederik Wisse translation: the consecutive passages on Yaldabaoth calling himself God through his mother’s light, disobeying his source, and declaring himself the sole and jealous God, from “But Yaltabaoth had a multitude of faces” to “of whom would he be jealous?” [Translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
-
-<a name="note-108"></a>
-
-**[108]** The attribution problem concerning Sanctum Tower remains: in the Final Arc, Chapter 2, Episode 1, Black Suit traces the tower technology to the Nameless Gods, while the Priests list Sanctum Tower as a product of the Forgotten Gods. This section uses their list to show the President’s connection with that legacy, without concluding that the technology’s origin has been resolved or that the President personally created the three relics.
-
-<a name="note-109"></a>
-
-**[109]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 3 and 5: banishing the Forgotten Gods from all possibilities and granting them the same fate as the Nameless Gods.
-
-<a name="note-110"></a>
-
-**[110]** Main Story Part 1, Final Arc, Chapter 3, Episode 6, “The Ship of Utnapishtim (1),” dialogue entries 82, 84–85, and 91. Key explains that the ship is an anti-Ark decisive weapon built by ancient enemies and warns that it will attack the Princess of the Nameless Gods. Entry 83 in the same scene says that this weapon has never been used before; this supports discussion of ancient military hostility, not a claim that this ship has already seen combat. Key does not directly identify the enemies here as the Forgotten Gods; that connection is an interpretation made together with the Priests' declaration.
+- Notes 86–89: Lines 139, 140, 141, 142.
 
 </details>

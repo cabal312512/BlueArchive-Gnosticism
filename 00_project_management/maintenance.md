@@ -59,6 +59,8 @@ python 03_tools/atlas.py --export scratch/atlas-data.json
 
 ## DeepSeek与发布
 
+GitHub服务操作优先使用已连接的GitHub插件，包括读取远端、创建提交和发布。先发现并检查插件能力；仅在所需能力缺失时使用其他方式。本地Git用于差异检查、版本管理和验证同步状态，不默认走命令行认证或推送。
+
 DeepSeek只辅助耗时的内部资料工作，提供资料副本、只读且关闭Shell与write/edit；报告核事实与定位，不为报告润色。主助手自己决定如何改读者文档。独立入口F:/DeepSeekHarness/Invoke-DeepSeek.ps1，项目入口deepseek/Invoke-Review.ps1与Follow-Up.ps1，完整规范见[deepseek/README.md](../deepseek/README.md)。凭据、运行时、输入副本、输出、日志和缓存全部留F盘独立目录，不进Git、不落C盘。
 
 发布前检查实际改动清单和.gitignore；note/及专用导出报告、Trash、原始客户端数据、下载原典和运行凭据继续排除。可公开的压缩检索库与可读语料保留。不要强制覆盖远端或重写作者并行修改；发布后核对远端与本地状态。

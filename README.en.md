@@ -30,7 +30,7 @@ This is a personal study of the connections between the story of *Blue Archive* 
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:</p>
-<blockquote><p>I wrote most of this myself. The AI did a poor job of writing it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
+<blockquote><p>I wrote almost all of this myself. The AI did a poor job of writing it. I will keep updating it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
 <blockquote><p>Explains the terms and literature mentioned in the paper for readers new to the subject.</p></blockquote>
@@ -97,4 +97,4 @@ The local commits and tags from before the upload are preserved in full in the [
 
 ## License
 
-The project's original writing, research notes, and code are released under [CC0 1.0 Universal](LICENSE). Game text, third-party literature, and external data retain their respective rights and sources; this project's CC0 declaration does not change them.
+The project's original writing, research notes, and code are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). When sharing or adapting this material, credit cabal312512 and [this project](https://github.com/cabal312512/BlueArchive-Gnosticism), provide a [license link](https://creativecommons.org/licenses/by/4.0/), and indicate whether changes were made. Game text, third-party literature, and external data retain their respective rights and sources and are not relicensed by this project. Versions previously released under CC0 are unaffected by this change.

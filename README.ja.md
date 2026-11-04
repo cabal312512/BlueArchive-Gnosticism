@@ -30,7 +30,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：</p>
-<blockquote><p>大部分は自分で書きました。AIが書いた文章はひどかったです。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
+<blockquote><p>ほぼ全部自分で書きました。AIが書いた文章はひどかったです。今後も更新していきます。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：</p>
 <blockquote><p>この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p></blockquote>
@@ -97,4 +97,4 @@ python 03_tools/search.py --test
 
 ## ライセンス
 
-本プロジェクトのオリジナルの文章、考察・整理した内容、およびコードは[CC0 1.0 Universal](LICENSE)で公開しています。ゲーム内テキスト、第三者の文献、外部データについては、それぞれの権利と出典が維持され、本プロジェクトのCC0宣言によって変更されることはありません。
+本プロジェクトのオリジナルの文章、考察・整理した内容、およびコードは、[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE)で公開しています。転載・改変の際は、作者 cabal312512 と[本プロジェクト](https://github.com/cabal312512/BlueArchive-Gnosticism)を出典として明記し、[ライセンスへのリンク](https://creativecommons.org/licenses/by/4.0/)を添え、変更の有無を示してください。ゲーム内テキスト、第三者の文献、外部データはそれぞれの権利と出典を維持し、本プロジェクトのライセンスによって再許諾されるものではありません。以前CC0で公開したバージョンは、この変更の影響を受けません。

@@ -34,7 +34,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_full.md">论文全文</a></strong>：</p>
-<blockquote><p>这个大部分是我自己写的，AI写的很不好。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
+<blockquote><p>这个几乎全是我自己写的，AI写的很不好，会持续更新。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
 <blockquote><p>面向初次接触相关概念的读者，解释文中的名词与文献。</p></blockquote>
@@ -101,4 +101,4 @@ python 03_tools/search.py --test
 
 ## 许可
 
-本项目原创文字、研究整理和代码采用[CC0 1.0 Universal](LICENSE)。游戏文本、第三方文献及外部数据保留各自的权利与来源，不因本项目的CC0声明而改变。
+本项目原创文字、研究整理和代码采用[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE)。转载或改编时，请注明作者 cabal312512 和[项目来源](https://github.com/cabal312512/BlueArchive-Gnosticism)、附上[许可链接](https://creativecommons.org/licenses/by/4.0/)，并说明是否作过修改。游戏文本、第三方文献及外部数据保留各自的权利与来源，不受本项目许可重新授权。此前已按CC0发布的版本不受本次更改影响。

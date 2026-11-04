@@ -30,7 +30,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ko.md">논문 전문</a></strong>:</p>
-<blockquote><p>대부분 제가 직접 썼습니다. AI가 쓴 글은 좋지 않았습니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.</p></blockquote>
+<blockquote><p>거의 전부 제가 직접 썼습니다. AI가 쓴 글은 좋지 않았습니다. 계속 업데이트할 예정입니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ko.md">용어 설명</a></strong>:</p>
 <blockquote><p>이 분야를 처음 접하는 분들을 위해 본문에 나오는 용어와 문헌을 설명합니다.</p></blockquote>
@@ -97,4 +97,4 @@ python 03_tools/search.py --test
 
 ## 라이선스
 
-이 프로젝트의 창작 글, 연구·정리 내용 및 코드는 [CC0 1.0 Universal](LICENSE)로 공개합니다. 게임 텍스트, 제3자 문헌, 외부 데이터의 권리와 출처는 각각 유지되며, 이 프로젝트의 CC0 선언으로 바뀌지 않습니다.
+이 프로젝트의 창작 글, 연구·정리 내용 및 코드는 [Creative Commons Attribution 4.0 International(CC BY 4.0)](LICENSE)에 따라 공개합니다. 재배포하거나 수정할 때는 저자 cabal312512와 [이 프로젝트](https://github.com/cabal312512/BlueArchive-Gnosticism)를 출처로 밝히고, [라이선스 링크](https://creativecommons.org/licenses/by/4.0/)를 제공하며, 수정 여부를 표시해 주세요. 게임 텍스트, 제3자 문헌 및 외부 데이터의 권리와 출처는 각각 유지되며, 이 프로젝트의 라이선스로 새롭게 이용을 허락하는 대상이 아닙니다. 이전에 CC0로 공개된 버전은 이번 변경의 영향을 받지 않습니다.

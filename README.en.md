@@ -14,7 +14,7 @@
 
 This is a personal study of the connections between the story of *Blue Archive* and the cosmology of Gnosticism. It discusses the Gnostic mythological prototypes corresponding to the General Student Council President, Sensei, the Nameless Gods, the Nameless Priests, and the Forgotten Gods.
 
-> These are just my own rambling thoughts and personal views. My thinking jumps around, and I used a lot of AI, so there will be plenty of inaccuracies.
+> These are just my own rambling thoughts and personal views. My thinking jumps around, and I used AI assistance, so there will be plenty of inaccuracies and things I haven't thought through. Corrections are very welcome. I'd be really happy if anyone were willing to give it a read!
 
 > Why connect Blue Archive with Gnosticism? Start with this [short explanation](rationale/why_gnosticism_en.md).
 

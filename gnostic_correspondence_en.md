@@ -34,11 +34,11 @@ The Chinese Manichaean Hymn Scroll says in a prayer for the deceased:
 
 Here the World of Light is called its birthplace; liberation means the luminous nature’s return to the world to which it originally belonged.
 
-Dao De Jing says:
+Chapter 20 of Dao De Jing says:
 
-> The myriad things each return to their root. Returning to the root is called stillness; this is called returning to one’s destiny.<sup><a href="#note-3">3</a></sup>
+> The people are merry, as if enjoying a sacrificial feast or climbing a terrace in spring. … I alone differ from others, and value being nourished by the Mother.<sup><a href="#note-3">3</a></sup>
 
-The concern here is not only how all things grow, but also how they return to their root.
+Here the merriment of others is contrasted with the speaker’s own choice: “being nourished by the Mother” means drawing nourishment from the Dao that gives life to all things. Rather than pursuing worldly pleasures, prestige, and gain, the speaker places greater value on the foundation of life.
 
 Hebrews in the Bible says:
 
@@ -759,7 +759,7 @@ This clearly makes for a poor correspondence, even if it uses divine self-procla
 
 <a name="note-3"></a>
 
-**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章), Wang Bi edition, Chapter 16.
+**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#二十章), Wang Bi edition, Chapter 20 and Wang Bi’s commentary.
 
 <a name="note-4"></a>
 

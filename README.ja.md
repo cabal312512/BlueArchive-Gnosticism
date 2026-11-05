@@ -30,7 +30,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：</p>
-<blockquote><p>ほぼ全部自分で書きました。AIが書いた文章はひどかったです。今後も更新していきます。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
+<blockquote><p>ほぼ全部自分で書きました。今後も更新していきます。中心となる考えはすべてここにまとめてあるので、これだけ読めば十分です。それ以外の文書はすべてAIが書いたものです。</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ja.md">用語解説</a></strong>：</p>
 <blockquote><p>この分野に初めて触れる方に向けて、本文に出てくる用語や文献を説明しています。</p></blockquote>

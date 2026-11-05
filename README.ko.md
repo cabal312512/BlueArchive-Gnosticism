@@ -30,7 +30,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ko.md">논문 전문</a></strong>:</p>
-<blockquote><p>거의 전부 제가 직접 썼습니다. AI가 쓴 글은 좋지 않았습니다. 계속 업데이트할 예정입니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.</p></blockquote>
+<blockquote><p>거의 전부 제가 직접 썼습니다. 계속 업데이트할 예정입니다. 핵심 생각은 모두 여기에 정리되어 있으니 이것만 읽으면 됩니다. 다른 문서들은 전부 AI가 썼습니다.</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_ko.md">용어 설명</a></strong>:</p>
 <blockquote><p>이 분야를 처음 접하는 분들을 위해 본문에 나오는 용어와 문헌을 설명합니다.</p></blockquote>

@@ -30,7 +30,7 @@ This is a personal study of the connections between the story of *Blue Archive* 
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:</p>
-<blockquote><p>I wrote almost all of this myself. The AI did a poor job of writing it. I will keep updating it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
+<blockquote><p>I wrote almost all of this myself. I will keep updating it. All the main ideas are collected here, so this is the only file you need to read; all the other documents were written by AI.</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY_en.md">Glossary</a></strong>:</p>
 <blockquote><p>Explains the terms and literature mentioned in the paper for readers new to the subject.</p></blockquote>

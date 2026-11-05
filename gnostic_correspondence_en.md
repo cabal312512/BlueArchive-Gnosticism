@@ -722,7 +722,7 @@ Yet the Priests list Sanctum Tower as a product of the Forgotten Gods:
 >
 > **Nameless Priest C**：The Sanctum Tower.<sup><a href="#note-89">89</a></sup>
 
-This question of attribution may involve the inheritance of ancient technology, an earlier shared origin, or changes in the relationship between the two groups of gods over a long history. Although the Nameless Gods and the Forgotten Gods can be established as enemies, that does not prevent this point from supporting the earlier theory that places the Nameless Gods themselves and the Forgotten Gods together on the Pleroma side.
+This question of attribution may involve the inheritance of ancient technology, an earlier shared origin, or changes in the relationship between the two groups of gods over a long history. Although the Nameless Gods and the Forgotten Gods are enemies, this point can still support the earlier theory that places the Nameless Gods themselves and the Forgotten Gods together on the Pleroma side.
 
 ## 9. Why Decagrammaton Is Not Equated with Yaldabaoth
 
@@ -749,191 +749,156 @@ This clearly makes for a poor correspondence, even if it uses divine self-procla
 <details>
 <summary><strong>Notes</strong></summary>
 
-Dialogue numbers count dialogue, choices, and narration in the specified scene; line breaks within an entry are not counted separately. Within each group, note numbers correspond to the listed dialogue numbers in order.
-
 <a name="note-1"></a>
 
-**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. Quotation from this English translation.
+**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html), Grant trans., concluding passage on return and rest.
 
 <a name="note-2"></a>
 
-**[2]** [Chinese Manichaean Hymn Scroll](https://zh.wikisource.org/wiki/下部讚), S.2659, the section marked “This hymn is used to conclude vows for offerings on behalf of the deceased,” beginning “Mou Yi’s luminous nature leaves the physical body.” The Chinese article uses standard simplified characters and punctuation and does not mix in Buddhist Pure Land scripture. The quotation here is translated from the Chinese text.
+**[2]** [Chinese Manichaean Hymn Scroll](https://zh.wikisource.org/wiki/下部讚), S.2659, hymn for the deceased.
 
 <a name="note-3"></a>
 
-**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. Quotation translated from the Chinese text, not Wang Bi’s commentary.
+**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章), Wang Bi edition, Chapter 16.
 
 <a name="note-4"></a>
 
-**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. Context: 13:11–16; also 11:13–16 and 12:22. Quotation translated from the Chinese passage.
+**[4]** [Hebrews](https://www.biblegateway.com/verse/en/Hebrews%2013%3A14) 13:14; Chinese source: Chinese Union Version.
 
 <a name="note-5"></a>
 
-**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; the two passages beginning “The beings of that land” (其国众生) and “When beings hear this” (众生闻者), quoted separately. The quotations use Kumārajīva’s Chinese translation and do not mix in the Tibetan textual tradition.
+**[5]** [Amitabha Sutra](https://zh.wikisource.org/wiki/佛說阿彌陀經), Kumārajīva translation.
 
 <a name="note-6"></a><a name="note-7"></a><a name="note-8"></a>
 
-**[6–8]** Main Story Part 1: Final Arc, Chapter 3, Episode 11:
-
-- Notes 6–8: Lines 1, 2, 3.
+**[6–8]** Final Arc, Ch. 3, Ep. 11, lines 1–3.
 
 <a name="note-9"></a><a name="note-10"></a><a name="note-11"></a>
 
-**[9–11]** Main Story Part 1: Prologue, Chapter 1, Episode 1:
-
-- Notes 9–11: Lines 17, 18, 19.
+**[9–11]** Part 1 Prologue, Ch. 1, Ep. 1, lines 17–19.
 
 <a name="note-12"></a>
 
-**[12]** *Apocryphon of John*, NHC II,1 9,25–10,14 (Sophia's action and deficiency); pp. 10–13 (Yaldabaoth and powers). Four-manuscript synopsis following Waldstein/Wisse 1995. [Wisse’s composite English translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
+**[12]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html), NHC II,1 9,25–10,14 and pp. 10–13.
 
 <a name="note-13"></a><a name="note-14"></a><a name="note-15"></a>
 
-**[13–15]** Main Story Part 1: Final Arc, Chapter 4, Episode 12:
-
-- Notes 13–15: Lines 18, 19, 20.
+**[13–15]** Final Arc, Ch. 4, Ep. 12, lines 18–20.
 
 <a name="note-16"></a>
 
-**[16]** *Apocryphon of John*, NHC II,1 14,9–13; Waldstein/Wisse 1995, Synopsis 36–37, pp. 83–85. The source passage on Sophia’s temporary residence and wait for correction; the game’s connection with Arona is a functional comparison.
+**[16]** Apocryphon of John, NHC II,1 14,9–13; Waldstein/Wisse 1995, pp. 83–85.
 
 <a name="note-17"></a><a name="note-18"></a>
 
-**[17–18]** Main Story Part 2: Prologue, Chapter 1, Episode 2:
-
-- Notes 17–18: Lines 48, 49.
+**[17–18]** Part 2 Prologue, Ch. 1, Ep. 2, lines 48–49.
 
 <a name="note-19"></a>
 
-**[19]** Irenaeus, *Against Heresies* I.2.2. [English translation](https://www.newadvent.org/fathers/0103102.htm). This belongs to the Valentinian account.
+**[19]** [Irenaeus, Against Heresies](https://www.newadvent.org/fathers/0103102.htm) I.2.2.
 
 <a name="note-20"></a>
 
-**[20]** *Apocryphon of John*, NHC II,1 19,20–33 (the Mother's power entering Adam), 20,9–29 (Luminous Epinoia); Waldstein/Wisse 1995, Synopsis 52–54, pp. 115–119.
+**[20]** Apocryphon of John, NHC II,1 19,20–33; 20,9–29.
 
 <a name="note-21"></a><a name="note-22"></a><a name="note-23"></a>
 
-**[21–23]** Final Arc, flashback to Phrenapates’ world: Dialogue scene between Priests and Sensei (from the Priests' mention of Chroma contacting the master of the Chest):
-
-- Notes 21–23: Lines 41, 42, 48.
+**[21–23]** PHT Showdown, Ep. 6, lines 47, 48, 54.
 
 <a name="note-24"></a><a name="note-25"></a>
 
-**[24–25]** Main Story Part 1: Final Arc, Chapter 1, Episode 2:
-
-- Notes 24–25: Lines 60, 62.
+**[24–25]** Final Arc, Ch. 1, Ep. 2, lines 60, 62.
 
 <a name="note-26"></a><a name="note-27"></a>
 
-**[26–27]** Special Operation: Decagrammaton Arc, Chapter 2, Episode 19:
-
-- Notes 26–27: Lines 70, 72.
+**[26–27]** Decagrammaton Arc, Ch. 2, Ep. 19, lines 70, 72.
 
 <a name="note-28"></a>
 
-**[28]** Special Operation: Decagrammaton Arc, Chapter 3: the scene in which the voice discusses origins and divine rules, and Aris asks Key what it means (counting from “Have you ever thought about the beginning of everything?”), Lines 16–18. Key says the conversation is related to their beginning; she does not directly identify the speaker.
+**[28]** Steel Continent Assault, Ep. 22, lines 63–65.
 
 <a name="note-29"></a><a name="note-30"></a><a name="note-31"></a><a name="note-32"></a><a name="note-33"></a><a name="note-34"></a><a name="note-35"></a><a name="note-43"></a><a name="note-44"></a><a name="note-45"></a><a name="note-46"></a><a name="note-67"></a><a name="note-68"></a><a name="note-69"></a><a name="note-70"></a><a name="note-71"></a><a name="note-72"></a><a name="note-73"></a><a name="note-74"></a><a name="note-75"></a><a name="note-79"></a><a name="note-80"></a><a name="note-81"></a><a name="note-82"></a><a name="note-83"></a>
 
-**[29–35、43–46、67–75、79–83]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Aris, Key, and the Soft Voice (from "You have finally arrived here"):
-
-- Notes 29–35: Lines 127, 145, 146, 147, 38, 39, 40.
-- Notes 43–46: Lines 107, 108, 109, 110.
-- Notes 67–75: Lines 42, 64, 69, 70, 71, 73, 74, 75, 76. The voice then explains that returning to her original form means the present Tendo Aris will cease to exist, and proposes erasing others’ memories of her.
-- Notes 79–83: Lines 117, 118, 119, 120, 121.
+**[29–35、43–46、67–75、79–83]** Steel Continent Assault, Ep. 29, lines 149, 167–169, 60–62; 129–132; 64, 86, 91–93, 95–98; 139–143.
 
 <a name="note-36"></a><a name="note-37"></a><a name="note-38"></a>
 
-**[36–38]** Final Arc, flashback to Phrenapates’ world: Scene where Nameless Priests contact Shiroko (from the Priests' mention of Chroma contacting the God of Death):
-
-- Notes 36–38: Lines 3, 4, 5.
+**[36–38]** PHT Showdown, Ep. 3 (Shiroko flashback), lines 43–45.
 
 <a name="note-39"></a>
 
-**[39]** Main Story Part 1: Final Arc, Chapter 1, Episode 15, Line 80.
+**[39]** Final Arc, Ch. 1, Ep. 15, lines 80.
 
 <a name="note-40"></a>
 
-**[40]** Main Story Part 1, Vol. 1 "Foreclosure Task Force," Chapter 3, Episode 33, Line 24.
+**[40]** Foreclosure Task Force Arc, Ch. 3, Ep. 33, lines 24.
 
 <a name="note-41"></a>
 
-**[41]** "Eden Treaty," Chapter 4 Title: Kyrie for the Forgotten Gods.
+**[41]** Eden Treaty Arc, Chapter 4 title.
 
 <a name="note-42"></a>
 
-**[42]** "Eden Treaty," Chapter 4, Episodes 23 & 24 Titles: Kyrie for the Girls (1) and (2).
+**[42]** Eden Treaty Arc, Ch. 4, Ep. 23–24 titles.
 
 <a name="note-47"></a>
 
-**[47]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 3 and 5: banishing the Forgotten Gods from all possibilities and granting them the same fate as the Nameless Gods.
+**[47]** Decagrammaton Arc, Ch. 3, Ep. 23, lines 132, 134.
 
 <a name="note-48"></a>
 
-**[48]** Main Story Part 1, Final Arc, Chapter 3, Episode 6, “The Ship of Utnapishtim (1),” dialogue entries 82, 84–85, and 91. Key explains that the ship is an anti-Ark decisive weapon built by ancient enemies and warns that it will attack the Princess of the Nameless Gods. Entry 83 in the same scene says that this weapon has never been used before; this supports discussion of ancient military hostility, not a claim that this ship has already seen combat. Key does not directly identify the enemies here as the Forgotten Gods; that connection is an interpretation made together with the Priests' declaration.
+**[48]** Final Arc, Ch. 3, Ep. 6, lines 82, 84–85, 91.
 
 <a name="note-49"></a>
 
-**[49]** Apocryphon of John, Frederik Wisse translation: the consecutive passages on Yaldabaoth calling himself God through his mother’s light, disobeying his source, and declaring himself the sole and jealous God, from “But Yaltabaoth had a multitude of faces” to “of whom would he be jealous?” [Translation](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
+**[49]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html), Wisse trans., passage beginning “But Yaltabaoth had a multitude of faces.”
 
 <a name="note-50"></a>
 
-**[50]** Special Operation: Decagrammaton, Chapter 3, Episode 23, closing declaration of the Priests (beginning “The Key is gone”), dialogue entries 10–13: the “products of the Forgotten Gods,” followed by the Shittim Chest, the Rod of Shaked, and Sanctum Tower.
+**[50]** Decagrammaton Arc, Ch. 3, Ep. 23, lines 139–142.
 
 <a name="note-51"></a>
 
-**[51]** Part 1 Prologue, Chapter 1, Episode 2, when Rin hands the Shittim Chest to Sensei; the line beginning “Yes. This is what the General Student Council President left for you.”
+**[51]** Part 1 Prologue, Ch. 1, Ep. 2, lines 22.
 
 <a name="note-52"></a>
 
-**[52]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: the full reply beginning “Negative. I am an OS resident in the Shittim Chest,” after Sensei asks about the Rod of Shaked.
+**[52]** Part 2 Prologue, Ch. 1, Ep. 7, lines 38.
 
 <a name="note-53"></a>
 
-**[53]** Part 2 Prologue (Vol.0), Chapter 1, Episode 7: Plana’s explanation in the same scene of remotely operating Sanctum Tower and the identification information defined in the President’s name.
+**[53]** Part 2 Prologue, Ch. 1, Ep. 7, lines 43.
 
 <a name="note-54"></a><a name="note-55"></a><a name="note-56"></a>
 
-**[54–56]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 13:
-
-- Notes 54–56: Lines 59, 60, 61.
+**[54–56]** Decagrammaton Arc, Ch. 3, Ep. 13, lines 59–61.
 
 <a name="note-57"></a>
 
-**[57]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 3, Episode 1, Line 14.
+**[57]** Eden Treaty Arc, Ch. 3, Ep. 1, lines 14.
 
 <a name="note-58"></a>
 
-**[58]** Tripartite Tractate, Attridge/Mueller translation, Section 15, The Process of Restoration, and Section 16, Redemption of the Calling. The quoted sentence on unity is NHC I,5 132,20–28, in Section 16. [English translation](https://www.earlychristianwritings.com/text/tripartite.html).
+**[58]** [Tripartite Tractate](https://www.earlychristianwritings.com/text/tripartite.html), Attridge/Mueller trans., §§15–16; NHC I,5 132,20–28.
 
 <a name="note-59"></a><a name="note-60"></a><a name="note-61"></a><a name="note-62"></a><a name="note-63"></a>
 
-**[59–63]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 20:
-
-- Notes 59–63: Lines 92, 93, 94, 95, 96.
+**[59–63]** Decagrammaton Arc, Ch. 3, Ep. 20, lines 92–96.
 
 <a name="note-64"></a><a name="note-65"></a><a name="note-66"></a>
 
-**[64–66]** Special Operation: Decagrammaton Arc, Chapter 3: Dialogue scene between Key and Ohr (from Ohr recognizing the "Key"):
-
-- Notes 64–66: Lines 17, 18, 19.
+**[64–66]** Steel Continent Assault, Ep. 6, lines 32–34.
 
 <a name="note-76"></a><a name="note-77"></a><a name="note-78"></a>
 
-**[76–78]** Main Story Part 1, Vol. 3 "Eden Treaty," Chapter 4, Episode 25:
-
-- Notes 76–78: Lines 74, 75, 100.
+**[76–78]** Eden Treaty Arc, Ch. 4, Ep. 25, lines 74, 75, 100.
 
 <a name="note-84"></a><a name="note-85"></a>
 
-**[84–85]** Main Story Part 1: Final Arc, Chapter 2, Episode 1:
-
-- Notes 84–85: Lines 39, 40.
+**[84–85]** Final Arc, Ch. 2, Ep. 1, lines 39–40.
 
 <a name="note-86"></a><a name="note-87"></a><a name="note-88"></a><a name="note-89"></a>
 
-**[86–89]** Special Operation: Decagrammaton Arc, Chapter 3, Episode 23:
-
-- Notes 86–89: Lines 139, 140, 141, 142.
+**[86–89]** Decagrammaton Arc, Ch. 3, Ep. 23, lines 139–142.
 
 </details>

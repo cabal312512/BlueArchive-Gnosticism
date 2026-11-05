@@ -34,7 +34,7 @@
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_full.md">论文全文</a></strong>：</p>
-<blockquote><p>这个几乎全是我自己写的，AI写的很不好，会持续更新。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
+<blockquote><p>这个几乎全是我亲笔写的，会持续更新。核心观点都总结在这里，只看这个就行，其他的文档全是AI写的。</p></blockquote>
 
 <p><sub>02</sub>&nbsp;&nbsp;<strong><a href="glossary/GNOSTIC_GLOSSARY.md">术语说明</a></strong>：</p>
 <blockquote><p>面向初次接触相关概念的读者，解释文中的名词与文献。</p></blockquote>

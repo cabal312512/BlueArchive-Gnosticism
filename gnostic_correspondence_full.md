@@ -738,7 +738,7 @@ Tripartite Tractate在谈到Christ的国度与得救者的安息时说：
 >
 > **无名祭司C**：圣所之塔。<sup><a href="#note-89">89</a></sup>
 
-这一归属问题可能关涉到古代技术的继承、更早时期的共同起源，或是两类诸神关系在漫长历史中的演变之类的。虽说可以确定无名众神和被遗忘的诸神是敌对关系，但也不妨碍这一点正好辅助之前把无名众神本体和被遗忘的诸神一起归类到Pleroma一侧的理论。
+这一归属问题可能关涉到古代技术的继承、更早时期的共同起源，或是两类诸神关系在漫长历史中的演变之类的。虽说无名众神和被遗忘的诸神是敌对关系，但也不妨碍这一点正好可以辅助之前的把无名众神本体和被遗忘的诸神一起归类到Pleroma一侧的理论。
 
 
 ## 九、为什么不将Decagrammaton对应为Yaldabaoth
@@ -768,191 +768,156 @@ Decagrammaton同样展现出强烈的神学色彩与重塑世界的企图，但�
 <details>
 <summary><strong>注释</strong></summary>
 
-台词序号按所注明场景中的对白、选项与叙述顺序计数；一条发言内的换行不另计。同组注号与所列对白序号依次对应。
-
 <a name="note-1"></a>
 
-**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. 引文为据该英译所作的中文译文。
+**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html)，Grant英译，结尾归返与安息段。
 
 <a name="note-2"></a>
 
-**[2]** [下部讚](https://zh.wikisource.org/wiki/下部讚)，S.2659，“此偈为亡者受供结愿用之”；以“某乙明性，去离肉身”开头的段落。正文用通行简体字与标点，未混用佛教净土经文。
+**[2]** [下部讚](https://zh.wikisource.org/wiki/下部讚)，S.2659，亡者结愿偈。
 
 <a name="note-3"></a>
 
-**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. 经文，非王弼注文。
+**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章)，王弼本，第16章。
 
 <a name="note-4"></a>
 
-**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. 上下文13:11–16；另参11:13–16与12:22。
+**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14) 13:14，和合本。
 
 <a name="note-5"></a>
 
-**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva; “其国众生”与“众生闻者”两段，分开引用；使用鸠摩罗什汉译，不与藏文传本混用。
+**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經)，鸠摩罗什译。
 
 <a name="note-6"></a><a name="note-7"></a><a name="note-8"></a>
 
-**[6–8]** 主线第1部·最终篇，第3章第11话：
-
-- 注6–8：第1、2、3条对白。
+**[6–8]** 最终篇第3章第11话，第1–3条对白。
 
 <a name="note-9"></a><a name="note-10"></a><a name="note-11"></a>
 
-**[9–11]** 主线第1部·序章，第1章第1话：
-
-- 注9–11：第17、18、19条对白。
+**[9–11]** 第1部序章第1章第1话，第17–19条对白。
 
 <a name="note-12"></a>
 
-**[12]** Apocryphon of John，NHC II,1 9,25–10,14（Sophia行动与缺陷）；10–13页的Yaldabaoth及权能叙述。四抄本对照以Waldstein／Wisse1995为准。[Wisse综合英译入口](https://www.earlychristianwritings.com/text/apocryphonjohn.html)。
+**[12]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html)，NHC II,1 9,25–10,14及10–13页。
 
 <a name="note-13"></a><a name="note-14"></a><a name="note-15"></a>
 
-**[13–15]** 主线第1部·最终篇，第4章第12话：
-
-- 注13–15：第18、19、20条对白。
+**[13–15]** 最终篇第4章第12话，第18–20条对白。
 
 <a name="note-16"></a>
 
-**[16]** Apocryphon of John，NHC II,1 14,9–13；Waldstein／Wisse1995，Synopsis36–37，印刷83–85页。Sophia暂居与等待修正的原典位置；游戏的阿罗娜关联属于功能比较。
+**[16]** Apocryphon of John，NHC II,1 14,9–13；Waldstein／Wisse 1995，第83–85页。
 
 <a name="note-17"></a><a name="note-18"></a>
 
-**[17–18]** 主线第2部·序章，第1章第2话：
-
-- 注17–18：第48、49条对白。
+**[17–18]** 第2部序章第1章第2话，第48–49条对白。
 
 <a name="note-19"></a>
 
-**[19]** Irenaeus, Against Heresies I.2.2。[原文英译](https://www.newadvent.org/fathers/0103102.htm)。此条属于Valentinian叙述。
+**[19]** [Irenaeus, Against Heresies](https://www.newadvent.org/fathers/0103102.htm) I.2.2。
 
 <a name="note-20"></a>
 
-**[20]** Apocryphon of John，NHC II,1 19,20–33（母之力量进入Adam），20,9–29（Luminous Epinoia）；Waldstein／Wisse1995，Synopsis52–54，印刷115–119页。
+**[20]** Apocryphon of John，NHC II,1 19,20–33；20,9–29。
 
 <a name="note-21"></a><a name="note-22"></a><a name="note-23"></a>
 
-**[21–23]** 最终篇，普雷纳帕特斯世界的回忆：祭司与老师对话的场景（从祭司谈色彩接触箱之主起）：
-
-- 注21–23：第41、42、48条对白。
+**[21–23]** PHT决战第6话，第47、48、54条对白。
 
 <a name="note-24"></a><a name="note-25"></a>
 
-**[24–25]** 主线第1部·最终篇，第1章第2话：
-
-- 注24–25：第60、62条对白。
+**[24–25]** 最终篇第1章第2话，第60、62条对白。
 
 <a name="note-26"></a><a name="note-27"></a>
 
-**[26–27]** 特殊作战·Decagrammaton篇，第2章第19话：
-
-- 注26–27：第70、72条对白。
+**[26–27]** Decagrammaton篇第2章第19话，第70、72条对白。
 
 <a name="note-28"></a>
 
-**[28]** 特殊作战·Decagrammaton篇第3章，声音谈论起源与神的规律、爱丽丝向凯伊追问含义的场景（从“有没有想过一切的开端”起），第16–18条对白。凯伊说的是这次谈话与两人的起源有关，没有直接点明声音主人的身份。
+**[28]** 钢铁大陆攻略战第22话，第63–65条对白。
 
 <a name="note-29"></a><a name="note-30"></a><a name="note-31"></a><a name="note-32"></a><a name="note-33"></a><a name="note-34"></a><a name="note-35"></a><a name="note-43"></a><a name="note-44"></a><a name="note-45"></a><a name="note-46"></a><a name="note-67"></a><a name="note-68"></a><a name="note-69"></a><a name="note-70"></a><a name="note-71"></a><a name="note-72"></a><a name="note-73"></a><a name="note-74"></a><a name="note-75"></a><a name="note-79"></a><a name="note-80"></a><a name="note-81"></a><a name="note-82"></a><a name="note-83"></a>
 
-**[29–35、43–46、67–75、79–83]** 特殊作战·Decagrammaton篇第3章，爱丽丝、凯伊与柔和的声音交谈的场景（从“终于抵达这里了呢”起）：
-
-- 注29–35：第127、145、146、147、38、39、40条对白。
-- 注43–46：第107、108、109、110条对白。
-- 注67–75：第42、64、69、70、71、73、74、75、76条对白。随后声音说明，回归本来的姿态意味着如今的天童爱丽丝不复存在，并提出消除他人对她的记忆。
-- 注79–83：第117、118、119、120、121条对白。
+**[29–35、43–46、67–75、79–83]** 钢铁大陆攻略战第29话，第149、167–169、60–62；129–132；64、86、91–93、95–98；139–143条对白。
 
 <a name="note-36"></a><a name="note-37"></a><a name="note-38"></a>
 
-**[36–38]** 最终篇，普雷纳帕特斯世界的回忆：无名祭司接触白子的场景（从祭司谈色彩与死之神接触起）：
-
-- 注36–38：第3、4、5条对白。
+**[36–38]** PHT决战第3话（白子回想），第43–45条对白。
 
 <a name="note-39"></a>
 
-**[39]** 主线第1部·最终篇，第1章第15话，第80条对白。
+**[39]** 最终篇第1章第15话，第80条对白。
 
 <a name="note-40"></a>
 
-**[40]** 主线第1部·第1篇《对策委员会篇》，第3章第33话，第24条对白。
+**[40]** 对策委员会篇第3章第33话，第24条对白。
 
 <a name="note-41"></a>
 
-**[41]** 《伊甸条约篇》第4章章标题：为被遗忘诸神而作的Kyrie。
+**[41]** 伊甸条约篇第4章章标题。
 
 <a name="note-42"></a>
 
-**[42]** 《伊甸条约篇》第4章第23、24话标题：为少女们而作的Kyrie（1）、（2）。
+**[42]** 伊甸条约篇第4章第23–24话标题。
 
 <a name="note-47"></a>
 
-**[47]** 特殊作战·Decagrammaton篇第3章第23话，结尾祭司宣告（从“钥匙消失了”起），第3、5条对白：逐出所有可能性中的被遗忘诸神，并让其承受与无名之神相同的命运。
+**[47]** Decagrammaton篇第3章第23话，第132、134条对白。
 
 <a name="note-48"></a>
 
-**[48]** 主线第1部·最终篇，第3章第6话“乌特纳庇什廷之船（1）”，第82、84–85、91条对白。凯伊说明本船是远古敌人制造的对方舟决战兵器，并警告它会攻击无名众神的王女。同段第83条说明这件兵器过去从未使用；这里据此讨论古代战争性对抗，不将其当作本船已经参战的记录。凯伊未在此直接点名敌方为被遗忘诸神，阵营联系是结合祭司宣告作出的判断。
+**[48]** 最终篇第3章第6话，第82、84–85、91条对白。
 
 <a name="note-49"></a>
 
-**[49]** Apocryphon of John，Frederik Wisse英译，Yaldabaoth借母亲之光自称为神、不服从自身所出之处，随后宣称自己为唯一且嫉妒之神的连续段落（以“But Yaltabaoth had a multitude of faces”起，至“of whom would he be jealous?”）。[英译](https://www.earlychristianwritings.com/text/apocryphonjohn.html)。
+**[49]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html)，Wisse英译，“But Yaltabaoth had a multitude of faces”段。
 
 <a name="note-50"></a>
 
-**[50]** 特殊作战·Decagrammaton篇第3章第23话，结尾祭司宣告（从“钥匙消失了”起），第10–13条对白：先说“被遗忘诸神的产物”，随后依次列出什亭之箱、Shaked之杖、Sanctum Tower。
+**[50]** Decagrammaton篇第3章第23话，第139–142条对白。
 
 <a name="note-51"></a>
 
-**[51]** 第1部序章第1章第2话，凛将什亭之箱交给老师的场景，“是的。这就是联邦学生会长留给老师的东西”一句。
+**[51]** 第1部序章第1章第2话，第22条对白。
 
 <a name="note-52"></a>
 
-**[52]** 第2部序章（Vol.0）第1章第7话，老师询问Shaked之杖、普拉娜回答“否定。我是常驻什亭之箱的OS”起的完整对白。
+**[52]** 第2部序章第1章第7话，第38条对白。
 
 <a name="note-53"></a>
 
-**[53]** 第2部序章（Vol.0）第1章第7话，同场普拉娜解释Sanctum Tower远程操作与会长名义识别信息的对白。
+**[53]** 第2部序章第1章第7话，第43条对白。
 
 <a name="note-54"></a><a name="note-55"></a><a name="note-56"></a>
 
-**[54–56]** 特殊作战·Decagrammaton篇，第3章第13话：
-
-- 注54–56：第59、60、61条对白。
+**[54–56]** Decagrammaton篇第3章第13话，第59–61条对白。
 
 <a name="note-57"></a>
 
-**[57]** 主线第1部·第3篇《伊甸条约篇》，第3章第1话，第14条对白。
+**[57]** 伊甸条约篇第3章第1话，第14条对白。
 
 <a name="note-58"></a>
 
-**[58]** Tripartite Tractate，Attridge／Mueller英译第15节The Process of Restoration、第16节Redemption of the Calling；所引合一句为NHC I,5 132,20–28，见第16节。[英译](https://www.earlychristianwritings.com/text/tripartite.html)。
+**[58]** [Tripartite Tractate](https://www.earlychristianwritings.com/text/tripartite.html)，Attridge／Mueller英译，第15–16节；NHC I,5 132,20–28。
 
 <a name="note-59"></a><a name="note-60"></a><a name="note-61"></a><a name="note-62"></a><a name="note-63"></a>
 
-**[59–63]** 特殊作战·Decagrammaton篇，第3章第20话：
-
-- 注59–63：第92、93、94、95、96条对白。
+**[59–63]** Decagrammaton篇第3章第20话，第92–96条对白。
 
 <a name="note-64"></a><a name="note-65"></a><a name="note-66"></a>
 
-**[64–66]** 特殊作战·Decagrammaton篇第3章，凯伊与奥尔交谈的场景（从奥尔认出“钥匙”起）：
-
-- 注64–66：第17、18、19条对白。
+**[64–66]** 钢铁大陆攻略战第6话，第32–34条对白。
 
 <a name="note-76"></a><a name="note-77"></a><a name="note-78"></a>
 
-**[76–78]** 主线第1部·第3篇《伊甸条约篇》，第4章第25话：
-
-- 注76–78：第74、75、100条对白。
+**[76–78]** 伊甸条约篇第4章第25话，第74、75、100条对白。
 
 <a name="note-84"></a><a name="note-85"></a>
 
-**[84–85]** 主线第1部·最终篇，第2章第1话：
-
-- 注84–85：第39、40条对白。
+**[84–85]** 最终篇第2章第1话，第39–40条对白。
 
 <a name="note-86"></a><a name="note-87"></a><a name="note-88"></a><a name="note-89"></a>
 
-**[86–89]** 特殊作战·Decagrammaton篇，第3章第23话：
-
-- 注86–89：第139、140、141、142条对白。
+**[86–89]** Decagrammaton篇第3章第23话，第139–142条对白。
 
 </details>

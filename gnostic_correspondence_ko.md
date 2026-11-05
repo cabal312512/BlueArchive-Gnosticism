@@ -552,7 +552,7 @@ Tripartite Tractate는 Christ의 나라와 구원받은 이들의 안식에 관�
 
 > **무명사제 C**：생텀 타워.<sup><a href="#note-89">89</a></sup>
 
-이 귀속 문제는 고대 기술의 계승, 더 이전의 공통 기원, 혹은 긴 역사 속에서 두 부류 신들의 관계가 변한 일 등에 관련될 수 있다. 무명의 신들과 잊혀진 신들이 적대 관계라는 점은 확실하지만, 이 점이 앞서 무명의 신들 본체와 잊혀진 신들을 함께 Pleroma 쪽에 놓은 이론을 뒷받침하는 데 방해가 되지는 않는다.
+이 귀속 문제는 고대 기술의 계승, 더 이전의 공통 기원, 혹은 긴 역사 속에서 두 부류 신들의 관계가 변한 일 등에 관련될 수 있다. 무명의 신들과 잊혀진 신들은 적대 관계이지만, 이 점이 앞서 무명의 신들 본체와 잊혀진 신들을 함께 Pleroma 쪽에 놓은 이론을 뒷받침하는 데 방해가 되지는 않는다.
 
 ## 9. 어째서 Decagrammaton을 Yaldabaoth에 대응시키지 않는가
 
@@ -579,191 +579,156 @@ Decagrammaton 역시 강한 신학적 색채와 세계를 재구성하려는 시
 <details>
 <summary><strong>주석</strong></summary>
 
-대사 번호는 해당 장면의 대화·선택지·서술을 순서대로 센 것이다. 한 발언 안의 줄바꿈은 따로 세지 않는다. 각 묶음의 주석 번호는 나열된 대사 번호와 순서대로 대응한다.
-
 <a name="note-1"></a>
 
-**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html). Robert M. Grant; concluding passage on return and rest, followed by Pleroma. 인용은 이 영어 번역을 옮긴 것이다.
+**[1]** [Gospel of Truth](https://www.earlychristianwritings.com/text/gospeltruth.html), Grant 영역, 마지막 귀환과 안식 대목.
 
 <a name="note-2"></a>
 
-**[2]** [下部讚](https://zh.wikisource.org/wiki/下部讚), S.2659. “此偈为亡者受供结愿用之”라고 표시된 망자 공양과 결원을 위한 게송 중 “某乙明性，去离肉身”으로 시작하는 대목. 중국어 본문은 통용 간체자와 문장부호를 사용하며 불교 정토 경전과 섞지 않았다. 인용은 한문 원문을 옮겼다.
+**[2]** [下部讚](https://zh.wikisource.org/wiki/下部讚), S.2659, 망자 공양 결원 게송.
 
 <a name="note-3"></a>
 
-**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章). Chapter 16; Wang Bi version. 인용은 중국어 경문을 옮겼으며 왕필의 주석이 아니다.
+**[3]** [Dao De Jing](https://zh.wikisource.org/wiki/道德經_(王弼本)#十六章), 왕필본, 제16장.
 
 <a name="note-4"></a>
 
-**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14). 13:14; Chinese Union Version. 문맥은 13:11–16. 11:13–16과 12:22도 참조. 인용은 중국어 본문을 옮겼다.
+**[4]** [Hebrews](https://www.biblegateway.com/verse/zh/希伯来书%2013%3A14) 13:14, 중국어 원문은 화합본.
 
 <a name="note-5"></a>
 
-**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經). Kumārajīva. “其国众生”과 “众生闻者”로 시작하는 두 대목을 나누어 인용했다. 구마라집의 한역을 사용하며 티베트어 전승본과 섞지 않았다.
+**[5]** [佛說阿彌陀經](https://zh.wikisource.org/wiki/佛說阿彌陀經), 구마라집 역.
 
 <a name="note-6"></a><a name="note-7"></a><a name="note-8"></a>
 
-**[6–8]** 메인 스토리 제1부·최종편 제3장 제11화:
-
-- 주석 6–8: 제1·2·3대사.
+**[6–8]** 최종편 제3장 제11화, 제1–3대사.
 
 <a name="note-9"></a><a name="note-10"></a><a name="note-11"></a>
 
-**[9–11]** 메인 스토리 제1부·프롤로그 제1장 제1화:
-
-- 주석 9–11: 제17·18·19대사.
+**[9–11]** 제1부 프롤로그 제1장 제1화, 제17–19대사.
 
 <a name="note-12"></a>
 
-**[12]** Apocryphon of John, NHC II,1 9,25–10,14(Sophia의 행동과 결함); 10–13쪽의 Yaldabaoth 및 권능 서술. 4개 사본 대조는 Waldstein／Wisse 1995 기준. [Wisse 종합 영역 입구](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
+**[12]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html), NHC II,1 9,25–10,14 및 10–13쪽.
 
 <a name="note-13"></a><a name="note-14"></a><a name="note-15"></a>
 
-**[13–15]** 메인 스토리 제1부·최종편 제4장 제12화:
-
-- 주석 13–15: 제18·19·20대사.
+**[13–15]** 최종편 제4장 제12화, 제18–20대사.
 
 <a name="note-16"></a>
 
-**[16]** Apocryphon of John, NHC II,1 14,9–13; Waldstein／Wisse 1995, Synopsis 36–37, 인쇄본 83–85쪽. Sophia가 잠시 머물며 수정을 기다리는 원전 대목. 게임 속 아로나와의 연관은 기능적 비교에 해당함.
+**[16]** Apocryphon of John, NHC II,1 14,9–13; Waldstein／Wisse 1995, 83–85쪽.
 
 <a name="note-17"></a><a name="note-18"></a>
 
-**[17–18]** 메인 스토리 제2부·프롤로그 제1장 제2화:
-
-- 주석 17–18: 제48·49대사.
+**[17–18]** 제2부 프롤로그 제1장 제2화, 제48–49대사.
 
 <a name="note-19"></a>
 
-**[19]** Irenaeus, *Against Heresies* I.2.2. [원문 영역](https://www.newadvent.org/fathers/0103102.htm). 이 항목은 Valentinian 서술에 속함.
+**[19]** [Irenaeus, Against Heresies](https://www.newadvent.org/fathers/0103102.htm) I.2.2.
 
 <a name="note-20"></a>
 
-**[20]** Apocryphon of John, NHC II,1 19,20–33(어머니의 힘이 Adam 안으로 들어가는 대목), 20,9–29(Luminous Epinoia); Waldstein／Wisse 1995, Synopsis 52–54, 인쇄본 115–119쪽.
+**[20]** Apocryphon of John, NHC II,1 19,20–33; 20,9–29.
 
 <a name="note-21"></a><a name="note-22"></a><a name="note-23"></a>
 
-**[21–23]** 최종편, 프레나파테스 세계의 회상: 사제와 선생의 대화 장면(색채가 상자의 주인과 접촉했다는 사제의 언급부터):
-
-- 주석 21–23: 제41·42·48대사.
+**[21–23]** PHT 결전 제6화, 제47·48·54대사.
 
 <a name="note-24"></a><a name="note-25"></a>
 
-**[24–25]** 메인 스토리 제1부·최종편 제1장 제2화:
-
-- 주석 24–25: 제60·62대사.
+**[24–25]** 최종편 제1장 제2화, 제60·62대사.
 
 <a name="note-26"></a><a name="note-27"></a>
 
-**[26–27]** 특수작전·데카그라마톤 편 제2장 제19화:
-
-- 주석 26–27: 제70·72대사.
+**[26–27]** 데카그라마톤 편 제2장 제19화, 제70·72대사.
 
 <a name="note-28"></a>
 
-**[28]** 특수작전·데카그라마톤 편 제3장, 목소리가 기원과 신의 규율을 말하고 아리스가 케이에게 그 의미를 묻는 장면(“모든 것의 시작에 관해 생각해 본 적이 있나요?”부터), 제16~18대사. 케이는 이 대화가 두 사람의 시작과 관련되어 있다고 말했으며, 목소리의 정체를 직접 밝힌 것은 아니다.
+**[28]** 강철대륙 공략전 제22화, 제63–65대사.
 
 <a name="note-29"></a><a name="note-30"></a><a name="note-31"></a><a name="note-32"></a><a name="note-33"></a><a name="note-34"></a><a name="note-35"></a><a name="note-43"></a><a name="note-44"></a><a name="note-45"></a><a name="note-46"></a><a name="note-67"></a><a name="note-68"></a><a name="note-69"></a><a name="note-70"></a><a name="note-71"></a><a name="note-72"></a><a name="note-73"></a><a name="note-74"></a><a name="note-75"></a><a name="note-79"></a><a name="note-80"></a><a name="note-81"></a><a name="note-82"></a><a name="note-83"></a>
 
-**[29–35、43–46、67–75、79–83]** 특수작전·데카그라마톤 편 제3장, 아리스와 케이가 부드러운 목소리와 대화하는 장면("드디어 여기까지 도달했군요"부터):
-
-- 주석 29–35: 제127·145·146·147·38·39·40대사.
-- 주석 43–46: 제107·108·109·110대사.
-- 주석 67–75: 제42·64·69·70·71·73·74·75·76대사. 이후 목소리는 본래 모습으로 돌아가면 지금의 텐도 아리스가 사라진다고 설명하고, 다른 이들에게서 아리스에 관한 기억을 지울 것을 제안한다.
-- 주석 79–83: 제117·118·119·120·121대사.
+**[29–35、43–46、67–75、79–83]** 강철대륙 공략전 제29화, 제149·167–169·60–62；129–132；64·86·91–93·95–98；139–143대사.
 
 <a name="note-36"></a><a name="note-37"></a><a name="note-38"></a>
 
-**[36–38]** 최종편, 프레나파테스 세계의 회상: 무명사제가 시로코와 접촉하는 장면(사제가 색채와 죽음의 신의 접촉을 언급하는 시점부터):
-
-- 주석 36–38: 제3·4·5대사.
+**[36–38]** PHT 결전 제3화(시로코 회상), 제43–45대사.
 
 <a name="note-39"></a>
 
-**[39]** 메인 스토리 제1부·최종편 제1장 제15화, 제80대사.
+**[39]** 최종편 제1장 제15화, 제80대사.
 
 <a name="note-40"></a>
 
-**[40]** 메인 스토리 제1부·제1편 <대책위원회 편> 제3장 제33화, 제24대사.
+**[40]** 대책위원회 편 제3장 제33화, 제24대사.
 
 <a name="note-41"></a>
 
-**[41]** <에덴조약 편> 제4장 장 제목: 잊혀진 신들을 위한 키리에.
+**[41]** 에덴조약 편 제4장 제목.
 
 <a name="note-42"></a>
 
-**[42]** <에덴조약 편> 제4장 제23화·제24화 소제목: 소녀들을 위한 키리에 1 · 소녀들을 위한 키리에 2.
+**[42]** 에덴조약 편 제4장 제23–24화 제목.
 
 <a name="note-47"></a>
 
-**[47]** 특수작전·데카그라마톤 편 제3장 제23화, 마지막 사제 선언(“열쇠는 사라졌다”부터)의 제3·제5번째 대사. 모든 가능성에서 잊혀진 신들을 추방하고 무명의 신들과 같은 운명을 부여하겠다고 말한다.
+**[47]** 데카그라마톤 편 제3장 제23화, 제132·134대사.
 
 <a name="note-48"></a>
 
-**[48]** 메인 스토리 제1부·최종편 제3장 제6화 ‘우트나피쉬팀의 배 (1)’, 제82·84~85·91대사. 케이는 이 배가 먼 옛날 적들이 만든 대방주용 결전병기라고 설명하며, 이름 없는 신들의 왕녀를 공격할 것이라고 경고한다. 같은 장면의 제83대사에서는 이 병기가 과거에 한 번도 사용되지 않았다고 말한다. 여기서는 고대의 전쟁적 대립을 논하는 근거로 삼으며, 이 배가 실제 전투에 참가한 기록으로 보지 않는다. 케이는 여기서 적을 잊혀진 신들이라고 직접 지목하지 않으며, 진영의 관계는 사제들의 선언과 함께 판단한 것이다.
+**[48]** 최종편 제3장 제6화, 제82·84–85·91대사.
 
 <a name="note-49"></a>
 
-**[49]** Apocryphon of John, Frederik Wisse 영역. Yaldabaoth가 어머니의 빛으로 신을 자칭하고 자신의 근원에 복종하지 않으며, 유일하고 질투하는 신이라고 선언하는 연속된 대목. “But Yaltabaoth had a multitude of faces”부터 “of whom would he be jealous?”까지. [영역](https://www.earlychristianwritings.com/text/apocryphonjohn.html).
+**[49]** [Apocryphon of John](https://www.earlychristianwritings.com/text/apocryphonjohn.html), Wisse 영역, “But Yaltabaoth had a multitude of faces”로 시작하는 대목.
 
 <a name="note-50"></a>
 
-**[50]** 특수작전·데카그라마톤 편 제3장 제23화, 마지막 사제 선언(“열쇠는 사라졌다”부터)의 제10~13번째 대사. “잊혀진 신들의 결과물”이라고 말한 뒤 싯딤의 상자, 샤케드의 막대, 생텀 타워를 차례로 나열한다.
+**[50]** 데카그라마톤 편 제3장 제23화, 제139–142대사.
 
 <a name="note-51"></a>
 
-**[51]** 제1부 프롤로그 제1장 제2화, 린이 선생님에게 싯딤의 상자를 건네는 장면. “네, 이것이 바로 총학생회장이 선생님께 남긴 물건”으로 시작하는 대사.
+**[51]** 제1부 프롤로그 제1장 제2화, 제22대사.
 
 <a name="note-52"></a>
 
-**[52]** 제2부 프롤로그(Vol.0) 제1장 제7화, 선생님이 샤케드의 막대를 묻자 프라나가 “부정. 저 또한 싯딤의 상자에 상주하는 OS”로 시작하여 답하는 전체 대사.
+**[52]** 제2부 프롤로그 제1장 제7화, 제38대사.
 
 <a name="note-53"></a>
 
-**[53]** 제2부 프롤로그(Vol.0) 제1장 제7화, 같은 장면에서 프라나가 생텀 타워의 원격 조작과 총학생회장 이름으로 정의된 식별정보를 설명하는 대사.
+**[53]** 제2부 프롤로그 제1장 제7화, 제43대사.
 
 <a name="note-54"></a><a name="note-55"></a><a name="note-56"></a>
 
-**[54–56]** 특수작전·데카그라마톤 편 제3장 제13화:
-
-- 주석 54–56: 제59·60·61대사.
+**[54–56]** 데카그라마톤 편 제3장 제13화, 제59–61대사.
 
 <a name="note-57"></a>
 
-**[57]** 메인 스토리 제1부·제3편 <에덴조약 편> 제3장 제1화, 제14대사.
+**[57]** 에덴조약 편 제3장 제1화, 제14대사.
 
 <a name="note-58"></a>
 
-**[58]** Tripartite Tractate, Attridge／Mueller 영역 제15절 The Process of Restoration, 제16절 Redemption of the Calling. 인용한 하나 됨에 관한 문장은 NHC I,5 132,20–28이며 제16절에 있다. [영역](https://www.earlychristianwritings.com/text/tripartite.html).
+**[58]** [Tripartite Tractate](https://www.earlychristianwritings.com/text/tripartite.html), Attridge／Mueller 영역, 제15–16절; NHC I,5 132,20–28.
 
 <a name="note-59"></a><a name="note-60"></a><a name="note-61"></a><a name="note-62"></a><a name="note-63"></a>
 
-**[59–63]** 특수작전·데카그라마톤 편 제3장 제20화:
-
-- 주석 59–63: 제92·93·94·95·96대사.
+**[59–63]** 데카그라마톤 편 제3장 제20화, 제92–96대사.
 
 <a name="note-64"></a><a name="note-65"></a><a name="note-66"></a>
 
-**[64–66]** 특수작전·데카그라마톤 편 제3장, 케이와 오르가 대화하는 장면(오르가 "열쇠"를 알아보는 시점부터):
-
-- 주석 64–66: 제17·18·19대사.
+**[64–66]** 강철대륙 공략전 제6화, 제32–34대사.
 
 <a name="note-76"></a><a name="note-77"></a><a name="note-78"></a>
 
-**[76–78]** 메인 스토리 제1부·제3편 <에덴조약 편> 제4장 제25화:
-
-- 주석 76–78: 제74·75·100대사.
+**[76–78]** 에덴조약 편 제4장 제25화, 제74·75·100대사.
 
 <a name="note-84"></a><a name="note-85"></a>
 
-**[84–85]** 메인 스토리 제1부·최종편 제2장 제1화:
-
-- 주석 84–85: 제39·40대사.
+**[84–85]** 최종편 제2장 제1화, 제39–40대사.
 
 <a name="note-86"></a><a name="note-87"></a><a name="note-88"></a><a name="note-89"></a>
 
-**[86–89]** 특수작전·데카그라마톤 편 제3장 제23화:
-
-- 주석 86–89: 제139·140·141·142대사.
+**[86–89]** 데카그라마톤 편 제3장 제23화, 제139–142대사.
 
 </details>

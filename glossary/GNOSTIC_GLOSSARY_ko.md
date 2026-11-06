@@ -100,4 +100,4 @@
 
 **Bible / Old Testament**: Bible은 기독교 경서 전체를 가리키고, Old Testament는 그중 고대 이스라엘 경서 전통을 이은 부분이다. Genesis는 창세와 초기 인류를 말한다; Ecclesiastes는 생명, 노동과 삶의 끝을 논한다; John은 Jesus의 생애와 가르침을 말한다; Hebrews는 Jesus, 신앙과 약속을 논하며, 논문 서두에 인용된 “항존하는 성”은 13:14에서 온다; Revelation은 환상으로 심판, 새 하늘과 새 땅 등의 종말 장면을 그린다.
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: 논문 서두는 세 가지 자료를 더 인용한다. Dao De Jing은 뿌리로 돌아가고 명을 회복하는 것으로 만물의 변화를 논한다; Amitābha Sūtra는 Sukhāvatī를 묘사하고 사람들에게 발원하여 왕생하도록 권한다; Manichaean Hymnscroll은 여기서 사용한 마니교 《하부찬》을 가리키며, 망자를 위해 빛의 본성이 광명 세계로 돌아가기를 기원한다. 그것들은 논문이 논하는 본원, 해탈과 현세 생활의 문제를 설명하는 데 쓰이며, 각 단락의 맥락은 [검증 기록](../09_religious_comparison/opening_context_review_round48.md)에 있다.
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**: 논문 서두는 세 가지 자료를 더 인용한다. Dao De Jing은 뿌리로 돌아가고 명을 회복하는 것으로 만물의 변화를 논한다; Amitābha Sūtra는 Sukhāvatī를 묘사하고 사람들에게 발원하여 왕생하도록 권한다; Manichaean Hymnscroll은 여기서 사용한 마니교 《하부찬》을 가리키며, 망자를 위해 빛의 본성이 광명 세계로 돌아가기를 기원한다. 그것들은 논문이 논하는 본원, 해탈과 현세 생활의 문제를 설명하는 데 쓰이며, 각 단락의 맥락은 [검증 기록](../09_reality_inquiry/religious_comparison/opening_context_review_round48.md)에 있다.

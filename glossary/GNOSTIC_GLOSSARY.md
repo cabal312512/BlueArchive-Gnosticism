@@ -100,4 +100,4 @@
 
 **Bible / Old Testament**：Bible指基督教经书整体，Old Testament是其中承接古代以色列经书传统的部分。Genesis讲创世与早期人类；Ecclesiastes讨论生命、劳作与终结；John讲Jesus的生平与教导；Hebrews讨论Jesus、信仰与应许，论文开头所引“常存的城”来自13:14；Revelation以异象描绘审判、新天新地等终末景象。
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：论文开头另引三类材料。Dao De Jing用归根与复命讨论万物的变化；Amitābha Sūtra描述Sukhāvatī并劝人发愿往生；Manichaean Hymnscroll指这里使用的摩尼教《下部赞》，为亡者祈求明性回到光明世界。它们用于说明论文所讨论的本源、解脱与现世生活问题，各段上下文见[核查记录](../09_religious_comparison/opening_context_review_round48.md)。
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：论文开头另引三类材料。Dao De Jing用归根与复命讨论万物的变化；Amitābha Sūtra描述Sukhāvatī并劝人发愿往生；Manichaean Hymnscroll指这里使用的摩尼教《下部赞》，为亡者祈求明性回到光明世界。它们用于说明论文所讨论的本源、解脱与现世生活问题，各段上下文见[核查记录](../09_reality_inquiry/religious_comparison/opening_context_review_round48.md)。

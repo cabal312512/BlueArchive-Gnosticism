@@ -116,7 +116,7 @@
 | 99 | Hebrews 13:14，Chinese Union Version，上下文13:11–16，另参11:13–16、12:22 |
 | 102 | 鸠摩罗什译佛说阿弥陀经，无众苦与应发愿生彼国两处，分别引用 |
 
-版本、必要上下文与取用理由见[第48轮核查](../09_religious_comparison/opening_context_review_round48.md)。下面第47轮表格保留为历史，不代表当前映射。
+版本、必要上下文与取用理由见[第48轮核查](../09_reality_inquiry/religious_comparison/opening_context_review_round48.md)。下面第47轮表格保留为历史，不代表当前映射。
 
 ## 第47轮历史：开头宗教例子
 
@@ -133,7 +133,7 @@
 | 101 | Dhammacakkappavattana Sutta，SN 56.11，Bhikkhu Bodhi英译，苦谛与道谛段 | B4 |
 | 102 | The Display of the Pure Land of Sukhāvatī，Toh 115，84000 | B3 |
 
-原文、中文解释与上下文见[宗教比较摘录](../09_religious_comparison/evidence_cards.md)，完整网址及版本见[来源登记](../09_religious_comparison/sources.json)。这些是宗教材料，不虚构对应的游戏数据库条目。
+原文、中文解释与上下文见[宗教比较摘录](../09_reality_inquiry/religious_comparison/evidence_cards.md)，完整网址及版本见[来源登记](../09_reality_inquiry/religious_comparison/sources.json)。这些是宗教材料，不虚构对应的游戏数据库条目。
 
 ## 原始技术说明
 

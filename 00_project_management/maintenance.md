@@ -23,7 +23,7 @@
 - glossary/存四语术语说明；rationale/存why_gnosticism及_en／_ja／_ko版，不改名README。
 - 01_sources登记来源、原典目录与[引文技术索引](../01_sources/paper_citation_index.md)；02_corpus存语料、数据库及覆盖说明。
 - 03_tools是现用工具；04_evidence是引文证据；05_hypotheses是专题笔记；06_comparative_analysis是原典与比较资料。
-- 07_writing保留写作定位资料；08_review_queue保留专题核查和历史；09_religious_comparison是辅助宗教比较。
+- 07_writing保留写作定位资料；08_review_queue保留专题核查和历史；[09_reality_inquiry](../09_reality_inquiry/README.md)是作者独立的现实世界研究，原宗教比较资料并入其religious_comparison/。
 - Trash/仅放已停用、可随时删除的东西，不上传。作者原稿、有效证据、原始数据和原典不能当垃圾清理。
 
 ## 语料与引文
@@ -60,7 +60,7 @@ python 03_tools/atlas.py --export scratch/atlas-data.json
 
 ## DeepSeek与发布
 
-GitHub服务操作优先使用已连接的GitHub插件，包括读取远端、创建提交和发布。先发现并检查插件能力；仅在所需能力缺失时使用其他方式。本地Git用于差异检查、版本管理和验证同步状态，不默认走命令行认证或推送。
+GitHub服务操作优先使用已连接的GitHub插件，包括读取远端、创建提交和发布。先发现并检查插件能力；仅在所需能力缺失时使用其他方式。本地Git用于差异检查、版本管理和验证同步状态，不默认走命令行认证或推送。 插件连接不可用时，可按会话授权使用本机既有SSH密钥；第115轮作者明确提示可用SSH，已验证GitHub的443端口可用。私钥不复制、不输出、不上传。
 
 DeepSeek只辅助耗时的内部资料工作，提供资料副本、只读且关闭Shell与write/edit；报告核事实与定位，不为报告润色。主助手自己决定如何改读者文档。独立入口F:/DeepSeekHarness/Invoke-DeepSeek.ps1，项目入口deepseek/Invoke-Review.ps1与Follow-Up.ps1，完整规范见[deepseek/README.md](../deepseek/README.md)。凭据、运行时、输入副本、输出、日志和缓存全部留F盘独立目录，不进Git、不落C盘。
 

@@ -100,4 +100,4 @@
 
 **Bible / Old Testament**：Bibleはキリスト教経典全体を指し、Old Testamentはそのうち古代イスラエルの経典伝統を受け継ぐ部分である。Genesisは創世と初期の人類を語り、Ecclesiastesは生命、労作、終わりを論じ、JohnはJesusの生涯と教えを語り、HebrewsはJesus、信仰、約束を論じ、論文冒頭が引用する「常に存する都」は13:14に由来する。Revelationは幻視によって裁き、新天新地などの終末の光景を描く。
 
-**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：論文の冒頭はさらに三種類の資料を引く。Dao De Jingは「根に帰り命に復る」ことによって万物の変化を論じ、Amitābha SūtraはSukhāvatīを描写し、人に願を発して往生するよう勧める。Manichaean Hymnscrollはここで用いられるマニ教の『下部讃』を指し、亡者のために明性が光明世界へ戻ることを祈る。それらは論文が論じる本源、解脱、現世の生活の問題を説明するために用いられており、各段の文脈は[照合記録](../09_religious_comparison/opening_context_review_round48.md)にある。
+**Dao De Jing / Amitābha Sūtra / Manichaean Hymnscroll**：論文の冒頭はさらに三種類の資料を引く。Dao De Jingは「根に帰り命に復る」ことによって万物の変化を論じ、Amitābha SūtraはSukhāvatīを描写し、人に願を発して往生するよう勧める。Manichaean Hymnscrollはここで用いられるマニ教の『下部讃』を指し、亡者のために明性が光明世界へ戻ることを祈る。それらは論文が論じる本源、解脱、現世の生活の問題を説明するために用いられており、各段の文脈は[照合記録](../09_reality_inquiry/religious_comparison/opening_context_review_round48.md)にある。

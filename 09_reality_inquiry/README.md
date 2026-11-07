@@ -9,6 +9,8 @@
 | [研究约定](research_agreement.md) | 研究范围、分工、记录和判断标准 |
 | [Divine Spark、观察者与现实稳定](topics/observers_and_stability.md) | 作者对观察、稳定、人和Demiurge关系的解释 |
 | [维度、世界与灵体](topics/dimensions.md) | 作者明确的单一尺度、灵性总量、观察效果与物质束缚 |
+| [异常状态与现实领域](topics/anomalous_states.md) | 茶餐厅故事中的异常、不同视角、观察者池与稳定化 |
+| [历史、视角与当下痕迹](topics/history_and_traces.md) | 作者关于过程不必存在、结果或痕迹可以呈现的新主张 |
 | [睡眠与梦境](topics/dreams.md) | 感官联系、梦境生成、留存及高维接触的两条解释 |
 | [文献的损耗](topics/textual_loss.md) | 损耗的来源、对文献使用的影响及作者原话 |
 | [Demiurge与文献](topics/demiurge.md) | 当前工作前提、本体与投影、文献的辅助地位 |

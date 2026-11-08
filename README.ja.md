@@ -26,7 +26,7 @@
 
 <picture>
 <source media="(min-width: 768px)" srcset="assets/readme/reading-desktop.svg">
-<img align="right" src="assets/readme/reading.jpg" width="440" alt="机に向かう二人のキャラクター">
+<img align="right" src="assets/readme/reading.jpg" width="440" alt="会長とリン">
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_ja.md">論文全文</a></strong>：</p>
@@ -97,4 +97,4 @@ python 03_tools/search.py --test
 
 ## ライセンス
 
-本プロジェクトのオリジナルの文章、考察・整理した内容、およびコードは、[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE)で公開しています。転載・改変の際は、作者 cabal312512 と[本プロジェクト](https://github.com/cabal312512/BlueArchive-Gnosticism)を出典として明記し、[ライセンスへのリンク](https://creativecommons.org/licenses/by/4.0/)を添え、変更の有無を示してください。ゲーム内テキスト、第三者の文献、外部データはそれぞれの権利と出典を維持し、本プロジェクトのライセンスによって再許諾されるものではありません。以前CC0で公開したバージョンは、この変更の影響を受けません。
+本プロジェクトのオリジナルの文章、考察・整理した内容、およびコードは、[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE)で公開しています。ゲーム内テキスト、第三者の文献、外部データの権利と出典は、それぞれ維持されます。

@@ -26,7 +26,7 @@ This is a personal study of the connections between the story of *Blue Archive* 
 
 <picture>
 <source media="(min-width: 768px)" srcset="assets/readme/reading-desktop.svg">
-<img align="right" src="assets/readme/reading.jpg" width="440" alt="Two characters working at a desk">
+<img align="right" src="assets/readme/reading.jpg" width="440" alt="The President and Rin">
 </picture>
 
 <p><sub>01</sub>&nbsp;&nbsp;<strong><a href="gnostic_correspondence_en.md">Full paper</a></strong>:</p>
@@ -97,4 +97,4 @@ The local commits and tags from before the upload are preserved in full in the [
 
 ## License
 
-The project's original writing, research notes, and code are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). When sharing or adapting this material, credit cabal312512 and [this project](https://github.com/cabal312512/BlueArchive-Gnosticism), provide a [license link](https://creativecommons.org/licenses/by/4.0/), and indicate whether changes were made. Game text, third-party literature, and external data retain their respective rights and sources and are not relicensed by this project. Versions previously released under CC0 are unaffected by this change.
+The project's original writing, research notes, and code are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Game text, third-party literature, and external data retain their respective rights and sources.

@@ -6,6 +6,8 @@
 
 | 文件 | 用途 |
 | --- | --- |
+| [作者论文当前稿](paper.md) | 作者正在整理的独立论文，保留当前未完成内容 |
+| [案例候选与问题](case_candidates.md) | 六类可追溯材料、理论用途与筛选建议，待作者取舍 |
 | [研究约定](research_agreement.md) | 研究范围、分工、记录和判断标准 |
 | [Divine Spark、观察者与现实稳定](topics/observers_and_stability.md) | 作者对观察、稳定、人和Demiurge关系的解释 |
 | [维度、世界与灵体](topics/dimensions.md) | 作者明确的单一尺度、灵性总量、观察效果与物质束缚 |

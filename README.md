@@ -51,7 +51,6 @@
 </tr>
 </table>
 
-> 如果对我的想法感兴趣且下载了仓库，可以让AI看看[交接文档](AGENTS.md)、[项目状态](PROJECT_STATUS.md)与[讨论裁决](08_review_queue/decision_log.md)再继续，这个项目可以直接交给Agent。
 
 ---
 

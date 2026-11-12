@@ -735,6 +735,8 @@ Anyway, Yaldabaoth innately inherits the genuine divine power bestowed by his mo
 
 This clearly makes for a poor correspondence, even if it uses divine self-proclamations similar to those in the Old Testament.
 
+> This paper will continue to be updated. Using this theory, I can also just about explain why students' halos disappear when they sleep. I am currently researching this.
+
 <details>
 <summary><strong>Primary Sources, Editions, and References</strong></summary>
 

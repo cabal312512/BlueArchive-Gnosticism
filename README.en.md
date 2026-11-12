@@ -47,7 +47,6 @@ This is a personal study of the connections between the story of *Blue Archive* 
 </tr>
 </table>
 
-> If you're interested in my ideas and have downloaded the repository, you can have an AI read the [handover guide](AGENTS.md), [project status](PROJECT_STATUS.md), and [decision log](08_review_queue/decision_log.md), then continue from there. This project can be handed directly to an agent. These supporting documents are in Chinese.
 
 ---
 
